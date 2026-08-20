@@ -1,0 +1,4 @@
+﻿Id,LowItemId,MiddleItemId,HighItemId
+id,Low-level material ID,Mid-level material ID,High-level material ID
+index,int,int,int
+1,1123901,1123902,1123903

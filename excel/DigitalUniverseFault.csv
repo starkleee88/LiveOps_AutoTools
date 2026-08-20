@@ -1,0 +1,52 @@
+﻿ID,FaultID,FaultName,FaultDesc,FaultQuality,Skill,O,SkillTarget,SkillIcon
+ID,Debuff ID,Debuff Name,Debuff Description,"Debuff Quality - 
+1: White
+2: Green
+3: Blue
+4: Purple
+5: Orange",Skill ID,Note,"Skill Target - 
+1: Affects Player Team
+2: Affects Enemy Team",Skill Icon
+index,int,string,string,int,int,,int,string
+1,901,DigitalUniverseFaultName1,DigitalUniverseFaultDesc1,2,140030202,"Friendly <color=#d24739>Front row allies</color>, reduce attack by 20%.",1,
+2,902,DigitalUniverseFaultName1,DigitalUniverseFaultDesc2,2,140030203,"Friendly <color=#d24739>back row allies</color>, reduce attack by 20%.",1,
+3,903,DigitalUniverseFaultName1,DigitalUniverseFaultDesc3,2,140030204,Friendly <color=#d24739>Front row allies</color> will reduce the maximum health limit by 20%.,1,
+4,904,DigitalUniverseFaultName1,DigitalUniverseFaultDesc4,2,140030205,Friendly <color=#d24739>back row allies</color> will reduce the maximum health limit by 20%.,1,
+5,905,DigitalUniverseFaultName1,DigitalUniverseFaultDesc5,2,140030206,"Friendly <color=#d24739>Front row allies</color>, reduce defense by 20%.",1,
+6,906,DigitalUniverseFaultName1,DigitalUniverseFaultDesc6,2,140030207,"Friendly <color=#d24739>back row allies</color>, reduce defense by 20%.",1,
+7,907,DigitalUniverseFaultName1,DigitalUniverseFaultDesc7,2,140030208,"Friendly <color=#d24739>Front row allies</color>, reduce attack by 30%.",1,
+8,908,DigitalUniverseFaultName1,DigitalUniverseFaultDesc8,2,140030209,"Friendly <color=#d24739>back row allies</color>, reduce attack by 30%.",1,
+9,909,DigitalUniverseFaultName1,DigitalUniverseFaultDesc9,2,140030210,"Friendly <color=#d24739>Front row allies</color>, reduce the maximum health limit by 30%.",1,
+10,910,DigitalUniverseFaultName1,DigitalUniverseFaultDesc10,2,140030211,Friendly <color=#d24739>back row allies</color> will reduce the maximum health limit by 30%.,1,
+11,911,DigitalUniverseFaultName1,DigitalUniverseFaultDesc11,2,140030212,"Friendly <color=#d24739>Front row allies</color>, reduce defense by 30%.",1,
+12,912,DigitalUniverseFaultName1,DigitalUniverseFaultDesc12,2,140030213,"Friendly <color=#d24739>back row allies</color>, reduce defense by 30%.",1,
+13,913,DigitalUniverseFaultName1,DigitalUniverseFaultDesc13,2,140030214,"Friendly <color=#d24739>Front row allies</color>, reduce attack by 40%.",1,
+14,914,DigitalUniverseFaultName1,DigitalUniverseFaultDesc14,2,140030215,"Friendly <color=#d24739>back row allies</color>, reduce attack by 40%.",1,
+15,915,DigitalUniverseFaultName1,DigitalUniverseFaultDesc15,2,140030216,"Friendly <color=#d24739>Front row allies</color>, reduce the maximum health limit by 40%.",1,
+16,916,DigitalUniverseFaultName1,DigitalUniverseFaultDesc16,2,140030217,Friendly <color=#d24739>back row allies</color> will reduce the maximum health limit by 40%.,1,
+17,1001,DigitalUniverseFaultName1,DigitalUniverseFaultDesc17,2,141013001,"After the battle is won, a random ally of ours dies.",1,
+18,2501,DigitalUniverseFaultName1,DigitalUniverseFaultDesc1,2,140030202,"Friendly <color=#d24739>Front row allies</color>, reduce attack by 20%.",1,
+19,2502,DigitalUniverseFaultName1,DigitalUniverseFaultDesc2,2,140030203,"Friendly <color=#d24739>back row allies</color>, reduce attack by 20%.",1,
+20,2503,DigitalUniverseFaultName1,DigitalUniverseFaultDesc3,2,140030204,Friendly <color=#d24739>Front row allies</color> will reduce the maximum health limit by 20%.,1,
+21,2504,DigitalUniverseFaultName1,DigitalUniverseFaultDesc4,2,140030205,Friendly <color=#d24739>back row allies</color> will reduce the maximum health limit by 20%.,1,
+22,2505,DigitalUniverseFaultName1,DigitalUniverseFaultDesc5,2,140030206,"Friendly <color=#d24739>Front row allies</color>, reduce defense by 20%.",1,
+23,2506,DigitalUniverseFaultName1,DigitalUniverseFaultDesc6,2,140030207,"Friendly <color=#d24739>back row allies</color>, reduce defense by 20%.",1,
+24,2507,DigitalUniverseFaultName1,DigitalUniverseFaultDesc1,2,140030202,"Friendly <color=#d24739>Front row allies</color>, reduce attack by 20%.",1,
+25,2508,DigitalUniverseFaultName1,DigitalUniverseFaultDesc2,2,140030203,"Friendly <color=#d24739>back row allies</color>, reduce attack by 20%.",1,
+26,2509,DigitalUniverseFaultName1,DigitalUniverseFaultDesc3,2,140030204,Friendly <color=#d24739>Front row allies</color> will reduce the maximum health limit by 20%.,1,
+27,2510,DigitalUniverseFaultName1,DigitalUniverseFaultDesc4,2,140030205,Friendly <color=#d24739>back row allies</color> will reduce the maximum health limit by 20%.,1,
+28,2511,DigitalUniverseFaultName1,DigitalUniverseFaultDesc5,2,140030206,"Friendly <color=#d24739>Front row allies</color>, reduce defense by 20%.",1,
+29,2512,DigitalUniverseFaultName1,DigitalUniverseFaultDesc6,2,140030207,"Friendly <color=#d24739>back row allies</color>, reduce defense by 20%.",1,
+30,2513,DigitalUniverseFaultName1,DigitalUniverseFaultDesc1,2,140030202,"Friendly <color=#d24739>Front row allies</color>, reduce attack by 20%.",1,
+31,2514,DigitalUniverseFaultName1,DigitalUniverseFaultDesc2,2,140030203,"Friendly <color=#d24739>back row allies</color>, reduce attack by 20%.",1,
+32,2515,DigitalUniverseFaultName1,DigitalUniverseFaultDesc3,2,140030204,Friendly <color=#d24739>Front row allies</color> will reduce the maximum health limit by 20%.,1,
+33,2516,DigitalUniverseFaultName1,DigitalUniverseFaultDesc4,2,140030205,Friendly <color=#d24739>back row allies</color> will reduce the maximum health limit by 20%.,1,
+34,2517,DigitalUniverseFaultName1,DigitalUniverseFaultDesc5,2,140030206,"Friendly <color=#d24739>Front row allies</color>, reduce defense by 20%.",1,
+35,2518,DigitalUniverseFaultName1,DigitalUniverseFaultDesc6,2,140030207,"Friendly <color=#d24739>back row allies</color>, reduce defense by 20%.",1,
+36,2519,DigitalUniverseFaultName1,DigitalUniverseFaultDesc1,2,140030202,"Friendly <color=#d24739>Front row allies</color>, reduce attack by 20%.",1,
+37,2520,DigitalUniverseFaultName1,DigitalUniverseFaultDesc2,2,140030203,"Friendly <color=#d24739>back row allies</color>, reduce attack by 20%.",1,
+38,2521,DigitalUniverseFaultName1,DigitalUniverseFaultDesc3,2,140030204,Friendly <color=#d24739>Front row allies</color> will reduce the maximum health limit by 20%.,1,
+39,2522,DigitalUniverseFaultName1,DigitalUniverseFaultDesc4,2,140030205,Friendly <color=#d24739>back row allies</color> will reduce the maximum health limit by 20%.,1,
+40,2523,DigitalUniverseFaultName1,DigitalUniverseFaultDesc5,2,140030206,"Friendly <color=#d24739>Front row allies</color>, reduce defense by 20%.",1,
+41,2524,DigitalUniverseFaultName1,DigitalUniverseFaultDesc6,2,140030207,"Friendly <color=#d24739>back row allies</color>, reduce defense by 20%.",1,
+42,10030,DigitalUniverseFaultName1,DigitalUniverseFaultDesc42,5,,"This is an EMPTY Fault used to give additional feedback to players about the ""pick one to save/lose""",1,

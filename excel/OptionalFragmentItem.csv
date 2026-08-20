@@ -1,0 +1,47 @@
+﻿OptionalID,O,ShowIcon,ShowQuality,GetQuality,BuyNum,OptionalTitle,OptionalDesc
+Product ID,Notes,Display Icon,Display Quality Background,Obtain Ally Quality,Purchase Quantity,Product Title,Product Description
+index,O,string,int,int,int,string,string
+30030401,[Sinestro Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30040201,[Sinestro Store] S Selection,ui_item_optional_s,6,5,10,OptionalTitle_S,OptionalDesc_01
+30040301,[Sinestro Store] S Selection,ui_item_optional_s,6,5,20,OptionalTitle_S,OptionalDesc_01
+30040401,[Sinestro Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30040501,[Sinestro Store] A Selection,ui_item_optional_a,5,4,20,OptionalTitle_A,OptionalDesc_01
+40010701,[Advanced PvP Store] S Fragment Selection,ui_item_optional_s,6,5,10,OptionalTitle_S,OptionalDesc_01
+40010801,[Advanced PvP Store] A Fragment Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30050401,[Martian Manhunter Store] Free A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30060201,[Martian Manhunter Store] Paid S Selection,ui_item_optional_s,6,5,10,OptionalTitle_S,OptionalDesc_01
+30060301,[Martian Manhunter Store] Paid S Selection,ui_item_optional_s,6,5,20,OptionalTitle_S,OptionalDesc_01
+30060401,[Martian Manhunter Store] Paid A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30060501,[Martian Manhunter Store] Paid A Selection,ui_item_optional_a,5,4,20,OptionalTitle_A,OptionalDesc_01
+50010101,[GVE Store] A Fragment Selection,ui_item_optional_a,5,4,5,OptionalTitle_A,OptionalDesc_01
+50010201,[GVE Store] A Fragment Selection,ui_item_optional_a,5,4,5,OptionalTitle_A,OptionalDesc_01
+30070401,[Sinestro Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30080201,[Sinestro Store] S Selection,ui_item_optional_s,6,5,10,OptionalTitle_S,OptionalDesc_01
+30080301,[Sinestro Store] S Selection,ui_item_optional_s,6,5,20,OptionalTitle_S,OptionalDesc_01
+30080401,[Sinestro Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30080501,[Sinestro Store] A Selection,ui_item_optional_a,5,4,20,OptionalTitle_A,OptionalDesc_01
+30090401,[Hal Jordan Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30100201,[Hal Jordan Store] S Selection,ui_item_optional_s,6,5,10,OptionalTitle_S,OptionalDesc_01
+30100301,[Hal Jordan Store] S Selection,ui_item_optional_s,6,5,20,OptionalTitle_S,OptionalDesc_01
+30100401,[Hal Jordan Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30100501,[Hal Jordan Store] A Selection,ui_item_optional_a,5,4,20,OptionalTitle_A,OptionalDesc_01
+30110401,[Kyle Rayner Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30120201,[Kyle Rayner Store] S Selection,ui_item_optional_s,6,5,10,OptionalTitle_S,OptionalDesc_01
+30120301,[Kyle Rayner Store] S Selection,ui_item_optional_s,6,5,20,OptionalTitle_S,OptionalDesc_01
+30120401,[Kyle Rayner Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30120501,[Kyle Rayner Store] A Selection,ui_item_optional_a,5,4,20,OptionalTitle_A,OptionalDesc_01
+30130401,[Sinestro Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30140201,[Sinestro Store] S Selection,ui_item_optional_s,6,5,10,OptionalTitle_S,OptionalDesc_01
+30140301,[Sinestro Store] S Selection,ui_item_optional_s,6,5,20,OptionalTitle_S,OptionalDesc_01
+30140401,[Sinestro Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30140501,[Sinestro Store] A Selection,ui_item_optional_a,5,4,20,OptionalTitle_A,OptionalDesc_01
+30150401,[Sinestro Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30160201,[Sinestro Store] S Selection,ui_item_optional_s,6,5,10,OptionalTitle_S,OptionalDesc_01
+30160301,[Sinestro Store] S Selection,ui_item_optional_s,6,5,20,OptionalTitle_S,OptionalDesc_01
+30160401,[Sinestro Store] A Selection,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30160501,[Sinestro Store] A Selection,ui_item_optional_a,5,4,20,OptionalTitle_A,OptionalDesc_01
+30170401,【Dr Fate Store 1】A optional,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30180201,【Dr Fate Store 2】S optional,ui_item_optional_s,6,5,10,OptionalTitle_S,OptionalDesc_01
+30180301,【Dr Fate Store 2】S optional,ui_item_optional_s,6,5,20,OptionalTitle_S,OptionalDesc_01
+30180401,【Dr Fate Store 2】A optional,ui_item_optional_a,5,4,10,OptionalTitle_A,OptionalDesc_01
+30180501,【Dr Fate Store 2】A optional,ui_item_optional_a,5,4,20,OptionalTitle_A,OptionalDesc_01

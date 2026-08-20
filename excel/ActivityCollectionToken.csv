@@ -1,0 +1,4 @@
+﻿TokenID,,BuyItemId,BuyItemNum,CostItemId,CostItemNum,MaxNum
+Activity ID,Note,Redeem Lottery Token ID,Redeem the # of Lottery Tokens,Item ID,Single Price,Maximum Quantity
+index,,int,int,int,int,int
+8021,Diamond Purchase,1111001,1,111202,20,9999

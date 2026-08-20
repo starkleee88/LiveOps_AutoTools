@@ -1,0 +1,58 @@
+﻿StickerID,StickerTab,StickerName,StickerAnim,StickerIcon,O,StickerUnlockCondition,O,StickerRelatedContent,StickerShowLock,StickerDesc,StickerSort,StickerFrame
+Sticker ID,"Number of tabs where the emoji page is located
+1 small emoji
+2 large emoji",Sticker package name,Texture dynamic resources,Static display resources,Emoticon Notes,"Enablement conditions
+1 Default
+0: Need to be unlocked",Opening condition notes,"Enable related content
+0 Enable by default
+Other content specific configuration","Whether to display in the list
+1: Display
+0: Do not display",Description of Stickers,Sorting in a list,Expression frames
+index,int,string,string,string,O,int,O,string,int,string,int,int
+101,1,sticker101,sticker_ww_despise,ww_icon_despise,despise,1,Default,0,1,,1,25
+102,1,sticker102,sticker_ww_cry,ww_icon_cry,cry,1,Default,0,1,,2,25
+103,1,sticker103,sticker_ww_like,ww_icon_like,like,1,Default,0,1,,3,25
+104,1,sticker104,sticker_ww_laugh,ww_icon_laugh,laugh,1,Default,0,1,,4,25
+105,1,sticker105,sticker_ww_speechless,ww_icon_speechless,Speechless,1,Default,0,1,,5,25
+106,1,sticker106,sticker_ww_ok,ww_icon_ok,OK,1,Default,0,1,,6,25
+201,2,sticker201,sticker_batman_angry,batman_icon_angry,angry,0,Reward delivery,1,1,,1,25
+202,2,sticker202,sticker_batman_embrass,batman_icon_embrass,Awkward,0,Reward delivery,1,1,,2,25
+203,2,sticker203,sticker_batman_like,batman_icon_like,Like,0,Reward delivery,1,1,,3,25
+204,2,sticker204,sticker_batman_proud,batman_icon_proud,good at,0,Reward delivery,1,1,,4,25
+205,2,sticker205,sticker_batman_question,batman_icon_question,hello,0,Reward delivery,1,1,,5,25
+206,2,sticker206,sticker_batman_shocking,batman_icon_shocking,shock,0,Reward delivery,1,1,,6,25
+301,3,sticker301,sticker_deathstroke_like,deathstroke_icon_like,Like,0,Reward delivery,1,1,,1,25
+302,3,sticker302,sticker_deathstroke_happy,deathstroke_icon_happy,happy,0,Reward delivery,1,1,,2,25
+303,3,sticker303,sticker_deathstroke_point,deathstroke_icon_point,refer to,0,Reward delivery,1,1,,3,20
+304,3,sticker304,sticker_deathstroke_crazy,deathstroke_icon_crazy,Crazy,0,Reward delivery,1,1,,4,25
+305,3,sticker305,sticker_deathstroke_shake,deathstroke_icon_shake,Wave,0,Reward delivery,1,1,,5,25
+306,3,sticker306,sticker_deathstroke_serious,deathstroke_icon_serious,serious,0,Reward delivery,1,1,,6,25
+401,4,sticker401,sticker_sinestro_rings,sinestro_icon_rings,Scattering Rings,0,Reward delivery,1,1,,1,25
+402,4,sticker402,sticker_sinestro_angry,sinestro_icon_angry,angry,0,Reward delivery,1,1,,2,25
+403,4,sticker404,sticker_sinestro_smile,sinestro_icon_smile,Smile,0,Reward delivery,1,1,,3,25
+404,4,sticker404,sticker_sinestro_arrogant,sinestro_icon_arrogant,sigh,0,Reward delivery,1,1,,4,25
+405,4,sticker405,sticker_sinestro_thinking,sinestro_icon_thinking,think,0,Reward delivery,1,1,,5,25
+406,4,sticker406,sticker_sinestro_blackline,sinestro_icon_blackline,Black Line,0,Reward delivery,1,1,,6,25
+501,5,sticker501,sticker_manhunter_cookie,manhunter_icon_cookie,Eat cookies,0,Reward delivery,1,1,,1,25
+502,5,sticker502,sticker_manhunter_strong,manhunter_icon_strong,strong,0,Reward delivery,1,1,,2,25
+503,5,sticker503,sticker_manhunter_fear,manhunter_icon_fear,Fear,0,Reward delivery,1,1,,3,25
+504,5,sticker504,sticker_manhunter_aggrieved,manhunter_icon_aggrieved,Wronged,0,Reward delivery,1,1,,4,25
+505,5,sticker505,sticker_manhunter_cheers,manhunter_icon_cheers,cheers,0,Reward delivery,1,1,,5,25
+506,5,sticker506,sticker_manhunter_hug,manhunter_icon_hug,Embrace,0,Reward delivery,1,1,,6,25
+601,6,sticker601,sticker_guild_red,guild_icon_red,Guild Support Red,0,Reward delivery,1,1,,1,25
+602,6,sticker602,sticker_guild_orange,guild_icon_orange,Guild Support Orange,0,Reward delivery,1,1,,2,25
+603,6,sticker603,sticker_guild_purple,guild_icon_purple,Guild Support Purple,0,Reward delivery,1,1,,3,25
+604,6,sticker604,sticker_guild_blue,guild_icon_blue,Guild Support Blue,0,Reward delivery,1,1,,4,25
+605,6,sticker605,sticker_guild_green,guild_icon_green,Guild Support Green,0,Reward delivery,1,1,,5,25
+701,7,sticker701,sticker_hal_nomatter,hal_icon_nomatter,No matter,0,Reward delivery,1,1,,1,25
+702,7,sticker702,sticker_hal_follow,hal_icon_follow,Follow Me,0,Reward delivery,1,1,,2,25
+703,7,sticker703,sticker_hal_power,hal_icon_power,Power,0,Reward delivery,1,1,,3,25
+704,7,sticker704,sticker_hal_givetome,hal_icon_givetome,Leave it to me,0,Reward delivery,1,1,,4,25
+705,7,sticker705,sticker_hal_want,hal_icon_want,I want you,0,Reward delivery,1,1,,5,25
+706,7,sticker706,sticker_hal_ridicule,hal_icon_ridicule,ridicule,0,Reward delivery,1,1,,6,25
+801,8,sticker801,sticker_kyle_forkhand,kyle_icon_forkhand,Cross Hand,0,Reward delivery,1,1,,1,25
+802,8,sticker802,sticker_kyle_sigh,kyle_icon_sigh,sigh,0,Reward delivery,1,1,,2,25
+803,8,sticker803,sticker_kyle_trumpet,kyle_icon_trumpet,trumpet,0,Reward delivery,1,1,,3,25
+804,8,sticker804,sticker_kyle_paint,kyle_icon_paint,draw,0,Reward delivery,1,1,,4,25
+805,8,sticker805,sticker_kyle_doubt,kyle_icon_doubt,doubt,0,Reward delivery,1,1,,5,25
+806,8,sticker806,sticker_kyle_confidence,kyle_icon_confidence,confidence,0,Reward delivery,1,1,,6,25

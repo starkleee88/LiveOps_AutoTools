@@ -1,0 +1,7 @@
+﻿Quality,Class,CostItem,CostNum
+Quality,Rank,Binding Material,Material Quantity
+index,index,int,int
+5,0,1114006,10
+5,1,1114006,20
+5,2,1114006,30
+5,3,1114006,40

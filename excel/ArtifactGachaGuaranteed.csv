@@ -1,0 +1,4 @@
+﻿ID,RoundMin,RoundMax,Reward,RewardNum,Reward,RewardNum,Reward,RewardNum
+Serial number - for identification,Minimum round limit,Round cap,"Reward 1 - specific items, use item",Reward 1 quantity,"Reward 2 - specific items, use item",Reward 2 quantity,"Reward 3 - specific items, use item",Reward 3 quantity
+int,int,int,int,int,int,int,int,int
+1,1,9999999,1123101,1,1123102,1,1123101,1

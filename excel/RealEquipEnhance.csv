@@ -1,0 +1,13 @@
+﻿Quality,Class,KeyLevel,KeyLevel,KeyLevel,CostItem,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality,CostQuality
+Quality,Rank,Major Node 1 Level,Major Node 2 Level,Major Node 3 Level,Enhancement Material,Level 1 Enhancement Cost,Level 2 Enhancement Cost,Level 3 Enhancement Cost,Level 4 Enhancement Cost,Level 5 Enhancement Cost,Level 6 Enhancement Cost,Level 7 Enhancement Cost,Level 8 Enhancement Cost,Level 9 Enhancement Cost,Level 10 Enhancement Cost,Level 11 Enhancement Cost,Level 12 Enhancement Cost,Level 13 Enhancement Cost,Level 14 Enhancement Cost,Level 15 Enhancement Cost,Level 16 Enhancement Cost,Level 17 Enhancement Cost,Level 18 Enhancement Cost,Level 19 Enhancement Cost,Level 20 Enhancement Cost,Level 21 Enhancement Cost,Level 22 Enhancement Cost,Level 23 Enhancement Cost,Level 24 Enhancement Cost,Level 25 Enhancement Cost,Level 26 Enhancement Cost,Level 27 Enhancement Cost,Level 28 Enhancement Cost,Level 29 Enhancement Cost,Level 30 Enhancement Cost,Level 31 Enhancement Cost
+index,index,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int
+1,0,0,0,0,111207,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,0,0,0,0,111207,0,10,20,30,40,50,60,,,,,,,,,,,,,,,,,,,,,,,,
+3,0,9,0,0,111207,0,20,40,60,80,100,120,140,160,180,,,,,,,,,,,,,,,,,,,,,
+4,0,6,12,0,111207,0,50,100,150,200,250,300,350,400,450,500,550,600,,,,,,,,,,,,,,,,,,
+4,1,6,12,0,111207,0,50,100,150,250,350,450,600,750,900,1100,1300,1500,,,,,,,,,,,,,,,,,,
+5,0,5,10,15,111207,0,150,300,450,600,750,1050,1350,1650,1950,2250,2850,3450,4050,4650,5250,,,,,,,,,,,,,,,
+5,1,6,13,20,111207,0,150,300,450,600,750,1050,1350,1650,1950,2250,2850,3450,4050,4650,5250,6150,7050,7950,8850,9750,,,,,,,,,,
+5,2,8,16,25,111207,0,150,300,450,600,750,1050,1350,1650,1950,2250,2850,3450,4050,4650,5250,6150,7050,7950,8850,9750,10950,12150,13350,14550,15750,,,,,
+5,3,10,20,30,111207,0,150,300,450,600,750,1050,1350,1650,1950,2250,2850,3450,4050,4650,5250,6150,7050,7950,8850,9750,10950,12150,13350,14550,15750,17250,18750,20250,21750,23250
+6,0,10,20,30,111207,0,150,300,450,600,750,1050,1350,1650,1950,2250,2850,3450,4050,4650,5250,6150,7050,7950,8850,9750,10950,12150,13350,14550,15750,17250,18750,20250,21750,23250

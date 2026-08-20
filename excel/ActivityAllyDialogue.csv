@@ -1,0 +1,163 @@
+﻿Key,Dialog,O
+Function,Dialog ID,Notes
+index,int,O
+100,40101,Cyborg - Main
+10004,40102,Cyborg - Plot Book
+10005,40103,Cyborg - Boss
+10002,40104,Cyborg - Shop
+101,41101,Deathstroke - Main
+10102,41102,Deathstroke - Shop
+10103,41103,Deathstroke - Mission
+10105,41104,Deathstroke - Boss
+102,42101,Sinestro Event - Main Screen
+10202,42102,Sinestro Event - Shop
+10205,42103,Sinestro Event - Boss
+10206,42104,Sinestro Event - Tower
+103,42105,Martain Manhunter - Main
+10302,42107,Martain Manhunter - Shop
+10303,42106,Martain Manhunter - Boss
+10305,42108,Martain Manhunter - Tower
+104,42101,Sinestro Event - Main Screen
+10402,42102,Sinestro Event - Shop
+10405,42103,Sinestro Event - Boss
+10406,42104,Sinestro Event - Tower
+105,42109,Hal Jordan - Main
+10502,42110,Hal Jordan - Shop
+10505,42111,Hal Hordan - Boss
+10506,42112,Hal Jordan - Tower
+106,42113,Kyle Rayner - Main
+10602,42114,Kyle Rayner - Shop
+10605,42115,Kyle Rayner - Boss
+10606,42116,Kyle Rayner - Tower
+107,42101,Sinestro Event - Main Screen
+10702,42102,Sinestro Event - Shop
+10705,42103,Sinestro Event - Boss
+10706,42104,Sinestro Event - Tower
+108,42101,Sinestro Event - Main Screen
+10802,42102,Sinestro Event - Shop
+10805,42103,Sinestro Event - Boss
+10806,42104,Sinestro Event - Tower
+109,42117,Doctor Fate - Main Srcreen
+10902,42118,Doctor Fate - Shop
+10905,42119,Doctor Fate - Boss
+10906,42120,Doctor Fate - Tower
+110,42121,The Bride - Main Screen
+11002,42122,The Bride - Shop
+11005,42123,The Bride - Boss
+11006,42124,The Bride - Tower
+111,42221,Superman DCU - Main Screen
+11102,42222,Superman DCU - Shop
+11105,42223,Superman DCU - Boss
+11106,42224,Superman DCU - Tower
+112,42321,Peacemaker - Main Screen
+11202,42322,Peacemaker - Shop
+11205,42323,Peacemaker - Boss
+11206,42324,Peacemaker - Tower
+113,42421,Swamp Thing - Main Screen
+11302,42422,Swamp Thing - Shop
+11305,42423,Swamp Thing - Boss
+11306,42424,Swamp Thing - Tower
+114,42521,Aquaman - Main Screen
+11402,42522,Aquaman - Shop
+11405,42523,Aquaman - Boss
+11406,42524,Aquaman - Tower
+115,42101,Sinestro Re-Run - Main Screen
+11502,42102,Sinestro Re-Run - Shop
+11505,42103,Sinestro Re-Run - Boss
+11506,42104,Sinestro Re-Run - Tower
+117,42221,Superman DCU - Main Screen
+11702,42222,Superman DCU - Shop
+11705,42223,Superman DCU - Boss
+11706,42224,Superman DCU - Tower
+116,42621,General Zod - Main Screen
+11602,42622,General Zod - Shop
+11605,42623,General Zod - Boss
+11606,42624,General Zod - Tower
+118,42625,The Joker - Main Screen
+11802,42626,The Joker - Shop
+11805,42627,The Joker - Boss
+11806,42628,The Joker - Tower
+119,42101,Sinestro Event - Main Screen
+11902,42102,Sinestro Event - Shop
+11905,42103,Sinestro Event - Boss
+11906,42104,Sinestro Event - Tower
+122,42521,Aquaman - Main Screen
+12202,42522,Aquaman - Shop
+12205,42523,Aquaman - Boss
+12206,42524,Aquaman - Tower
+120,42631,Nubia - Main Screen
+12002,42632,Nubia - Shop
+12005,42633,Nubia - Boss
+12006,42634,Nubia - Tower
+121,42641,Black Adam - Main Screen
+12102,42642,Black Adam - Shop
+12105,42643,Black Adam - Boss
+12106,42644,Black Adam - Tower
+123,42631,Nubia - Main Screen
+12302,42632,Nubia - Shop
+12305,42633,Nubia - Boss
+12306,42634,Nubia - Tower
+124,42731,Artemis - Main Screen
+12402,42732,Artemis - Shop
+12405,42733,Artemis - Boss
+12406,42734,Artemis - Tower
+125,42641,Black Adam - Main Screen
+12502,42642,Black Adam - Shop
+12505,42643,Black Adam - Boss
+12506,42644,Black Adam - Tower
+126,42731,Artemis - Main Screen
+12602,42732,Artemis - Shop
+12605,42733,Artemis - Boss
+12606,42734,Artemis - Tower
+127,42651,Lobo - Main Screen
+12702,42652,Lobo - Shop
+12705,42653,Lobo - Boss
+12706,42654,Lobo - Tower
+128,42655,Black Lightning - Main Screen
+12802,42656,Black Lightning - Shop
+12805,42657,Black Lightning - Boss
+12806,42658,Black Lightning - Tower
+129,42931,Supergirl DCU - Main Screen
+12902,42932,Supergirl DCU - Shop
+12905,42933,Supergirl DCU - Boss
+12906,42934,Supergirl DCU - Tower
+130,42113,Kyle Rayner - Main
+13007,42114,Kyle Rayner - Shop
+13005,42115,Kyle Rayner - Boss
+13006,42116,Kyle Rayner - Tower
+131,42655,Black Lightning Rerun - Main Screen
+13102,42656,Black Lightning Rerun - Shop
+13105,42657,Black Lightning Rerun - Boss
+13106,42658,Black Lightning Rerun - Tower
+132,42931,Supergirl DCU - Main Screen
+13202,42932,Supergirl DCU - Shop
+13205,42933,Supergirl DCU - Boss
+13206,42934,Supergirl DCU - Tower
+133,42651,Lobo Rerun - Main Screen
+13302,42652,Lobo Rerun - Shop
+13305,42653,Lobo Rerun - Boss
+13306,42654,Lobo Rerun - Tower
+135,43031,Absolute Superman - Main Screen
+13502,43032,Absolute Superman - Shop
+13505,43033,Absolute Superman - Boss
+13506,43034,Absolute Superman - Tower
+138,43131,Booster Gold - Main Screen
+13802,43132,Booster Gold - Shop
+13805,43133,Booster Gold - Boss
+13806,43134,Booster Gold - Tower
+139,42655,Black Lightning Rerun - Main Screen
+13902,42656,Black Lightning Rerun - Shop
+13905,42657,Black Lightning Rerun - Boss
+13906,42658,Black Lightning Rerun - Tower
+134,43231,Absolute Wonder Woman - Main Screen
+13402,43232,Absolute Wonder Woman - Shop
+13405,43233,Absolute Wonder Woman - Boss
+13406,43234,Absolute Wonder Woman - Tower
+137,43331,Absolute Batman - Main Screen
+13702,43332,Absolute Batman - Shop
+13705,43333,Absolute Batman - Boss
+13706,43334,Absolute Batman - Tower
+140,42641,Black Adam - Main Screen
+14002,42642,Black Adam - Shop
+14005,42643,Black Adam - Boss
+14006,42644,Black Adam - Tower

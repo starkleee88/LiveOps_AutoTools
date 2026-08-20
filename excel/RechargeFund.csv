@@ -1,0 +1,13 @@
+﻿ID,O,LocalKey,SdkPayLevel,O,LocalKey1,DecriptionNum1,Decription2,LocalKey2,PayNum,PreFundId,IsActive,SkuId
+"Fund ID  
+Tianxing:  
+ID configuration uses store sub-tab + 1XXX configuration, be careful not to use duplicate IDs.","Fund Title  
+Tianxing:  
+For local remarks only, the actual gift pack name is indexed to localcommonui to read the localkey.",Fund Title Multilingual Key,Tier ID (Discarded),Fund Description One,Fund Description One Multilingual Key,Fund Description One Number,Fund Description Two,Fund Description Two Multilingual Key,Actual Tier,Prerequisite Fund ID,"Fund Inactive (Enter 1 for inactive, enter 0 or leave blank for active)",SKU ID from RechargeSKU.csv
+index,O,string,int,O,string,int,O,string,int,int,int,string
+9301,Growth Fund  ,RechargeFund_Title01,70,Value Rebate  ,RechargeFund_Content01,2350,Complete main story dungeons to accumulate a total of <size=36px>11000</size> diamonds  ,RechargeFund_Content02,100999,,,growthfund10
+9302,Growth Fund  ,RechargeFund_Title01,70,Value Rebate  ,RechargeFund_Content01,2350,Complete main story dungeons to accumulate a total of <size=36px>11000</size> diamonds  ,RechargeFund_Content02,100999,9301,,growthfund10
+9303,Growth Fund  ,RechargeFund_Title01,70,Value Rebate  ,RechargeFund_Content01,2350,Complete main story dungeons to accumulate a total of <size=36px>11000</size> diamonds  ,RechargeFund_Content02,100999,9302,,growthfund10
+9304,Growth Fund  ,RechargeFund_Title01,70,Value Rebate  ,RechargeFund_Content01,2350,Complete main story dungeons to accumulate a total of <size=36px>11000</size> diamonds  ,RechargeFund_Content02,100999,9303,,growthfund10
+9305,Growth Fund  ,RechargeFund_Title01,70,Value Rebate  ,RechargeFund_Content01,2350,Complete main story dungeons to accumulate a total of <size=36px>11000</size> diamonds  ,RechargeFund_Content02,100999,9304,,growthfund10
+9306,Growth Fund  ,RechargeFund_Title01,70,Value Rebate  ,RechargeFund_Content01,2350,Complete main story dungeons to accumulate a total of <size=36px>11000</size> diamonds  ,RechargeFund_Content02,100999,9305,,growthfund10

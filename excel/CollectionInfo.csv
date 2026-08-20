@@ -1,0 +1,33 @@
+﻿Id,Type,PreId,PreLevel,Name,Intro,Icon,ModelID,Scale,LobbyScale,EnterBattlePos,O,Quality,ItemId,ItemNum,TecPoint,SkillClassId,LobbyRotation,UnlockTimeLine,UnlockVideo,InteractAudio,LevelupAudio,UnlockAudio,EventAudio
+collection id,Collection type,Pre-collection,Pre-level requirements,Collection name,Collection introduction,collection icon,"Collection model information
+
+Associated AllyCharacter ID","Collection-Show Zoom
+
+Divide by 100",Collection - Hall Zoom,Combat entrance position,Name remarks,"quality
+1: white
+2:green
+3: blue
+4: purple
+5:Orange
+6:Gold",Required Item to unlock,Number of required items needed to unlock,Technology points,Collection skill  ID,Hall rotation,Unlock animation,"Unlock video
+
+Only one of this field and the following timeline field can be configured. If both are configured, the timeline will be broadcast first.",Interactive sound effects,Skill upgrade sound effects,timeline sound effects,Selling entrance sound effects
+int,int,int,int,string,string,string,int,int,int,string,O,int,int,int,int,int,int,string,string,string,string,string,string
+101,1,0,0,Collection_Name_101,Collection_Intro_101,30101,30101,100,100,CenterBattle,Batcycle,3,1120032,1,10,3010101,0|0|0,C101_Unlock,,SE_Sys_Collection_Batcycle,,,
+102,1,101,90,Collection_Name_102,Collection_Intro_102,30102,30102,100,100,Center,Mirror to Shadowcrest,3,1120033,1,10,3010201,0|40|0,C102_Unlock,,SE_Sys_Collection_MirrorToShadowcrest,,,
+103,1,102,105,Collection_Name_103,Collection_Intro_103,30103,30103,100,100,CenterBattle,Tawnky Tawny (Tiger),4,1120034,1,20,3010301,0|0|0,C103_Unlock,,SE_Sys_Collection_TawkyTawny,,,
+104,1,103,160,Collection_Name_104,Collection_Intro_104,30104,30104,100,100,CenterBattle,Throne of Kahndaq,4,1120036,1,20,3010401,0|0|0,C104_Unlock,,SE_Sys_Collection_ThroneOfKahndaq,,,
+201,2,0,0,Collection_Name_201,Collection_Intro_201,30201,30201,100,100,Center,Batmobile,5,1120035,10,50,3020101,0|0|0,,201_CollectionSale_Video,SE_Sys_Collection_Batmobile,,,
+202,2,0,0,Collection_Name_202,Collection_Intro_202,30202,30202,70,80,CenterBattle,Invisible Plane,5,1120037,10,50,3020201,0|90|0,,,SE_Sys_Collection_InvisiblePlane,,,
+203,2,0,0,Collection_Name_203,Collection_Intro_203,30203,30203,45,60,CenterBattle,Parallax,5,1120039,10,50,3020301,0|90|0,,,SE_Sys_Collection_Parallax,,,
+204,2,0,0,Collection_Name_204,Collection_Intro_204,30204,30204,130,130,Center,Lex Battle Armor,5,1120038,10,50,3020401,0|45|0,,,SE_Sys_Collection_LexArmor,,,
+205,2,0,0,Collection_Name_205,Collection_Intro_205,30205,30205,110,150,CenterBattle,Green Lantern,5,1120040,10,50,3020501,0|0|0,,,SE_Sys_Collection_GreenLanternPowerBattery,,,
+206,2,,,Collection_Name_206,Collection_Intro_206,,30206,110,150,CenterBattle,GodkillerSword,5,1120041,10,50,3020601,0|0|0,,,,,,
+207,2,,,Collection_Name_207,Collection_Intro_207,30207,30207,50,60,CenterBattle,Haunted Tank,5,1120042,10,50,3020701,0|0|0,,,SE_Sys_Collection_HauntedTank,,,
+208,2,,,Collection_Name_208,Collection_Intro_208,30208,30208,70,80,CenterBattle,Phantom Zone Projector,5,1120043,10,50,3020801,0|90|0,,,SE_Sys_Collection_PhantomZoneProjector,,,
+210,2,,,Collection_Name_210,Collection_Intro_210,30210,30210,70,80,CenterBattle,Krypto SL,5,1120045,10,50,3021001,0|90|0,,,SE_Sys_Collection_Krypto,,,SE_Research_Collection_Krypto
+211,2,,,Collection_Name_211,Collection_Intro_211,30211,30211,70,80,CenterBattle,Energy Disruptor,5,1120046,10,50,3021101,0|90|0,,,SE_Sys_Collection_EnergyDisruptor,,,SE_Research_Collection_EnergyDisruptor
+212,2,,,Collection_Name_212,Collection_Intro_212,30212,30212,70,80,CenterBattle,Sethe - Avatar of the Rot,5,1120047,10,50,3021201,0|72|0,,,SE_Sys_Collection_Sethe,,,SE_Research_Collection_Sethe
+213,2,,,Collection_Name_213,Collection_Intro_213,30213,30213,70,80,CenterBattle,Jerry the Winged Horse,5,1120048,10,50,3021301,0|90|0,,,SE_Reinforcement_Interact_213,,,SE_Reinforcement_Show_213
+214,2,,,Collection_Name_214,Collection_Intro_214,30214,30214,70,80,CenterBattle,Space Hog,5,1120049,10,50,3021401,0|90|0,,,SE_Reinforcement_Info_214,,,SE_Reinforcement_Show_214
+215,2,,,Collection_Name_215,Collection_Intro_215,30215,30215,120,150,CenterBattle,Reanimated Pegasus,5,1120052,10,50,3021501,0|68|0,,,SE_Reinforcement_Info_215,,,SE_Reinforcement_Show_215

@@ -1,0 +1,434 @@
+﻿Key,Module,Explanation,en
+Index,Function Module,Description,English
+string,,,string
+StoreDesc9429,IAP Substore Title,Guy Gardner Event,Early Bird Offer - Recruit Guy Gardner (DCU)
+Func_SpecialGuyGardner,IAP Tab Name,Guy Gardner Event,Guy Gardner (DCU) - Limited Offer
+StoreDesc9430,IAP Substore Title,Mr. Terrific Event,Early Bird Offer - Recruit Mister Terrific (DCU)
+Func_SpecialMrTerrific,IAP Tab Name,Mr. Terrific Event,Mister Terrific (DCU) - Limited Offer
+StoreDes9431,IAP Pack Title,Cheshire Event,Cheshire Exclusive Offers
+Func_Cheshire,IAP Tab Title,Cheshire Event,Cheshire Exclusive Offers
+StoreDes9432,IAP Pack Title,Doctor Poison Event,Doctor Poison Exclusive Offers
+Func_Doctor_Poison,IAP Pack Tab Title,Doctor Poison Event,Doctor Poison Exclusive Offers
+StoreDesc9434,IAP Substore Title,Judomaster Event,Early Bird Offer - Recruit Judomaster
+Func_SpecialJudomaster,IAP Tab Name,Judomaster Event,Judomaster - Limited Offer
+StoreDes9435,IAP Substore Title,Vigilante Event,Early Bird Offer - Recruit Vigilante (DCU)
+Func_SpecialVigilante,IAP Tab Name,Vigilante Event,Vigilante (DCU) - Limited Offer
+StoreDes9433,IAP Pack Title,Swamp Thing Event,Swamp Thing Limited Offer
+shopname3023,Peacemaker Event,Common Shop,Silver Helmet Shop
+shopname3024,Peacemaker Event,Premium Shop,Gold Helmet Shop
+StoreDesc9437,Early Access IAP,Cheshire Early Access,Early Bird Offer - Recruit Cheshire
+Func_SpecialCheshire,Early Access IAP,Cheshire Early Access,Cheshire - Limited Offer
+Func_BlockTeam,Block Team Event,Block Team Event,Team Event: Block - Limited Offer
+StoreDesc9436,Block Team Event,Block Team Event,Team Event: Block
+PayStore_MainName_13,IAP Tab Title,Featured Offers,Featured Offers
+StoreDes11001,Store Pack Title,Featured Offers,Featured Offers Exclusive Pack
+StoreDesc13202,Direct Purchase IAP,Mera Direct Purchase,Special Offer - Recruit Mera
+Func_DirectMera,Direct Purchase IAP,Mera Direct Purchase,Mera - Limited Offer
+StoreDesc9406,IAP Pack Title,Cyborg Re-Run,Cyborg Exclusive Offers
+Func_Cyborg,IAP Tab Name,Cyborg Re-Run,Cyborg Limited Offers
+shopname3027,,,Atlantean Glyph Shop
+shopname3028,,,Atlan's Crest Shop
+Func_Aquaman,,,Aquaman Limited Offers
+StoreDesc9438,,,Aquaman Exclusive Offers
+StoreDesc9439,Early Access IAP,Doctor Poison Early Access,Early Bird Offer - Recruit Doctor Poison
+Func_SpecialDoctorPoison,Early Access IAP,Doctor Poison Early Access,Doctor Poison - Limited Offer
+Func_WonderWomanDay,Iap Tab Name,Wonder Woman Day,Wonder Woman Day
+StoreDescWWD1,IAP Pack Name,Wonder Woman Day,Wonder Woman Character Offer
+StoreDescWWD2,IAP Pack Name,Wonder Woman Day,Lasso of Truth Offer
+StoreDescWWDTitle,IAP Store Name,Wonder Woman Day,Wonder Woman Day Offers
+shopname3011,White Lantern - Kyle Legendary Event,Common Shop,Life Token Shop
+shopname3012,White Lantern - Kyle Legendary Event,Premium Shop,Creation Coin Shop
+StoreDescBF,IAP Pack Name,Black Friday ,Black Friday Deal
+Func_BF1,IAP Store Name,Black Friday ,Daily Character Special!
+Func_BF2,IAP Store Name,Black Friday ,Holiday Doorbusters!
+PayStore_MainName_BlackFriday,Main Store Name,Black Friday ,Black Friday Deals!
+StoreDesc9442,IAP Tab Title,Killer Frost Event,Killer Frost Exclusive Offers
+StoreDesc9443,Early Access IAP,Killer Frost Early Access,Early Bird Offer - Recruit Killer Frost
+Func_SpecialKillerFrost,Early Access IAP,Killer Frost Early Access,Killer Frost - Limited Offer
+StoreDesc9446,IAP Pack Title,General Zod Event,General Zod Limited Offer
+StoreDesc9444,IAP Tab Title,Firestorm Event,Firestorm Exclusive Offers
+Func_SpecialFirestorm,Early Access IAP,Firestorm Early Access,Firestorm - Limited Offer
+Func_Supergirl,IAP Tab Name,Supergirl Re-Run,Supergirl Limited Offers
+StoreDesc9408,IAP Pack Title,Supergirl Re-Run,Supergirl Exclusive Offers
+StoreDesc9407,IAP Pack Title,Lantern Team,Lantern Team Exclusive Offers
+StoreDescXmas,Xmas Pack Name,Christmas Sale,Winter Holiday Sale
+Func_Xmas1,IAP Daily Store Name,Christmas Sale,Daily Sales!
+Func_Xmas2,IAP Special Store Name,Christmas Sale,Special Deals!
+PayStore_MainName_Xmas,Main Store Name,Christmas Sale,Winter Holiday Sale
+StoreDesc9448,IAP Tab Title,Punchline Event,Punchline Exclusive Pack
+Func_Punchline,Early Access IAP,Punchline Early Access,Punchline Pack
+Func_SpecialPunchline,Early Access IAP,Punchline Early Access,Punchline - Limited Offer
+StoreDesc9449,IAP Substore Title,Punchline Event,Early Bird Offer - Recruit Punchline
+Func_SpecialHugoStrange,Early Access IAP,Hugo Strange Early Access,Hugo Strange - Limited Offer
+Func_HugoStrange,IAP Substore name,Hugo Strange Event,Hugo Strange Pack
+StoreDesc9450,IAP Substore Title,Hugo Strange Event,Hugo Strange Exclusive Pack
+StoreDesc9451,IAP Substore Title,Hugo Strange Event,Early Bird Offer - Recruit Hugo Strange
+StoreDesc9445,Early Access IAP,Firestorm Early Access,Early Bird Offer - Recruit Firestorm
+StoreDescNewYear,New Year Pack Name,New Year Offer,New Year Sale
+Func_NY1,IAP Special Store Name,New Year Offer,Special Deals!
+Func_NY2,IAP Daily Store Name,New Year Offer,Daily Sales!
+PayStore_MainName_NY,Main Store Name,New Year Offer,New Year Sale
+Func_Superman,IAP Tab Name,Superman Re-Run,Superman Limited Offers
+StoreDesc94071,IAP Pack Title,Superman Re-Run,Superman Exclusive Offers
+StoreDesc9499,IAP Pack Title,The Joker Event,The Joker Exclusive Offers
+Func_LexLuthor,IAP Tab Name,Lex Luthor Re-Run,Lex Luthor Limited Offers
+StoreDesc9453,IAP Pack Title,Lex Luthor Re-Run,Lex Luthor Exclusive Offers
+StoreDesc9455,IAP Substore Title,Yara Flor Event,Yara Flor Exclusive Pack
+Func_SpecialYaraFlor,Early Access IAP,Yara Flor Early Access,Yara Flor - Limited Offer
+StoreDesc9456,Early Access IAP,Yara Flor Early Access,Early Bird Offer - Recruit Yara Flor
+StoreDescValentine,Valentine Pack Name,Valentine Offer,Valentine's Deals
+Func_Valentine1,Valentine Offer Title,Valentine Offer,Valentine's Deals!
+Func_Valentine2,Valentine Offer Title,Valentine Offer,Characters Special!
+PayStore_MainName_Valentine,Main Store Name,Valentine Offer,Holiday Season Sale
+StoreDescStPatrick,St Patrick Pack Name,St Patrick Offer,Lucky Pack
+Func_StPatrick1,St Patrick Offer Title,St Patrick Offer,Daily Luck!
+Func_StPatrick2,St Patrick Offer Title,St Patrick Offer,Lucky Specials!
+PayStore_MainName_StPatrick,Main Store Name,St Patrick Offer,Lucky Season Sale
+StoreDesc9527,IAP Pack Title,Nubia Event,Nubia Exclusive Offers
+StoreDesc9529,IAP Pack Title,Black Adam Event,Black Adam Exclusive Offers
+StoreDesc9530,IAP Pack Title,Artemis Event,Artemis Exclusive Offers
+StoreDiscount_Label_Free,Store Discount,Store Discount Hot,Next Free!
+StoreDiscount_Label_Relaunch,Store Discount,Store Discount Hot,Next Reload
+StoreDescStep1,Easter Sales Step Up Offers,Easter Sales,Ascension Path: Step 1/6
+StoreDescStep2,Easter Sales Step Up Offers,Easter Sales,Ascension Path: Step 2/6
+StoreDescStep3,Easter Sales Step Up Offers,Easter Sales,Ascension Path: Step 3/6
+StoreDescStep4,Easter Sales Step Up Offers,Easter Sales,Ascension Path: Step 4/6
+StoreDescStep5,Easter Sales Step Up Offers,Easter Sales,Ascension Path: Step 5/6
+StoreDescStep6,Easter Sales Step Up Offers,Easter Sales,Ascension Path: Step 6/6
+StoreDescStep7,Easter Sales Step Up Offers,Easter Sales,Ascension Path: Step 7
+StoreDescStep8,Easter Sales Step Up Offers,Easter Sales,Ascension Path: Step 8
+StoreDesc_CritTeam,Easter Sales Special,Easter Sales,Recommended Team: <color=#ad4203>Crit</color>
+StoreDesc_MotherboxEaster,Easter Sales Special,Easter Sales,Motherbox Mega Pack
+StoreDesc_MotherboxEasterII,Easter Sales Special,Easter Sales,Motherbox Mega Pack II
+StoreDesc_SETEaster,Easter Sales Special,Easter Sales,Super Encrypted Token Easter
+StoreDesc_SupTeam,Easter Sales Special,Easter Sales,DCU's Superman Team
+StoreDesc_PeacemakerTeam,Easter Sales Special,Easter Sales,DCU's Peacemaker Team
+StoreDesc_CreComTeam,Easter Sales Special,Easter Sales,DCU's Creatures Commandos Team
+StoreDesc_PoisonTeam,Easter Sales Special,Easter Sales,Recommended Team: <color=#15ff00>Poison</color>
+StoreDesc_DebuffTeam,Easter Sales Special,Easter Sales,Recommended Team: <color=#6c038c>Debuff</color>
+StoreDesc_SacrificceTeam,Easter Sales Special,Easter Sales,Recommended Team: <color=#0a5ebf>Sacrifice</color>
+StoreDesc_SpringTeam,Easter Sales Special,Easter Sales,Recommended Team: <color=#bf550a>Special Season</color>
+Func_Easter1,Easter Sales Step Up Offers SubTab Title,Easter Sales,Ascension Path
+Func_Easter2,Easter Sales Special SubTab Title,Easter Sales,Spring Special!
+Func_StepUp,Easter Sales Step Up Offers Title,Easter Sales,Ascension Path - Follow it to the end to claim your rewards!
+PayStore_MainName_Easter,Easter Sales Main Tab Title,Easter Sales,Spring Season Sale
+Func_PetDay,National Pet Day Sale Main Tab Title,National Pet Day Sales,National Pet Day Sale
+StoreDesc_SupermanDCU_Pet,National Pet Day Sale Offers,National Pet Day Sales,DCU's Superman and Krypto
+StoreDesc_SupermanDCUFragment_Pet,National Pet Day Sale Offers,National Pet Day Sales,DCU's Superman and Krypto
+StoreDesc_ReinforcementUnlock_Pet,National Pet Day Sale Offers,National Pet Day Sales,Pet Care Specials Sale
+StoreDesc_ReinforcementPacks_Pet,National Pet Day Sale Offers,National Pet Day Sales,Pet Care Specials Sale
+StoreDesc_Reinforcements_Pet,National Pet Day Sale Offers,National Pet Day Sales,Pet Care Specials Sale
+StoreDesc9459,Ruthye Limited Offers,Ruthye Limited Offers,Ruthye Limited Offers
+Func_SpecialRuthye,Ruthye Early Offer,Ruthye Limited Offers,Ruthye - Early Offer
+StoreDesc9461,Ruthye Starter Packs,Ruthye Limited Offers,Ruthye - Starter Offers
+StoreDesc9462,Ruthye Catch up Pack,Ruthye Limited Ofers,Ruthye - Catch up Offers
+StoreDesc9463,Ruthye Final Chance Pack, Ruthye Limited Offers,Ruthye - Last Chance
+StoreDiscount_Label_Everyday,Store Discount,Store Discount Hot,<size=22>Everyday</size>
+StoreFFStep1,FF Day Step-up,Firefighters Day Offers,Rescue Chain 1/8
+StoreFFStep2,FF Day Step-up,Firefighters Day Offers,Rescue Chain 2/8
+StoreFFStep3,FF Day Step-up,Firefighters Day Offers,Rescue Chain 3/8
+StoreFFStep4,FF Day Step-up,Firefighters Day Offers,Rescue Chain 4/8
+StoreFFStep5,FF Day Step-up,Firefighters Day Offers,Rescue Chain 5/8
+StoreFFStep6,FF Day Step-up,Firefighters Day Offers,Rescue Chain 6/8
+StoreFFStep7,FF Day Step-up,Firefighters Day Offers,Rescue Chain 7/8
+StoreFFStep8,FF Day Step-up,Firefighters Day Offers,Rescue Chain 8/8
+StoreDesc9554,Tidal Special,Firefighters Day Offers,Tidal Special
+Func_FFDayDesc,Step-up Sub Tab Desc,Firefighters Day Offers,Rescue Chain - Follow it to the end to claim your rewards!
+Func_FFDay,Step-up Sub Tab Name,Firefighters Day Offers,Rescue Chain
+PayStore_MainName_FFDay,Main Tab Name,Firefighters Day Offers,Flash Flood Sale
+StoreDesc9549,Lobo Event Sub Tab Name,Lobo Event,Lobo Limited Offers
+StoreDesc9550,Lobo Event Pack Title,Lobo Event,Lobo's Starter Pack
+StoreDesc9551,Lobo Event Pack Title,Lobo Event,Lobo's Catch-up Pack
+StoreDesc9552,Lobo Event Pack Title,Lobo Event,Lobo's Last Chance Pack
+Func_Lobo,Lobo Event Sub Tab Name,Lobo Event,Lobo Limited Offers
+Func_Lobo_Starter,Lobo Event Sub Tab Name,Lobo Event,Lobo's Starter Packs
+Func_Lobo_CatchUp,Lobo Event Sub Tab Name,Lobo Event,Lobo's Catch-up Packs
+Func_Lobo_FinalChance,Lobo Event Sub Tab Name,Lobo Event,Lobo's Last Chance PacksStore
+RedCrossStep1,Red Cross Day Step-up,Red Cross Day Offers,Aid Deployment Path 1/7
+StoreRedCrossStep2,Red Cross Day Step-up,Red Cross Day Offers,Aid Deployment Path 2/7
+StoreRedCrossStep3,Red Cross Day Step-up,Red Cross Day Offers,Aid Deployment Path 3/7
+StoreRedCrossStep4,Red Cross Day Step-up,Red Cross Day Offers,Aid Deployment Path 4/7
+StoreRedCrossStep5,Red Cross Day Step-up,Red Cross Day Offers,Aid Deployment Path 5/7
+StoreRedCrossStep6,Red Cross Day Step-up,Red Cross Day Offers,Aid Deployment Path 6/7
+StoreRedCrossStep7,Red Cross Day Step-up,Red Cross Day Offers,Aid Deployment Path 7/7
+Func_RedCrossDay,Step-up Sub Tab Name,Red Cross Day Offers,Aid Deployment Path
+Func_RedCrossDayDesc,Step-up Sub Tab Desc,Red Cross Day Offers,Aid Deployment Path - Follow it to the end to claim FREE rewards!
+StoreDescRedCrossDay,Gift Pack Sub Tab Name,Red Cross Day Offers,Aid Supply Packs
+PayStore_MainName_EarthDay,Main Tab Name,Earth Day Sales,Emerald Guardian Sale
+Func_EarthDay,Sub Tab Name,Earth Day Sales,Verdant Specials!
+StoreDescEarthDay,Pack Name,Earth Day Sales,Verdant Deal!
+PayStore_MainName_FlagDay,Main Tab Name,Flag Day Sales,Liberty Sale
+Func_FlagDay,Sub Tab Name,Flag Day Sales,Justice Specials!
+StoreDescFlagDay,Pack Name,Flag Day Sales,Justice Deal!
+Func_SuperheroDay,Superhero Day Sale Main Tab Title,Superhero Day Sales,Superhero Day Sale
+Func_SuperheroDayDesc,Superhero Day Sale Sub Tab Title,Superhero Day Sales,Superpowers Awaken Sale
+Func_SuperheroDayPackName,Superhero Day Sale Pack Name,Superhero Day Sales,Superhero Deals
+StoreDesc_SuperheroEncryptedMegaPack,Superhero Day Sale Offers,Superhero Day Sales,Superhero Encrypted Mega Pack
+PayStore_MainName_RedCross,Main Tab Name,Red Cross Day Offers,Global Support Sale
+Func_MemorialDay,Memorial Day Sale Main Tab Title,Memorial Day Sales,Memorial Sale
+Func_MemorialDayDesc,Memorial Day Sale Sub Tab Title,Memorial Day Sales,Memorial Specials!
+Func_MemorialDayPackName,Memorial Day Sale Pack Name,Memorial Day Sales,Memorial Deals
+Func_JuneteenthDay,Juneteenth Day Sale Main Tab Title,Juneteenth Day Sales,Freedom Sale
+Func_JuneteenthDayDesc,Juneteenth Day Sale Sub Tab Title,Juneteenth Day Sales,Freedom Specials!
+Func_JuneteenthDayPackName,Juneteenth Day Sale Pack Name,Juneteenth Day Sales,Freedom Deal
+Func_FamilyDay,Family Day Sale Main Tab Title,Family Day Sales,Heroic Legacy Sale
+StoreDescFamilyDay,Family Day Offers Name,Family Day Sales,Legacy Deal!
+Func_PrideDay,Pride Day Sale Main Tab Title,Pride Day Sales,Festival of Colors Sale
+Func_PrideDayDesc,Pride Day Sale Description,Pride Day Sales,Follow it to the end to claim your rewards!
+Func_PrideDay_Gold,Pride Day Sale Gold Step-ups Title,Pride Day Sales,Path of Gold
+Func_PrideDay_EXP,Pride Day Sale EXP Step-ups Title,Pride Day Sales,Path of Experience
+Func_PrideDay_Titanium,Pride Day Sale Titanium Step-ups Title,Pride Day Sales,Path of Titanium
+Func_PrideDay_Badge,Pride Day Sale Badge Step-ups Title,Pride Day Sales,Badge Upgrade Path
+Func_PrideDay_FreeIvy,Pride Day Sale Free Poison Ivy Title,Pride Day Sales, Claim FREE Poison Ivy!
+StoreDescPrideDay_Gold2,Pride Day Gold Pack 2 Offer Name,Pride Day Sales,Gold Pack II
+StoreDescPrideDay_Gold3,Pride Day Gold Pack 3 Offer Name,Pride Day Sales,Gold Pack III
+StoreDescPrideDay_Gold4,Pride Day Gold Pack 4 Offer Name,Pride Day Sales,Gold Pack IV
+StoreDescPrideDay_Gold5,Pride Day Gold Pack 5 Offer Name,Pride Day Sales,Gold Pack V
+StoreDescPrideDay_Gold6,Pride Day Gold Pack 6 Offer Name,Pride Day Sales,Gold Pack - FREE REWARDS!
+StoreDescPrideDay_EXP1,Pride Day EXP Pack 1 Offer Name,Pride Day Sales,Experience Pack I
+StoreDescPrideDay_EXP2,Pride Day EXP Pack 2 Offer Name,Pride Day Sales,Experience Pack II
+StoreDescPrideDay_EXP3,Pride Day EXP Pack 3 Offer Name,Pride Day Sales,Experience Pack III
+StoreDescPrideDay_EXP4,Pride Day EXP Pack 4 Offer Name,Pride Day Sales,Experience Pack IV
+StoreDescPrideDay_EXP5,Pride Day EXP Pack 5 Offer Name,Pride Day Sales,Experience Pack V
+StoreDescPrideDay_EXP6,Pride Day EXP Pack 6 Offer Name,Pride Day Sales,Experience Pack - FREE REWARDS!
+StoreDescPrideDay_Titanium1,Pride Day Titanium Pack 1 Offer Name,Pride Day Sales,Titanium Pack I
+StoreDescPrideDay_Titanium2,Pride Day Titanium Pack 2 Offer Name,Pride Day Sales,Titanium Pack II
+StoreDescPrideDay_Titanium3,Pride Day Titanium Pack 3 Offer Name,Pride Day Sales,Titanium Pack III
+StoreDescPrideDay_Titanium4,Pride Day Titanium Pack 4 Offer Name,Pride Day Sales,Titanium Pack IV
+StoreDescPrideDay_Titanium5,Pride Day Titanium Pack 5 Offer Name,Pride Day Sales,Titanium Pack V
+StoreDescPrideDay_Titanium6,Pride Day Titanium Pack 6 Offer Name,Pride Day Sales,Titanium Pack - FREE REWARDS!
+StoreDescPrideDay_Badge1,Pride Day Badge Upgrade Pack 1 Offer Name,Pride Day Sales,Badge Upgrade Pack I
+StoreDescPrideDay_Badge2,Pride Day Badge Upgrade Pack 2 Offer Name,Pride Day Sales,Badge Upgrade Pack II
+StoreDescPrideDay_Badge3,Pride Day Badge Upgrade Pack 3 Offer Name,Pride Day Sales,Badge Upgrade Pack III
+StoreDescPrideDay_Badge4,Pride Day Badge Upgrade Pack 4 Offer Name,Pride Day Sales,Badge Upgrade Pack IV
+StoreDescPrideDay_Badge5,Pride Day Badge Upgrade Pack 5 Offer Name,Pride Day Sales,Badge Upgrade Pack V
+StoreDescPrideDay_Badge6,Pride Day Badge Upgrade Pack 6 Offer Name,Pride Day Sales,Badge Upgrade Pack - FREE REWARDS!
+Func_SummerSolstice,Summer Solstice Sale Main Tab Title,Summer Solstice Day Sales,Summer Solstice Sale
+Func_SummerSolstice_Stepup,Summer Solstice Sale Step Up Title,Summer Solstice Day Sales,Solar Path - Follow it to the end to claim your rewards!
+Func_SummerSolsticeStepup,Summer Solstice Sale Step Up Title,Summer Solstice Day Sales,Solar Path
+Func_SummerSolsticeDeals,Summer Solstice Sale Deals Title,Summer Solstice Day Sales,Solar Deals
+Func_SummerSolsticeSpecials,Summer Solstice Sale Specials Title,Summer Solstice Day Sales,Solar Specials!
+Func_SummerSolsticeStepup_Step1,Summer Solstice Step-up Step 1 Offer Name,Summer Solstice Day Step-ups,Solar Path - Step 1
+Func_SummerSolsticeStepup_Step2,Summer Solstice Step-up Step 2 Offer Name,Summer Solstice Day Step-ups,Solar Path - Step 2
+Func_SummerSolsticeStepup_Step3,Summer Solstice Step-up Step 3 Offer Name,Summer Solstice Day Step-ups,Solar Path - Step 3
+Func_SummerSolsticeStepup_Step4,Summer Solstice Step-up Step 4 Offer Name,Summer Solstice Day Step-ups,Solar Path - Step 4
+Func_SummerSolsticeStepup_Step5,Summer Solstice Step-up Step 5 Offer Name,Summer Solstice Day Step-ups,Solar Path - Step 5
+Func_SummerSolsticeStepup_Step6,Summer Solstice Step-up Step 6 Offer Name,Summer Solstice Day Step-ups,Solar Path - FREE REWARDS!
+Func_CatfishDaily,Catfish Daily Pack,Catfish Day Sales,Deep Daily Deals!
+Func_CatfishSpecial,Catfish Special Pack,Catfish Day Sales,Special Deals!
+Func_CatfishDailyTitle,Catfish Daily Title,Catfish Day Sales,Deep Daily Deals!
+Func_CatfishSpecialTitle,Catfish Special Title,Catfish Day Sales,River Specials!
+Func_Catfish,Catfish Main Title,Catfish Day Sales,Big Catch Sale
+StoreDesc9571,Black Lightning Event Sub Tab Name,Black Lightning Event,Black Lightning Limited Offers
+StoreDesc9572,Black Lightning Event Pack Title,Black Lightning Event,Black Lightning's Starter Pack
+StoreDesc9573,Black Lightning Event Pack Title,Black Lightning Event,Black Lightning's Catch-up Pack
+StoreDesc9574,Black Lightning Event Pack Title,Black Lightning Event,Black Lightning's Last Chance Pack
+Func_BlackLightning,Black Lightning Event Sub Tab Name,Black Lightning Event,Black Lightning Limited Offers
+Func_BlackLightning_Starter,Black Lightning Event Sub Tab Name,Black Lightning Event,Black Lightning's Starter Packs
+Func_BlackLightning_CatchUp,Black Lightning Event Sub Tab Name,Black Lightning Event,Black Lightning's Catch-up Packs
+Func_BlackLightning_FinalChance,Black Lightning Event Sub Tab Name,Black Lightning Event,Black Lightning's Last Chance PacksStore
+StoreDesc9575,Supergirl DCU Event Sub Tab Name,Supergirl DCU Event,Supergirl DCU Limited Offers
+StoreDesc9576,Supergirl DCU Event Pack Title,Supergirl DCU Event,Supergirl DCU's Starter Pack
+StoreDesc9577,Supergirl DCU Event Pack Title,Supergirl DCU Event,Supergirl DCU's Catch-up Pack
+StoreDesc9578,Supergirl DCU Event Pack Title,Supergirl DCU Event,Supergirl DCU's Last Chance Pack
+Func_SupergirlDCU,Supergirl DCU Event Sub Tab Name,Supergirl DCU Event,Supergirl DCU Limited Offers
+Func_SupergirlDCU_Starter,Supergirl DCU Event Sub Tab Name,Supergirl DCU Event,Supergirl DCU's Starter Packs
+Func_SupergirlDCU_CatchUp,Supergirl DCU Event Sub Tab Name,Supergirl DCU Event,Supergirl DCU's Catch-up Packs
+Func_SupergirlDCU_FinalChance,Supergirl DCU Event Sub Tab Name,Supergirl DCU Event,Supergirl DCU's Last Chance PacksStore
+Func_IndependenceDayStepUp1,Independence Day Step Up,Independence Day Sales,Independence Path 1/6
+Func_IndependenceDayStepUp2,Independence Day Step Up,Independence Day Sales,Independence Path 2/6
+Func_IndependenceDayStepUp3,Independence Day Step Up,Independence Day Sales,Independence Path 3/6
+Func_IndependenceDayStepUp4,Independence Day Step Up,Independence Day Sales,Independence Path 4/6
+Func_IndependenceDayStepUp5,Independence Day Step Up,Independence Day Sales,Independence Path 5/6
+Func_IndependenceDayStepUp6,Independence Day Step Up,Independence Day Sales,Independence Path 6/6
+Func_IndependenceDaySpecialTitle,Independence Day Special Title,Independence Day Sales,Independence Deals
+Func_IndependenceDaySpecialOffer,Independence Day Special Title,Independence Day Sales,Independence Deals - Already owned reinforcements will be converted into Lab Certification!
+Func_IndependenceDayStepUp,Independence Day Step Up,Independence Day Sales,Independence Path - March to the final reward and claim your free prize!
+Func_IndependenceDay,Independence Day Main Title,Independence Day Sales,Independence Sale!
+Func_IndependenceDayStepUpTitle,Independence Day Step Up,Independence Day Sales,Independence Path
+Func_Anniversary,Anniversary Celebration Sale,Anniversary Celebration Sale Event,Anniversary Celebration Sale!
+Func_Anniversary_Path,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path — progress to the grand reward and claim your free gift!
+Func_Anniversary_PathTitle,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path
+Func_Anniversary_Path51,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 1/5
+Func_Anniversary_Path52,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 2/5
+Func_Anniversary_Path53,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 3/5
+Func_Anniversary_Path54,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 4/5
+Func_Anniversary_Path55,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 5/5
+Func_Anniversary_Path61,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 1/6
+Func_Anniversary_Path62,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 2/6
+Func_Anniversary_Path63,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 3/6
+Func_Anniversary_Path64,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 4/6
+Func_Anniversary_Path65,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 5/6
+Func_Anniversary_Path66,Anniversary Path,Anniversary Celebration Sale Event,Anniversary Path 6/6
+Func_Anniversary_LimitedOffers,Anniversary Specials,Anniversary Celebration Sale Event,Anniversary Limited Offer
+Func_Anniversary_Specials,Anniversary Specials,Anniversary Celebration Sale Event,Anniversary Specials - These offers refresh everyday.
+Func_Anniversary_Specials11,Anniversary Specials,Anniversary Celebration Sale Event,Anniversary Specials 1/4
+Func_Anniversary_Specials12,Anniversary Specials,Anniversary Celebration Sale Event,Anniversary Specials 2/4
+Func_Anniversary_Specials13,Anniversary Specials,Anniversary Celebration Sale Event,Anniversary Specials 3/4
+Func_Anniversary_Specials14,Anniversary Specials,Anniversary Celebration Sale Event,Anniversary Specials 4/4
+Func_Anniversary_Deals,Anniversary Deals Pack name,Anniversary Celebration Sale Event,Anniversary Deals
+Func_AnniversaryCommunityChallengeRewards,Anniversary Community Challenge Rewards,Anniversary Community Challenge Rewards,Anniversary Community Challenge Rewards
+Func_PrideDay_FreeConstantine,Pride Day Sale Free Constantine Title,Pride Day pt.2 Sales,Free Constantine & More!
+Func_PrideDay_Diamond,Pride Day Sale Diamond Step-ups Title,Pride Day pt.2 Sales,Path of Diamonds
+Func_PrideDay_Artifact,Pride Day Sale Artifact Step-ups Title,Pride Day pt.2 Sales,Path of Artifacts
+Func_PrideDay_Reinforcement,Pride Day Sale Reinforcement Step-ups Title,Pride Day pt.2 Sales,Reinforcements Upgrade Path
+Func_PrideDay_ET,Pride Day Sale ET Step-ups Title,Pride Day pt.2 Sales,Path of Recruitment
+Func_PrideDay_EighthMetal,Pride Day Sale Eighth Metal Step-ups Title,Pride Day pt.2 Sales,Path of Ranking Up
+StoreDescPrideDay_Gold1,Pride Day Gold Pack 1 Offer Name,Pride Day Sales,Gold Pack I
+StoreDescPrideDay_Diamond1,Pride Day Pt.2 Diamond Pack 1 Offer Name,Pride Day Pt.2 Sales,Diamond Pack I
+StoreDescPrideDay_Diamond2,Pride Day Pt.2 Diamond Pack 2 Offer Name,Pride Day Pt.2 Sales,Diamond Pack II
+StoreDescPrideDay_Diamond3,Pride Day Pt.2 Diamond Pack 3 Offer Name,Pride Day Pt.2 Sales,Diamond Pack III
+StoreDescPrideDay_Diamond4,Pride Day Pt.2 Diamond Pack 4 Offer Name,Pride Day Pt.2 Sales,Diamond Pack IV
+StoreDescPrideDay_Diamond5,Pride Day Pt.2 Diamond Pack 5 Offer Name,Pride Day Pt.2 Sales,Diamond Pack V
+StoreDescPrideDay_Diamond6,Pride Day Pt.2 Diamond Pack 6 Offer Name,Pride Day Pt.2 Sales,Diamond Pack - FREE REWARDS!
+StoreDescPrideDay_Artifact1,Pride Day Pt.2 Artifact Upgrade Pack 1 Offer Name,Pride Day Pt.2 Sales,Random Coordinates Pack I
+StoreDescPrideDay_Artifact2,Pride Day Pt.2 Artifact Upgrade Pack 2 Offer Name,Pride Day Pt.2 Sales,Random Coordinates Pack II
+StoreDescPrideDay_Artifact3,Pride Day Pt.2 Artifact Upgrade Pack 3 Offer Name,Pride Day Pt.2 Sales,Random Coordinates Pack III
+StoreDescPrideDay_Artifact4,Pride Day Pt.2 Artifact Upgrade Pack 4 Offer Name,Pride Day Pt.2 Sales,Random Coordinates Pack IV
+StoreDescPrideDay_Artifact5,Pride Day Pt.2 Artifact Upgrade Pack 5 Offer Name,Pride Day Pt.2 Sales,Random Coordinates Pack V
+StoreDescPrideDay_Artifact6,Pride Day Pt.2 Artifact Upgrade Pack 6 Offer Name,Pride Day Pt.2 Sales,Random Coordinates Pack - FREE REWARDS!
+StoreDescPrideDay_Reinforcement1,Pride Day Pt.2 Reinforcement Upgrade Pack 1 Offer Name,Pride Day Pt.2 Sales,Reinforcement Upgrade Pack I
+StoreDescPrideDay_Reinforcement2,Pride Day Pt.2 Reinforcement Upgrade Pack 2 Offer Name,Pride Day Pt.2 Sales,Reinforcement Upgrade Pack II
+StoreDescPrideDay_Reinforcement3,Pride Day Pt.2 Reinforcement Upgrade Pack 3 Offer Name,Pride Day Pt.2 Sales,Reinforcement Upgrade Pack III
+StoreDescPrideDay_Reinforcement4,Pride Day Pt.2 Reinforcement Upgrade Pack 4 Offer Name,Pride Day Pt.2 Sales,Reinforcement Upgrade Pack IV
+StoreDescPrideDay_Reinforcement5,Pride Day Pt.2 Reinforcement Upgrade Pack 5 Offer Name,Pride Day Pt.2 Sales,Reinforcement Upgrade Pack V
+StoreDescPrideDay_Reinforcement6,Pride Day Pt.2 Reinforcement Upgrade Pack 6 Offer Name,Pride Day Pt.2 Sales,Reinforcement Upgrade Pack - FREE REWARDS!
+StoreDescPrideDay_ET1,Pride Day Pt.2 Encrypted Tokens Pack 1 Offer Name,Pride Day Pt.2 Sales,Encrypted Tokens Pack I
+StoreDescPrideDay_ET2,Pride Day Pt.2 Encrypted Tokens Pack 2 Offer Name,Pride Day Pt.2 Sales,Encrypted Tokens Pack II
+StoreDescPrideDay_ET3,Pride Day Pt.2 Encrypted Tokens Pack 3 Offer Name,Pride Day Pt.2 Sales,Encrypted Tokens Pack III
+StoreDescPrideDay_ET4,Pride Day Pt.2 Encrypted Tokens Pack 4 Offer Name,Pride Day Pt.2 Sales,Encrypted Tokens Pack IV
+StoreDescPrideDay_ET5,Pride Day Pt.2 Encrypted Tokens Pack 5 Offer Name,Pride Day Pt.2 Sales,Encrypted Tokens Pack V
+StoreDescPrideDay_ET6,Pride Day Pt.2 Encrypted Tokens Pack 6 Offer Name,Pride Day Pt.2 Sales,Encrypted Tokens Pack - FREE REWARDS!
+StoreDescPrideDay_EighthMetal1,Pride Day Pt.2 Eighth Metal Pack 1 Offer Name,Pride Day Pt.2 Sales,Eighth Metal Pack I
+StoreDescPrideDay_EighthMetal2,Pride Day Pt.2 Eighth Metal Pack 2 Offer Name,Pride Day Pt.2 Sales,Eighth Metal Pack II
+StoreDescPrideDay_EighthMetal3,Pride Day Pt.2 Eighth Metal Pack 3 Offer Name,Pride Day Pt.2 Sales,Eighth Metal Pack III
+StoreDescPrideDay_EighthMetal4,Pride Day Pt.2 Eighth Metal Pack 4 Offer Name,Pride Day Pt.2 Sales,Eighth Metal Pack IV
+StoreDescPrideDay_EighthMetal5,Pride Day Pt.2 Eighth Metal Pack 5 Offer Name,Pride Day Pt.2 Sales,Eighth Metal Pack V
+StoreDescPrideDay_EighthMetal6,Pride Day Pt.2 Eighth Metal Pack 6 Offer Name,Pride Day Pt.2 Sales,Eighth Metal Pack - FREE REWARDS!
+Func_PrideDay_Constantine,Pride Day Sale Free Constantine Title,Pride Day Sales,Claim FREE Constantine!
+Func_PrideDay_SETbundle1,Pride Day Sale SET Bundle 1 Title,Pride Day Sales,Super Encrypted Token
+Func_PrideDay_SETbundle2,Pride Day Sale SET Bundle 2 Title,Pride Day Sales,Super Encrypted Token Medium Bundle
+Func_PrideDay_SETbundle3,Pride Day Sale SET Bundle 3 Title,Pride Day Sales,Super Encrypted Token Big Bundle
+Func_AbsoluteSuperman,Absolute Superman Event Sub Tab Name,Absolute Superman Event,Absolute Superman Limited Offers
+Func_AbsoluteSuperman_Starter,Absolute Superman Event Sub Tab Name,Absolute Superman Event,Absolute Superman's Starter Packs
+Func_AbsoluteSuperman_CatchUp,Absolute Superman Event Sub Tab Name,Absolute Superman Event,Absolute Superman's Catch-up Packs
+Func_AbsoluteSuperman_FinalChance,Absolute Superman Event Sub Tab Name,Absolute Superman Event,Absolute Superman's Last Chance PacksStore
+StoreDesc9610,Absolute Superman Event Pack Title,Absolute Superman Event,Absolute Superman Limited Offers
+StoreDesc9611,Absolute Superman Event Pack Title,Absolute Superman Event,Absolute Superman's Starter Pack
+StoreDesc9612,Absolute Superman Event Pack Title,Absolute Superman Event,Absolute Superman's Catch-up Pack
+StoreDesc9613,Absolute Superman Event Pack Title,Absolute Superman Event,Absolute Superman's Last Chance Pack
+Func_ComicConStepUpOffer1,Comic Con Step Up,Comic Con Sales,Festival Chain 1/8
+Func_ComicConStepUpOffer2,Comic Con Step Up,Comic Con Sales,Festival Chain 2/8
+Func_ComicConStepUpOffer3,Comic Con Step Up,Comic Con Sales,Festival Chain 3/8
+Func_ComicConStepUpOffer4,Comic Con Step Up,Comic Con Sales,Festival Chain 4/8
+Func_ComicConStepUpOffer5,Comic Con Step Up,Comic Con Sales,Festival Chain 5/8
+Func_ComicConStepUpOffer6,Comic Con Step Up,Comic Con Sales,Festival Chain 6/8
+Func_ComicConStepUpOffer7,Comic Con Step Up,Comic Con Sales,Festival Chain 7/8
+Func_ComicConStepUpOffer8,Comic Con Step Up,Comic Con Sales,Festival Chain 8/8
+Func_ComicConDailyOffer,Comic Con Daily,Comic Con Sales,Super-Fest Deal!
+Func_ComicConSpecialOffer,Comic Con Special,Comic Con Sales,Festival Specials!
+Func_ComicConStepUpOfferDesc,Comic Con Daily Desc,Comic Con Sales,Hot Drops! - Resource Deals will refresh every 24hrs
+Func_ComicConStepUpOffer,Comic Con Step Up,Comic Con Sales,Hot Drops!
+Func_ComicCon,Comic Con Main Name,Comic Con Sales,Super-Fest Hub
+Func_YouthDay,YouthDay Day Sale Main Tab Title,YouthDay Day Sales,Youth Day Sale!
+Func_YouthDayDesc,YouthDay Day Sale Sub Tab Title,YouthDay Day Sales,Youth Day Specials!
+Func_YouthDayPackName,YouthDay Day Sale Pack Name,YouthDay Day Sales,Youth Day Deal
+Func_AbsoluteWwTokenShopDesc,Absolute Wonder Woman Event Sub Tab Desc,Absolute Wonder Woman Event,Absolute Wonder Woman Event Offers \nDeals will refresh every 24hrs
+Func_AbsoluteWwBadgeShopDesc,Absolute Wonder Woman Event Sub Tab Desc,Absolute Wonder Woman Event,Absolute Wonder Woman Limited Offers \nDeals will refresh every 24hrs
+Func_AbsoluteWwTokenShop,Absolute Wonder Woman Event Sub Tab Name,Absolute Wonder Woman Event,Absolute Wonder Woman Event Offers
+Func_AbsoluteWwBadgeShop,Absolute Wonder Woman Event Sub Tab Name,Absolute Wonder Woman Event,Absolute Wonder Woman Limited Offers
+Func_CatDayDailyOffer,Cat Day Daily Name,Cat Day Sales,Daily Nibbles!
+Func_CatDaySpecialOffer,Cat Day Special Name,Cat Day Sales,"Apex Feline Deal!	"
+Func_CatDay,Cat Day Main Name,Cat Day Sales,Kitty Treasure!
+Func_JusticeDayStepUp1,Justice Day Step Up,Justice Day Sales,Heroic Path 1/7
+Func_JusticeDayStepUp2,Justice Day Step Up,Justice Day Sales,Heroic Path 2/7
+Func_JusticeDayStepUp3,Justice Day Step Up,Justice Day Sales,Heroic Path 3/7
+Func_JusticeDayStepUp4,Justice Day Step Up,Justice Day Sales,Heroic Path 4/7
+Func_JusticeDayStepUp5,Justice Day Step Up,Justice Day Sales,Heroic Path 5/7
+Func_JusticeDayStepUp6,Justice Day Step Up,Justice Day Sales,Heroic Path 6/7
+Func_JusticeDayStepUp7,Justice Day Step Up,Justice Day Sales,Heroic Path 7/7
+Func_JusticeDaySpecialOffer,Justice Day Special,Justice Day Sales,Heroic Specials!
+Func_JusticeDayStepUpDesc,Justice Day Step Up Desc,Justice Day Sales,Heroic Path - March to the final reward and claim your free prize!
+Func_JusticeDayStepUp,Justice Day Step Up,Justice Day Sales,Heroic Path!
+Func_JusticeDay,Justice Day Main Name,Justice Day Sales,Heroes of Justice Sale!
+Func_AbsoluteBatmanTokenShopDesc,Absolute Batman Event Sub Tab Desc,Absolute Batman Event,Absolute Batman Event Offers \nDeals will refresh every 24hrs
+Func_AbsoluteBatmanBadgeShopDesc,Absolute Batman Event Sub Tab Desc,Absolute Batman Event,Absolute Batman Limited Offers \nDeals will refresh every 24hrs
+Func_AbsoluteBatmanTokenShop,Absolute Batman Event Sub Tab Name,Absolute Batman Event,Absolute Batman Event Offers
+Func_AbsoluteBatmanBadgeShop,Absolute Batman Event Sub Tab Name,Absolute Batman Event,Absolute Batman Limited Offers
+Func_BoosterGoldTokenShopDesc,BoosterGold Event Sub Tab Desc,Booster Gold Event,Booster Gold Event Offers \nDeals will refresh every 24hrs
+Func_BoosterGoldBadgeShopDesc,BoosterGold Event Sub Tab Desc,Booster Gold Event,Booster Gold Limited Offers \nDeals will refresh every 24hrs
+Func_BoosterGoldTokenShop,Booster Gold Event Sub Tab Name,Booster Gold Event,Booster Gold Event Offers
+Func_BoosterGoldBadgeShop,Booster Gold Event Sub Tab Name,Booster Gold Event,Booster Gold Limited Offers
+Func_AfricanDescent,YouthDay Day Sale Main Tab Title,YouthDay Day Sales,Descent Sale!
+Func_AfricanDescentDesc,YouthDay Day Sale Sub Tab Title,YouthDay Day Sales,Descent Specials!
+Func_AfricanDescentPackName,YouthDay Day Sale Pack Name,YouthDay Day Sales,Descent Deal
+Func_AbsoluteSupermanTokenShopDesc,Absolute Superman Event Sub Tab Desc,Absolute Superman Event,Absolute Superman Event Offers \nDeals will refresh every 24hrs
+Func_AbsoluteSupermanBadgeShopDesc,Absolute Superman Event Sub Tab Desc,Absolute Superman Event,Absolute Superman Limited Offers \nDeals will refresh every 24hrs
+Func_AbsoluteSupermanTokenShop,Absolute Superman Event Sub Tab Name,Absolute Superman Event,Absolute Superman Event Offers
+Func_AbsoluteSupermanBadgeShop,Absolute Superman Event Sub Tab Name,Absolute Superman Event,Absolute Superman Limited Offers
+Func_ExtradealsStepup,IAP Main Store,Extra deals - Step up ,Hot Deal
+ExtradealsStepup_StepUp_Pack,IAP Pack Name,Extra deals - Step up ,Reward Path
+Func_ExtradealsStepup_EightMetal,IAP Substore Name,Extra deals - Step up ,Eight Metal Path
+StoreDesc_ExtradealsStepup,IAP Substore Desc,Extra deals - Step up ,Progress to the grand reward and claim your free gift!
+Func_ExtradealsStepup_Motherbox,IAP Substore Name,Extra deals - Step up ,Motherbox Path
+Func_ExtradealsStepup_Reinforcement,IAP Substore Name,Extra deals - Step up ,Reinforcement Path
+Func_ExtradealsStepup_Artifact,IAP Substore Name,Extra deals - Step up ,Artifact Path
+Func_ExtradealsStepup_Titanium,IAP Substore Name,Extra deals - Step up ,Titanium Path
+Func_BlackLightningTokenShopDesc,Black Lightning Event Sub Tab Desc,Black Lightning Event,Black Lightning Event Offers \nDeals will refresh every 24hrs
+Func_BlackLightningBadgeShopDesc,Black Lightning Event Sub Tab Desc,Black Lightning Event,Black Lightning Limited Offers \nDeals will refresh every 24hrs
+Func_BlackLightningTokenShop,Black Lightning Event Sub Tab Name,Black Lightning Event,Black Lightning Event Offers
+Func_BlackLightningBadgeShop,Black Lightning Event Sub Tab Name,Black Lightning Event,Black Lightning Limited Offers
+Func_RelaxationDay,IAP Main Store,Relaxation Day,Special Relax Offers
+Func_RelaxationDay_Special,IAP Substore Name,Relaxation Day,Keep Calm and Recruit
+StoreDesc_RelaxationDay_Special,IAP Substore Desc,Relaxation Day,Keep Calm and Recruit
+RelaxationDay_StepUp_Pack_1,IAP Pack Name,Relaxation Day,Path of Harmony Step 1/6
+RelaxationDay_StepUp_Pack_2,IAP Pack Name,Relaxation Day,Path of Harmony Step 2/6
+RelaxationDay_StepUp_Pack_3,IAP Pack Name,Relaxation Day,Path of Harmony Step 3/6
+RelaxationDay_StepUp_Pack_4,IAP Pack Name,Relaxation Day,Path of Harmony Step 4/6
+RelaxationDay_StepUp_Pack_5,IAP Pack Name,Relaxation Day,Path of Harmony Step 5/6
+RelaxationDay_StepUp_Pack_6,IAP Pack Name,Relaxation Day,Path of Harmony Step 6/6
+Func_RelaxationDay_StepUp,IAP Substore Name,Relaxation Day,Path of Harmony
+StoreDesc_RelaxationDay_StepUp,IAP Substore Desc,Relaxation Day,Follow the Path of Harmony and earn your FREE rewards
+Func_SistersDay,IAP Main Store,Sisters Day,Limited Sisterhood Offer
+SistersDay_Special_Pack,IAP Pack Name,Sisters Day,The Golden Lasso Offer
+SistersDay_SistersDayNubia_Pack,IAP Pack Name,Sisters Day,The The Queen's Offer
+SistersDay_SistersDayWonderWoman_Pack,IAP Pack Name,Sisters Day,The Golden Lasso Offer
+SistersDay_SistersDayArtemis_Pack,IAP Pack Name,Sisters Day,The Queenslayer's Offer
+Func_SistersDay_SistersDayWonderWomanBundle,IAP Substore Name,Sisters Day,The Golden Lasso Suite
+Func_SistersDay_SistersDayNubiaBundle,IAP Substore Name,Sisters Day,The Queen's Suite
+Func_SistersDay_SistersDayArtemisBundle,IAP Substore Name,Sisters Day,The Queenslayer's Suite
+RelaxationDay_StepUp_Diamond_Pack_1,IAP Pack Name,Relaxation Day,Path of Bliss Step 1/7
+RelaxationDay_StepUp_Diamond_Pack_2,IAP Pack Name,Relaxation Day,Path of Bliss Step 2/7
+RelaxationDay_StepUp_Diamond_Pack_3,IAP Pack Name,Relaxation Day,Path of Bliss Step 3/7
+RelaxationDay_StepUp_Diamond_Pack_4,IAP Pack Name,Relaxation Day,Path of Bliss Step 4/7
+RelaxationDay_StepUp_Diamond_Pack_5,IAP Pack Name,Relaxation Day,Path of Bliss Step 5/7
+RelaxationDay_StepUp_Diamond_Pack_6,IAP Pack Name,Relaxation Day,Path of Bliss Step 6/7
+RelaxationDay_StepUp_Diamond_Pack_7,IAP Pack Name,Relaxation Day,Path of Bliss Step 7/7
+Func_RelaxationDay_StepUp_Diamond,IAP Substore Name,Relaxation Day,Path of Bliss
+StoreDesc_RelaxationDay_StepUp_Diamond,IAP Substore Desc,Relaxation Day,Follow the Path of Bliss and earn your FREE rewards
+Func_BlackAdamTokenShopDesc,Black Adam Event Sub Tab Desc,Black Adam Event,Black Adam Event Offers \nDeals will refresh every 24hrs
+Func_BlackAdamBadgeShopDesc,Black Adam Event Sub Tab Desc,Black Adam Event,Black Adam Limited Offers \nDeals will refresh every 24hrs
+Func_BlackAdamTokenShop,Black Adam Event Sub Tab Name,Black Adam Event,Black Adam Event Offers
+Func_BlackAdamBadgeShop,Black Adam Event Sub Tab Name,Black Adam Event,Black Adam Limited Offers
+Func_InternationalDogDayPacks,IAP Main Store,International Dog Day Packs,Puppy Pantry
+InternationalDogDayPacks_StepUp_Pack_1,IAP Pack Name,International Dog Day Packs,Puppy Step 1/6
+InternationalDogDayPacks_StepUp_Pack_2,IAP Pack Name,International Dog Day Packs,Puppy Step 2/6
+InternationalDogDayPacks_StepUp_Pack_3,IAP Pack Name,International Dog Day Packs,Puppy Step 3/6
+InternationalDogDayPacks_StepUp_Pack_4,IAP Pack Name,International Dog Day Packs,Puppy Step 4/6
+InternationalDogDayPacks_StepUp_Pack_5,IAP Pack Name,International Dog Day Packs,Puppy Step 5/6
+InternationalDogDayPacks_StepUp_Pack_6,IAP Pack Name,International Dog Day Packs,Puppy Step 6/6
+Func_InternationalDogDayPacks_StepUp,IAP Substore Name,International Dog Day Packs,Puppy Steps!
+StoreDesc_InternationalDogDayPacks_StepUp,IAP Substore Desc,International Dog Day Packs,Puppy Step!\nFollow to the end and claim your FREE rewards!
+InternationalDogDayPacks_Special_Pack,IAP Pack Name,International Dog Day Packs,Supply Deal
+Func_InternationalDogDayPacks_Special,IAP Substore Name,International Dog Day Packs,Pack Supplies!
+StoreDesc_InternationalDogDayPacks_Special,IAP Substore Desc,International Dog Day Packs,Pack Supplies!\nPurchasing fragments for owned reinforcements converts them into Lab Certificates.
+Func_FriendshipDay,IAP Main Store,Friendship Day,United Allies Special Offers
+FriendshipDay_Special_Pack1,IAP Pack Name,Friendship Day,Heavy Hitters Offer
+Func_FriendshipDay_Special1,IAP Substore Name,Friendship Day,Heavy Hitters Bundle
+StoreDesc_FriendshipDay_Special1,IAP Substore Desc,Friendship Day,Heavy Hitters Bundle
+FriendshipDay_Special_Pack2,IAP Pack Name,Friendship Day,Apex Crowd Control Offer
+Func_FriendshipDay_Special2,IAP Substore Name,Friendship Day,Apex Crowd Control Bundle
+StoreDesc_FriendshipDay_Special2,IAP Substore Desc,Friendship Day,Apex Crowd Control Bundle
+FriendshipDay_Special_Pack3,IAP Pack Name,Friendship Day,Young Justice Offer
+Func_FriendshipDay_Special3,IAP Substore Name,Friendship Day,Young Justice Bundle
+StoreDesc_FriendshipDay_Special3,IAP Substore Desc,Friendship Day,Young Justice Bundle

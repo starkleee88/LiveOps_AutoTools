@@ -1,0 +1,141 @@
+﻿RoomId,Id,Res,O,Type,Param,LayerTier,PicPosX,PicPosY,PosId,TagName,TagPosX,TagPosY,Bubble,,,,,
+Room ID,Layer ID,Layer Resource,Name Remarks,"Layer Type
+1-Layers that exist by default when the room is build
+2-Decorative items that need to be collected by the player
+3-Mini-game entry
+4-Collection item entry
+5-Dispatch entry
+6-specific collection item content","Type Parameter
+type=1, fill in 0
+type =2, fill in associated item ID
+type=3, fill in the mini game id
+type=4, fill in the collection id
+type=5, 0
+type=6, fill in the unlocked item id","Layers
+bigger numbers are in the upper layers",Pic Pos X,Pic Pos Y,unlock location ID,tag name,tag offset x,tag offset y,bubble text,,,,,
+index,index,string,O,int,array-int,int,int,int,int,string,int,int,string,,,,,
+1,1,ui_basement_img_bg18_Batgirl,Batgirl - Teddy Bear,2,1160101,50,-352,-1,102,,,,Basement_Bubble101,160,385,,-352,-1
+1,2,ui_basement_img_bg21_Batgirl,Batgirl - Oracle System,2,1160102,10,205,126,105,,,,Basement_Bubble102,717,258,,205,126
+1,3,ui_basement_img_bg15_Batgirl,Batgirl - Trophy,2,1160103,50,-440,128,,,,,,72,256,,-440,128
+1,4,ui_basement_img_bg14_Batgirl,Batgirl - Utility Belt,2,1160104,60,-416,-55,106,,,,Basement_Bubble103,96,439,,-416,-55
+1,5,ui_basement_img_bg02_Batgirl,Batgirl - Book 1,6,1160105,20,-74,108,,,,,,438,276,,-74,108
+1,6,ui_basement_img_bg03_Batgirl,Batgirl - Book 2,6,1160106,20,-58,49,,,,,,454,335,,-58,49
+1,7,ui_basement_img_bg04_Batgirl,Batgirl - Book 3,6,1160107,20,-53,106,,,,,,459,278,,-53,106
+1,8,ui_basement_img_bg05_Batgirl,Batgirl - Book 4,6,1160108,20,-23,102,,,,,,489,282,,-23,102
+1,9,ui_basement_img_bg06_Batgirl,Batgirl - Book 5,6,1160109,20,-14,102,,,,,,498,282,,-14,102
+1,10,ui_basement_img_bg07_Batgirl,Batgirl - Book 6,6,1160110,20,-2,108,,,,,,510,276,,-2,108
+1,11,ui_basement_img_bg08_Batgirl,Batgirl - Book 7,6,1160111,20,-45,46,,,,,,467,338,,-45,46
+1,12,ui_basement_img_bg09_Batgirl,Batgirl - Book 8,6,1160112,20,-22,41,,,,,,490,343,,-22,41
+1,13,ui_basement_img_bg10_Batgirl,Batgirl - Book 9,6,1160113,20,29,-10,,,,,,541,394,,29,-10
+1,14,ui_basement_img_bg11_Batgirl,Batgirl - Book 10,6,1160114,20,53,47,,,,,,565,337,,53,47
+1,15,ui_basement_img_bg12_Batgirl,Batgirl - Book 11,6,1160115,20,-45,-2,,,,,,467,386,,-45,-2
+1,16,ui_basement_img_bg13_Batgirl,Batgirl - Book 12,6,1160116,20,3,26,,,,,,515,358,,3,26
+1,17,ui_basement_img_bg19_Batgirl,Batgirl - Dispatch Entrance,5,,10,152,82,,Func_Dispatch,0,-50,,664,302,,152,82
+1,18,ui_basement_img_bg20_Batgirl,Batgirl - Collection Item,4,,10,-127,212,,Basement_CinnabarName1,0,70,,385,172,,-127,212
+2,1,ui_basement_img_bg02_Catman,Catwoman - Famous Painting,2,1160201,10,-66,70,,,,,,446,314,,-66,70
+2,2,ui_basement_img_bg07_Catman,Catwoman - Wall Clock,2,1160202,20,-400,202,202,,,,Basement_Bubble202,112,182,,-400,202
+2,3,ui_basement_img_bg013_Catman,Catwoman - Antique,2,1160203,30,-479,111,205,,,,Basement_Bubble203,33,273,,-479,111
+2,4,ui_basement_img_bg11_Catman,Catwoman - Mahjong Table,2,1160204,20,-357,-13,206,,,,Basement_Bubble204,155,397,,-357,-13
+2,5,ui_basement_img_bg17_Catman,Catwoman - Helmet,2,1160205,20,203,1,,,,,,715,383,,203,1
+2,6,ui_basement_img_bg04_Catman,Catwoman - Jewelry 1,6,1160217,11,-200,127,,,,,,312,257,,-200,127
+2,7,ui_basement_img_bg05_Catman,Catwoman - Jewelry 2,6,1160215,11,-170,36,,,,,,342,348,,-170,36
+2,8,ui_basement_img_bg06_Catman,Catwoman - Jewelry 3,6,1160216,11,-125,5,,,,,,387,379,,-125,5
+2,9,ui_basement_img_bg08_Catman,Catwoman - Jewelry 4,6,1160210,11,-198,26,,,,,,314,358,,-198,26
+2,10,ui_basement_img_bg09_Catman,Catwoman - Jewelry 5,6,1160211,11,-176,0,,,,,,336,384,,-176,0
+2,11,ui_basement_img_bg010_Catman,Catwoman - Jewelry 6,6,1160212,11,-140,29,,,,,,372,355,,-140,29
+2,12,ui_basement_img_bg14_Catman,Catwoman - Jewelry 7,6,1160214,11,-190,105,,,,,,322,279,,-190,105
+2,13,ui_basement_img_bg15_Catman,Catwoman - Jewelry 8,6,1160206,11,-163,8,,,,,,349,376,,-163,8
+2,14,ui_basement_img_bg16_Catman,Catwoman - Jewelry 9,6,1160213,11,-149,9,,,,,,363,375,,-149,9
+2,15,ui_basement_img_bg18_Catman,Catwoman - Jewelry 10,6,1160209,11,-212,104,,,,,,300,280,,-212,104
+2,16,ui_basement_img_bg19_Catman,Catwoman - Jewelry 11,6,1160208,11,-165,116,,,,,,347,268,,-165,116
+2,17,ui_basement_img_bg20_Catman,Catwoman - Jewelry 12,6,1160207,11,-136,153,,,,,,376,231,,-136,153
+2,18,ui_basement_img_bg03_Catman,Catwoman - Collection Item,4,,10,-248,195,,Basement_CinnabarName2,0,90,,264,189,,-248,195
+3,1,ui_basement_img_bg01_Batman,Batman - Mug,2,1160301,30,-413,-56,,,,,,99,440,,-413,-56
+3,2,ui_basement_img_bg02_Batman,Batman - Ticket Stub,2,1160302,20,412,-5,302,,,,Basement_Bubble302,924,389,,412,-5
+3,3,ui_basement_img_bg09_Batman,Batman - Family Photo,2,1160303,30,-511,-17,,,,,,1,401,,-511,-17
+3,4,ui_basement_img_bg10_Batman,Batman - Joker Poker,2,1160304,10,219,384,305,,,,Basement_Bubble304,731,0,,219,384
+3,5,ui_basement_img_bg12_Batman,Batman - Batsuit,2,1160305,10,-288,104,302,,,,Basement_Bubble314,224,280,,-288,104
+3,14,ui_basement_img_bg11_Batman,Batman - Envelope,2,1160314,20,355,-58,,,,,,867,442,,355,-58
+3,6,ui_basement_img_bg03_Batman,Batman - Tower of Babel Plan,6,1160307,11,-448,148,,,,,,64,236,,-448,148
+3,7,ui_basement_img_bg04_Batman,Batman - Tower of Babel Plan,6,1160310,11,-445,86,,,,,,67,298,,-445,86
+3,8,ui_basement_img_bg05_Batman,Batman - Tower of Babel Plan,6,1160309,11,-390,139,,,,,,122,245,,-390,139
+3,9,ui_basement_img_bg06_Batman,Batman - Tower of Babel Plan,6,1160306,11,-390,85,,,,,,122,299,,-390,85
+3,10,ui_basement_img_bg07_Batman,Batman - Tower of Babel Plan,6,1160308,11,-390,30,,,,,,122,354,,-390,30
+3,11,ui_basement_img_bg08_Batman,Batman - Tower of Babel Plan,6,1160311,11,-445,28,,,,,,67,356,,-445,28
+3,12,ui_basement_img_bg13_Batman,Batman - Collection Item,4,,10,-503,176,,Basement_CinnabarName3,33,111,,9,208,,-503,176
+3,13,ui_basement_img_bg14_Batman,Batman - Mini-Game,3,3102,10,-92,138,,MiniGameGuess_Name,0,50,,420,246,,-92,138
+4,1,ui_basement_img_bg06_Greenarrow,Green Arrow - Green Arrow Motorcycle,2,1160401,50,-504,53,402,,,,Basement_Bubble401,8,331,,-504,53
+4,2,ui_basement_img_bg02_Greenarrow,Green Arrow - Ball Machine,2,1160402,30,113,68,405,,,,Basement_Bubble402,625,316,,113,68
+4,3,ui_basement_img_bg03_Greenarrow,Green Arrow - Star City Map,2,1160403,30,207,117,,,,,,719,267,,207,117
+4,4,ui_basement_img_bg09_Greenarrow,Green Arrow - Group Photo,2,1160404,40,374,65,406,,,,Basement_Bubble404,886,319,,374,65
+4,5,ui_basement_img_bg08_Greenarrow,Green Arrow - Repair Station,2,1160405,30,355,31,,,,,,867,353,,355,31
+4,6,ui_basement_img_arrow01_Greenarrow,Green Arrow - Arrow 1,6,1160410,11,-108,33,,,,,,404,351,,-108,33
+4,7,ui_basement_img_arrow02_Greenarrow,Green Arrow - Arrow 2,6,1160407,11,-101,33,,,,,,411,351,,-101,33
+4,8,ui_basement_img_arrow03_Greenarrow,Green Arrow - Arrow 3,6,1160408,11,-92,33,,,,,,420,351,,-92,33
+4,9,ui_basement_img_arrow04_Greenarrow,Green Arrow - Arrow 4,6,1160409,11,-83,33,,,,,,429,351,,-83,33
+4,10,ui_basement_img_arrow05_Greenarrow,Green Arrow - Arrow 5,6,1160416,11,-75,33,,,,,,437,351,,-75,33
+4,11,ui_basement_img_arrow06_Greenarrow,Green Arrow - Arrow 6,6,1160412,11,-56,33,,,,,,456,351,,-56,33
+4,12,ui_basement_img_arrow07_Greenarrow,Green Arrow - Arrow 7,6,1160413,11,-48,33,,,,,,464,351,,-48,33
+4,13,ui_basement_img_arrow08_Greenarrow,Green Arrow - Arrow 8,6,1160411,11,-39,33,,,,,,473,351,,-39,33
+4,14,ui_basement_img_arrow09_Greenarrow,Green Arrow - Arrow 9,6,1160414,11,-29,33,,,,,,483,351,,-29,33
+4,15,ui_basement_img_arrow10_Greenarrow,Green Arrow - Arrow 10,6,1160415,11,-19,33,,,,,,493,351,,-19,33
+4,16,ui_basement_img_arrow11_Greenarrow,Green Arrow - Arrow 11,6,1160406,11,-12,33,,,,,,500,351,,-12,33
+4,17,ui_basement_img_arrow12_Greenarrow,Green Arrow - Arrow 12,6,1160417,11,0,33,,,,,,512,351,,0,33
+4,18,ui_basement_img_bg04_Greenarrow,Green Arrow - Collection Item,4,,10,-121,12,,Basement_CinnabarName4,0,-36,,391,372,,-121,12
+4,19,ui_basement_img_bow_Greenarrow,Green Arrow - Mini-Game,3,3103,9,-71,80,,MiniGameShoot_Name,0,30,,441,304,,-71,80
+5,1,ui_basement_img_knife02_Deathstroke,Deathstroke - Cretan Sword,2,1160501,50,-455,49,,,,,,57,335,,-455,49
+5,2,ui_basement_img_bg04_Deathstroke,Deathstroke - Icon Uniform,2,1160502,30,183,163,503,,,,Basement_Bubble501,695,221,,183,163
+5,3,ui_basement_img_knife01_Deathstroke,Deathstroke - Godslayer Weapon,2,1160503,30,-455,133,502,,,,Basement_Bubble502,57,251,,-455,133
+5,4,ui_basement_img_bg02_Deathstroke,Deathstroke - Videotape,2,1160504,40,302,1,504,,,,Basement_Bubble503,814,383,,302,1
+5,5,ui_basement_img_bg06_Deathstroke,Deathstroke - Multifunctional Staff,2,1160505,30,-173,104,,,,,,339,280,,-173,104
+5,6,ui_basement_img_gun01_Deathstroke,Deathstroke - Collection Item 1,6,1160506,11,-76,119,,,,,,436,265,,-76,119
+5,7,ui_basement_img_gun02_Deathstroke,Deathstroke - Collection Item 2,6,1160511,11,2,119,,,,,,514,265,,2,119
+5,8,ui_basement_img_gun03_Deathstroke,Deathstroke - Collection Item 3,6,1160508,11,-77,73,,,,,,435,311,,-77,73
+5,9,ui_basement_img_gun04_Deathstroke,Deathstroke - Collection Item 4,6,1160509,11,2,73,,,,,,514,311,,2,73
+5,10,ui_basement_img_gun05_Deathstroke,Deathstroke - Collection Item 5,6,1160510,11,-77,27,,,,,,435,357,,-77,27
+5,11,ui_basement_img_gun06_Deathstroke,Deathstroke - Collection Item 6,6,1160507,11,2,27,,,,,,514,357,,2,27
+5,12,ui_basement_img_missiles01_Deathstroke,Deathstroke - Collection Item 7,6,1160512,11,91,117,,,,,,603,267,,91,117
+5,13,ui_basement_img_missiles02_Deathstroke,Deathstroke - Collection Item 8,6,1160513,11,115,117,,,,,,627,267,,115,117
+5,14,ui_basement_img_missiles03_Deathstroke,Deathstroke - Collection Item 9,6,1160514,11,91,72,,,,,,603,312,,91,72
+5,15,ui_basement_img_missiles04_Deathstroke,Deathstroke - Collection Item 10,6,1160515,11,115,72,,,,,,627,312,,115,72
+5,16,ui_basement_img_missiles05_Deathstroke,Deathstroke - Collection Item 11,6,1160516,11,91,27,,,,,,603,357,,91,27
+5,17,ui_basement_img_missiles06_Deathstroke,Deathstroke - Collection Item 12,6,1160517,11,115,27,,,,,,627,357,,115,27
+5,18,ui_basement_img_bg05_Deathstroke,Deathstroke,4,,10,-98,161,,Basement_CinnabarName5,0,85,,414,223,,-98,161
+5,19,ui_basement_img_bg03_Deathstroke,Deathstroke,3,3104,9,-295,75,,MiniGameWeapon_Name,0,50,,217,309,,-295,75
+6,1,ui_basement_img_bg19_Sinestro,Sinestro - Yellow Lantern Ring Forge,2,1160601,20,-425,5,602,,,,Basement_Bubble601,87,379,,-425,5
+6,2,ui_basement_img_bg18_Sinestro,Sinestro - Yellow Lantern Battery,2,1160602,20,-310,74,,,,,,202,310,,-310,74
+6,3,ui_basement_img_bg05_Sinestro,Sinestro - Sinestro's Throne,2,1160603,10,-343,49,603,,,,Basement_Bubble602,169,335,,-343,49
+6,4,ui_basement_img_bg07_Sinestro,Sinestro - Parallax Model,2,1160604,10,84,108,,,,,,596,276,,84,108
+6,5,ui_basement_img_bg03_Sinestro,Sinestro - Space Pod,2,1160605,30,-512,-43,604,,,,Basement_Bubble604,0,427,,-512,-43
+6,6,ui_basement_img_bg06_Sinestro,Sinestro - Memory-Laden Photo,2,1160606,10,-62,134,605,,,,Basement_Bubble603,450,250,,-62,134
+6,7,ui_basement_img_bg13_Sinestro,Sinestro - Block 09801,6,1160607,70,-84,88,,,,,,428,296,,-84,88
+6,8,ui_basement_img_bg08_Sinestro,Sinestro - Block 01902,6,1160608,80,-55,26,,,,,,457,358,,-55,26
+6,9,ui_basement_img_bg21_Sinestro,Sinestro - Block 06403,6,1160609,70,-134,-11,,,,,,378,395,,-134,-11
+6,10,ui_basement_img_bg14_Sinestro,Sinestro - Block 07204,6,1160610,70,-98,30,,,,,,414,354,,-98,30
+6,11,ui_basement_img_bg11_Sinestro,Sinestro - Block 18301,6,1160611,70,-120,4,,,,,,392,380,,-120,4
+6,12,ui_basement_img_bg15_Sinestro,Sinestro - Block 14702,6,1160612,80,-51,41,,,,,,461,343,,-51,41
+6,13,ui_basement_img_bg16_Sinestro,Sinestro - Block 15203,6,1160613,80,24,-13,,,,,,536,397,,24,-13
+6,14,ui_basement_img_bg17_Sinestro,Sinestro - Block 10904,6,1160614,90,50,-24,,,,,,562,408,,50,-24
+6,15,ui_basement_img_bg09_Sinestro,Sinestro - Block 21701,6,1160615,90,-163,-30,,,,,,349,414,,-163,-30
+6,16,ui_basement_img_bg10_Sinestro,Sinestro - Block 28402,6,1160616,90,-144,-1,,,,,,368,385,,-144,-1
+6,17,ui_basement_img_bg20_Sinestro,Sinestro - Block 26003,6,1160617,90,-5,-39,,,,,,507,423,,-5,-39
+6,18,ui_basement_img_bg12_Sinestro,Sinestro - Block 23104,6,1160618,90,-97,23,,,,,,415,361,,-97,23
+6,19,ui_basement_img_bg02_Sinestro,Sinestro,4,,60,-216,-43,,Basement_CinnabarName6,0,22,,296,427,,-216,-43
+6,20,ui_basement_img_bg04_Sinestro,Sinestro,3,3105,90,292,118,,MiniGameSector_Name,15,-90,,804,266,,292,118
+7,1,ui_basement_img_bg06_Raven,Raven - Sweet Memories,2,1160701,10,53,19,703,,,,Basement_Bubble702,565,365,,53,19
+7,2,ui_basement_img_bg07_Raven,Raven - High School ID,2,1160702,30,355,-6,,,,,,867,390,,355,-6
+7,3,ui_basement_img_bg09_Raven,Raven - Magical Pendant,2,1160703,10,-102,-2,702,,,,Basement_Bubble701,410,386,,-102,-2
+7,4,ui_basement_img_bg05_Raven,Raven - Black Backpack,2,1160704,30,-233,-49,,,,,,279,433,,-233,-49
+7,5,ui_basement_img_bg02_Raven,Raven - Wonder Woman Poster,2,1160705,10,-177,147,704,,,,Basement_Bubble703,335,237,,-177,147
+7,6,ui_basement_img_bg04_Raven,Raven - Wonder Woman Doll,2,1160706,20,-249,37,,,,,,263,347,,-249,37
+7,7,ui_basement_img_bg03_Raven,Raven - Teen Titans Tower Model,2,1160707,1,160,149,705,,,,Basement_Bubble704,672,235,,160,149
+7,8,ui_basement_img_bg08_Raven,Raven - Decorative Belt,2,1160708,50,323,-79,,,,,,835,463,,323,-79
+8,1,ui_basement_img_bg06_Manhunter,Martian Manhunter - Chocolate Cookie,2,1160801,60,-435,81,802,,,,Basement_Bubble801,77,303,,-435,81
+8,2,ui_basement_img_bg08_Manhunter,Martian Manhunter - Kuru Tag,2,1160802,30,8,142,,,,,,520,242,,8,142
+8,3,ui_basement_img_bg05_Manhunter,Martian Manhunter - Badge and Handcuffs,2,1160803,80,372,-25,,,,,,884,409,,372,-25
+8,4,ui_basement_img_bg02_Manhunter,Martian Manhunter - Martian Plant,2,1160804,80,-447,-29,804,,,,Basement_Bubble803,65,413,,-447,-29
+8,5,ui_basement_img_bg09_Manhunter,Martian Manhunter - Martian Romance,2,1160805,20,190,145,,,,,,702,239,,190,145
+8,6,ui_basement_img_bg07_Manhunter,Martian Manhunter - Holographic Earth,2,1160806,50,-349,120,805,,,,Basement_Bubble804,163,264,,-349,120
+8,7,ui_basement_img_bg03_Manhunter,Martian Manhunter - Martian Manhunter Doll,2,1160807,20,117,83,,,,,,629,301,,117,83
+8,8,ui_basement_img_bg04_Manhunter,Martian Manhunter - Police Uniform,2,1160808,60,216,1,803,,,,Basement_Bubble802,728,383,,216,1
+8,9,ui_basement_img_bg10_Manhunter,Martian Manhunter,3,3106,30,-255,146,,MiniGameMind_Name,0,70,,257,238,,-255,146

@@ -1,0 +1,6 @@
+﻿Id,TimeMin,TimeMax,PointFactor
+id,Time Lower Limit (Must be a closed interval),Time Max Limit,Point Multiplier
+index,int,int,int
+1,70,90,10
+2,20,70,8
+3,0,20,5

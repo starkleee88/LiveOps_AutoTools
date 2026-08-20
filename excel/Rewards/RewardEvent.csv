@@ -1,0 +1,10 @@
+Key,RewardID,O,HitType,Weight,RuleParams,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,O
+,Reward ID,Note,Randomization,Weights,depricated?,item ID,Amount,Open method,item ID 2,Amount 2,Open method 2,item ID 3,Amount 3,Open method 3,item ID 4,Amount 4,Open method 4,item ID 5,Amount 5,Open method 5,item ID 6,Amount 6,Open method 6,item ID 7,Amount 7,Open method 7,item ID 8,Amount 8,Open method 8,item ID 9,Amount 9,Open method 9,Notes
+index,int,O,int,int,array-int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,O
+9077101,19077101,Temporary 3x Victors Arena rewards - 64,1,,,111212,3600,,,,,,,,,,,,,,,,,,,,,,,,,,
+9077102,19077102,Temporary 3x Victors Arena rewards - 32,1,,,111212,4200,,,,,,,,,,,,,,,,,,,,,,,,,,
+9077103,19077103,Temporary 3x Victors Arena rewards - 16,1,,,111212,4800,,,,,,,,,,,,,,,,,,,,,,,,,,
+9077104,19077104,Temporary 3x Victors Arena rewards - 8,1,,,111212,6000,,111202,3000,,,,,,,,,,,,,,,,,,,,,,,
+9077105,19077105,Temporary 3x Victors Arena rewards - 4,1,,,111212,7500,,111202,4500,,201401,1,,,,,,,,,,,,,,,,,,,,
+9077106,19077106,Temporary 3x Victors Arena rewards - 2,1,,,111212,9000,,111202,6000,,201401,3,,,,,,,,,,,,,,,,,,,,
+9077107,19077107,Temporary 3x Victors Arena rewards - 1,1,,,111212,12000,,111202,12000,,201401,5,,,,,,,,,,,,,,,,,,,,

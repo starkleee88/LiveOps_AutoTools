@@ -1,0 +1,14 @@
+﻿ID,,Unlocked,AdventureStageID,StartTime,Reward,Name,Icon,HeroName,ChapterName,SharePic,ZoneEvent
+Chapter ID,Remark,"Can it be opened? 
+=1 means it has been added to the version and can be opened. 
+=0 means it has not been added to the version but the entrance needs to be displayed and locked. Click the prompt ""Stay tuned""","Open chapter level
+=Number of chapters*100+Number of levels
+1. After clearing this level, the unlocking conditions are met
+2. The time conditions must be met at the same time",Opening time,Chapter Clearance Rewards,Chapter Name,Entrance illustration,Share page title 1,Share page title 2,Share page background image,Wwise Audio Events
+index,,int,int,string,int,string,string,string,string,string,string
+1,Green Arrow Origins,1,,20000101_160000,19050100,Story_Name_1,ui_icon_heroheadillustration13119,profileavatarname19,Story_ChapterName_1,ui_icon_heroheadillustration13119,Set_Zone_GA
+2,Batman Origins,0,,20350101_160000,,Story_Name_2,ui_icon_heroheadillustration13102,,,,
+3,Wonder Woman Origins,1,730,20000101_160000,19060100,Story_Name_3,ui_icon_heroheadillustration13103,profileavatarname3,Story_ChapterName_3,ui_icon_heroheadillustration13103,Set_Zone_WW
+4,Cyborg Origin,1,1130,20220127_000000,19060106,Story_Name_7,ui_icon_heroheadillustration13113,profileavatarname13,Story_ChapterName_4,ui_icon_heroheadillustration13113,Set_Zone_Cyborg
+5,Catwoman Origin,0,,20350101_160000,,Story_Name_5,ui_icon_heroheadillustration13117,,,,
+6,Batgirl Origins,0,,20350101_160000,,Story_Name_6,ui_icon_heroheadillustration13130,,,,

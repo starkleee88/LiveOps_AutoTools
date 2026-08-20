@@ -1,0 +1,117 @@
+﻿Key,en,Module,Explanation,Version
+,,,,
+string,string,,,
+MailContent_NS_ForgetReward,You have uncollected rewards from the Character Points Ranking event. Please collect them.,排行榜奖励补发,邮件正文,OBT版本
+MailContent_GuildKick,You have been removed your current League.,guild,Guild kicked out email,OBT版本
+Warworld_Mailtitle,Warworld Rewards,战争世界,结算邮件标题,OBT版本
+MailSource_ItemExpired,Warehouse Administrator,过期道具回收,发件人,OBT版本
+MailSource_InfArenaGM,Elite Arena Administrator,Gladiator Arena-Rank Rewards,,OBT版本
+MailTitle_Dcard,Uncommon Character Fragments Recycle,D卡分解,补偿邮件标题,OBT版本
+MailTitle_InfArenaRank,Uncollected Tier Rewards,角斗士竞技场-段位奖励,,OBT版本
+MailTitle_InfArenaPersonRank,Victors Arena - Personal Glory,角斗士竞技场-个人奖励,,OBT版本
+MailTitle_InfArenaGuild,Victors Arena - League Glory,Gladiator Arena - Guild Rewards,,OBT版本
+RiddleMail04,The What am I Event is Ending,蝙蝠侠电影活动,邮件标题,OBT版本
+MailTitle_MonthCardPro,Super Monthly Card Reward Reissue,高级月卡,高级月卡,OBT版本
+MailTitle_AllyBoss,Stopping Kilg%re Event Rewards,邮件,,OBT版本
+MailTitle_AllyBoss_105,Special Training Event Rewards,【哈尔乔丹活动】,Boss奖励发放,OBT版本
+MailTitle_AllyBoss02,Cyborg Event Rewards,,,OBT版本
+MailTitle_AllyBoss03,Source of Terror Event Rewards,【塞尼斯托活动】,Boss奖励发放,OBT版本
+MailTitle_ItemExpired,Recycling Expired Items,过期道具回收,邮件标题,OBT版本
+MailTitle_ThirdPay,Purchase Complete Notification,三方支付,三方支付购买通知邮件,OBT版本
+MailTitle_BP,Public Security Reward Reissue,BP,bp-邮件补发,OBT版本
+MailSource_BP,Program Distribution Division,BP,bp-邮件补发,OBT版本
+MailTitle_InfArenaGuess,Prediction Rewards,角斗士竞技场-竞猜奖励,,OBT版本
+Mailtitle_Gve,League Challenge Ranking Rewards,GVE,LC ranking results title,OBT版本
+MailContent_Gve,"Your league's performance in the last League Challenge earned you a place in the League Rankings! Your League's final ranking was No. <color=#FAA520>{0}</color>, and here are your rewards!\n\nKeep up the hard work and keep pushing to reach <color=#FAA520>higher difficulties</color> and <color=#FAA520>unlock better and better rewards</color> for you and your League.\n\nHere is how you and your fellow League members contributed:\n{1}",GVE,LC ranking results body,OBT版本
+Mailtitle_Gve_UnclaimedRewards,Unclaimed League Challenge Rewards,GVE,Sending unclaimed prior challenge rewards,OBT版本
+MailContent_Gve_UnclaimedRewards,"Your recent League Challenge ended with unclaimed rewards. We've bundled them up and sent them your way, attached to this message.\n\nThanks for participating! We hope you can lend a hand in your League's next Challenge, too.",GVE,Sending unclaimed prior challenge rewards,OBT版本
+MailTitle_SignIn,Newcomer 7-day Log In Reward Adjustments,新手7日签到,邮件标题,OBT版本
+MailTitle_NS_PataReward,Limited-time Convergence Crisis Ranking Rewards,7日爬塔排行,邮件标题,OBT版本
+MailTitle_NS_JifenReward,Limited-time Character Points Ranking Rewards,15日盟友积分排行,邮件标题,OBT版本
+MailTitle_NS_PVPReward,Limited-time Arena Ranking Rewards,7日竞技场排行,邮件标题,OBT版本
+MailTitle_PicFrag,Illustration Fragments Returned,画册邮件,邮件标题,OBT版本
+RiddleMail02,"I found the clue left by the Riddler! It was actually hidden here... I spent so much effort looking for it.
+It's all thanks to you, kind person. Here's a little token to show my appreciation.",蝙蝠侠电影活动,邮件内容,OBT版本
+MailTitle_GuildKick,League Removal Notification,公会,公会被踢邮件,OBT版本
+MailSource_PicFrag,League Administrator,画册邮件,发件人,OBT版本
+MailSource_GuildKick,League Administrator,公会,公会被踢邮件,OBT版本
+MailTitle_AllyBoss04,Gas Leak Crisis Event Rewards,【火星猎人活动】,Boss奖励发放,OBT版本
+MailSource_5,Equipment Management Area,邮件,,OBT版本
+MailTitle_5,Equipment Compensation,邮件,,OBT版本
+MailContent_PicFrag,"Due to your departure from the League, the exchange information you posted will be removed automatically. The Illustration Fragments included will be returned to your Illustration Fragment Backpack.",Album email,Email content,OBT版本
+MailContent_AllyBoss02,"Your performance in <color=#FAA520>{0}</color> event was outstanding! Your final ranking is No. <color=#FAA520>{1}</color>, and your rewards are as follows. Please collect them.",【S活动】通用,排行榜奖励_邮件内容,OBT版本
+MailContent_InfArenaGuild,"Your League member <color=#FAA520>{0}</color> emerged as the <color=#FAA520>{1}</color> in Victors Arena Season {2} and won a reward for all League members. Please collect it.(A maximum of 3 rewards will be issued for each League, and those with higher rankings will be issued first)",角斗士竞技场-公会奖励,,OBT版本
+MailContent_4,You have reached the maximum number of chips. Excess chips will be retained in your mail. Please clear excess chips from your Backpack as soon as possible.,邮件,,OBT版本
+MailContent_5,You have reached the maximum amount of equipment. Excess equipment will be retained in your mail. Please clear excess equipment from your Backpack as soon as possible.,邮件,,OBT版本
+MailContent_Dcard,"With regard to the issues raised by players, we have simplified the process of exchanging character fragments. The exchange is now automatic. Uncommon character fragments obtained in the future will automatically be exchanged for the corresponding amount of Titanium. We have already exchanged the uncommon character fragments that you currently possess based on the determined ratio. Please claim your items. Thank you for your support and understanding!",D卡分解,补偿邮件内容,OBT版本
+MailContent_ItemExpired_01,The Proof of Truth event has ended. The Blueberry Ice Cream and Strawberry Ice Cream in your Backpack have expired. We have automatically converted them into other resources. Please claim in time!,过期道具回收,邮件内容,OBT版本
+MailContent_ItemExpired_04,he Other Side of Justice event has ended. The Silver Coins and Old Coins in your Backpack have expired. We have automatically converted them into other resources. Please claim them in time!,过期道具回收,邮件内容,OBT版本
+MailContent_ItemExpired_101,The Deathstroke  event has ended. We have automatically converted the event items in your Backpack into other resources.,,,OBT版本
+MailContent_ItemExpired_103,The Laboratory Theft Investigation event has ended. We have automatically converted the <color=#FAA520>Apparatus Fragments</color> and <color=#FAA520>Damaged Apparatus Fragments</color> in your Backpack into other resources. Please claim them in time!,【火星猎人活动】,代币回收,OBT版本
+MailContent_ItemExpired_102,The Korugar Defense Event has ended. We have automatically converted the <color=#FAA520>New Korugarian Coins</color> and <color=#FAA520>Old Korugarian Coins</color> in your Backpack into other resources. Please claim them in time!,【塞尼斯托活动】,代币回收,OBT版本
+MailContent_ItemExpired_1005,The Frosty Kiss event has ended. The White Ice Crystals and Blue Ice Crystals in your Backpack have expired. We have automatically converted them into other resources. Please claim them in time!,过期道具回收,邮件内容,OBT版本
+MailContent_ItemExpired_105,The Emerald Mission event has ended. We have automatically converted the <color=#FAA520>Coins of Courage</color> and the <color=#FAA520>Coins of Will</color> in your Backpack into other resources. Please claim them in time!,【哈尔乔丹活动】,代币回收,OBT版本
+MailContent_ItemExpired_tower,The Convergence Crisis event has been completely upgraded. Some of the Communication Spheres in your Backpack has expired. We have automatically converted them into other resources. Please claim them in time!,爬塔通讯球回收邮件,邮件内容,OBT版本
+MailContent_ItemExpired_8021,The Reinforcement Research event has ended. The Supplementary Data in your Backpack have expired. We have automatically converted them into other resources. Please claim them in time!,藏品活动,过期道具回收,OBT版本
+MailContent_ItemExpired_8001,The Reinforcement Research event has ended. The Research Data in your Backpack have expired. We have automatically converted them into other resources. Please claim them in time!,藏品活动,过期道具回收,OBT版本
+MailContent_ItemExpired_02,The Circle of Eternity event has ended. The Magic Gloves and Magic Gauntlets in your Backpack have expired. We have automatically converted them into other resources. Please claim in time!,过期道具回收,邮件内容,OBT版本
+Warworld_MailText,Thank you all for giving the audience such a skillful performance. Last season's tier rankings in the Arena has been finalized. Your final tier is <color=#FAA520>{0}</color>. Please claim your reward befitting a champion from the attachment!,战争世界,结算邮件正文,OBT版本
+MailContent_ItemExpired_06,"Following the Equipment System's upgrade, the Equipment Shop has ceased operations. The Equipment Certificates in your Backpack have expired. We will be converting it to Evil Falls currency, at a rate of 1 Equipment Certificate to 3 Evil Falls currency. Please claim them in time!",过期道具回收,邮件内容,OBT版本
+MailContent_InfArenaPersonRank,Congratulations! You emerged as the <color=#FAA520>{0}</color> in Victors Arena Season {1}. Here is the reward befitting your glory. Please collect it.,角斗士竞技场-个人奖励,,OBT版本
+MailContent_InfArenaGuess,Congratulations on predicting correctly in the last round of predictions. Here are your Prediction Rewards. Please collect them.,角斗士竞技场-竞猜奖励,,OBT版本
+MailContent_InfArenaRank,A new season has started. You have some uncollected Tier Rewards left in the Arena. Please collect them.,角斗士竞技场-段位奖励,,OBT版本
+MailContent_ItemExpired_05,<color=#FAA520>{0}</color>The event has ended. We have automatically converted the <color=#FAA520>{1}</color> in your Backpack into other resources. Please claim them in time!,过期道具回收,邮件内容,OBT版本
+MailContent_ItemExpired_07,<color=#FAA520>{0}</color>The event has ended. The <color=#FAA520>{1}</color> and <color=#FAA520>{2}</color> in your Backpack have expired. We have automatically converted them into other resources. Please claim them in time!,过期道具回收,邮件内容,OBT版本
+MailContent_ItemExpired_1006,<color=#FAA520>{0}</color>The event has ended. The <color=#FAA520>{1}</color> and <color=#FAA520>{2}</color> in your Backpack have expired. We have automatically converted them into other resources. Please claim them in time!,过期道具回收,邮件内容,OBT版本
+MailContent_ThirdPay,{0} {1} have been successfully credited to your account.\n\nThank you for your purchase!,三方支付,三方支付购买通知邮件,OBT版本
+MailContent_ActivityMiniGame,Thank you for supporting the Carnival. You have achieved an excellent rank of No.<color=#FAA520>{2}</color> in <color=#FAA520>{0} Season {1}</color>. We have prepared generous rewards for you. Please claim them from the attachment.,小游戏活动日,,OBT版本
+MailContent_ActivityMiniGameSeason,"Thank you for supporting the Carnival! You have achieved an excellent rank of No.<color=#FAA520>{1}</color> in the <color=#FAA520>{2}</color> mini-game, during the latest <color=#FAA520>{0}</color>. We have prepared generous rewards for you. Please claim them from the attachment.",小游戏活动日,,OBT版本
+MailContent_Crisiswatch,"Thank you for removing obstacles in Crisis Watch and restoring the peace. Last week, in <color=#FAA520>{0}</color>, your ranking was No. <color=#FAA520>{1}</color>. Please collect your rewards from attachments.",危机监控,邮件内容,OBT版本
+MailContent_SignIn,We've made adjustments to the rewards for the Newcomer 7-day Log In and have issued the following resources:,新手7日签到,邮件内容,OBT版本
+RiddleMail05,The What am I event is ending today. Please take note of the event duration and remember to participate in the event and claim your rewards!,蝙蝠侠电影活动,邮件内容,OBT版本
+MailContent_MonthCardPro,"Since you forgot to collect your Super Monthly Card rewards, we have sent them to you. Please collect your rewards.",高级月卡,高级月卡,OBT版本
+MailContent_BP,"Since you forgot to collect your Public Security Plan rewards, we have sent them to you. Please collect your rewards.",BP,bp-邮件补发,OBT版本
+MailContent_AllyBoss,"Congratulations, you achieved excellent results in the Stop Kilgore event. Your rewards are as follows. Please collect them.",邮件,,OBT版本
+MailContent_ItemExpired_03,The Book of Order event has ended. The Bronze Amulets and Gold Amulets in your Backpack have expired. We have automatically converted them into other resources. Please claim in time!,过期道具回收,邮件内容,OBT版本
+MailContent_OnlineReward,Here are your uncollected online rewards. Please claim in time!,在线奖励邮件,邮件内容,OBT版本
+MailContent_Item,Dear {0}: The system has detected abnormal character activity and thus removed your {1} {2}. Please submit a request to our Support if you have any questions.,邮件,,OBT版本
+Mailtitle_Crisiswatch,Crisis Watch Leaderboard Rewards,危机监控,邮件标题,OBT版本
+MailContent_NS_PataReward,Congratulations on attaining Rank {0} in the Limited-time Convergence Crisis Rankings. Your rewards are as follows. Please collect them.,7日爬塔排行,邮件正文,OBT版本
+MailContent_NS_JifenReward,Congratulations on attaining Rank {0} in the Limited-time Character Points Rankings. Your rewards are as follows. Please collect them.,15日盟友积分排行,邮件正文,OBT版本
+MailContent_NS_PVPReward,Congratulations on attaining Rank {0} in the Limited-time Arena Rankings. Your rewards are as follows. Please collect them.,7日竞技场排行,邮件正文,OBT版本
+MailTitle_OnlineReward,Collect Online Rewards,在线奖励邮件,邮件标题,OBT版本
+MailSource_4,Chip Management Area,邮件,,OBT版本
+MailTitle_4,Chip Compensation,邮件,,OBT版本
+MailTitle_NS_ForgetReward,Character Points Ranking Rewards,排行榜奖励补发,邮件标题,OBT版本
+MailTitle_ActivityMiniGame,Carnival Ranking Rewards,小游戏活动日,,OBT版本
+MailTitle_ActivityMiniGameSeason,Carnival Ranking Rewards,小游戏活动日,,OBT版本
+MailSource_ActivityMiniGame,Carnival Crew,小游戏活动日,,OBT版本
+RiddleMail03,Anonymous Player,蝙蝠侠电影活动,邮件来源,OBT版本
+RiddleMail01,A Gift of Appreciation from Someone,蝙蝠侠电影活动,邮件标题,OBT版本
+MailContent_InfArenaGroup,Congratulations on your successful promotion to<color=# FAA520>{0}</color>in the ultimate showdown of the {2} {1} season. This is your honor. Please check it.,角斗士竞技场-个人奖励,,OBT版本
+MailTitle_LobbySkin,Transformation of laboratory decoration,大厅换肤,邮件标题,OBT版本
+MailContent_LobbySkin,"Because you have obtained repeated laboratory decoration, it will automatically be converted into the following rewards for you. Please check.",大厅换肤,邮件描述,OBT版本
+MailTitle_ActivityBP,Reward reissue of awakening plan,升品BP,bp-邮件补发,OBT版本
+MailContent_ActivityBP,Dear Caller: nYou have missed the Awakening Plan reward and have not received it. It is specially reissued for you. Please check,升品BP,bp-邮件补发,OBT版本
+MailSource_ActivityBP,Plan Publishing Division,升品BP,bp-邮件补发,OBT版本
+MailTitle_AllyBoss_106,Senesto's Fury Challenge Reward,【凯尔雷纳活动】,邮件标题,OBT版本
+MailContent_ItemExpired_106,The Spirit of Life activity has ended. The<color=# FAA520>coins of existence</color>and<color=# FAA520>coins of life</color>in your backpack have been automatically converted into other resources for you. Please check!,【凯尔雷纳活动】,邮件内容,OBT版本
+MailTitle_PlayerNetworkLink,WB Games Account Linked,Player Network Linking,When the player receives the reward for linking their account,
+MailContent_PlayerNetworkLink,Thank you for linking your game with your WB Games Account. Here is your reward!,Player Network Linking,When the player receives the reward for linking their account,
+MailSource_PlayerNetworkLink,WB Games Account Rewards,Player Network Linking,When the player receives the reward for linking their account,
+MailTitle_AdmonReward,You've earned a reward!,Admon,After Admon Service has rewarded the player for interacting with an Ad.,
+MailContent_AdmonReward,Thanks for playing!\n\nYou were rewarded <color=#FAA520>{0}</color> <color=#FAA520>{1}</color> for participating!\n\nKeep an eye out for more chances to earn awesome rewards!\nHappy gaming! ,Admon,After Admon Service has rewarded the player for interacting with an Ad.,
+MailSource_AdmonReward,WB Games,Admon,After Admon Service has rewarded the player for interacting with an Ad.,
+MailContent_ItemExpired_08,"Thank you for participating in our latest Legendary Event! Since it has ended, the limited time currency in your inventory has been automatically converted into other resources. Don't forget to claim them!",,,
+MailTitle_CodeRedemption,DCWC Code Redemption,Code Redemption,When a player redeems a code and receives an email with rewards,
+MailContent_CodeRedemption,Here are your rewards!,Code Redemption,When a player redeems a code and receives an email with rewards,
+MailSource_CodeRedemption,DCWC Code Redemption Rewards,Code Redemption,When a player redeems a code and receives an email with rewards,
+MailTitle_BossRankingReward,Legendary Event Rewards,,,
+MailContent_ThirdPay_Rubies,{0} Rubies have been successfully credited to your account.\n\nThank you for your purchase!,Web Store,Inbox message receipt for Rubies purchase in Web Store,
+MailTitle_ActivityReward,League Activity Rewards,Guild Activity Reward,Pending Guild Activity Rewards sent after a rollover or when the player leaves the guild,
+MailContent_ActivityRewardRollover,"In the last week, your League was busy!\n\nTogether, {0} racked up {1} Weekly Activity Points.\n\nIn case you missed the chance to pick up any rewards, we’ve included them in this message.",Guild Activity Reward,Pending Guild Activity Rewards sent after a rollover,
+MailContent_ActivityRewardGuildLeave,"When you left {0} League, they had earned a total of {1} Weekly Activity Points.\n\nWe’ve attached any unclaimed rewards for you to claim!",Guild Activity Reward,Pending Guild Activity Rewards sent when the player leaves the guild,
+MailTitle_MaxLink,HBO Max subscriber rewards,HBO Max Linking reward,Inbox message title for Max linking rewards,
+MailContent_MaxLink,Thank you for being a loyal DC Worlds Collide player and HBO Max subscriber!\n\nPlease enjoy your rewards for connecting your HBO Max subscription to your WB Games Account and good luck!\n,HBO Max Linking reward,Inbox message content for Max linking rewards,
+MailContent_ItemExpired_09,"Thank you for participating in our Holiday Recruitment! Since it has ended, the remaining featured Encrypted Tokens in your inventory has been automatically converted into other resources. Don't forget to claim them!",,,
+MailContent_ItemExpired_Anniversary_Event,"Thank you for participating in our Anniversary Celebration Event! Since it has ended, the remaining featured Anniversary Encrypted Tokens and Anniversary Event Tokens in your inventory have been automatically converted into other resources. Don't forget to claim them!",Anniversary Event Items Expiration Conversion Rewards,,

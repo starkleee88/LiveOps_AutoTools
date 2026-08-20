@@ -1,0 +1,15 @@
+﻿ID,BranchGroup,Position,BranchType,BranchParam,BranchDesc
+ID,Branch Group,Position (Acending Order),"Branch Type - 
+1: Gold Coin
+2: Buffs
+3: Physical Strength (Algorithmic Power)","Branch Parameter
+1: # of Gold Coins
+2: Buff Group ID
+3: # of Power",Branch Description
+index,int,int,int,int,string
+1,1,1,1,3,BranchDesc1001
+2,1,2,2,2001,BranchDesc1002
+3,1,3,3,2,BranchDesc1003
+4,2,1,3,3,BranchDesc2001
+5,2,2,1,3,BranchDesc2002
+6,2,3,1,2,BranchDesc2003

@@ -1,0 +1,25 @@
+﻿ActivityID,O,GetDays,RewardID
+Activity ID,Note,# of Days To Collect,Reward ID
+index,O,index,int
+5001,New Year's Day Sign In - Day 1,1,19500101
+5001,New Year's Day Sign In - Day 2,2,19500102
+5001,New Year's Day Sign In - Day 3,3,19500103
+5001,New Year's Day Sign In - Day 4,4,19500104
+5001,New Year's Day Sign In - Day 5,5,19500105
+5001,New Year's Day Sign In - Day 6,6,19500106
+5001,New Year's Day Sign In - Day 7,7,19500107
+5002,Valentine's Day Sign In - Day 1,1,19500101
+5002,Valentine's Day Sign In - Day 2,2,19500102
+5002,Valentine's Day Sign In - Day 3,3,19500103
+5002,Valentine's Day Sign In - Day 4,4,19500104
+5002,Valentine's Day Sign In - Day 5,5,19500105
+5002,Valentine's Day Sign In - Day 6,6,19500107
+5002,Valentine's Day Sign In - Day 7,7,19500207
+5003,Halloween Sign In - Day 1,1,190300018
+5003,Halloween Sign In - Day 2,2,190300019
+5003,Halloween Sign In - Day 3,3,190300020
+5003,Halloween Sign In - Day 4,4,190300021
+5003,Halloween Sign In - Day 5,5,190300022
+5003,Halloween Sign In - Day 6,6,190300023
+5003,Halloween Sign In - Day 7,7,190300024
+

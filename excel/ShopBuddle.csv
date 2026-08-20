@@ -1,0 +1,5 @@
+﻿Id,Name,O,BuddlePicture,AdPicture
+Bundle ID,Bundle Name,Name Note,Product Image,Advertisement Image
+index,string,O,string,array-string
+1,LobbySkin_Theme2,Spring Green,LobbySkin_Buddle2,LobbySkin_Theme2|LobbySkin_Theme2_2|LobbySkin_Theme2_3
+2,LobbySkin_Theme3,Summer Red,LobbySkin_Buddle3,LobbySkin_Theme3|LobbySkin_Theme3_2|LobbySkin_Theme3_3

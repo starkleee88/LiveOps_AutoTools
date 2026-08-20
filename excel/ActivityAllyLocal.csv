@@ -1,0 +1,40 @@
+﻿ActivityID,O,Main_Rule,Boss_Rule,BossRank_Rule,Tower_Rule,FileTitle,SignTitle,NPC_id,ActivityMainBG,ActivityBossBG,BossSfx,BossSfx
+ID,Note,Rule ID,Rule ID,Rule ID,Rule ID,Loc ,Loc,Ally ID,BG Asset Name,BG Asset Name,Ally Boss SFX,Ally Boss SFX
+index,O,int,int,int,int,string,string,int,string,string,string,string
+103,Martain Manhunter,9209,92091,92092,,AllyActivity_File103,AllyActivity_10301,1511302,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_03
+104,Sinestro,9208,92081,92082,92085,AllyActivity_Info13133,AllyActivity_10201,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+105,Hal Jordan,9210,92101,92102,92103,AllyActivity_Info13151,AllyActivity_10501,13170,,,VX_ActivityAllyBossWindow_151_01,
+106,Kyle Rayner,9211,92111,92102,92113,AllyActivity_Info13194,AllyActivity_10601,,ui_activityally_img_entrance_bg_13194,ui_activityally_img_zz_big_bg_13194,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+107,Sinestro,9208,92081,92082,92085,AllyActivity_Info13133,AllyActivity_10201,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+108,Sinestro,9208,92081,92082,92085,AllyActivity_Info13133,AllyActivity_10201,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+109,Dr Fate,9212,92121,92122,92123,AllyActivity_Info13108,AllyActivity_10901,13121,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+110,The Bride,9213,92131,92132,92133,AllyActivity_Info13218,AllyActivity_11001,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+111,Superman DCU,9214,92141,92142,92143,AllyActivity_Info13236,AllyActivity_11101,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+112,Peacemaker,9215,92151,92152,92153,AllyActivity_Info13227,AllyActivity_11201,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+113,Swamp Thing,9216,92161,92162,92163,AllyActivity_Info13212,AllyActivity_11301,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+114,Aquaman,9217,92171,92172,92173,AllyActivity_Info13105,AllyActivity_11401,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+115,Sinestro,9208,92081,92082,92085,AllyActivity_Info13133,AllyActivity_11501,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+117,Superman DCU Re-Run,9214,92141,92142,92143,AllyActivity_Info13236,AllyActivity_11101,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+116,General Zod,9218,92181,92182,92183,AllyActivity_Info13209,AllyActivity_11601,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+118,The Joker,9219,92191,92192,92193,AllyActivity_Info13132,AllyActivity_11801,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+119,Sinestro Re-Run s8,9208,92081,92082,92085,AllyActivity_Info13133,AllyActivity_10201,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+120,Nubia,9220,92201,92202,92203,AllyActivity_Info13231,AllyActivity_12001,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+121,Black Adam,9221,92211,92212,92213,AllyActivity_Info13134,AllyActivity_12101,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+122,Aquaman Re-Run s9,9217,92171,92172,92173,AllyActivity_Info13105,AllyActivity_11401,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+123,Nubia,9220,92201,92202,92203,AllyActivity_Info13231,AllyActivity_12001,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+124,Artemis,9222,92221,92222,92223,AllyActivity_Info13233,AllyActivity_12401,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+125,Black Adam Rerun,9221,92211,92212,92213,AllyActivity_Info13134,AllyActivity_12101,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+126,Artemis,9222,92221,92222,92223,AllyActivity_Info13233,AllyActivity_12401,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+127,Lobo,9223,92231,92232,92233,AllyActivity_Info13267,AllyActivity_12701,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+128,BlackLightning,9224,92241,92242,92243,AllyActivity_Info13269,AllyActivity_12801,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+129,Supergirl DCU,9225,92251,92252,92253,AllyActivity_Info13266,AllyActivity_12901,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+130,WhiteLantern,19211,92111,92102,92113,AllyActivity_Info13194,AllyActivity_10601,,ui_activityally_img_entrance_bg_13194,ui_activityally_img_zz_big_bg_13194,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+131,BlackLightning_Rerun,92244,92241,92242,92243,AllyActivity_Info13269,AllyActivity_12801,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02131
+132,SupergirlDCU,92254,92251,92252,92253,AllyActivity_Info13266,AllyActivity_12901,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+133,Lobo Rerun,9223,92231,92232,92233,AllyActivity_Info13267,AllyActivity_12701,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+134,Absolute Wonder Woman,9227,92271,92272,92273,AllyActivity_Info13237,AllyActivity_13401,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+135,Absolute Superman,9228,92281,92282,92283,AllyActivity_Info13239,AllyActivity_13501,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+137,Absolute Batman,9229,92291,92292,92293,AllyActivity_Info13238,AllyActivity_13701,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+138,Booster Gold,9230,92301,92302,92303,AllyActivity_Info13228,AllyActivity_13801,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+139,Black Lightning,9224,92241,92242,92243,AllyActivity_Info13269,AllyActivity_12801,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02
+140,Black Adam,9221,92211,92212,92213,AllyActivity_Info13134,AllyActivity_12101,,,,VX_ActivityAllyBossWindow_151_01,VX_ActivityAllyBossWindow_151_02

@@ -1,0 +1,27 @@
+﻿ActivityID,,GiftId,CostId,ShowRound,TokenID,ShopId,PackId,Task,CollectionId,RuleDesc,CollectionShow,Scale
+Activity ID,Note,"Corresponding Reward ID - 
+ActivityCollectionReward table",Corresponding Cost ID - ActivityCollectionNumCost table,There are special displays for several rounds and above; core collections can be obtained in round X,"Diamonds for Lottery Tokens Set ID - ActivityCollectionToken table - If no such item exists, leave blank","Corresponding Product Store ID - If no such item exists, leave blank","Corresponding Special Offer Package Page - If no such item exists, leave blank","Is there a Task entry? - 
+1: Yes
+2: No
+The associated Activity ID of TaskActivity needs to be updated. If the Task remains unchanged, TaskInfo can remain unchanged",Core Collection ID,Corresponds to ID on RuleDesc,Collection Model ID,Model Scaling
+index,,int,int,int,int,int,int,int,int,int,string,int
+8001,Invisible Jet,101,1,4,,8001,8001,1,202,8001,Collection_SE_202,90
+8002,Lex Armor,8002,1,4,,8002,8002,1,204,8001,Collection_SE_204,200
+8003,Parallax,8003,1,4,,8003,8003,1,203,8001,Collection_SE_203,100
+8004,GL Power Battery,8004,1,4,,8004,8004,1,205,8001,Collection_SE_205,250
+8006,Haunted Tank,8006,1,4,,8006,8006,1,207,8001,Collection_SE_207,100
+8007,Krypto the Superdog,8007,1,4,,8007,8007,1,210,8001,Collection_SE_210,100
+8008,Energy Disruptor,8008,1,4,,8008,8008,1,211,8001,Collection_SE_211,100
+8009,Sethe,8009,1,4,,8009,8009,1,212,8001,Collection_SE_212,100
+8010,Parallax (rerun),8010,1,4,,8010,8010,1,203,8001,Collection_SE_203,100
+8011,GL Power Battery (rerun),8011,1,4,,8011,8011,1,205,8001,Collection_SE_205,250
+8012,Phantom Zone Projector,8012,1,4,,8012,8012,1,208,8001,Collection_SE_208,150
+8013,Lex Armor (rerun),8013,1,4,,8013,8013,1,204,8001,Collection_SE_204,200
+8014,Jerry the Winged Horse,8014,1,4,,8014,8014,1,213,8001,Collection_SE_213,140
+18007,Krypto the Superdog Rerun,18007,3,4,,18007,18007,1,210,8001,Collection_SE_210,100
+18012,Phantom Zone Projector Rerun,18012,4,4,,18012,18012,1,208,8001,Collection_SE_208,150
+8015,Spacehog,8015,5,4,,8018,8018,1,214,8001,Collection_SE_214,150
+8018,Lex Armor (rerun),8018,6,4,,8019,80131,1,204,8001,Collection_SE_204,200
+8017,Anniversary Event,8017,1,4,,8017,8017,1,214,,Collection_SE_214,150
+8021,Reanimated Pegasus,8021,1,4,,8021,8021,1,215,8001,Collection_SE_215,150
+8019,Standalone Event 1 s11 ,8019,1,4,,8020,8019,1,214,,Collection_SE_214,150

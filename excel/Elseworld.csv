@@ -1,0 +1,29 @@
+﻿ID,Lv,LvType,Subtype,Subtype,Subtype,EnemyStrength,RewardGroup,LevelRewardGroup
+ID,Number of layers,"Level Type
+Nicole-Sun Qian:
+1=Normal
+2=Double Reward
+3=BOSS","1 Content
+Tang Yuliang:
+11 Enemies
+12 Health Recovery
+13 Carriage
+20 Ordinary Blessing
+21 Blacksmith Blessing
+22 Angel Blessing
+23 Devil Blessing
+24 Advanced Carriage",2 Course Content,3 Course Contents,Display rating; star rating,Reward,Non-combat rewards
+index,int,int,2darray-int,2darray-int,2darray-int,array-int,int,
+1,1,1,11|100,11|100,13|100,-5;-3,10001,
+2,2,1,11|100,11|100,11|100,-5;-3,10002,
+3,3,1,11|100,11|100,11|100,-5;-3,10003,
+4,4,2,22|50,13|30,,,,
+5,5,1,11|100,11|100,11|100,-2;-2,10005,
+6,6,1,11|100,11|100,13|100,-2;-2,10006,
+7,7,1,11|100,11|100,11|100,-2;-2,10007,
+8,8,2,22|50,13|30,,,,
+9,9,1,11|100,11|100,11|100,2;0,10009,
+10,10,1,11|100,11|100,11|100,2;0,10010,
+11,11,1,11|100,13|100,11|100,2;0,10011,
+12,12,2,22|50,13|30,,,,
+13,13,3,11|100,,,20;3,10013,

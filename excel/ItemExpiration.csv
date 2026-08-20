@@ -1,0 +1,196 @@
+﻿ItemID,O,ExpDelete,ExpDate,ExpConvert,ExpMail,O,ExpMailGroup,RelatedActivity
+Items,Name,"Expiration Deletion Type
+1: Automatically Delete on Expiration",Expiration Time,"Compensation Reward
+RewardID","Mail ID
+MailID",Name,"Mail Group
+If multiple items are deducted at the same time, the same mail group will be combined into a single mail for compensation.","Associated Event ID
+Event tokens must be configured.
+1. If an associated event is configured, the item expiration time cannot be earlier than the event end time.
+2. Items will be reclaimed immediately after the event ends, ensuring that the item ID can be reused (the same item can be used for different event periods)."
+int,string,int,date,int,int,string,int,int
+11114001,bingo token 1_wonderwoman,1,20211213_000000,19120014,11,Expired Item Reclamation Compensation,1,1001
+11114002,bingoToken2_wonderwoman,1,20211213_000000,19120015,11,Expired Item Reclamation Compensation,1,1001
+11114003,bingoToken3_Pandora,1,20250320_000000,19120014,12,Expired Item Reclamation Compensation,2,1002
+11114004,bingoToken4_Pandora,1,20250320_000000,19120015,12,Expired Item Reclamation Compensation,2,1002
+11114005,bingoToken5_Dr. Fate,1,20220115_000000,19120014,13,Expired Item Reclamation Compensation,3,1003
+11114006,bingoToken6_Dr. Fate,1,20220115_000000,19120015,13,Expired Item Reclamation Compensation,3,1003
+11114007,bingoToken7_TwoFace,1,20220123_000000,19120014,1004,Expired Item Reclamation Compensation,4,1004
+11114008,bingo Token 8_Two-Face,1,20220123_000000,19120015,1004,Expired Item Reclamation Compensation,4,1004
+1110001,Cyborg Activity Tokens,1,20220209_000000,19160150,21,Expired Item Reclamation Compensation,5,
+11114009,bingo token 9_Killerfrost,1,20220224_000000,19120014,1005,Expired Item Reclamation Compensation,6,1005
+11114010,bingo token 10_Killerfrost,1,20220224_000000,19120015,1005,Expired Item Reclamation Compensation,6,1005
+1110002,Deathstroke Event Tokens,1,20220316_000000,19160150,22,Expired Item Reclamation Compensation,7,
+11114011,bingo tokens_Jessica,1,20230217_000000,19120014,10071,Expired Item Reclamation Compensation,8,1006
+11114012,bingo_Jessica,1,20230217_000000,19120015,10072,Expired Item Reclamation Compensation,14,1006
+11114013,bingo_token_Raven,1,20250220_000000,19120014,10071,Expired Item Reclamation Compensation,12,1007
+11114014,bingo tokens_Raven,1,20250220_000000,19120015,10072,Expired Item Reclamation Compensation,13,1007
+11114015,bingo-StarSapphire,1,20240220_000000,19120014,10071,Expired Item Reclamation Compensation,11114015,1008
+11114016,bingo-StarSapphire,1,20240220_000000,19120015,10072,Expired Item Reclamation Compensation,11114016,1008
+11114017,bingo-JohnStewart,1,20250206_000000,19120014,10071,Expired Item Reclamation Compensation,11114017,1009
+11114018,bingo-JohnStewart,1,20250206_000000,19120015,10072,Expired Item Reclamation Compensation,11114018,1009
+11114020,bingo - mera,1,20250403_000000,19120014,10071,Expire item for compensation,11114020,1010
+11114021,bingo - mera,1,20250403_000000,19120015,10072,Expire item for compensation,11114021,1010
+1120102,Communication Ball 2,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120103,Communication ball 3,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120104,Communication Ball 4,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120105,Communication ball 5,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120106,Communication ball 6,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120112,Communication ball 12,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120113,Communication ball 13,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120114,Communication ball 14,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120115,Communication ball 15,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120116,Communication ball 16,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120117,Communication ball 17,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120118,Communication ball 18,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120119,Communication ball 19,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120120,Communication ball 20,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120121,Communication ball 21,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120122,Communication ball 22,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120123,Communication ball 23,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120124,Communication ball 24,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120125,Communication ball 25,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120126,Communication ball 26,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120127,Communication ball 27,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120128,Communication ball 28,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120129,Communication ball 29,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120130,Communication ball 30,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120131,Communication ball 31,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120132,Communication ball 32,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120133,Communication ball 33,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120134,Communication ball 34,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120135,Communication ball 35,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120136,Communication ball 36,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120137,Communication ball 37,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120138,Communication ball 38,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120139,Communication ball 39,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120140,Communication ball 40,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120141,Communication ball 41,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120142,Communication ball 42,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120143,Communication ball 43,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120144,Communication ball 44,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120145,Communication ball 45,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120146,Communication ball 46,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120147,Communication ball 47,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120148,Communication ball 48,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120149,Communication ball 49,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120150,Communication ball 50,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1120151,Newsletter Ball 51,1,20220224_000000,19299999,9998,Expired Item Reclamation Compensation,9,
+1110003,Sinestro Event Common Token,1,20240121_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110004,Sinestro Event Rare Token,1,20240121_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110006,Martian Manhunter Event_Paid Tokens,1,20220511_000000,19160196,24,Expired Item Reclamation Compensation,12,
+1110005,Mars Hunter Event_Free Tokens,1,20220511_000000,19160150,24,Expired Item Reclamation Compensation,12,
+1110007,Hal Jordan Event - Free Tokens,1,20240227_000000,19160150,25,Expired Item Reclamation Compensation,13,
+1110008,Hal Jordan Event - Paid Tokens,1,20240227_000000,19160196,25,Expired Item Reclamation Compensation,13,
+1110009,Kyle Event - Free Tokens,1,20251207_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110010,Kyle Event - Paid Tokens,1,20251207_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110011,Dr Fate Event - Free Tokens,1,20250619_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110012,Dr Fate Event - paid Tokens,1,20250619_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1111001,Collector's item sale event drawing tokens (Reanimated Pegasus),1,20260911_000000,198001000,8001,Expired Item Reclamation Compensation,8001,8021
+11111001,Krypto Rerun - Collector's item sale event drawing tokens,1,20260621_000000,198001000,8001,Expired Item Reclamation Compensation,8001,18007
+1111007,Phantom Projector Rerun - Collector's item sale event drawing tokens,1,20260704_000000,198001000,8001,Expired Item Reclamation Compensation,8001,18012
+1111008,Spacehog - Collector's item sale event drawing tokens,1,20260806_000000,198001000,8001,Expired Item Reclamation Compensation,8001,8015
+1111003,Collector's Event Lucky Draw Tokens - Diamonds,1,20260202_000000,198021000,8021,Expired Item Reclamation Compensation,8021,8002
+11114022,Bingo Token 1 - Dr. Phosphorus,1,20250501_000000,19120014,10071,Expire item for compensation,11114022,1011
+11114023,Bingo Token 2 - Dr. Phosphorus,1,20250501_000000,19120015,10072,Expire item for compensation,11114023,1011
+11114024,Bingo Token_TheWeasel_GlisteningFang,1,20250515_000000,19120014,10071,Expire item for compensation,11114024,1012
+11114025,Bingo Token_TheWeasel_FerociousFang,1,20250515_000000,19120015,10072,Expire item for compensation,11114025,1012
+1110013,The Bride Event - Free Tokens,1,20250619_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110014,The Bride Event - Premium Tokens,1,20250619_000000,19160196,51,Expired Item Reclamation Compensation,11,
+11114026,Bingo Token 1 - Guy Gardner,1,20250731_000000,19120014,10071,Expire item for compensation,11114026,1013
+11114027,Bingo Token 2 - Guy Gardner,1,20250731_000000,19120015,10072,Expire item for compensation,11114027,1013
+11114028,Bingo Token 1 - Mr. Terrific,1,20250807_000000,19120014,10071,Expire item for compensation,11114028,1014
+11114029,Bingo Token 2 - Mr. Terrific,1,20250807_000000,19120015,10072,Expire item for compensation,11114029,1014
+11114030,Bingo Token 1 - Judomaster,1,20250925_000000,19120014,10071,Expire item for compensation,11114030,1015
+11114031,Bingo Token 2 - Judomaster,1,20250925_000000,19120015,10072,Expire item for compensation,11114031,1015
+11114032,Bingo Token 1 - Vigilante,1,20250918_000000,19120014,10071,Expire item for compensation,11114032,1016
+11114033,Bingo Token 2 - Vigilante,1,20250918_000000,19120015,10072,Expire item for compensation,11114033,1016
+1110015,Superman DCU - Common Tokens,1,20250727_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110016,Superman DCU - Rare Tokens,1,20250727_000000,19160196,51,Expired Item Reclamation Compensation,11,
+11114034,Bingo Token 1 - Cheshire,1,20251113_000000,19120014,10071,Expire item for compensation,11114034,1017
+11114035,Bingo Token 2 - Cheshire,1,20251113_000000,19120015,10072,Expire item for compensation,11114035,1017
+11114036,Bingo Token 1 - Doctor Poison,1,20251120_000000,19120014,10071,Expire item for compensation,11114036,1018
+11114037,Bingo Token 2 - Doctor Poison,1,20251120_000000,19120015,10072,Expire item for compensation,11114037,1018
+1110017,Peacemaker - Common Tokens,1,20250914_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110018,Peacemaker - Rare Tokens,1,20250914_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110019,Swamp Thing - Common Tokens,1,20251109_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110020,Swamp Thing - Rare Tokens,1,20251109_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110021,Aquaman - Common Tokens,1,20260515_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110022,Aquaman - Rare Tokens,1,20260515_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110025,Superman DCU Re-Run - Common Tokens,1,20260201_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110026,Superman DCU Re-Run - Rare Tokens,1,20260201_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110023,General Zod - Common Tokens,1,20260104_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110024,General Zod - Rare Tokens,1,20260104_000000,19160196,51,Expired Item Reclamation Compensation,11,
+11114009,Bingo Token 1 – Killer Frost,1,20260108_000000,19120014,10071,Expire item for compensation,11114009,1005
+11114010,Bingo Token 2 – Killer Frost,1,20260108_000000,19120015,10072,Expire item for compensation,11114010,1005
+11114038,Bingo Token 1 – Firestorm,1,20260115_000000,19120014,10071,Expire item for compensation,11114038,1019
+11114039,Bingo Token 2 – Firestorm,1,20260115_000000,19120015,10072,Expire item for compensation,11114039,1019
+11114040,Bingo Token 1 – Punchline,1,20260312_000000,19120014,10071,Expire item for compensation,11114040,1020
+11114041,Bingo Token 2 – Punchline,1,20260312_000000,19120015,10072,Expire item for compensation,11114041,1020
+11114042,Bingo Token 1 – Hugo Strange,1,20260305_000000,19120014,10071,Expire item for compensation,11114042,1021
+11114043,Bingo Token 2 – Hugo Strange,1,20260305_000000,19120015,10072,Expire item for compensation,11114043,1021
+1110027,The Joker - Common Tokens,1,20260301_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110028,The Joker - Rare Tokens,1,20260301_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110029,Sinestro Re-Run Event - Common token,1,20260329_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110030,Sinestro Re-Run Event - Common token,1,20260329_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110031,Nubia Event - Common token,1,20260704_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110032,Nubia Event - Rare token,1,20260704_000000,19160196,51,Expired Item Reclamation Compensation,11,
+11114044,Bingo Token 1 – Yara Flor,1,20260421_000000,19120014,10071,Expire item for compensation,11114044,1022
+11114045,Bingo Token 2 – Yara Flor,1,20260421_000000,19120015,10072,Expire item for compensation,11114045,1022
+1110033,Black Adam Event - Common token,1,20260510_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110034,Black Adam Event - Rare token,1,20260510_000000,19160196,51,Expired Item Reclamation Compensation,11,
+111114040,Bingo Token 1 – Punchline Rerun,1,20260409_000000,19120014,10071,Expire item for compensation,111114040,11020
+111114041,Bingo Token 2 – Punchline Rerun,1,20260409_000000,19120015,10072,Expire item for compensation,111114041,11020
+111114042,Bingo Token 1 – Hugo Strange Rerun,1,20260402_000000,19120014,10071,Expire item for compensation,111114042,11021
+111114043,Bingo Token 2 – Hugo Strange Rerun,1,20260402_000000,19120015,10072,Expire item for compensation,111114043,11021
+1110035,Artemis Event - Common token,1,20260501_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110036,Artemis Event - Rare token,1,20260501_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110037,Black Adam Event - Common token,1,20260601_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110038,Black Adam Event - Rare token,1,20260601_000000,19160196,51,Expired Item Reclamation Compensation,11,
+111114030,Bingo Token 1 - Judomaster Rerun,1,20260509_000000,19120014,10071,Expire item for compensation,111114030,11015
+111114031,Bingo Token 2 - Judomaster Rerun,1,20260509_000000,19120015,10072,Expire item for compensation,111114031,11015
+111114032,Bingo Token 1 - Vigilante Rerun,1,20260430_000000,19120014,10071,Expire item for compensation,111114032,11016
+111114033,Bingo Token 2 - Vigilante Rerun,1,20260430_000000,19120015,10072,Expire item for compensation,111114033,11016
+111114022,Bingo Token 1 - Dr. Phosphorus Rerun,1,20260601_000000,19120014,10071,Expire item for compensation,111114022,11011
+111114023,Bingo Token 2 - Dr. Phosphorus Rerun,1,20260601_000000,19120015,10072,Expire item for compensation,111114023,11011
+111114024,Bingo Token 1 - Weasel Rerun,1,20260526_000000,19120014,10071,Expire item for compensation,111114024,11012
+111114025,Bingo Token 2 - Weasel Rerun,1,20260526_000000,19120015,10072,Expire item for compensation,111114025,11012
+111114044,Bingo Token 1 – Yara Flor Rerun,1,20260521_000000,19120014,10071,Expire item for compensation,111114044,11022
+111114045,Bingo Token 2 – Yara Flor Rerun,1,20260521_000000,19120015,10072,Expire item for compensation,111114045,11022
+1110039,Artemis Event - Common token,1,20260525_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110040,Artemis Event - Rare token,1,20260525_000000,19160196,51,Expired Item Reclamation Compensation,11,
+11114048,Bingo Token 1 - Ruthye,1,20260625_000000,19120014,10071,Expire item for compensation,11114048,1024
+11114049,Bingo Token 2 - Ruthye,1,20260625_000000,19120015,10072,Expire item for compensation,11114049,1024
+1110041,Lobo Event - Common token,1,20260621_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110042,Lobo Event - Rare token,1,20260621_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1120018,Support Encrypted Token,1,20260704_000000,11120016,54,Expired Item Reclamation Compensation,11,
+1120019,Superhero Encrypted token,1,20260704_000000,291600196,54,Expired Item Reclamation Compensation,11,
+1110043,BlackLightning Token Common,1,20260713_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110044,BlackLightning Token Rare,1,20260713_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110045,Supergirl DCU Event - Common token,1,20260704_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110046,Supergirl DCU Event - Rare token,1,20260704_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110047,WhiteLantern Token Common,1,20260608_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110048,WhiteLantern Token Rare,1,20260608_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110049,BlackLightning_Rerun Token Common,1,20260802_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110050,BlackLightning_Rerun Token Rare,1,20260802_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110051,SupergirlDCU Token Common,1,20260727_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110052,SupergirlDCU Token Rare,1,20260727_000000,19160196,51,Expired Item Reclamation Compensation,11,
+11114050,Bingo Token 1 - Ruthye Rerun,1,20260721_000000,19120014,10071,Expire item for compensation,11114050,1024
+11114051,Bingo Token 2 - Ruthye Rerun,1,20260721_000000,19120015,10072,Expire item for compensation,11114051,1024
+1110053,Lobo Rerun Token Common,1,20260720_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110054,Lobo Rerun Token Rare,1,20260720_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1111009,Lex Armor rerun - Collector's item sale event drawing tokens,1,20250806_000000,198001000,8001,Expired Item Reclamation Compensation,8001,8018
+1120020,Anniversary Encrypted Token,1,20260714_000000,1980170012,55,Expired Item Reclamation Compensation,11,
+1111010,Anniversary Event Token,1,20260714_000000,1980170013,55,Expired Item Reclamation Compensation,11,
+1110055,Absolute Wonder Woman Token Common,1,20260814_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110056,Absolute Wonder Woman Token Rare,1,20260814_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110057,Absolute Superman Token Common,1,20260821_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110058,Absolute Superman Token Rare,1,20260821_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110059,Absolute Batman Token Common,1,20260828_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110060,Absolute Batman Token Rare,1,20260828_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110061,Booster Gold Token Common,1,20260904_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110062,Booster Gold Token Rare,1,20260904_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1110063,Black Lightning Token Common,1,20261002_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110064,Black Lightning Token Rare,1,20261002_000000,19160196,51,Expired Item Reclamation Compensation,11,
+1111011,Fatal Exception Milestone Point,1,20260910_000000,1980170013,55,Expired Item Reclamation Compensation,11,
+1110065,Black Adam Token Common,1,20261018_000000,19160150,51,Expired Item Reclamation Compensation,11,
+1110066,Black Adam Token Rare,1,20261018_000000,19160196,51,Expired Item Reclamation Compensation,11,

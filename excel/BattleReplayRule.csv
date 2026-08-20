@@ -1,0 +1,10 @@
+﻿MainType,NumRule1,SelectionRule1,SupplementaryRule1,SortingRule1,NumRule2,SelectionRule2,SupplementaryRule2,SortingRule2,O
+Battle play function supports gameplay,Number of crawlers,Crawl rules,Supplementary rules,Sorting rules,Number of crawlers,Crawl rules,Supplementary rules,Sorting rules,Note
+int,int,int,int,int,int,int,int,int,O
+1,4,11,0,1,0,0,0,0,
+2,4,11,0,1,0,0,0,0,
+7,2,11,0,1,2,21,12,1,
+10,4,11,0,1,0,0,0,0,
+11,4,11,0,1,0,0,0,0,
+19,4,11,0,1,0,0,0,0,
+20,4,11,0,1,0,0,0,0,

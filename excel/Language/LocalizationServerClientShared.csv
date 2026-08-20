@@ -1,0 +1,6 @@
+﻿Key,en,fr,it,de,es,pt,Module,Explanation,Version
+
+string,string,string,string,string,string,string,,,
+MailInternalRankingFormat_Gve,#{0}: {1} - {2} points\n,#{0} : {1} - {2} points\n,#{0}: {1} - {2} punti\n,#{0}: {1} – {2} Punkte\n,#{0}: {1} - {2} puntos\n,#{0}: {1} - {2} pontos\n,GVE,LC internal ranking list format,
+MailSource_ThirdPay,System,Système,Sistema,System,Sistema,Sistema,三方支付,三方支付购买通知邮件,OBT版本
+MailSource_1,DC Worlds Collide Operation Team,Équipe DC Worlds Collide,Team operativo di DC Worlds Collide,„DC Worlds Collide“-Operationsteam,Equipo de operaciones de DC Worlds Collide,Equipe de Operação DC Worlds Collide,邮件,,OBT版本

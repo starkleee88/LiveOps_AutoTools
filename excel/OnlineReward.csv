@@ -1,0 +1,6 @@
+﻿FuncDays,OnlineRewardTime,OnilneRewardID,OnlineRewardTime,OnilneRewardID,OnlineRewardTime,OnilneRewardID,OnlineRewardTime,OnilneRewardID,OnlineRewardTime,OnilneRewardID,OnlineRewardTime,OnilneRewardID
+Event Count,First Tier Time,First Tier Reward,Second Tier Time,Second Tier Reward,Third Tier Time,Third Tier Reward,Fourth Tier Time,Fourth Tier Reward,Fifth Tier Time,Fifth Tier Reward,Sixth Tier Reward,Sixth Tier Reward
+index,int,int,int,int,int,int,int,int,int,int,int,int
+1,60,19905001,300,19905002,600,19905003,1200,19905004,2100,19905005,3600,19905006
+2,60,19905007,300,19905008,600,19905009,1200,19905010,2100,19905011,3600,19905012
+3,60,19905013,300,19905014,600,19905015,1200,19905016,2100,19905017,3600,19905018

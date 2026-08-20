@@ -1,0 +1,161 @@
+﻿Key,ActivityAllyMain,Dialog,O
+Conversation ID,Hero Activity Function ID,Conversation Desc,Content
+index,int,string,O
+1001,100,ActivityAlly_ganggu1,Click Cyborg's random dialogue on the main interface of Cyborg
+1002,100,ActivityAlly_ganggu2,Click Cyborg's random dialogue on the main interface of Cyborg
+1003,100,ActivityAlly_ganggu3,Click Cyborg's random dialogue on the main interface of Cyborg
+1004,100,ActivityAlly_ganggu4,Click Cyborg's random dialogue on the main interface of Cyborg
+1005,101,ActivityAlly_sangzhong1,[Killer Frost] Click on Killer Frost’s random dialogue on the main interface
+1006,101,ActivityAlly_sangzhong2,[Killer Frost] Click on Killer Frost’s random dialogue on the main interface
+1007,101,ActivityAlly_sangzhong3,[Killer Frost] Click on Killer Frost’s random dialogue on the main interface
+1008,101,ActivityAlly_sangzhong4,[Killer Frost] Click on Killer Frost’s random dialogue on the main interface
+1009,102,ActivityAlly_Sinestro1,[Sinestro] Random dialogue on the main interface
+1010,102,ActivityAlly_Sinestro2,[Sinestro] Random dialogue on the main interface
+1011,102,ActivityAlly_Sinestro3,[Sinestro] Random dialogue on the main interface
+1012,102,ActivityAlly_Sinestro4,[Sinestro] Random dialogue on the main interface
+1013,103,ActivityAlly_Manhunter1,[Martian Manhunter] Random dialogue on the main interface
+1014,103,ActivityAlly_Manhunter2,[Martian Manhunter] Random dialogue on the main interface
+1015,103,ActivityAlly_Manhunter3,[Martian Manhunter] Random dialogue on the main interface
+1016,103,ActivityAlly_Manhunter4,[Martian Manhunter] Random dialogue on the main interface
+1017,104,ActivityAlly_Sinestro1,[Sinestro Remastered] Random dialogue on the main interface
+1018,104,ActivityAlly_Sinestro2,[Sinestro Remastered] Random dialogue on the main interface
+1019,104,ActivityAlly_Sinestro3,[Sinestro Remastered] Random dialogue on the main interface
+1020,104,ActivityAlly_Sinestro4,[Sinestro Remastered] Random dialogue on the main interface
+1021,105,ActivityAlly_HalJordan1,[Hal Jordan] Random dialogue on the main interface
+1022,105,ActivityAlly_HalJordan2,[Hal Jordan] Random dialogue on the main interface
+1023,105,ActivityAlly_HalJordan3,[Hal Jordan] Random dialogue on the main interface
+1024,105,ActivityAlly_HalJordan4,[Hal Jordan] Random dialogue on the main interface
+1025,106,ActivityAlly_Kyle1,[Kyle] Random dialogue on the main interface
+1026,106,ActivityAlly_Kyle2,[Kyle] Random dialogue on the main interface
+1027,106,ActivityAlly_Kyle3,[Kyle] Random dialogue on the main interface
+1028,106,ActivityAlly_Kyle4,[Kyle] Random dialogue on the main interface
+1029,107,ActivityAlly_Sinestro1,[Sinestro] Random dialogue on the main interface
+1030,107,ActivityAlly_Sinestro2,[Sinestro] Random dialogue on the main interface
+1031,107,ActivityAlly_Sinestro3,[Sinestro] Random dialogue on the main interface
+1032,107,ActivityAlly_Sinestro4,[Sinestro] Random dialogue on the main interface
+1033,108,ActivityAlly_Sinestro1,[Sinestro] Random dialogue on the main interface
+1034,108,ActivityAlly_Sinestro2,[Sinestro] Random dialogue on the main interface
+1035,108,ActivityAlly_Sinestro3,[Sinestro] Random dialogue on the main interface
+1036,108,ActivityAlly_Sinestro4,[Sinestro] Random dialogue on the main interface
+1037,109,ActivityAlly_DrFate1,[Dr. Fate] Random dialogue on the main interface
+1038,109,ActivityAlly_DrFate2,[Dr. Fate] Random dialogue on the main interface
+1039,109,ActivityAlly_DrFate3,[Dr. Fate] Random dialogue on the main interface
+1040,109,ActivityAlly_DrFate4,[Dr. Fate] Random dialogue on the main interface
+1041,110,ActivityAlly_The Bride1,[The Bride] Random dialogue on the main interface
+1042,110,ActivityAlly_The Bride2,[The Bride] Random dialogue on the main interface
+1043,110,ActivityAlly_The Bride3,[The Bride] Random dialogue on the main interface
+1044,110,ActivityAlly_The Bride4,[The Bride] Random dialogue on the main interface
+1045,111,ActivityAlly_SupermanDCU1,[Superman DCU] Random dialogue on the main interface
+1046,111,ActivityAlly_SupermanDCU2,[Superman DCU] Random dialogue on the main interface
+1047,111,ActivityAlly_SupermanDCU3,[Superman DCU] Random dialogue on the main interface
+1048,111,ActivityAlly_SupermanDCU4,[Superman DCU] Random dialogue on the main interface
+1049,112,ActivityAlly_Peacemaker1,[Peacemaker] Random dialogue on the main interface
+1050,112,ActivityAlly_Peacemaker2,[Peacemaker] Random dialogue on the main interface
+1051,112,ActivityAlly_Peacemaker3,[Peacemaker] Random dialogue on the main interface
+1052,112,ActivityAlly_Peacemaker4,[Peacemaker] Random dialogue on the main interface
+1053,113,ActivityAlly_SwampThing1,[Swamp Thing] Random dialogue on the main interface
+1054,113,ActivityAlly_SwampThing2,[Swamp Thing] Random dialogue on the main interface
+1055,113,ActivityAlly_SwampThing3,[Swamp Thing] Random dialogue on the main interface
+1056,113,ActivityAlly_SwampThing4,[Swamp Thing] Random dialogue on the main interface
+1057,114,ActivityAlly_Aquaman1,Aquaman Rotating landing page dialogue
+1058,114,ActivityAlly_Aquaman2,Aquaman Rotating landing page dialogue
+1059,114,ActivityAlly_Aquaman3,Aquaman Rotating landing page dialogue
+1060,114,ActivityAlly_Aquaman4,Aquaman Rotating landing page dialogue
+1061,115,ActivityAlly_Sinestro1,Sinestro Re-Run - Rotating Landing Page Dialogue
+1062,115,ActivityAlly_Sinestro2,Sinestro Re-Run - Rotating Landing Page Dialogue
+1063,115,ActivityAlly_Sinestro3,Sinestro Re-Run - Rotating Landing Page Dialogue
+1064,115,ActivityAlly_Sinestro4,Sinestro Re-Run - Rotating Landing Page Dialogue
+1065,116,ActivityAlly_GeneralZod1,General Zod landing page dialogue
+1066,116,ActivityAlly_GeneralZod2,General Zod landing page dialogue
+1067,116,ActivityAlly_GeneralZod3,General Zod landing page dialogue
+1068,116,ActivityAlly_GeneralZod4,General Zod landing page dialogue
+1069,117,ActivityAlly_SupermanDCU1,[Superman DCU] Random dialogue on the main interface
+1070,117,ActivityAlly_SupermanDCU2,[Superman DCU] Random dialogue on the main interface
+1071,117,ActivityAlly_SupermanDCU3,[Superman DCU] Random dialogue on the main interface
+1072,117,ActivityAlly_SupermanDCU4,[Superman DCU] Random dialogue on the main interface
+1073,118,ActivityAlly_Joker1,[Joker] Random dialogue on the main interface
+1074,118,ActivityAlly_Joker2,[Joker] Random dialogue on the main interface
+1075,118,ActivityAlly_Joker3,[Joker] Random dialogue on the main interface
+1076,118,ActivityAlly_Joker4,[Joker] Random dialogue on the main interface
+1077,119,ActivityAlly_Sinestro1,[Sinestro] Random dialogue on the main interface
+1078,119,ActivityAlly_Sinestro2,[Sinestro] Random dialogue on the main interface
+1079,119,ActivityAlly_Sinestro3,[Sinestro] Random dialogue on the main interface
+1080,119,ActivityAlly_Sinestro4,[Sinestro] Random dialogue on the main interface
+1081,122,ActivityAlly_Aquaman1,Aquaman Rotating landing page dialogue
+1082,122,ActivityAlly_Aquaman2,Aquaman Rotating landing page dialogue
+1083,122,ActivityAlly_Aquaman3,Aquaman Rotating landing page dialogue
+1084,122,ActivityAlly_Aquaman4,Aquaman Rotating landing page dialogue
+1085,120,ActivityAlly_Nubia1,Nubia Rotating landing page dialogue
+1086,120,ActivityAlly_Nubia2,Nubia Rotating landing page dialogue
+1087,120,ActivityAlly_Nubia3,Nubia Rotating landing page dialogue
+1088,120,ActivityAlly_Nubia4,Nubia Rotating landing page dialogue
+1089,121,ActivityAlly_BlackAdam1,Black Adam Rotating landing page dialogue
+1090,121,ActivityAlly_BlackAdam2,Black Adam Rotating landing page dialogue
+1091,121,ActivityAlly_BlackAdam3,Black Adam Rotating landing page dialogue
+1092,121,ActivityAlly_BlackAdam4,Black Adam Rotating landing page dialogue
+1093,123,ActivityAlly_Nubia1,Nubia Rotating landing page dialogue
+1094,123,ActivityAlly_Nubia2,Nubia Rotating landing page dialogue
+1095,123,ActivityAlly_Nubia3,Nubia Rotating landing page dialogue
+1096,123,ActivityAlly_Nubia4,Nubia Rotating landing page dialogue
+1097,124,ActivityAlly_Artemis1,Artemis Rotating landing page dialogue
+1098,124,ActivityAlly_Artemis2,Artemis Rotating landing page dialogue
+1099,124,ActivityAlly_Artemis3,Artemis Rotating landing page dialogue
+1100,124,ActivityAlly_Artemis4,Artemis Rotating landing page dialogue
+1101,125,ActivityAlly_BlackAdam1,Black Adam Rotating landing page dialogue
+1102,125,ActivityAlly_BlackAdam2,Black Adam Rotating landing page dialogue
+1103,125,ActivityAlly_BlackAdam3,Black Adam Rotating landing page dialogue
+1104,125,ActivityAlly_BlackAdam4,Black Adam Rotating landing page dialogue
+1105,126,ActivityAlly_Artemis1,Artemis Rotating landing page dialogue
+1106,126,ActivityAlly_Artemis2,Artemis Rotating landing page dialogue
+1107,126,ActivityAlly_Artemis3,Artemis Rotating landing page dialogue
+1108,126,ActivityAlly_Artemis4,Artemis Rotating landing page dialogue
+1109,127,ActivityAlly_Lobo1,Lobo Rotating landing page dialogue
+1110,127,ActivityAlly_Lobo2,Lobo Rotating landing page dialogue
+1111,127,ActivityAlly_Lobo3,Lobo Rotating landing page dialogue
+1112,127,ActivityAlly_Lobo4,Lobo Rotating landing page dialogue
+1113,128,ActivityAlly_BlackLightning1,BlackLightning Rotating landing page dialogue
+1114,128,ActivityAlly_BlackLightning2,BlackLightning Rotating landing page dialogue
+1115,128,ActivityAlly_BlackLightning3,BlackLightning Rotating landing page dialogue
+1116,128,ActivityAlly_BlackLightning4,BlackLightning Rotating landing page dialogue
+1117,129,ActivityAlly_SupergirlDCU1,SupergirlDCU Rotating landing page dialogue
+1118,129,ActivityAlly_SupergirlDCU2,SupergirlDCU Rotating landing page dialogue
+1119,129,ActivityAlly_SupergirlDCU3,SupergirlDCU Rotating landing page dialogue
+1120,130,ActivityAlly_Kyle1,[Kyle] Random dialogue on the main interface
+1121,130,ActivityAlly_Kyle2,[Kyle] Random dialogue on the main interface
+1122,130,ActivityAlly_Kyle3,[Kyle] Random dialogue on the main interface
+1123,130,ActivityAlly_Kyle4,[Kyle] Random dialogue on the main interface
+1127,132,ActivityAlly_SupergirlDCU1,SupergirlDCU Rotating landing page dialogue
+1128,132,ActivityAlly_SupergirlDCU2,SupergirlDCU Rotating landing page dialogue
+1129,132,ActivityAlly_SupergirlDCU3,SupergirlDCU Rotating landing page dialogue
+1130,135,ActivityAlly_AbsoluteSuperman1,Absolute Superman Rotating landing page dialogue
+1131,135,ActivityAlly_AbsoluteSuperman2,Absolute Superman Rotating landing page dialogue
+1132,135,ActivityAlly_AbsoluteSuperman3,Absolute Superman Rotating landing page dialogue
+1133,135,ActivityAlly_AbsoluteSuperman4,Absolute Superman Rotating landing page dialogue
+1134,133,ActivityAlly_Lobo1,Lobo Rotating landing page dialogue
+1135,133,ActivityAlly_Lobo2,Lobo Rotating landing page dialogue
+1136,133,ActivityAlly_Lobo3,Lobo Rotating landing page dialogue
+1137,133,ActivityAlly_Lobo4,Lobo Rotating landing page dialogue
+1138,131,ActivityAlly_BlackLightning1,BlackLightning Rotating landing page dialogue
+1139,131,ActivityAlly_BlackLightning2,BlackLightning Rotating landing page dialogue
+1140,131,ActivityAlly_BlackLightning3,BlackLightning Rotating landing page dialogue
+1141,131,ActivityAlly_BlackLightning4,BlackLightning Rotating landing page dialogue
+1142,138,ActivityAlly_BoosterGold1,Booster Gold Rotating landing page dialogue
+1143,138,ActivityAlly_BoosterGold2,Booster Gold Rotating landing page dialogue
+1144,138,ActivityAlly_BoosterGold3,Booster Gold Rotating landing page dialogue
+1145,138,ActivityAlly_BoosterGold4,Booster Gold Rotating landing page dialogue
+1146,139,ActivityAlly_BlackLightning1,BlackLightning Rotating landing page dialogue
+1147,139,ActivityAlly_BlackLightning2,BlackLightning Rotating landing page dialogue
+1148,139,ActivityAlly_BlackLightning3,BlackLightning Rotating landing page dialogue
+1149,139,ActivityAlly_BlackLightning4,BlackLightning Rotating landing page dialogue
+1150,134,ActivityAlly_AbsoluteWonderWoman1,Absolute Wonder Woman Rotating landing page dialogue
+1151,134,ActivityAlly_AbsoluteWonderWoman2,Absolute Wonder Woman Rotating landing page dialogue
+1152,134,ActivityAlly_AbsoluteWonderWoman3,Absolute Wonder Woman Rotating landing page dialogue
+1153,134,ActivityAlly_AbsoluteWonderWoman4,Absolute Wonder Woman Rotating landing page dialogue
+1154,137,ActivityAlly_AbsoluteBatman1,Absolute Batman Rotating landing page dialogue
+1155,137,ActivityAlly_AbsoluteBatman2,Absolute Batman Rotating landing page dialogue
+1156,137,ActivityAlly_AbsoluteBatman3,Absolute Batman Rotating landing page dialogue
+1157,137,ActivityAlly_AbsoluteBatman4,Absolute Batman Rotating landing page dialogue
+1158,140,ActivityAlly_BlackAdam1,BlackLightning Rotating landing page dialogue
+1159,140,ActivityAlly_BlackAdam2,BlackLightning Rotating landing page dialogue
+1160,140,ActivityAlly_BlackAdam3,BlackLightning Rotating landing page dialogue
+1161,140,ActivityAlly_BlackAdam4,BlackLightning Rotating landing page dialogue

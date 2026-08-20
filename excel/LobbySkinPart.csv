@@ -1,0 +1,11 @@
+﻿Id,Name,O,Icon
+Part ID,Part Name,Name Notes,Part Image
+index,string,O,string
+1,LobbySkin_Part1,Sofa,LobbySkin_Part1
+2,LobbySkin_Part2,Floor,LobbySkin_Part2
+3,LobbySkin_Part3,Battle Station,LobbySkin_Part3
+4,LobbySkin_Part4,Lounge Entrance,LobbySkin_Part4
+5,LobbySkin_Part5,Lobby Entrance,LobbySkin_Part5
+6,LobbySkin_Part6,Stairs,LobbySkin_Part6
+7,LobbySkin_Part7,Archive,LobbySkin_Part7
+8,LobbySkin_Part8,Spaceship,LobbySkin_Part8

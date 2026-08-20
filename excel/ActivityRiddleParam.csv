@@ -1,0 +1,21 @@
+﻿ActivityID,Countdown,Title,Subtitle,Dialog1,Dialog2,TalkDuration,AskCd,AnswerCd,Share1,Share2,Share1Img,Share2Img,Mail1,Mail1Reward,Mail2,Mail3,Rule,Role
+Activity ID,"End Countdown
+(hours)",Event Title,Activity Subtitle,"Dialogue played when
+entering event 1st time","Dialogue played when
+entering event 1st time
+after collecting all pieces","Dialogue Display Time
+(seconds)","Question Cooldown
+(minutes)","Answer Cooldown
+(minutes)","Share ID - 
+Not Collected","Share ID - 
+Collected &
+Shared",Share 1 Image,Share 2 Image,"Thank You
+Mail ID","Thank You
+Attached
+Reward","End Reminder
+Mail ID",Mail 3 ID,"How To Play
+Rule ID","Interface
+Character ID"
+int,int,string,string,string,string,int,int,int,int,int,int,int,int,int,int,int,int,int
+101,,RiddleTitle02,RiddleTitle03,60110,60120,3,2,2,10,11,ui_riddle_bg17,ui_riddle_bg18,1901,19120608,1902,1902,1301,13102
+102,24,RiddleTitle02,RiddleTitle04,60110,60120,3,10,720,10,11,ui_riddle_bg17,ui_riddle_bg18,1901,19120608,,1902,1302,13102

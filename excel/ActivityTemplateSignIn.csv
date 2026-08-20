@@ -1,0 +1,5 @@
+﻿ID,O,TemplateRewardID,PrefabID,TemplateRuleID
+Template ID,Note,Reward Template ID,PerfabID,Rule ID
+int,O,int,string,int
+101,Module 1,300401,ActivityGiftPanel,30041
+102,Module 2,300402,ActivityGiftPanel,30042

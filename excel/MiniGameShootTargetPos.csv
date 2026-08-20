@@ -1,0 +1,8 @@
+﻿TargetDistance,PosX,PosY,Scale,
+Distance ID,Offset X,Offset Y,Scaling range (Divide by 100 for in-game value),
+index,int,int,int,
+1,360,50,100,410
+2,290,50,83,340
+3,220,50,66,270
+4,150,50,50,200
+5,100,50,35,150

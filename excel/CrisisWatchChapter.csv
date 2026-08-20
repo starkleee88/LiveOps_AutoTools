@@ -1,0 +1,8 @@
+﻿Id,O,Name,Desc,BossScore,VagueImage,StageImage
+ID,Note,Name,Description,Score,BG Image,Stage Image
+index,O,string,string,array<int>,string,string
+1,Suicide Squad,CrisisWatchChapter01,CrisisWatchChapterDesc01,1|2|3,ui_crisiswatch_img_bg5,ui_crisiswatch_img_m_js03
+2,Poison Ivy,CrisisWatchChapter02,CrisisWatchChapterDesc02,1|2|3,ui_crisiswatch_img_bg23,ui_crisiswatch_img_m_js01
+3,Bane,CrisisWatchChapter03,CrisisWatchChapterDesc03,1|2|3,ui_crisiswatch_img_bg38,ui_crisiswatch_img_m_js04
+4,Lex Luthor,CrisisWatchChapter04,CrisisWatchChapterDesc04,1|2|3,ui_crisiswatch_img_bg39,ui_crisiswatch_img_m_js02
+5,Sacrifice,CrisisWatchChapter05,CrisisWatchChapterDesc05,1|2|3,ui_crisiswatch_img_bg40,ui_crisiswatch_img_m_js05

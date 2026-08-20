@@ -1,0 +1,15 @@
+﻿ID,Type,MainBoardName,O,FuncId,FaceDesc,TopicDesc,SimpleDesc
+Ranking ID,"Ranking Type - 
+1: Today's Express List
+2: Mini Games List",Main List Name,O,Function ID,Face Description,Topic Description,Brief Description of Progress
+index,int,string,,int,string,string,string
+1,1,Leaderboard_BoardName1,Main Stages,462,Leaderboard_BoardDescribe1,Leaderboard_BoardName1,Leaderboard_BoardSimpleDescribe1
+2,1,Leaderboard_BoardName2,System Recovery,2600,Leaderboard_BoardDescribe2,Leaderboard_BoardName2,Leaderboard_BoardSimpleDescribe2
+3,1,Leaderboard_BoardName3,Character Points,0,Leaderboard_BoardDescribe3,Leaderboard_BoardName3,Leaderboard_BoardSimpleDescribe3
+4,1,Leaderboard_BoardName4,Convergence Crisis,710,Leaderboard_BoardDescribe4,Leaderboard_BoardName4,Leaderboard_BoardSimpleDescribe4
+5,1,Leaderboard_BoardName5,Evil Falls,730,Leaderboard_BoardDescribe5,Leaderboard_BoardName5,Leaderboard_BoardSimpleDescribe5
+201,2,MiniGameGuess_Name,Guess Identity,3102,Leaderboard_BoardDescribe201,MiniGameGuess_Name,Leaderboard_BoardSimpleDescribe3
+202,2,MiniGameShoot_Name,Archery Practice,3103,Leaderboard_BoardDescribe202,MiniGameShoot_Name,Leaderboard_BoardSimpleDescribe3
+203,2,MiniGameWeapon_Name,Weapon Training,3104,Leaderboard_BoardDescribe203,MiniGameWeapon_Name,Leaderboard_BoardSimpleDescribe3
+204,2,MiniGameSector_Name,Sector Conquest,3105,Leaderboard_BoardDescribe204,MiniGameSector_Name,Leaderboard_BoardSimpleDescribe6
+205,2,MiniGameMind_Name,Telepathic Link,3106,Leaderboard_BoardDescribe205,MiniGameMind_Name,Leaderboard_BoardSimpleDescribe3

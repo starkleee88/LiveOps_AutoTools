@@ -1,0 +1,103 @@
+﻿ID,O,OpenItem,OpenItemNum,GroupId,Order,Reward,RefreshTime,Icon,BG1,BG2,MainName,NameDes,TowerDes,FixTowerID
+Tower ID,Tower name,Unlock item ID,Unlock item required quantity,Tower type,Unlock order,Clear reward,Refresh time,Entrance icon,Background image,Background image,Primary name,Primary name description,Tower description,Version 2.3 Tower progress reset
+index,O,int,int,int,int,int,int,string,string,string,string,string,string,int
+1,Gotham Earth-1,1120101,1,1,1,19200100,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_1,Tower_Desc_Gotham,
+2,Gotham Earth-2,,,1,2,19200200,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_2,Tower_Desc_Gotham,
+3,Gotham Earth-3,,,1,3,19200300,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_3,Tower_Desc_Gotham,
+4,Gotham Earth-4,,,1,4,19200400,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_4,Tower_Desc_Gotham,
+5,Gotham Earth-5,,,1,5,19200500,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_5,Tower_Desc_Gotham,
+6,Gotham Earth-6,,,1,6,19200600,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_6,Tower_Desc_Gotham,
+907,Gotham Earth-7,,,1,7,19290700,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_7,Tower_Desc_Gotham,
+908,Gotham Earth-8,,,1,8,19290800,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_8,Tower_Desc_Gotham,
+909,Gotham Earth-9,,,1,9,19290900,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_9,Tower_Desc_Gotham,
+910,Gotham Earth-10,,,1,10,19291000,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_10,Tower_Desc_Gotham,
+911,Gotham Earth-11,,,1,11,19291100,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_11,Tower_Desc_Gotham,
+912,Gotham Earth-12,,,1,12,19291200,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_12,Tower_Desc_Gotham,
+913,Gotham Earth-13,,,1,13,19291300,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_13,Tower_Desc_Gotham,
+914,Gotham Earth-14,,,1,14,19291400,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_14,Tower_Desc_Gotham,
+915,Gotham Earth-15,,,1,15,19291500,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_15,Tower_Desc_Gotham,
+916,Gotham Earth-16,,,1,16,19291600,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_16,Tower_Desc_Gotham,
+917,Gotham Earth-17,,,1,17,19291700,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_17,Tower_Desc_Gotham,
+918,Gotham Earth-18,,,1,18,19291800,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_18,Tower_Desc_Gotham,
+919,Gotham Earth-19,,,1,19,19291900,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_19,Tower_Desc_Gotham,
+920,Gotham Earth-20,,,1,20,19292000,0,ui_tower_img_city01,ui_tower_img_gk_bg_01,ui_tower_img_gk_bg_02,Tower_name_Gotham,Tower_subname_20,Tower_Desc_Gotham,
+801,Central City Earth-1,1120107,1,2,1,19280100,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_1,Tower_Desc_Central,7
+806,Central City Earth-2,,,2,2,19280600,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_2,Tower_Desc_Central,7
+811,Central City Earth-3,,,2,3,19200700,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_3,Tower_Desc_Central,7
+816,Central City Earth-4,,,2,4,1920001419,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_4,Tower_Desc_Central,7
+821,Central City Earth-5,,,2,5,1920001420,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_5,Tower_Desc_Central,7
+7,Central City Earth-6,,,2,6,1920001421,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_6,Tower_Desc_Central,7
+12,Central City Earth-7,,,2,7,1920001422,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_7,Tower_Desc_Central,7
+17,Central City Earth-8,,,2,8,1920001423,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_8,Tower_Desc_Central,12
+22,Central City Earth-9,,,2,9,1920001424,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_9,Tower_Desc_Central,12
+27,Central City Earth-10,,,2,10,1920001425,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_10,Tower_Desc_Central,17
+32,Central City Earth-11,,,2,11,1920001426,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_11,Tower_Desc_Central,22
+37,Central City Earth-12,,,2,12,1920001427,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_12,Tower_Desc_Central,22
+42,Central City Earth-13,,,2,13,1920001428,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_13,Tower_Desc_Central,27
+802,Keystone City Earth-1,1120108,1,3,1,19280200,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_1,Tower_Desc_Keystone,8
+807,Keystone City Earth-2,,,3,2,19280700,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_2,Tower_Desc_Keystone,8
+812,Keystone City Earth-3,,,3,3,19200800,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_3,Tower_Desc_Keystone,8
+817,Keystone City Earth-4,,,3,4,1920001419,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_4,Tower_Desc_Keystone,8
+822,Keystone City Earth-5,,,3,5,1920001420,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_5,Tower_Desc_Keystone,8
+8,Keystone City Earth-6,,,3,6,1920001421,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_6,Tower_Desc_Keystone,8
+13,Keystone City Earth-7,,,3,7,1920001422,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_7,Tower_Desc_Keystone,8
+18,Keystone City Earth-8,,,3,8,1920001423,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_8,Tower_Desc_Keystone,13
+23,Keystone City Earth-9,,,3,9,1920001424,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_9,Tower_Desc_Keystone,13
+28,Keystone City Earth-10,,,3,10,1920001425,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_10,Tower_Desc_Keystone,18
+33,Keystone City Earth-11,,,3,11,1920001426,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_11,Tower_Desc_Keystone,23
+38,Keystone City Earth-12,,,3,12,1920001427,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_12,Tower_Desc_Keystone,23
+43,Keystone City Earth-13,,,3,13,1920001428,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_13,Tower_Desc_Keystone,28
+803,Metropolis Earth-1,1120109,1,4,1,19280300,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_1,Tower_Desc_Metropolis,9
+808,Metropolis Earth-2,,,4,2,19280800,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_2,Tower_Desc_Metropolis,9
+813,Metropolis Earth-3,,,4,3,19200900,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_3,Tower_Desc_Metropolis,9
+818,Metropolis Earth-4,,,4,4,1920001419,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_4,Tower_Desc_Metropolis,9
+823,Metropolis Earth-5,,,4,5,1920001420,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_5,Tower_Desc_Metropolis,9
+9,Metropolis Earth-6,,,4,6,1920001421,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_6,Tower_Desc_Metropolis,9
+14,Metropolis Earth-7,,,4,7,1920001422,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_7,Tower_Desc_Metropolis,9
+19,Metropolis Earth-8,,,4,8,1920001423,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_8,Tower_Desc_Metropolis,14
+24,Metropolis Earth-9,,,4,9,1920001424,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_9,Tower_Desc_Metropolis,14
+29,Metropolis Earth-10,,,4,10,1920001425,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_10,Tower_Desc_Metropolis,19
+34,Metropolis Earth-11,,,4,11,1920001426,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_11,Tower_Desc_Metropolis,24
+39,Metropolis Earth-12,,,4,12,1920001427,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_12,Tower_Desc_Metropolis,24
+44,Metropolis Earth-13,,,4,13,1920001428,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_13,Tower_Desc_Metropolis,29
+804,Star City Earth-1,1120110,1,5,1,19280400,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_1,Tower_Desc_Star,10
+809,Star City Earth-2,,,5,2,19280900,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_2,Tower_Desc_Star,10
+814,Star City Earth-3,,,5,3,19201000,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_3,Tower_Desc_Star,10
+819,Star City Earth-4,,,5,4,1920001419,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_4,Tower_Desc_Star,10
+824,Star City Earth-5,,,5,5,1920001420,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_5,Tower_Desc_Star,10
+10,Star City Earth-6,,,5,6,1920001421,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_6,Tower_Desc_Star,10
+15,Star City Earth-7,,,5,7,1920001422,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_7,Tower_Desc_Star,10
+20,Star City Earth-8,,,5,8,1920001423,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_8,Tower_Desc_Star,15
+25,Star City Earth-9,,,5,9,1920001424,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_9,Tower_Desc_Star,15
+30,Star City Earth-10,,,5,10,1920001425,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_10,Tower_Desc_Star,20
+35,Star City Earth-11,,,5,11,1920001426,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_11,Tower_Desc_Star,25
+40,Star City Earth-12,,,5,12,1920001427,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_12,Tower_Desc_Star,25
+45,Star City Earth-13,,,5,13,1920001428,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_13,Tower_Desc_Star,30
+805,Fawcett Earth-1,1120111,1,6,1,19280500,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_1,Tower_Desc_Fawcett,11
+810,Fawcett Earth-2,,,6,2,19281000,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_2,Tower_Desc_Fawcett,11
+815,Fawcett Earth-3,,,6,3,19201100,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_3,Tower_Desc_Fawcett,11
+820,Fawcett Earth-4,,,6,4,1920001419,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_4,Tower_Desc_Fawcett,11
+825,Fawcett Earth-5,,,6,5,1920001420,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_5,Tower_Desc_Fawcett,11
+11,Fawcett Earth-6,,,6,6,1920001421,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_6,Tower_Desc_Fawcett,11
+16,Fawcett Earth-7,,,6,7,1920001422,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_7,Tower_Desc_Fawcett,11
+21,Fawcett Earth-8,,,6,8,1920001423,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_8,Tower_Desc_Fawcett,16
+26,Fawcett Earth-9,,,6,9,1920001424,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_9,Tower_Desc_Fawcett,16
+31,Fawcett Earth-10,,,6,10,1920001425,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_10,Tower_Desc_Fawcett,21
+36,Fawcett Earth-11,,,6,11,1920001426,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_11,Tower_Desc_Fawcett,26
+41,Fawcett Earth-12,,,6,12,1920001427,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_12,Tower_Desc_Fawcett,26
+46,Fawcett Earth-13,,,6,13,1920001428,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_13,Tower_Desc_Fawcett,31
+826,Fawcett Earth-14,,,6,14,198009513,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_14,Tower_Desc_Fawcett,
+827,Fawcett Earth-15,,,6,15,198009514,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_15,Tower_Desc_Fawcett,
+828,Fawcett Earth-16,,,6,16,198009515,0,ui_tower_img_city02,ui_tower_img_gk_bg_04,ui_tower_img_gk_bg_03,Tower_name_Fawcett,Tower_subname_16,Tower_Desc_Fawcett,
+829,Keystone Earth-14,,,3,14,198009513,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_14,Tower_Desc_Keystone,
+830,Keystone Earth-15,,,3,15,198009514,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_15,Tower_Desc_Keystone,
+831,Keystone Earth-16,,,3,16,198009515,0,ui_tower_img_city04,ui_tower_img_gk_bg_10,ui_tower_img_gk_bg_09,Tower_name_Keystone,Tower_subname_16,Tower_Desc_Keystone,
+832,Central City Earth-14,,,2,14,198009513,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_14,Tower_Desc_Central,
+833,Central City Earth-15,,,2,15,198009514,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_15,Tower_Desc_Central,
+834,Central City Earth-16,,,2,16,198009515,0,ui_tower_img_city03,ui_tower_img_gk_bg_12,ui_tower_img_gk_bg_11,Tower_name_Central,Tower_subname_16,Tower_Desc_Central,
+835,Star City Earth-14,,,5,14,198009513,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_14,Tower_Desc_Star,
+836,Star City Earth-15,,,5,15,198009514,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_15,Tower_Desc_Star,
+837,Star City Earth-16,,,5,16,198009515,0,ui_tower_img_city06,ui_tower_img_gk_bg_08,ui_tower_img_gk_bg_07,Tower_name_Star,Tower_subname_16,Tower_Desc_Star,
+838,Metropolis Earth-14,,,4,14,198009513,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_14,Tower_Desc_Metropolis,
+839,Metropolis Earth-15,,,4,15,198009514,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_15,Tower_Desc_Metropolis,
+840,Metropolis Earth-16,,,4,16,198009515,0,ui_tower_img_city05,ui_tower_img_gk_bg_06,ui_tower_img_gk_bg_05,Tower_name_Metropolis,Tower_subname_16,Tower_Desc_Metropolis,

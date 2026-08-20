@@ -1,0 +1,8 @@
+﻿GroupId,O,ShowReward,ShowReward,ShowReward,ShowReward,ShowReward,ShowReward
+"Reward Type - 
+Corresponding BPGroup table RewardGroup field ID",Note,Display Reward 1,Display Reward 2,Display Reward 3,Display Reward 4,Display Reward 5,Display Reward 6
+index,O,array-int,array-int,array-int,array-int,array-int,array-int
+1,奖励组1,1113000,1113003,111202,,,
+2,奖励组2,1113000,1113003,111202,,,
+3,奖励组3,1113000,1120016,111202,1120015,1112132,1113003
+4,奖励组4,1113000,1120016,111202,1120015,1112132,1113003

@@ -1,0 +1,6 @@
+﻿ActivityID,O,SignInDays,ActivityTitle,ActivityDesc,ActivityTimeBG,NormalRewardBG,GetNormalRewardBG,SpRewardBG,GetSpRewardBG
+Activity ID,Note,Sign In Days,Event Title,Event Description,Event BG,Normal Reward BG,Normal Reward Available BG,Special Reward BG,Special Reward Avalable BG
+int,O,int,string,string,string,string,string,string,string
+5001,New Year's Day Sign In,7,NewYearSigninTitle01,NewYearSigninDesc,ui_newYear_img_bg07,ui_newYear_img_bg08,ui_newYear_img_bg09,ui_newYear_img_bg12,ui_newYear_img_bg15
+5002,Valentine's Day Sign In,7,ValentineSigninTitle01,NewYearSigninDesc,ui_valentine_img_bg07,ui_valentine_img_bg08,ui_valentine_img_bg09,ui_valentine_img_bg12,ui_valentine_img_bg15
+5003,Halloween Sign in,7,HalloweenSigninTitle01,HalloweenSigninDesc,ui_halloween_img_bg07,ui_halloween_img_bg08,ui_halloween_img_bg09,ui_halloween_img_bg12,ui_halloween_img_bg15

@@ -1,0 +1,17 @@
+﻿ID,BattleResult,BattleNumMin,BattleNumMax,MatchPointChange
+ID,"Winning streak or losing streak
+1 win streak
+2 lose streak",Minimum number of wins or losses in a streak,Maximum number of wins or losses in a streak,"Corresponding change value of match ranking range
+Win streak: match score increases
+Lose streak: match score decreases"
+index,int,int,int,int
+1,1,3,4,30
+2,1,5,6,60
+3,1,7,9,90
+4,1,10,14,120
+5,1,15,9999,150
+6,2,3,4,30
+7,2,5,6,60
+8,2,7,9,90
+9,2,10,14,120
+10,2,15,9999,150

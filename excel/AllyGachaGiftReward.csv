@@ -1,0 +1,36 @@
+﻿ID,Count,Describe,Reward,IsImportant
+Activity ID,# of Drawn Cards,Description,"Reward ID - 
+Only Items can be matched, and each reward can only be matched with one Item",Is it an important node?
+index,index,O,int,int
+1001,10,Wonder Woman,190800101,0
+1001,20,Wonder Woman,190800102,0
+1001,30,Wonder Woman,190800103,0
+1001,40,Wonder Woman,190800104,0
+1001,50,Wonder Woman,190800105,0
+1001,60,Wonder Woman,190800106,1
+1001,80,Wonder Woman,190800107,1
+1001,100,Wonder Woman,190800108,1
+1002,30,Pandora,190800201,0
+1002,50,Pandora,190800202,0
+1002,80,Pandora,190800203,1
+1002,150,Pandora,190800204,0
+1002,200,Pandora,190800205,1
+1003,10,Doctor Fate,190800301,0
+1003,20,Doctor Fate,190800302,0
+1003,35,Doctor Fate,190800303,0
+1003,50,Doctor Fate,190800304,0
+1003,60,Doctor Fate,190800305,1
+1003,80,Doctor Fate,190800306,0
+1003,100,Doctor Fate,190800307,1
+1004,30,Two-Face,190800401,0
+1004,50,Two-Face,190800402,0
+1004,80,Two-Face,190800403,1
+1004,150,Two-Face,190800404,0
+1004,200,Two-Face,190800405,1
+1005,10,Cyborg,190800501,0
+1005,20,Cyborg,190800502,0
+1005,35,Cyborg,190800503,0
+1005,50,Cyborg,190800504,0
+1005,75,Cyborg,190800505,1
+1006,25,Killer Frost,190800601,1
+1006,50,Killer Frost,190800602,1

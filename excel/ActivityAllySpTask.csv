@@ -1,0 +1,5 @@
+﻿ActivityID,TaskCountInterval,RewardID
+ActivityID,Number of tasks completed,RewardID
+Index,int,int
+10103,5,19160166
+10303,5,19160215

@@ -1,0 +1,3 @@
+﻿ID,AvatarName,AvatarDesc,AvatarIcon
+Avatar Item ID,Name,Description,Avatar Icon
+index,string,string,string

@@ -1,0 +1,10 @@
+﻿AreaSkillId,O,AreaSkillName,O,AreaSkillDesc,AreaSkillIcon,AreaSkillParam,AreaSkillParam,AreaSkillParam
+Skill ID,Observation,Skill name,Observation,Effect description,Skill icon,Skill parameter,Skill parameter,Skill parameter
+int,O,string,,string,string,int,int,int
+1,Tactical Attack,GveAreaSkillName1,Deals {0} Repel Damage to the Challenge Boss.,GveAreaSkillDesc1,GveAreaSkill_01,20000,,
+2,Effect Warm-up,GveAreaSkillName2,Repel Damage from the next Sector Skill to trigger is multiplied {0} times.,GveAreaSkillDesc2,GveAreaSkill_02,2,,
+3,Precise Strike,GveAreaSkillName3,"Deals {0} Repel Damage to the Challenge Boss. If the Boss's current Repel Damage is below {1}%, deals an additional {2} Repel Damage.",GveAreaSkillDesc3,GveAreaSkill_03,10000,25,20000
+4,Deadly Blow,GveAreaSkillName4,"Deals {0} Repel Damage to the Challenge Boss. If the Boss's current Repel Damage is above {1}%, deals an additional {2} Repel Damage.",GveAreaSkillDesc4,GveAreaSkill_04,10000,75,20000
+5,Tactical Strike,GveAreaSkillName5,"Deals Repel Damage equal to {0}% of the remaining, undealt Repel Damage to the Challenge Boss.",GveAreaSkillDesc5,GveAreaSkill_05,5,,
+6,Combo Strikes,GveAreaSkillName6,Deals Repel Damage equal to {0}% of Repel Damage already dealt to the Challenge Boss.,GveAreaSkillDesc6,GveAreaSkill_06,5,,
+7,Tactical Edge,GveAreaSkillName7,Adds {0} points to Total League Battle Points.,GveAreaSkillDesc7,GveAreaSkill_07,20000,,

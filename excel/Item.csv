@@ -1,0 +1,773 @@
+﻿Key,O,Name,Desc,O,AddType,AddParam1,AddParam2,AddParam3,DelType,DelParam1,UseType,UseParam1,UseParam2,UseParam3,Type,SubType,Quality,Sort,ICON,IconFly,CanSell,Resource,ResourceDesc,Badge,FuncId
+ID,Name,Name Loc Key,Desc Loc Key,Description,Adding Logic,AddParam1,AddParam2,AddParam3,DeleteLogic,,How to Use,Item Param 1,Item Param 2,Item Param 3,Large Type,SubType,Quality,Sort,Icon File Name,Doober Effects,CanSell,Source,Source Supplement,Red Dot Type,Feature Flag
+index,string,string,string,string,int,int,int,int,int,int,int,int,int,int,int,int,int,int,string,string,int,array-string,string,int,int
+111201,Gold,Resources111201_Name,Resources111201_Desc,Gold,2,1,,,2,1,,,,,0,0,2,0,ui_item_111201,FX_UI_Lobby_IconFly15,0,,,,
+111202,Diamond,Resources111202_Name,Resources111202_Desc,Diamond,2,2,,,2,2,,,,,0,0,4,0,ui_item_111202,,0,,,,
+111203,Character Exp,Resources111203_Name,Resources111203_Desc,Used for ally upgrades,2,3,,,2,3,,,,,0,0,2,0,ui_item_111203,FX_UI_Lobby_IconFly01,0,,,,
+111205,High-Density Material,Resources111205_Name,Resources111205_Desc,Unlock resource for Reserve League slots,2,5,,,2,5,,,,,0,0,4,0,ui_item_111205,,0,,,,1400
+111207,Equipment Enhancement Part,Resources111207_Name,Resources111207_Desc,Used to enhance equipment,2,7,,,2,7,,,,,0,0,3,0,ui_item_111207,,0,,,,
+111208,Equipment Certificate,Resources111208_Name,Resources111208_Desc,Used for orange outfit redemption,2,8,,,2,7,,,,,0,0,5,0,ui_item_111208,,0,,,,
+111209,Remnants of Seven Deadly Sins,Resources111209_Name,Resources111209_Desc,Elseworld tokens,2,9,,,2,9,,,,,0,0,4,0,ui_item_111209,,0,,,,1500
+111210,Duel Medal,Resources111210_Name,Resources111210_Desc,Warworld tokens,2,10,,,2,10,,,,,0,0,4,0,ui_item_111210,,0,,,,720
+111211,Syndicate Coin,Resources111211_Name,Resources111211_Desc,Evil Falls tokens,2,11,,,2,11,,,,,0,0,4,0,ui_item_111211,,0,,,,730
+111212,Unrestricted Arena Coin,Resources111212_Name,Resources111212_Desc,Unrestricted Arena tokens,2,13,,,2,13,,,,,0,0,4,0,ui_item_111212,,0,,,,750
+111213,Assist Credit Point,Resources111213_Name,Resources111213_Desc,Battle Assist tokens,2,17,,,2,17,,,,,0,0,4,0,ui_item_111213,,0,,,,780
+111222,Web Store Currency,Resources111222_Name,Resources111222_Desc,Web Store Currency,2,12,,,2,12,,,,,0,0,4,0,ui_item_111222,,0,,,,
+111231,Decoration Voucher,Resources111231_Name,Resources111231_Desc,Lobby skin voucher,2,16,,,2,16,,,,,0,0,5,0,ui_item_111231,,0,,,,3300
+1113003,Titanium,ItemName1113003,ItemDesc1113003,Hero Upgrade Breakthrough Materials,1,,,,1,,,,,,2,1,3,1,ui_item_1113003,FX_UI_Lobby_IconFly18,0,,,,
+1113000,Eight Metal,ItemName1113000,ItemDesc1113000,A and S hero star upgrade materials,1,,,,1,,,,,,2,1,5,1,ui_item_1113000,,0,,,,
+1113001,Ninth Metal (deprecated),ItemName1113001,ItemDesc1113001,Deprecated,1,,,,1,,,,,,2,1,5,1,ui_item_1113001,,0,,,,
+1120015,Encrypted Token,ItemName1120015,ItemDesc1120015,"Diamond draw, general draw",1,,,,1,,,,,,2,1,4,75,ui_item_1120015,,0,,,,470
+1120016,Super Encrypted Token,ItemName1120016,ItemDesc1120016,Advanced draw,1,,,,1,,,,,,2,1,5,75,ui_item_1120016,,0,,,,470
+1120017,League Encrypted Token,ItemName1120017,ItemDesc1120017,League Gacha Draw,1,,,,1,,,,,,2,1,4,75,ui_item_1120017,,0,,,,470
+1120023,Intel Clue,ItemName1120023,ItemDesc1120023,Intelligence unlocking items,1,,,,1,,,,,,2,1,3,88,ui_item_1120023,,,,,,
+1120024,Secret Record Clue,ItemName1120024,ItemDesc1120024,Secret Record Unlock Items,1,,,,1,,,,,,2,1,3,89,ui_item_1120024,,,,,,
+1120025,Crystal Key,ItemName1120025,ItemDesc1120025,Beast Arena Challenge Ticket,1,,,,1,,,,,,2,1,2,85,ui_item_1120025,,0,,,,720
+1120026,Restart Voucher,ItemName1120026,ItemDesc1120026,Elseworld restart voucher,1,,,,1,,,,,,2,1,2,86,ui_item_1115000,,0,,,,1500
+1120027,Adrenaline Shot,ItemName1120027,ItemDesc1120027,Elseworld character revival item,1,,,,1,,,,,,2,1,2,87,ui_item_1120027,,0,,,,1500
+1120029,Tech Point,ItemName1120029,ItemDesc1120029,Collection Technology Points,2,15,,,2,15,,,,,0,0,5,0,ui_item_1120029,,0,,,,2300
+1120030,Ninth Metal Fragment,ItemName1120030,ItemDesc1120030,Collection Upgrade Items,1,,,,1,,,,,,2,1,4,999,ui_item_1120030,,0,,,,2300
+1120031,Collection Rank Up Chip,ItemName1120031,ItemDesc1120031,Collection Skill Upgrade Items,1,,,,1,,,,,,2,1,5,999,ui_item_1120031,,0,,,,2300
+1120032,Batcycle Mask,ItemName1120032,ItemDesc1120032,Batcycle Activation Item,5,101,,,1,,,,,,2,1,3,10,ui_item_1120032,,0,,,,2300
+1120033,Mirror Fragment,ItemName1120033,ItemDesc1120033,Shadow Mirror Activation Item,5,102,,,1,,,102,,,1,4,3,20,ui_item_1120033,,0,,,,2300
+1120034,Tiger Fang,ItemName1120034,ItemDesc1120034,Shazam's Tiger Activation Item,5,103,,,1,,,103,,,1,4,4,10,ui_item_1120034,,0,,,,2300
+1120035,Batmobile Fragment,ItemName1120035,ItemDesc1120035,Batmobile Activation Item,5,201,1111002,35,1,,,201,,,3,2,5,10,ui_item_1120035,,0,,,,2300
+1120036,Kahndaq Relic,ItemName1120036,ItemDesc1120036,Throne Activation Item,5,104,,,1,,,104,,,1,4,4,10,ui_item_1120036,,0,,,,2300
+1120037,The Invisible Plane Fragment,ItemName1120037,ItemDesc1120037,Invisible Jet Activation Item,5,202,1111002,35,1,,,202,,,3,2,5,10,ui_item_1120037,,0,,,,2300
+1120038,Lex Armor Fragment,ItemName1120038,ItemDesc1120038,Lex Armor Activation Item,5,204,1111002,35,1,,,204,,,3,2,5,10,ui_item_1120038,,0,,,,2300
+1120039,Parallax Fragment,ItemName1120039,ItemDesc1120039,Parallax Fragment,5,203,1111002,35,1,,,203,,,3,2,5,10,ui_item_1120039,,0,,,,2300
+1120040,Green Lantern Power Battery Fragment,ItemName1120040,ItemDesc1120040,Green Lantern Power Battery Fragment,5,205,1111002,35,1,,,205,,,3,2,5,10,ui_item_1120040,,0,,,,2300
+1120041,Godkiller Sword Fragment,ItemName1120041,ItemDesc1120041,Godkiller Sword unlock item,5,206,1111002,35,1,,,206,,,3,2,5,10,ui_item_1120041,,0,,,,2300
+1120042,Haunted Tank Fragment,ItemName1120042,ItemDesc1120042,Haunted Tank unlock item,5,207,1111002,35,1,,,207,,,3,2,5,10,ui_item_1120042,,0,,,,2300
+1120043,Phantom Zone Projector Fragment,ItemName1120043,ItemDesc1120043,Phantom Zone Projector unlock item,5,208,1111002,35,1,,,208,,,3,2,5,10,ui_item_1120043,,0,,,,2300
+1120050,Beginner Assist Guide,ItemName1120050,ItemDesc1120050,Primary Battle Guide,1,,,,1,,,,,,2,1,3,100,ui_item_1120050,,0,,,,780
+1120051,Advanced Assist Guide,ItemName1120051,ItemDesc1120051,Advanced Battle Guide,1,,,,1,,,,,,2,1,5,100,ui_item_1120051,,0,,,,780
+1114000,Silicon Fragment,ItemName1114000,ItemDesc1114000,Equipment reinforcement materials,1,,,,1,,3,200,,,1,2,4,1,ui_item_1114000,FX_UI_Lobby_IconFly12,0,,,,
+1114006,Digital Signature Card,ItemName1114006,ItemDesc1114006,The electronic signature card developed by Star Lab can activate the exclusive attributes of the ally after being connected to the equipment. It can only be used for human function enhancement equipment developed by Star Lab.,1,,,,1,,,,,,2,1,5,15,ui_item_1114006,,0,,,,
+1112101,Gold Coin Chest 1,ItemName1112101,ItemDesc1112101,20 minute gold coin chest,1,,,,1,,6,111201,1200,,1,1,2,1,ui_item_1112101,FX_UI_Lobby_IconFly15,0,,,,
+1112102,Gold Coin Chest 2,ItemName1112102,ItemDesc1112102,1 hour gold coin chest,1,,,,1,,6,111201,3600,,1,1,3,2,ui_item_1112101,FX_UI_Lobby_IconFly15,0,,,,
+1112103,Gold Coin Chest 3,ItemName1112103,ItemDesc1112103,2 hour gold coin chest,1,,,,1,,6,111201,7200,,1,1,3,3,ui_item_1112101,FX_UI_Lobby_IconFly15,0,,,,
+1112104,Gold Coin Chest 4,ItemName1112104,ItemDesc1112104,8 hour gold coin chest,1,,,,1,,6,111201,28800,,1,1,4,4,ui_item_1112102,FX_UI_Lobby_IconFly15,0,,,,
+1112105,Gold Coin Chest 5,ItemName1112105,ItemDesc1112105,12 hour gold coin chest,1,,,,1,,6,111201,43200,,1,1,4,5,ui_item_1112103,FX_UI_Lobby_IconFly15,0,,,,
+1112106,Gold Coin Chest 6,ItemName1112106,ItemDesc1112106,24 hour gold coin chest,1,,,,1,,6,111201,86400,,1,1,5,6,ui_item_1112103,FX_UI_Lobby_IconFly15,0,,,,
+1112301,Ally Experience Chest 1 (Abandoned),ItemName1112301,ItemDesc1112301,20 minutes Ally Experience Chest (Abandoned),1,,,,1,,6,111203,1200,,1,1,2,13,ui_item_1112301,FX_UI_Lobby_IconFly01,0,,,,
+1112302,Ally Experience Chest 2,ItemName1112302,ItemDesc1112302,1 hour Ally Experience Chest ,1,,,,1,,6,111203,3600,,1,1,3,14,ui_item_1112301,FX_UI_Lobby_IconFly01,0,,,,
+1112303,Ally Experience Chest 3,ItemName1112303,ItemDesc1112303,2 hour Ally Experience Chest ,1,,,,1,,6,111203,7200,,1,1,3,15,ui_item_1112301,FX_UI_Lobby_IconFly01,0,,,,
+1112304,Ally Experience Chest 4,ItemName1112304,ItemDesc1112304,8 hour Ally Experience Chest ,1,,,,1,,6,111203,28800,,1,1,4,16,ui_item_1112302,FX_UI_Lobby_IconFly01,0,,,,
+1112305,Ally Experience Chest 5,ItemName1112305,ItemDesc1112305,12 hour Ally Experience Chest ,1,,,,1,,6,111203,43200,,1,1,4,17,ui_item_1112303,FX_UI_Lobby_IconFly01,0,,,,
+1112306,Ally Experience Chest 6,ItemName1112306,ItemDesc1112306,24 hour Ally Experience Chest ,1,,,,1,,6,111203,86400,,1,1,5,18,ui_item_1112303,FX_UI_Lobby_IconFly01,0,,,,
+1112131,Titanium Alloy Treasure Chest 1,ItemName1112131,ItemDesc1112131,20 minutes Titanium Alloy Treasure Chest,1,,,,1,,6,1113003,1200,,1,1,2,31,ui_item_1112131,FX_UI_Lobby_IconFly18,0,,,,
+1112132,Titanium Alloy Treasure Chest 2,ItemName1112132,ItemDesc1112132,1 hour Titanium Alloy Treasure Chest,1,,,,1,,6,1113003,3600,,1,1,3,32,ui_item_1112131,FX_UI_Lobby_IconFly18,0,,,,
+1112133,Titanium Alloy Treasure Chest 3,ItemName1112133,ItemDesc1112133,2 hour Titanium Alloy Treasure Chest,1,,,,1,,6,1113003,7200,,1,1,3,33,ui_item_1112131,FX_UI_Lobby_IconFly18,0,,,,
+1112134,Titanium Alloy Treasure Chest 4,ItemName1112134,ItemDesc1112134,8 hour Titanium Alloy Treasure Chest,1,,,,1,,6,1113003,28800,,1,1,4,34,ui_item_1112132,FX_UI_Lobby_IconFly18,0,,,,
+1112135,Titanium Alloy Treasure Chest 5,ItemName1112135,ItemDesc1112135,12 hour Titanium Alloy Treasure Chest,1,,,,1,,6,1113003,43200,,1,1,4,35,ui_item_1112133,FX_UI_Lobby_IconFly18,0,,,,
+1112136,Titanium Alloy Treasure Chest 6,ItemName1112136,ItemDesc1112136,24 hour Titanium Alloy Treasure Chest,1,,,,1,,6,1113003,86400,,1,1,5,36,ui_item_1112133,FX_UI_Lobby_IconFly18,0,,,,
+1112141,Experience\Gold\Breakthrough Stone 12 hour ,ItemName1112141,ItemDesc1112141,Experience\Gold\Breakthrough Stone 12 hour ,1,,,,1,,5,19000001,1,1,1,1,5,1,ui_item_1112142,,0,,,1,
+1113101,Superman Shard,ItemName1113101,ItemDesc1113101,"Superman Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13101,,,3,1,5,1,,,0,,,,
+1113102,Batman Shard,ItemName1113102,ItemDesc1113102,"Batman Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13102,,,3,1,5,2,,,0,,,,
+1113103,Wonder Woman Shard,ItemName1113103,ItemDesc1113103,"Wonder Woman Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13103,,,3,1,5,3,,,0,,,,
+1113104,The Flash Shard,ItemName1113104,ItemDesc1113104,"The Flash Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13104,,,3,1,5,4,,,0,,,,
+1113106,Martian Manhunter Shard,ItemName1113106,ItemDesc1113106,"Martian Manhunter Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13106,,,3,1,5,6,,,0,,,,
+1113108,Dr. Fate Shard,ItemName1113108,ItemDesc1113108,"Doctor Fate Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13108,,,3,1,5,8,,,0,,,,
+1113109,Nightwing Shard,ItemName1113109,ItemDesc1113109,"Nightwing Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13109,,,3,1,5,9,,,0,,,,
+1113110,Superboy Shard,ItemName1113110,ItemDesc1113110,"Superboy Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13110,,,3,1,5,10,,,0,,,,
+1113111,Kid Flash Shard,ItemName1113111,ItemDesc1113111,"Kid Flash Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13111,,,3,1,5,11,,,0,,,,
+1113112,Red Robin Shard,ItemName1113112,ItemDesc1113112,"Red Robin Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13112,,,3,1,4,301,,,0,,,,
+1113113,Cyborg Shard,ItemName1113113,ItemDesc1113113,"Cyborg Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13113,,,3,1,5,13,,,0,,,,
+1113114,Constantine Shard,ItemName1113114,ItemDesc1113114,"Constantine Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13114,,,3,1,5,14,,,0,,,,
+1113115,Red Hood Shard,ItemName1113115,ItemDesc1113115,"Red Hood Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13115,,,3,1,5,15,,,0,,,,
+1113117,Catwoman Shard,ItemName1113117,ItemDesc1113117,"Catwoman Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13117,,,3,1,3,401,,,0,,,,
+1113118,Firestorm Shard,ItemName1113118,ItemDesc1113118,"Firestorm Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13118,,,3,1,5,18,,,0,,,,
+1113119,Green Arrow Shard,ItemName1113119,ItemDesc1113119,"Green Arrow Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13119,,,3,1,5,19,,,0,,,,
+1113120,Robin Shard,ItemName1113120,ItemDesc1113120,"Robin Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13120,,,3,1,5,20,,,0,,,,
+1113121,Zatanna Shard,ItemName1113121,ItemDesc1113121,"Zatanna Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13121,,,3,1,5,21,,,0,,,,
+1113122,Starfire Shard,ItemName1113122,ItemDesc1113122,"Starfire Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13122,,,3,1,5,22,,,0,,,,
+1113126,Black Canary Shard,ItemName1113126,ItemDesc1113126,"Black Canary Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13126,,,3,1,4,302,,,0,,,,
+1113127,Cheetah Shard,ItemName1113127,ItemDesc1113127,"Cheetah Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13127,,,3,1,4,303,,,0,,,,
+1113128,Huntress Shard,ItemName1113128,ItemDesc1113128,"Huntress Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13128,,,3,1,4,304,,,0,,,,
+1113129,King Shark Shard,ItemName1113129,ItemDesc1113129,"King Shark Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13129,,,3,1,3,402,,,0,,,,
+1113130,Batgirl Shard,ItemName1113130,ItemDesc1113130,"Batgirl Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13130,,,3,1,3,403,,,0,,,,
+1113131,Lex Luthor Shard,ItemName1113131,ItemDesc1113131,"Lex Luthor Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13131,,,3,1,5,31,,,0,,,,
+1113133,Sinestro Shard,ItemName1113133,ItemDesc1113133,"Sinestro Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13133,,,3,1,5,33,,,0,,,,
+1113135,Bizarro Shard,ItemName1113135,ItemDesc1113135,"Bizarro Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13135,,,3,1,5,35,,,0,,,,
+1113136,Raven Shard,ItemName1113136,ItemDesc1113136,"Raven Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13136,,,3,1,5,36,,,0,,,,
+1113137,Captain Cold Shard,ItemName1113137,ItemDesc1113137,"Captain Cold Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13137,,,3,1,4,305,,,0,,,,
+1113138,Poison Ivy Shard,ItemName1113138,ItemDesc1113138,"Poison Ivy Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13138,,,3,1,5,38,,,0,,,,
+1113139,Bane Shard,ItemName1113139,ItemDesc1113139,"Bane Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13139,,,3,1,5,39,,,0,,,,
+1113140,Gorilla Grodd Shard,ItemName1113140,ItemDesc1113140,"Gorilla Grodd Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13140,,,3,1,5,40,,,0,,,,
+1113141,Killer Frost Shard,ItemName1113141,ItemDesc1113141,"Killer Frost Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13141,,,3,1,5,41,,,0,,,,
+1113142,Harley Quinn Shard,ItemName1113142,ItemDesc1113142,"Harley Quinn Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13142,,,3,1,4,306,,,0,,,,
+1113143,Black Manta Shard,ItemName1113143,ItemDesc1113143,"Black Manta Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13143,,,3,1,4,307,,,0,,,,
+1113144,Captain Boomerang Shard,ItemName1113144,ItemDesc1113144,"Captain Boomerang Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13144,,,3,1,3,404,,,0,,,,
+1113145,Scarecrow Shard,ItemName1113145,ItemDesc1113145,"Scarecrow Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13145,,,3,1,4,308,,,0,,,,
+1113147,Mirror Master Shard,ItemName1113147,ItemDesc1113147,"Mirror Master Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13147,,,3,1,4,309,,,0,,,,
+1113148,Penguin Shard,ItemName1113148,ItemDesc1113148,"Penguin Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13148,,,3,1,5,48,,,0,,,,
+1113150,Deadshot Shard,ItemName1113150,ItemDesc1113150,"Deadshot Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13150,,,3,1,4,310,,,0,,,,
+1113151,Deathstroke Shard,ItemName1113151,ItemDesc1113151,"Deathstroke Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13151,,,3,1,5,51,,,0,,,,
+1113152,Green Lantern - Hal Shard,ItemName1113152,ItemDesc1113152,"Green Lantern - Hal Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13152,,,3,1,5,52,,,0,,,,
+1113153,Mr. Freeze Shard,ItemName1113153,ItemDesc1113153,"Mr. Freeze Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13153,,,3,1,4,311,,,0,,,,
+1113169,Killer Croc Shard,ItemName1113169,ItemDesc1113169,"Killer Croc Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13169,,,3,1,4,312,,,0,,,,
+1113170,Green Lantern - Jessica Shard,ItemName1113170,ItemDesc1113170,"Green Lantern Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13170,,,3,1,5,70,,,0,,,,
+1113171,Two-Face Shard,ItemName1113171,ItemDesc1113171,"Two-Face Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13171,,,3,1,5,71,,,0,,,,
+1113173,Clayface Shard,ItemName1113173,ItemDesc1113173,"Clayface Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13173,,,3,1,4,313,,,0,,,,
+1113184,Frankenstein Shard,ItemName1113184,ItemDesc1113184,"Frankenstein Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13184,,,3,1,4,314,,,0,,,,
+1113185,Phantom Stranger Shard,ItemName1113185,ItemDesc1113185,"Phantom Stranger Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13185,,,3,1,4,315,,,0,,,,
+1113186,The Question Shard,ItemName1113186,ItemDesc1113186,"The Question Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13186,,,3,1,3,405,,,0,,,,
+1113187,Pandora Shard,ItemName1113187,ItemDesc1113187,"Pandora Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13187,,,3,1,5,87,,,0,,,,
+1113195,Green Lantern - John Shard,ItemName1113195,ItemDesc1113195,"John Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13195,,,3,1,5,95,,,0,,,,
+1113194,White Lantern - Kyle Rayner Shard,ItemName1113194,ItemDesc1113194,"Kyle Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13194,,,3,1,5,94,,,0,,,,
+1113196,Star Sapphire - Carol Ferris Shard,ItemName1113196,ItemDesc1113196,"Star Sapphire Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13196,,,3,1,5,96,,,0,,,,
+1113202,Mera Fragment,ItemName1113202,ItemDesc1113202,"Mera fragments, when collected, can be used to upgrade",1,,,,1,,4,13202,,,3,1,5,102,,,0,,,,
+1113204,Wonder Woman Shard,ItemName1113103,ItemDesc1113103,"Wonder Woman Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13204,,,3,1,5,3,,,0,,,,
+1113209,General Zod Fragment,ItemName1113209,ItemDesc1113209,"General Zod fragments, when collected, can be used to upgrade",1,,,,1,,4,13209,,,3,1,5,109,,,0,,,,
+1113132,Joker Fragment,ItemName1113132,ItemDesc1113132,"Joker fragments, when collected, can be used to upgrade",1,,,,1,,4,13132,,,3,1,5,32,,,0,,,,
+1113214,Hugo Strange Fragment,ItemName1113214,ItemDesc1113214,"Hugo Strange fragments, when collected, can be used to upgrade",1,,,,1,,4,13214,,,3,1,5,214,,,0,,,,
+1113149,Ocean Master Fragment,ItemName1113149,ItemDesc1113149,"Ocean Master fragments, when collected, can be used to upgrade",1,,,,1,,4,13149,,,3,1,5,49,,,0,,,,
+1113218,The Bride Fragment,ItemName1113218,ItemDesc1113218,"The Bride fragments, when collected, can be used to upgrade",1,,,,1,,4,13218,,,3,1,5,218,,,0,,,,
+1113217,Punchline Fragment,ItemName1113217,ItemDesc1113217,"Punchline fragments, when collected, can be used to upgrade",1,,,,1,,4,13217,,,3,1,5,217,,,0,,,,
+1113105,Aquaman Fragment,ItemName1113105,ItemDesc1113105,"Aquaman fragments, when collected, can be used to upgrade",1,,,,1,,4,13105,,,3,1,5,5,,,0,,,,
+1113201,Blue Beetle Fragment,ItemName1113201,ItemDesc1113201,"Blue Beetle fragments, when collected can be used to upgrade",1,,,,1,,4,13201,,,3,1,5,201,,,0,,,,
+1113206,Supergirl Fragment,ItemName1113206,ItemDesc1113206,"Supergirl fragments, when collected can be used to upgrade",1,,,,1,,4,13206,,,3,1,5,206,,,0,,,,
+1113208,Bloodsport Fragment,ItemName1113208,ItemDesc1113208,"Bloodsport fragments, when collected, can be used to upgrade",1,,,,1,,4,13208,,,3,1,5,208,,,0,,,,
+1113219,Dr. Phosphorus Fragment,ItemName1113219,ItemDesc1113219,"Dr. Phosphorus fragments, when collected, can be used to upgrade",1,,,,1,,4,13219,,,3,1,5,219,,,0,,,,
+1113200,Jarson Fragment,ItemName1113200,ItemDesc1113200,"Jarson fragments, when collected, can be used to upgrade",1,,,,1,,4,13200,,,3,1,4,200,,,0,,,,
+1113220,Weasel Fragment,ItemName1113220,ItemDesc1113220,"Weasel fragments, when collected, can be used to upgrade",1,,,,1,,4,13220,,,3,1,5,220,,,0,,,,
+1113227,Peacemaker Fragment,ItemName1113227,ItemDesc1113227,"Peacemaker fragments, when collected, can be used to upgrade",1,,,,1,,4,13227,,,3,1,5,227,,,0,,,,
+1113210,Cheshire Fragment,ItemName1113210,ItemDesc1113210,"Cheshire fragments, when collected, can be used to upgrade",1,,,,1,,4,13210,,,3,1,5,210,,,0,,,,
+1113901,Amazonian Tank Shard,ItemName1113901,ItemDesc1113901,"Themyscira Guard Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13901,,,3,1,2,901,,,0,,,,
+1113902,Amazonian Support Shard,ItemName1113902,ItemDesc1113902,"Themyscira Support Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13902,,,3,1,2,902,,,0,,,,
+1113903,Amazonian DPS - Melee Shard,ItemName1113903,ItemDesc1113903,"Themyscira Warrior Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13903,,,3,1,2,903,,,0,,,,
+1113904,Amazonian DPS - Ranged Shard,ItemName1113904,ItemDesc1113904,"Themyscira Archer Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13904,,,3,1,2,904,,,0,,,,
+1113905,Mercenary Tank Shard,ItemName1113905,ItemDesc1113905,"Mercenary Guardian Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13905,,,3,1,2,905,,,0,,,,
+1113906,Mercenary Support Shard,ItemName1113906,ItemDesc1113906,"Mercenary Healer Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13906,,,3,1,2,906,,,0,,,,
+1113907,Mercenary DPS Melee Shard,ItemName1113907,ItemDesc1113907,"Mercenary Assault Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13907,,,3,1,2,907,,,0,,,,
+1113908,Mercenary DPS Ranged Shard,ItemName1113908,ItemDesc1113908,"Mercenary Gunner Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13908,,,3,1,2,908,,,0,,,,
+1113909,Lab Robot Tank Shard,ItemName1113909,ItemDesc1113909,"Mechanical Guard Alpha Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13909,,,3,1,2,909,,,0,,,,
+1113910,Lab Robot Support Shard,ItemName1113910,ItemDesc1113910,"Mechanical Guard Beta Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13910,,,3,1,2,910,,,0,,,,
+1113911,Lab Robot DPS Melee Shard,ItemName1113911,ItemDesc1113911,"Mechanical Guard Gamma Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13911,,,3,1,2,911,,,0,,,,
+1113912,Lab Robot DPS Ranged Shard,ItemName1113912,ItemDesc1113912,"Mechanical Guard Delta Shard, can be used to form an alliance or upgrade an ally's star level once collected.",1,,,,1,,4,13912,,,3,1,2,912,,,0,,,,
+1116001,Eighth Metal Chest,ItemName1116001,ItemDesc1116001,Randomly obtain 1/2/5 Universal fragments,1,,,,1,,5,19160001,1,1,1,5,5,1,ui_item_1113000,,0,,,1,
+1116002,Elite Character Chest,ItemName1116002,ItemDesc1116002,Recruit Random Elite Character or 10 fragments,1,,,,1,,5,1904001304,1,1,1,5,4,1,ui_herobox_010103,,0,,,1,
+1116003,Rare Character Chest,ItemName1116003,ItemDesc1116003,Recruit Random Rare Character or 10 fragments,1,,,,1,,5,1904001204,1,1,1,5,3,1,ui_herobox_010102,,0,,,1,
+1116004,Epic Character Chest - Strength,ItemName1116006,ItemDesc1116004,Recruit Random Epic Strength Character or 40 fragments,1,,,,1,,5,19051101,1,1,1,5,5,1,ui_herobox_010104,,0,,,1,
+1116005,Epic Character Chest - Agility,ItemName1116007,ItemDesc1116005,Recruit Random Epic Agility Character or 40 fragments,1,,,,1,,5,19051102,1,1,1,5,5,1,ui_herobox_010104,,0,,,1,
+1116006,Epic Character Chest - Intellect,ItemName1116008,ItemDesc1116006,Recruit Random Epic Agility Character or 40 fragments,1,,,,1,,5,19051103,1,1,1,5,5,1,ui_herobox_010104,,0,,,1,
+1116007,Epic Character Chest,ItemName1116009,ItemDesc1116007,Recruit Random Epic Character or 40 fragments,1,,,,1,,5,19070100,1,1,1,5,5,1,ui_herobox_010104,,0,,,1,
+1116008,Elite Character Fragment,ItemName1116014,ItemDesc1116008,Random Elite Character Fragment,1,,,,1,,5,19041613,1,1,1,5,4,1,ui_item_1116009,,0,,,1,
+1116009,Rare Character Fragment,ItemName1116015,ItemDesc1116009,Random Rare Character Fragment,1,,,,1,,5,19041614,1,1,1,5,3,1,ui_item_1116008,,0,,,1,
+1116010,Epic Hero Selection Chest,ItemName1116010,ItemDesc1116010,Select Epic Character or 40 fragments,1,,,,1,,5,19160100,2,1,1,5,5,1,ui_herobox_010204,,0,,,1,
+1116012,Elite Character Fragment Chest (5 pieces),ItemName1116012,ItemDesc1116012,5 Random Elite Character Fragments,1,,,,1,,5,19041612,1,1,1,5,4,1,ui_herobox_020103,,0,,,1,
+1116041,Epic Character Fragment Selection,ItemName1116041,ItemDesc1116041,Choose 1 A-Tier Hero Shard,1,,,,1,,5,19161141,2,1,1,5,5,1,ui_item_optional_a,,0,,,1,
+1116051,Legendary Character Fragment Selection,ItemName1116051,ItemDesc1116051,Choose 1 S-Tier Hero Shard,1,,,,1,,5,19161151,2,1,1,5,5,1,ui_item_optional_s,,0,,,1,
+1116013,Random Batman Family Character,ItemName1116013,ItemDesc1116013,Randomly obtain an epic Bat-Family ally (Batman/Robin/Red Hood/Nightwing),1,,,,1,,5,19116013,1,1,1,5,5,1,ui_herobox_010104,,0,,,1,
+1116100,Exclusive Avatar Frame Selection Chest,ItemName1116100,ItemDesc1116100,Select a <color=#FAA520>limited avatar frame</color>.,1,,,,1,,5,19116100,2,1,1,5,5,1,ui_item_1116100,,0,,,4,
+1116014,Epic Character Chest - Strength,ItemName1116017,ItemDesc1116014,Select one Strength A-Tier Hero,1,,,,1,,5,19170101,2,1,1,5,5,1,ui_herobox_010204,,0,,,1,
+1116015,Epic Character Chest - Agility,ItemName1116018,ItemDesc1116015,Select one Agility A-Tier Hero,1,,,,1,,5,19170102,2,1,1,5,5,1,ui_herobox_010204,,0,,,1,
+1116016,Epic Character Chest - Intellect,ItemName1116016,ItemDesc1116016,Select one Intelligence A-Tier Hero,1,,,,1,,5,19170103,2,1,1,5,5,1,ui_herobox_010204,,0,,,1,
+11190001,Elseworld Supplies ,ItemName11190001,ItemDesc11190001,"Open to receive a rare supply pack, including ally draw tickets, strong draw tickets, Eighth Stone, Forge Hammer, elite allies, rare allies, and random excellent equipment.",1,,,,1,,5,19220101,1,1,1,5,5,31,ui_item_1114203,,0,,,1,1500
+11190002,Elseworld Supplies ,ItemName11190001,ItemDesc11190002,"Open to receive a rare supply pack, including ally draw tickets, strong draw tickets, Eighth Stone, Forge Hammer, elite allies, rare allies, and random rare equipment.",1,,,,1,,5,19220102,1,1,1,5,5,31,ui_item_1114203,,0,,,1,1500
+11190003,Elseworld Supplies ,ItemName11190001,ItemDesc11190003,"Open to receive a rare supply pack, including ally draw tickets, strong draw tickets, Eighth Stone, Forge Hammer, elite allies, rare allies, and random elite equipment.",1,,,,1,,5,19220103,1,1,1,5,5,31,ui_item_1114203,,0,,,1,1500
+11190004,Elseworld Supplies ,ItemName11190001,ItemDesc11190003,"Open to receive a rare supply pack, including ally draw tickets, strong draw tickets, Eighth Stone, Forge Hammer, elite allies, rare allies, and random elite equipment.",1,,,,1,,5,19220104,1,1,1,5,5,31,ui_item_1114203,,0,,,1,1500
+11190005,Elseworld Supplies ,ItemName11190001,ItemDesc11190004,"Open to receive a rare supply pack, including ally draw tickets, strong draw tickets, Eighth Stone, Forge Hammer, elite allies, rare allies, and random epic equipment.",1,,,,1,,5,19220105,1,1,1,5,5,31,ui_item_1114203,,0,,,1,1500
+11190006,Elseworld Supplies ,ItemName11190001,ItemDesc11190004,"Open to receive a rare supply pack, including ally draw tickets, strong draw tickets, Eighth Stone, Forge Hammer, elite allies, rare allies, and random epic equipment.",1,,,,1,,5,19220106,1,1,1,5,5,31,ui_item_1114203,,0,,,1,1500
+11190007,Elseworld Supplies ,ItemName11190001,ItemDesc11190004,"Open to receive a rare supply pack, including ally draw tickets, strong draw tickets, Eighth Stone, Forge Hammer, elite allies, rare allies, and random epic equipment.",1,,,,1,,5,19220107,1,1,1,5,5,31,ui_item_1114203,,0,,,1,1500
+11190008,Elseworld Supplies ,ItemName11190001,ItemDesc11190004,"Open to receive a rare supply pack, including ally draw tickets, strong draw tickets, Eighth Stone, Forge Hammer, elite allies, rare allies, and random epic equipment.",1,,,,1,,5,19220108,1,1,1,5,5,31,ui_item_1114203,,0,,,1,1500
+1118200,Uncommon Equipment Chest,ItemName1118200,ItemDesc1118200,,1,,,,1,,5,19030002,1,1,1,5,2,1,ui_equipbox_0299,,0,,,1,
+1118201,Rare Equipment Chest,ItemName1118201,ItemDesc1118201,Recommended Gift Pack Sale,1,,,,1,,5,19180201,1,1,1,5,3,1,ui_equipbox_0399,,0,,,1,
+1118202,Elite Equipment Chest,ItemName1118202,ItemDesc1118202,Recommended Gift Pack Sale,1,,,,1,,5,19180202,1,1,1,5,4,1,ui_equipbox_0499,,0,,,1,
+1118203,Elite Equipment Chest - Attack,ItemName1118203,ItemDesc1118203,Diamond Shop Sale,1,,,,1,,5,19180203,1,1,1,5,4,2,ui_equipbox_0401,,0,,,1,
+1118204,Elite Equipment Chest - Crit,ItemName1118204,ItemDesc1118204,Diamond Shop Sale,1,,,,1,,5,19180204,1,1,1,5,4,3,ui_equipbox_0402,,0,,,1,
+1118205,Elite Equipment Chest - HP,ItemName1118205,ItemDesc1118205,Diamond Shop Sale,1,,,,1,,5,19180205,1,1,1,5,4,4,ui_equipbox_0403,,0,,,1,
+1118206,Elite Equipment Chest - Heal,ItemName1118206,ItemDesc1118206,Diamond Shop Sale,1,,,,1,,5,19180206,1,1,1,5,4,5,ui_equipbox_0404,,0,,,1,
+1118207,Elite Equipment Chest - Speed,ItemName1118207,ItemDesc1118207,Diamond Shop Sale,1,,,,1,,5,19180207,1,1,1,5,4,6,ui_equipbox_0405,,0,,,1,
+1118208,Elite Equipment Chest - Block,ItemName1118208,ItemDesc1118208,Diamond Shop Sale,1,,,,1,,5,19180208,1,1,1,5,4,7,ui_equipbox_0406,,0,,,1,
+1118209,Random Epic Equipment Chest,ItemName1118209,ItemDesc1118209,Diamond Shop Sale,1,,,,1,,5,19180209,1,1,1,5,5,1,ui_equipbox_0599,,0,,,1,
+1118210,Elite Equipment Supply Box,ItemName1118210,ItemDesc1118210,Seven-Day Sign-In Reward Box,1,,,,1,,5,19180210,1,4,1,5,4,1,ui_equipbox_0402,,0,,,1,
+1118211,Epic Equipment Supply Box,ItemName1118211,ItemDesc1118211,Gold Shop Sale,1,,,,1,,5,19180211,1,1,1,5,5,2,ui_equipbox_0599,,0,,,1,
+1118212,Epic Equipment Selection Chest - Crit,ItemName1118212,ItemDesc1118212,Sinestro Shop Sale,1,,,,1,,5,19180212,2,1,1,5,5,1,ui_equipbox_0502,,0,,,,
+1118213,Epic I Equipment Selection Chest - Crit,ItemName1118213,ItemDesc1118213,Sinestro Shop Sale,1,,,,1,,5,19180213,2,1,1,5,5,1,ui_equipbox_0522,,0,,,,
+1118214,Epic II Equipment Selection Chest - Crit,ItemName1118214,ItemDesc1118214,Sinestro Shop Sale,1,,,,1,,5,19180214,2,1,1,5,5,1,ui_equipbox_0542,,0,,,,
+1118215,Epic III Equipment Selection Chest - Crit,ItemName1118215,ItemDesc1118215,Sinestro Shop Sale,1,,,,1,,5,19180215,2,1,1,5,5,1,ui_equipbox_0562,,0,,,,
+1118301,Random Head Equipment - Basic,ItemName1118301,ItemDesc1118301,Specific Part Random Set,1,,,,1,,5,19180301,1,1,1,5,1,31,ui_item_1118301,,0,,,1,
+1118302,Random Shoulders Equipment - Basic,ItemName1118302,ItemDesc1118302,Specific Part Random Set,1,,,,1,,5,19180302,1,1,1,5,1,32,ui_item_1118302,,0,,,1,
+1118303,Random Chest Equipment - Basic,ItemName1118303,ItemDesc1118303,Specific Part Random Set,1,,,,1,,5,19180303,1,1,1,5,1,33,ui_item_1118303,,0,,,1,
+1118304,Random Waist Equipment - Basic,ItemName1118304,ItemDesc1118304,Specific Part Random Set,1,,,,1,,5,19180304,1,1,1,5,1,34,ui_item_1118304,,0,,,1,
+1118305,Random Comms Device Equipment - Basic,ItemName1118305,ItemDesc1118305,Specific Part Random Set,1,,,,1,,5,19180305,1,1,1,5,1,35,ui_item_1118305,,0,,,1,
+1118306,Random Accessory Equipment - Basic,ItemName1118306,ItemDesc1118306,Specific Part Random Set,1,,,,1,,5,19180306,1,1,1,5,1,36,ui_item_1118306,,0,,,1,
+1118307,Random Head Equipment - Uncommon,ItemName1118307,ItemDesc1118307,Specific Part Random Set,1,,,,1,,5,19180307,1,1,1,5,2,31,ui_item_1118307,,0,,,1,
+1118308,Random Shoulders Equipment - Uncommon,ItemName1118308,ItemDesc1118308,Specific Part Random Set,1,,,,1,,5,19180308,1,1,1,5,2,32,ui_item_1118308,,0,,,1,
+1118309,Random Chest Equipment - Uncommon,ItemName1118309,ItemDesc1118309,Specific Part Random Set,1,,,,1,,5,19180309,1,1,1,5,2,33,ui_item_1118309,,0,,,1,
+1118310,Random Waist Equipment - Uncommon,ItemName1118310,ItemDesc1118310,Specific Part Random Set,1,,,,1,,5,19180310,1,1,1,5,2,34,ui_item_1118310,,0,,,1,
+1118311,Random Comms Device Equipment - Uncommon,ItemName1118311,ItemDesc1118311,Specific Part Random Set,1,,,,1,,5,19180311,1,1,1,5,2,35,ui_item_1118311,,0,,,1,
+1118312,Random Accessory Equipment - Uncommon,ItemName1118312,ItemDesc1118312,Specific Part Random Set,1,,,,1,,5,19180312,1,1,1,5,2,36,ui_item_1118312,,0,,,1,
+1118313,Random Head Equipment - Rare,ItemName1118313,ItemDesc1118313,Specific Part Random Set,1,,,,1,,5,19180313,1,1,1,5,3,31,ui_item_1118313,,0,,,1,
+1118314,Random Shoulders Equipment - Rare,ItemName1118314,ItemDesc1118314,Specific Part Random Set,1,,,,1,,5,19180314,1,1,1,5,3,32,ui_item_1118314,,0,,,1,
+1118315,Random Chest Equipment - Rare,ItemName1118315,ItemDesc1118315,Specific Part Random Set,1,,,,1,,5,19180315,1,1,1,5,3,33,ui_item_1118315,,0,,,1,
+1118316,Random Waist Equipment - Rare,ItemName1118316,ItemDesc1118316,Specific Part Random Set,1,,,,1,,5,19180316,1,1,1,5,3,34,ui_item_1118316,,0,,,1,
+1118317,Random Comms Device Equipment - Rare,ItemName1118317,ItemDesc1118317,Specific Part Random Set,1,,,,1,,5,19180317,1,1,1,5,3,35,ui_item_1118317,,0,,,1,
+1118318,Random Accessory Equipment - Rare,ItemName1118318,ItemDesc1118318,Specific Part Random Set,1,,,,1,,5,19180318,1,1,1,5,3,36,ui_item_1118318,,0,,,1,
+1118319,Random Head Equipment - Elite,ItemName1118319,ItemDesc1118319,Specific Part Random Set,1,,,,1,,5,19180319,1,1,1,5,4,31,ui_item_1118319,,0,,,1,
+1118320,Random Shoulders Equipment - Elite,ItemName1118320,ItemDesc1118320,Specific Part Random Set,1,,,,1,,5,19180320,1,1,1,5,4,32,ui_item_1118320,,0,,,1,
+1118321,Random Chest Equipment - Elite,ItemName1118321,ItemDesc1118321,Specific Part Random Set,1,,,,1,,5,19180321,1,1,1,5,4,33,ui_item_1118321,,0,,,1,
+1118322,Random Waist Equipment - Elite,ItemName1118322,ItemDesc1118322,Specific Part Random Set,1,,,,1,,5,19180322,1,1,1,5,4,34,ui_item_1118322,,0,,,1,
+1118323,Random Comms Device Equipment - Elite,ItemName1118323,ItemDesc1118323,Specific Part Random Set,1,,,,1,,5,19180323,1,1,1,5,4,35,ui_item_1118323,,0,,,1,
+1118324,Random Accessory Equipment - Elite,ItemName1118324,ItemDesc1118324,Specific Part Random Set,1,,,,1,,5,19180324,1,1,1,5,4,36,ui_item_1118324,,0,,,1,
+1118325,Random Head Equipment - Epic,ItemName1118325,ItemDesc1118325,Specific Part Random Set,1,,,,1,,5,19180325,1,1,1,5,5,31,ui_item_1118325,,0,,,1,
+1118326,Random Shoulders Equipment - Epic,ItemName1118326,ItemDesc1118326,Specific Part Random Set,1,,,,1,,5,19180326,1,1,1,5,5,32,ui_item_1118326,,0,,,1,
+1118327,Random Chest Equipment - Epic,ItemName1118327,ItemDesc1118327,Specific Part Random Set,1,,,,1,,5,19180327,1,1,1,5,5,33,ui_item_1118327,,0,,,1,
+1118328,Random Waist Equipment - Epic,ItemName1118328,ItemDesc1118328,Specific Part Random Set,1,,,,1,,5,19180328,1,1,1,5,5,34,ui_item_1118328,,0,,,1,
+1118329,Random Comms Device Equipment - Epic,ItemName1118329,ItemDesc1118329,Specific Part Random Set,1,,,,1,,5,19180329,1,1,1,5,5,35,ui_item_1118329,,0,,,1,
+1118330,Random Accessory Equipment - Epic,ItemName1118330,ItemDesc1118330,Specific Part Random Set,1,,,,1,,5,19180330,1,1,1,5,5,36,ui_item_1118330,,0,,,1,
+1118331,Random Head Equipment - Legendary,ItemName1118325,ItemDesc1118325,Specific Part Random Set,1,,,,1,,5,19180331,1,1,1,5,5,31,ui_item_1118331,,0,,,1,
+1118332,Random Shoulders Equipment - Legendary,ItemName1118326,ItemDesc1118326,Specific Part Random Set,1,,,,1,,5,19180332,1,1,1,5,5,32,ui_item_1118332,,0,,,1,
+1118333,Random Chest Equipment - Legendary,ItemName1118327,ItemDesc1118327,Specific Part Random Set,1,,,,1,,5,19180333,1,1,1,5,5,33,ui_item_1118333,,0,,,1,
+1118334,Random Waist Equipment - Legendary,ItemName1118328,ItemDesc1118328,Specific Part Random Set,1,,,,1,,5,19180334,1,1,1,5,5,34,ui_item_1118334,,0,,,1,
+1118335,Random Comms Device Equipment - Legendary,ItemName1118329,ItemDesc1118329,Specific Part Random Set,1,,,,1,,5,19180335,1,1,1,5,5,35,ui_item_1118335,,0,,,1,
+1118336,Random Accessory Equipment - Legendary,ItemName1118330,ItemDesc1118330,Specific Part Random Set,1,,,,1,,5,19180336,1,1,1,5,5,36,ui_item_1118336,,0,,,1,
+1118401,Elite Optional Head,ItemName1118401,ItemDesc1118401,Elite Optional Head,1,,,,1,,5,19118401,2,1,1,5,4,1,ui_item_111831900,,0,,,1,
+1118402,Elite Optional Shoulders,ItemName1118402,ItemDesc1118402,Elite Optional Shoulders,1,,,,1,,5,19118402,2,1,1,5,4,1,ui_item_111832000,,0,,,1,
+1118403,Elite Optional Chest,ItemName1118403,ItemDesc1118403,Elite Optional Chest,1,,,,1,,5,19118403,2,1,1,5,4,1,ui_item_111832100,,0,,,1,
+1118404,Elite Optional Waist,ItemName1118404,ItemDesc1118404,Elite Optional Waist,1,,,,1,,5,19118404,2,1,1,5,4,1,ui_item_111832200,,0,,,1,
+1118405,Elite Optional Accessory,ItemName1118405,ItemDesc1118405,Elite Optional Accessory,1,,,,1,,5,19118405,2,1,1,5,4,31,ui_item_111832400,,0,,,1,
+1118406,Elite Optional Comms Device,ItemName1118406,ItemDesc1118406,Elite Optional Comms Device,1,,,,1,,5,19118406,2,1,1,5,4,32,ui_item_111832300,,0,,,1,
+1118411,Elite I Optional Head,ItemName1118411,ItemDesc1118411,Elite I Optional Head,1,,,,1,,5,19118411,2,1,1,5,4,33,ui_item_111831901,,0,,,1,
+1118412,Elite I Optional Shoulders,ItemName1118412,ItemDesc1118412,Elite I Optional Shoulders,1,,,,1,,5,19118412,2,1,1,5,4,34,ui_item_111832001,,0,,,1,
+1118413,Elite I Optional Chest,ItemName1118413,ItemDesc1118413,Elite I Optional Chest,1,,,,1,,5,19118413,2,1,1,5,4,35,ui_item_111832101,,0,,,1,
+1118414,Elite I Optional Waist,ItemName1118414,ItemDesc1118414,Elite I Optional Waist,1,,,,1,,5,19118414,2,1,1,5,4,36,ui_item_111832201,,0,,,1,
+1118415,Elite I Optional Accessory,ItemName1118415,ItemDesc1118415,Elite I Optional Accessory,1,,,,1,,5,19118415,2,1,1,5,4,37,ui_item_111832401,,0,,,1,
+1118416,Elite I Optional Comms Device,ItemName1118416,ItemDesc1118416,Elite I Optional Comms Device,1,,,,1,,5,19118416,2,1,1,5,4,38,ui_item_111832301,,0,,,1,
+1118421,Epic Optional Head,ItemName1118421,ItemDesc1118421,Epic Optional Head,1,,,,1,,5,19118421,2,1,1,5,5,39,ui_item_111832500,,0,,,1,
+1118422,Epic Optional Shoulders,ItemName1118422,ItemDesc1118422,Epic Optional Shoulders,1,,,,1,,5,19118422,2,1,1,5,5,40,ui_item_111832600,,0,,,1,
+1118423,Epic Optional Chest,ItemName1118423,ItemDesc1118423,Epic Optional Chest,1,,,,1,,5,19118423,2,1,1,5,5,41,ui_item_111832700,,0,,,1,
+1118424,Epic Optional Waist,ItemName1118424,ItemDesc1118424,Epic Optional Waist,1,,,,1,,5,19118424,2,1,1,5,5,42,ui_item_111832800,,0,,,1,
+1118425,Epic Optional Accessory,ItemName1118425,ItemDesc1118425,Epic Optional Accessory,1,,,,1,,5,19118425,2,1,1,5,5,43,ui_item_111833000,,0,,,1,
+1118426,Epic Optional Comms Device,ItemName1118426,ItemDesc1118426,Epic Optional Comms Device,1,,,,1,,5,19118426,2,1,1,5,5,44,ui_item_111832900,,0,,,1,
+1118431,Epic I Optional Head,ItemName1118431,ItemDesc1118431,Epic I Optional Head,1,,,,1,,5,19118431,2,1,1,5,5,45,ui_item_111832501,,0,,,1,
+1118432,Epic I Optional Shoulders,ItemName1118432,ItemDesc1118432,Epic I Optional Shoulders,1,,,,1,,5,19118432,2,1,1,5,5,46,ui_item_111832601,,0,,,1,
+1118433,Epic I Optional Chest,ItemName1118433,ItemDesc1118433,Epic I Optional Chest,1,,,,1,,5,19118433,2,1,1,5,5,47,ui_item_111832701,,0,,,1,
+1118434,Epic I Optional Waist,ItemName1118434,ItemDesc1118434,Epic I Optional Waist,1,,,,1,,5,19118434,2,1,1,5,5,48,ui_item_111832801,,0,,,1,
+1118435,Epic I Optional Accessory,ItemName1118435,ItemDesc1118435,Epic I Optional Accessory,1,,,,1,,5,19118435,2,1,1,5,5,49,ui_item_111833001,,0,,,1,
+1118436,Epic I Optional Comms Device,ItemName1118436,ItemDesc1118436,Epic I Optional Comms Device,1,,,,1,,5,19118436,2,1,1,5,5,50,ui_item_111832901,,0,,,1,
+1118441,Epic II Optional Head,ItemName1118441,ItemDesc1118441,Epic II Optional Head,1,,,,1,,5,19118441,2,1,1,5,5,51,ui_item_111832502,,0,,,1,
+1118442,Epic II Optional Shoulders,ItemName1118442,ItemDesc1118442,Epic II Optional Shoulders,1,,,,1,,5,19118442,2,1,1,5,5,52,ui_item_111832602,,0,,,1,
+1118443,Epic II Optional Chest,ItemName1118443,ItemDesc1118443,Epic II Optional Chest,1,,,,1,,5,19118443,2,1,1,5,5,53,ui_item_111832702,,0,,,1,
+1118444,Epic II Optional Waist,ItemName1118444,ItemDesc1118444,Epic II Optional Waist,1,,,,1,,5,19118444,2,1,1,5,5,54,ui_item_111832802,,0,,,1,
+1118445,Epic II Optional Accessory,ItemName1118445,ItemDesc1118445,Epic II Optional Accessory,1,,,,1,,5,19118445,2,1,1,5,5,55,ui_item_111833002,,0,,,1,
+1118446,Epic II Optional Comms Device,ItemName1118446,ItemDesc1118446,Epic II Optional Comms Device,1,,,,1,,5,19118446,2,1,1,5,5,56,ui_item_111832902,,0,,,1,
+1118451,Epic III Optional Head,ItemName1118451,ItemDesc1118451,Epic III Optional Head,1,,,,1,,5,19118451,2,1,1,5,5,57,ui_item_111832503,,0,,,1,
+1118452,Epic III Optional Shoulders,ItemName1118452,ItemDesc1118452,Epic III Optional Shoulders,1,,,,1,,5,19118452,2,1,1,5,5,58,ui_item_111832603,,0,,,1,
+1118453,Epic III Optional Chest,ItemName1118453,ItemDesc1118453,Epic III Optional Chest,1,,,,1,,5,19118453,2,1,1,5,5,59,ui_item_111832703,,0,,,1,
+1118454,Epic III Optional Waist,ItemName1118454,ItemDesc1118454,Epic III Optional Waist,1,,,,1,,5,19118454,2,1,1,5,5,60,ui_item_111832803,,0,,,1,
+1118455,Epic III Optional Accessory,ItemName1118455,ItemDesc1118455,Epic III Optional Accessory,1,,,,1,,5,19118455,2,1,1,5,5,61,ui_item_111833003,,0,,,1,
+1118456,Epic III Optional Comms Device,ItemName1118456,ItemDesc1118456,Epic III Optional Comms Device,1,,,,1,,5,19118456,2,1,1,5,5,62,ui_item_111832903,,0,,,1,
+1120101,Convergence Crisis Unlock Item 1,ItemName1120101,ItemDesc1120101,Gotham Earth-1,1,,,,1,,,,,,1,3,5,88,ui_item_1120101,,0,,,1,710
+1120102,Convergence Crisis Unlock Item 2,ItemName1120102,ItemDesc1120102,Gotham Earth-2,1,,,,1,,,,,,1,3,5,88,ui_item_1120101,,0,,,1,710
+1120103,Convergence Crisis Unlock Item 3,ItemName1120103,ItemDesc1120103,Gotham Earth-3,1,,,,1,,,,,,1,3,5,88,ui_item_1120101,,0,,,1,710
+1120104,Convergence Crisis Unlock Item 4,ItemName1120104,ItemDesc1120104,Gotham Earth-4,1,,,,1,,,,,,1,3,5,88,ui_item_1120101,,0,,,1,710
+1120105,Convergence Crisis Unlock Item 5,ItemName1120105,ItemDesc1120105,Gotham Earth-5,1,,,,1,,,,,,1,3,5,88,ui_item_1120101,,0,,,1,710
+1120106,Convergence Crisis Unlock Item 6,ItemName1120106,ItemDesc1120106,Gotham Earth-6,1,,,,1,,,,,,1,3,5,88,ui_item_1120101,,0,,,1,710
+1120107,Convergence Crisis Unlock Item 7,ItemName1120107,ItemDesc1120107,Central City Earth-1,1,,,,1,,,,,,1,3,5,88,ui_item_1120106,,0,,,1,710
+1120108,Convergence Crisis Unlock Item 8,ItemName1120108,ItemDesc1120108,Keystone City Earth-1,1,,,,1,,,,,,1,3,5,88,ui_item_1120105,,0,,,1,710
+1120109,Convergence Crisis Unlock Item 9,ItemName1120109,ItemDesc1120109,Metropolis Earth-1,1,,,,1,,,,,,1,3,5,88,ui_item_1120103,,0,,,1,710
+1120110,Convergence Crisis Unlock Item 10,ItemName1120110,ItemDesc1120110,Star City Earth-1,1,,,,1,,,,,,1,3,5,88,ui_item_1120104,,0,,,1,710
+1120111,Convergence Crisis Unlock Item 11,ItemName1120111,ItemDesc1120111,Fawcett City Earth-1,1,,,,1,,,,,,1,3,5,88,ui_item_1120102,,0,,,1,710
+1120112,Convergence Crisis Unlock Item 12,ItemName1120112,ItemDesc1120112,Central City Earth-2,1,,,,1,,,,,,1,3,5,88,ui_item_1120106,,0,,,1,710
+1120113,Convergence Crisis Unlock Item 13,ItemName1120113,ItemDesc1120113,Keystone City Earth-2,1,,,,1,,,,,,1,3,5,88,ui_item_1120105,,0,,,1,710
+1120114,Convergence Crisis Unlock Item 14,ItemName1120114,ItemDesc1120114,Metropolis Earth-2,1,,,,1,,,,,,1,3,5,88,ui_item_1120103,,0,,,1,710
+1120115,Convergence Crisis Unlock Item 15,ItemName1120115,ItemDesc1120115,Star City Earth-2,1,,,,1,,,,,,1,3,5,88,ui_item_1120104,,0,,,1,710
+1120116,Convergence Crisis Unlock Item 16,ItemName1120116,ItemDesc1120116,Fawcett City Earth-2,1,,,,1,,,,,,1,3,5,88,ui_item_1120102,,0,,,1,710
+1120117,Convergence Crisis Unlock Item 17,ItemName1120117,ItemDesc1120117,Central City Earth-3,1,,,,1,,,,,,1,3,5,88,ui_item_1120106,,0,,,1,710
+1120118,Convergence Crisis Unlock Item 18,ItemName1120118,ItemDesc1120118,Keystone City Earth-3,1,,,,1,,,,,,1,3,5,88,ui_item_1120105,,0,,,1,710
+1120119,Convergence Crisis Unlock Item 19,ItemName1120119,ItemDesc1120119,Metropolis Earth-3,1,,,,1,,,,,,1,3,5,88,ui_item_1120103,,0,,,1,710
+1120120,Convergence Crisis Unlock Item 20,ItemName1120120,ItemDesc1120120,Star City Earth-3,1,,,,1,,,,,,1,3,5,88,ui_item_1120104,,0,,,1,710
+1120121,Convergence Crisis Unlock Item 21,ItemName1120121,ItemDesc1120121,Fawcett City Earth-3,1,,,,1,,,,,,1,3,5,88,ui_item_1120102,,0,,,1,710
+1120122,Convergence Crisis Unlock Item 22,ItemName1120122,ItemDesc1120122,Central City Earth-4,1,,,,1,,,,,,1,3,5,88,ui_item_1120106,,0,,,1,710
+1120123,Convergence Crisis Unlock Item 23,ItemName1120123,ItemDesc1120123,Keystone City Earth-4,1,,,,1,,,,,,1,3,5,88,ui_item_1120105,,0,,,1,710
+1120124,Convergence Crisis Unlock Item 24,ItemName1120124,ItemDesc1120124,Metropolis Earth-4,1,,,,1,,,,,,1,3,5,88,ui_item_1120103,,0,,,1,710
+1120125,Convergence Crisis Unlock Item 25,ItemName1120125,ItemDesc1120125,Star City Earth-4,1,,,,1,,,,,,1,3,5,88,ui_item_1120104,,0,,,1,710
+1120126,Convergence Crisis Unlock Item 26,ItemName1120126,ItemDesc1120126,Fawcett City Earth-4,1,,,,1,,,,,,1,3,5,88,ui_item_1120102,,0,,,1,710
+1120127,Convergence Crisis Unlock Item 27,ItemName1120127,ItemDesc1120127,Central City Earth-5,1,,,,1,,,,,,1,3,5,88,ui_item_1120106,,0,,,1,710
+1120128,Convergence Crisis Unlock Item 28,ItemName1120128,ItemDesc1120128,Keystone City Earth-5,1,,,,1,,,,,,1,3,5,88,ui_item_1120105,,0,,,1,710
+1120129,Convergence Crisis Unlock Item 29,ItemName1120129,ItemDesc1120129,Metropolis Earth-5,1,,,,1,,,,,,1,3,5,88,ui_item_1120103,,0,,,1,710
+1120130,Convergence Crisis Unlock Item 30,ItemName1120130,ItemDesc1120130,Star City Earth-5,1,,,,1,,,,,,1,3,5,88,ui_item_1120104,,0,,,1,710
+1120131,Convergence Crisis Unlock Item 31,ItemName1120131,ItemDesc1120131,Fawcett City Earth-5,1,,,,1,,,,,,1,3,5,88,ui_item_1120102,,0,,,1,710
+1120132,Convergence Crisis Unlock Item 32,ItemName1120132,ItemDesc1120132,Central City Earth-6,1,,,,1,,,,,,1,3,5,88,ui_item_1120106,,0,,,1,710
+1120133,Convergence Crisis Unlock Item 33,ItemName1120133,ItemDesc1120133,Keystone City Earth-6,1,,,,1,,,,,,1,3,5,88,ui_item_1120105,,0,,,1,710
+1120134,Convergence Crisis Unlock Item 34,ItemName1120134,ItemDesc1120134,Metropolis Earth-6,1,,,,1,,,,,,1,3,5,88,ui_item_1120103,,0,,,1,710
+1120135,Convergence Crisis Unlock Item 35,ItemName1120135,ItemDesc1120135,Star City Earth-6,1,,,,1,,,,,,1,3,5,88,ui_item_1120104,,0,,,1,710
+1120136,Convergence Crisis Unlock Item 36,ItemName1120136,ItemDesc1120136,Fawcett City Earth-6,1,,,,1,,,,,,1,3,5,88,ui_item_1120102,,0,,,1,710
+1120137,Convergence Crisis Unlock Item 37,ItemName1120137,ItemDesc1120137,Central City Earth-7,1,,,,1,,,,,,1,3,5,88,ui_item_1120106,,0,,,1,710
+1120138,Convergence Crisis Unlock Item 38,ItemName1120138,ItemDesc1120138,Keystone City Earth-7,1,,,,1,,,,,,1,3,5,88,ui_item_1120105,,0,,,1,710
+1120139,Convergence Crisis Unlock Item 39,ItemName1120139,ItemDesc1120139,Metropolis Earth-7,1,,,,1,,,,,,1,3,5,88,ui_item_1120103,,0,,,1,710
+1120140,Convergence Crisis Unlock Item 40,ItemName1120140,ItemDesc1120140,Star City Earth-7,1,,,,1,,,,,,1,3,5,88,ui_item_1120104,,0,,,1,710
+1120141,Convergence Crisis Unlock Item 41,ItemName1120141,ItemDesc1120141,Fawcett City Earth-7,1,,,,1,,,,,,1,3,5,88,ui_item_1120102,,0,,,1,710
+1120142,Convergence Crisis Unlock Item 42,ItemName1120142,ItemDesc1120142,Central City Earth-8,1,,,,1,,,,,,1,3,5,88,ui_item_1120106,,0,,,1,710
+1120143,Convergence Crisis Unlock Item 43,ItemName1120143,ItemDesc1120143,Keystone City Earth-8,1,,,,1,,,,,,1,3,5,88,ui_item_1120105,,0,,,1,710
+1120144,Convergence Crisis Unlock Item 44,ItemName1120144,ItemDesc1120144,Metropolis Earth-8,1,,,,1,,,,,,1,3,5,88,ui_item_1120103,,0,,,1,710
+1120145,Convergence Crisis Unlock Item 45,ItemName1120145,ItemDesc1120145,Star City Earth-8,1,,,,1,,,,,,1,3,5,88,ui_item_1120104,,0,,,1,710
+1120146,Convergence Crisis Unlock Item 46,ItemName1120146,ItemDesc1120146,Fawcett City Earth-8,1,,,,1,,,,,,1,3,5,88,ui_item_1120102,,0,,,1,710
+1120147,Convergence Crisis Unlock Item 47,ItemName1120147,ItemDesc1120147,Central City Earth-9,1,,,,1,,,,,,1,3,5,88,ui_item_1120106,,0,,,1,710
+1120148,Convergence Crisis Unlock Item 48,ItemName1120148,ItemDesc1120148,Keystone City Earth-9,1,,,,1,,,,,,1,3,5,88,ui_item_1120105,,0,,,1,710
+1120149,Convergence Crisis Unlock Item 49,ItemName1120149,ItemDesc1120149,Metropolis Earth-9,1,,,,1,,,,,,1,3,5,88,ui_item_1120103,,0,,,1,710
+1120150,Convergence Crisis Unlock Item 50,ItemName1120150,ItemDesc1120150,Star City Earth-9,1,,,,1,,,,,,1,3,5,88,ui_item_1120104,,0,,,1,710
+1120151,Convergence Crisis Unlock Item 51,ItemName1120151,ItemDesc1120151,Fawcett City Earth-9,1,,,,1,,,,,,1,3,5,88,ui_item_1120102,,0,,,1,710
+11114001,Bingo Token_Goddess_Blueberry Ice Cream,ItemName11114001,ItemDesc11114001,,1,,,,1,,,,,,4,4,3,15,ui_Bingo_icon02,,0,,,,9806
+11114002,Bingo Token_Goddess_Strawberry Ice Cream,ItemName11114002,ItemDesc11114002,"Activate Wonder Woman illustration shards in the Truth of Proof event. Blueberry-flavored ice cream, tastes great, and is a beloved item of a certain lady.",1,,,,1,,,,,,4,4,4,16,ui_Bingo_icon01,,0,,,,9806
+11114003,Bingo Pandora,ItemName11114003,ItemDesc11114003,"Activate Wonder Woman illustration shards in the Truth of Proof event. Strawberry-flavored ice cream, tastes great, and is a beloved item of a certain lady.",1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13187,,0,,,,9806
+11114004,Bingo Pandora,ItemName11114004,ItemDesc11114004,"The rumored gloves of the undying, believed by some to be imbued with the magic of immortality.",1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13187,,0,,,,9806
+11114005,Bingo Token_Doctor Fate_Bronze Amulet,ItemName11114005,ItemDesc11114005,"Gauntlets imbued with magical power, believed by some to hold the secret of immortality.",1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon_df02,,0,,,,9806
+11114006,Bingo Token_Doctor Fate_Golden Amulet,ItemName11114006,ItemDesc11114006,"A life symbol sealed for a thousand years, still faintly exudes magical power.",1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon_df01,,0,,,,9806
+11114007,Bingo Token_Two-Face_Silver Coin,ItemName11114007,ItemDesc11114007,"A millennium-old life symbol, containing formidable magical power.",1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13171,,0,,,,9806
+11114008,Bingo Token_Two-Face_Old Coin,ItemName11114008,ItemDesc11114008,A shiny silver coin. Does anyone still use such coins?,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13171,,0,,,,9806
+11114009,Bingo Token_Killer Frost_White Ice Crystal,ItemName11114009,ItemDesc11114009,"An old coin with a sense of history, seemingly valuable for collection.",1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13141,,0,,,,9806
+11114010,Bingo Token_Killer Frost_Blue Ice Crystal,ItemName11114010,ItemDesc11114010,"A crystal-clear ice flower, who could have sculpted this?",1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13141,,0,,,,9806
+11114011,Bingo Token_Jessica_Green Lantern Badge,ItemName11114011,ItemDesc11114011,"A crystal-clear ice flower, it would melt in the palm of your hand.",1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13170,,0,,,,9806
+11114012,Bingo Token_Jessica_Power Ring Badge,ItemName11114012,ItemDesc11114012,"A badge in the shape of the Green Lantern symbol, said to bring courage and willpower.",1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13170,,0,,,,9806
+11114013,Bingo Token_Raven,ItemName11114013,ItemDesc11114013,"A badge in the shape of the Power Ring symbol, beware of the power it brings...",1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13136,,0,,,,9806
+11114014,Bingo Token_Raven,ItemName11114014,ItemDesc11114014,Mind Stone,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13136,,0,,,,9806
+11114015,Bingo Token_Star Sapphire,ItemName11114015,ItemDesc11114015,Demon Stone,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13196,,0,,,,9806
+11114016,Bingo Token_Star Sapphire,ItemName11114016,ItemDesc11114016,Predator Badge,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13196,,0,,,,9806
+11114017,Bingo Token_John,ItemName11114017,ItemDesc11114017,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13195,,0,,,,9806
+11114018,Bingo Token_John,ItemName11114018,ItemDesc11114018,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13195,,0,,,,9806
+11114020,bingo token mera 1,ItemName11114020,ItemDesc11114020,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13202,,0,,,,9806
+11114021,bingo token mera 2,ItemName11114021,ItemDesc11114021,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13202,,0,,,,9806
+11114100,Batman Movie Event Illustration Box,ItemName11114100,ItemDesc11114100,"Contains all the fragments of the Who Am I illustration, which can activate an illustration in the album.",1,,,,1,,5,19401100,1,1,1,1,5,19,ui_Archives_icon01,,0,,,1,9805
+11401001,Mysterious illustration fragments,MysFragName,MysFragDesc_01,Contains a shard from the Batman or Constantine illustration.,,,,,,,5,1940101,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+11401002,Mysterious illustration fragments,MysFragName,MysFragDesc_02,You can view it in Archive > Album System > Shard Backpack.,,,,,,,5,1940102,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+11401003,Mysterious illustration fragments,MysFragName,MysFragDesc_03,,,,,,,,5,1940103,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+11401004,Mysterious illustration fragments,MysFragName,MysFragDesc_04,Contains a shard from the Flash or Wonder Woman illustration.,,,,,,,5,1940104,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+11401005,Mysterious illustration fragments,MysFragName,MysFragDesc_05,You can view it in Archive > Album System > Shard Backpack.,,,,,,,5,1940105,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+11401006,Mysterious illustration fragments,MysFragName,MysFragDesc_06,,,,,,,,5,1940106,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+11401007,Mysterious illustration fragments,MysFragName,MysFragDesc_07,Contains a shard from the Batgirl or Catwoman illustration.,,,,,,,5,1940107,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+11401008,Mysterious illustration fragments,MysFragName,MysFragDesc_08,You can view it in Archive > Album System > Shard Backpack.,,,,,,,5,1940108,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+11401009,Mysterious illustration fragments,MysFragName,MysFragDesc_09,,,,,,,,5,1940109,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+11401010,Mysterious illustration fragments,MysFragName,MysFragDesc_10,Contains a shard from the Green Arrow or Robin illustration.,,,,,,,5,1940110,1,1,1,1,3,,ui_Archives_icon02,,0,,,,
+1117000,Ice Pick,ItemName1117000,ItemDesc1117000,"With this, no snowy mountain is too steep to conquer.",1,,,,1,,,,,,5,1,5,1,ui_item_1117000,,0,,,,1800
+1117001,Freeze Gun,ItemName1117001,ItemDesc1117001,"Captain Cold's weapon, capable of emitting absolute zero rays, easily extinguishes any flame and can even freeze the surface of water.",1,,,,1,,,,,,5,1,5,1,ui_item_1117001,,0,,,,1800
+1117002,Batarang,ItemName1117002,ItemDesc1117002,,1,,,,1,,,,,,5,1,5,1,ui_item_1117002,,,,,,1800
+1117003,Batgun,ItemName1117003,ItemDesc1117003,,1,,,,1,,,,,,5,1,5,1,ui_item_1117003,,,,,,1800
+1117004,Armored Truck Key,ItemName1117004,ItemDesc1117004,,1,,,,1,,,,,,5,1,5,1,ui_item_1117004,,,,,,1800
+1117900,Test Props,ItemName1117900,ItemDesc1117900,Increases attack attributes when owned.,1,,,,1,,,7,1000,,5,2,4,1,ui_item_1114000,,0,,,,1800
+1117901,Test Props,ItemName1117900,ItemDesc1117901,Increases defense attributes when owned.,1,,,,1,,,11,2000,,5,2,4,1,ui_item_1113001,,0,,,,1800
+1117902,Test Props,ItemName1117900,ItemDesc1117902,Increases attack skills when owned.,1,,,,1,,,140020901,,,5,3,4,1,ui_item_1114006,,0,,,,1800
+1117903,Test Props,ItemName1117900,ItemDesc1117903,Increases defense skills when owned.,1,,,,1,,,140040201,,,5,3,4,1,ui_item_1113000,,0,,,,1800
+1117904,War supplies,ItemName1117900,SkillName140020101,Increases damage by 25% against enemies with more than 70% health.,1,,,,1,,,140020101,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117905,War supplies,ItemName1117900,SkillName140020201,Increases damage by 25% against enemies with less than 30% health.,1,,,,1,,,140020201,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117906,War supplies,ItemName1117900,SkillName140020501,Increases attack power by 25% when health is below 30%.,1,,,,1,,,140020501,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117907,War supplies,ItemName1117900,SkillName140020601,Increases attack power by 25% when health is above 70%.,1,,,,1,,,140020601,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117908,War supplies,ItemName1117900,SkillName140020701,Increases attack power by 20% and critical hit by 5% for allied back-row heroes.,1,,,,1,,,140020701,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117909,War supplies,ItemName1117900,SkillName140020901,Increases attack power by 15% and lifesteal by 15% for allies with the Strength trait.,1,,,,1,,,140020901,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117910,War supplies,ItemName1117900,SkillName140021001,Increases attack power by 15% and lifesteal by 15% for allies with the Speed trait.,1,,,,1,,,140021001,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117911,War supplies,ItemName1117900,SkillName140021101,Increases attack power by 15% and lifesteal by 15% for allies with the Energy trait.,1,,,,1,,,140021101,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117912,War supplies,ItemName1117900,SkillName140030301,"When any allied hero's health drops below 40% for the first time in battle, they gain 10 layers of damage reduction and 10 layers of recovery for 1 turn.",1,,,,1,,,140030301,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117913,War supplies,ItemName1117900,SkillName140040701,"At the end of any ally's turn, there is a 60% chance to advance 1 energy progress.",1,,,,1,,,140040701,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117914,War supplies,ItemName1117900,SkillName140040801,"At the end of any ally's turn, a lightning strike hits a random enemy target, dealing 60% of attack power as super damage.",1,,,,1,,,140040801,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117915,War supplies,ItemName1117900,SkillName140041201,Reduces defense by 50% for all allies and enemies in battle.,1,,,,1,,,140041201,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117916,War supplies,ItemName1117900,SkillName140020301,Increases damage by 25% against enemies in the back row.,1,,,,1,,,140020301,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117917,War supplies,ItemName1117900,SkillName140020401,Increases damage by 30% against enemies in the front row.,1,,,,1,,,140020401,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117918,War supplies,ItemName1117900,SkillName140020801,"At the start of the turn, gain 25 layers of berserk, lasting until the end of the battle.",1,,,,1,,,140020801,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117919,War supplies,ItemName1117900,SkillName140030201,"Increases counter damage by 10% for front-row allies and grants 10 layers of damage reduction at the start of the battle, lasting 2 turns.",1,,,,1,,,140030201,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117920,War supplies,ItemName1117900,SkillName140040101,"When inflicting frostbite, additionally inflict 4 layers of slow and 4 layers of weakness, lasting 3 turns.",1,,,,1,,,140040101,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117921,War supplies,ItemName1117900,SkillName140040201,"When inflicting burn, additionally inflict 8 layers of poison, lasting 3 turns.",1,,,,1,,,140040201,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117922,War supplies,ItemName1117900,SkillName140040301,"When inflicting poison, additionally inflict 4 more layers of poison, and all poison durations change to last until the end of the battle.",1,,,,1,,,140040301,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117923,War supplies,ItemName1117900,SkillName140040401,"When inflicting bleed, if the target's health is below 70%, the bleed layers are multiplied by 5, and if below 40%, by 10.",1,,,,1,,,140040401,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117924,War supplies,ItemName1117900,SkillName140041401,Increases attack power equal to 5% of max health.,1,,,,1,,,140041401,,,5,3,4,1,ui_item_1117904,,0,,,,1800
+1117925,War supplies,ItemName1117900,SkillName140030101,"At the start of the battle, all allies gain a shield for 2 turns, absorbing damage equal to 30% of their max health.",1,,,,1,,,140030101,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117926,War supplies,ItemName1117900,SkillName140030401,"When the enemy uses an ultimate for the first time, all allies gain a shield for 2 turns, absorbing damage equal to 30% of their max health.",1,,,,1,,,140030401,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117927,War supplies,ItemName1117900,SkillName140030501,"When taking damage, the damage will not exceed 10% of max health.",1,,,,1,,,140030501,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117928,War supplies,ItemName1117900,SkillName140040501,"After a front-row ally uses an ultimate, 1 energy point is refunded.",1,,,,1,,,140040501,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117929,War supplies,ItemName1117900,SkillName140040601,"At the start of any ally's turn, there is a 40% chance to gain 1 energy point.",1,,,,1,,,140040601,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117930,War supplies,ItemName1117900,SkillName140040901,"Every 5 turns that end for allies, detonate against all enemies, dealing 90% of attack power as super damage.",1,,,,1,,,140040901,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117931,War supplies,ItemName1117900,SkillName140041001,"At the start of the battle, enemies lose 50% of their max health, which will be gradually restored over the next 3 turns.",1,,,,1,,,140041001,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117932,War supplies,ItemName1117900,SkillName140041101,"At the start of the battle, stun enemies for 1 turn, but enemies gain 25% attack power, lasting until the end of the battle.",1,,,,1,,,140041101,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117933,War supplies,ItemName1117900,SkillName140041301,"At the start of the battle, gain 6 energy points, but all allies lose 30% health.",1,,,,1,,,140041301,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117934,War supplies,ItemName1117900,SkillName140041501,Tank-type heroes deal 100% more damage.,1,,,,1,,,140041501,,,5,3,5,1,ui_item_1117904,,0,,,,1800
+1117935,War supplies,ItemName1117900,putong_desc1,Increase attack by 10%.,1,,,,1,,,7,1000,,5,2,2,1,ui_item_1117904,,0,,,,1800
+1117936,War supplies,ItemName1117900,putong_desc2,Increase defense by 20%.,1,,,,1,,,11,2000,,5,2,2,1,ui_item_1117904,,0,,,,1800
+1117937,War supplies,ItemName1117900,putong_desc3,Increase max health by 10%.,1,,,,1,,,34,1000,,5,2,2,1,ui_item_1117904,,0,,,,1800
+1117938,War supplies,ItemName1117900,putong_desc4,Increase critical hit by 15%.,1,,,,1,,,152,1500,,5,2,3,1,ui_item_1117904,,0,,,,1800
+1117939,War supplies,ItemName1117900,putong_desc5,Increase attack by 15%.,1,,,,1,,,7,1500,,5,2,3,1,ui_item_1117904,,0,,,,1800
+1117940,War supplies,ItemName1117900,putong_desc6,Increase defense by 30%.,1,,,,1,,,11,3000,,5,2,3,1,ui_item_1117904,,0,,,,1800
+1117941,War supplies,ItemName1117900,putong_desc7,Increase max health by 15%.,1,,,,1,,,34,1500,,5,2,3,1,ui_item_1117904,,0,,,,1800
+1150001,Digital Coin,ItemName1150001,ItemDesc1150001,Digital currency (gold coins in the Digital Universe),1,,,,1,,,,,,6,1,5,1,ui_digital_icon_coin,,,,,,
+1150002,Algorithmic Power,ItemName1150002,ItemDesc1150002,Computing power (physical strength within the Digital Universe),1,,,,1,,,,,,6,1,5,1,ui_digital_icon_hashrate,,,,,,
+1170001,(For display only! Do not grant!) Equipment below orange,ItemName1170001,ItemDesc1170001,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,5,1,ui_equipbox_0599,,0,,,,
+1170002,(For display only! Do not grant!) Equipment below purple,ItemName1170002,ItemDesc1170002,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,4,2,ui_equipbox_0499,,0,,,,
+1170003,(For display only! Do not grant!) Equipment below blue,ItemName1170003,ItemDesc1170003,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,3,3,ui_equipbox_0399,,0,,,,
+1170004,(For display only! Do not grant!) Equipment below green,ItemName1170004,ItemDesc1170004,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,2,4,ui_equipbox_0299,,0,,,,
+1170005,(For display only! Do not grant!) Purple+ and below equipment,ItemName1170005,ItemDesc1170005,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,4,2,ui_equipbox_0491,,0,,,,
+1170006,(For display only! Do not grant!) Orange+ and below equipment,ItemName1170006,ItemDesc1170006,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,5,1,ui_equipbox_0591,,0,,,,
+1170007,(For display only! Do not grant!) Orange++ and below equipment,ItemName1170007,ItemDesc1170007,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,5,1,ui_equipbox_0592,,0,,,,
+1170008,(For display only! Do not grant!) Orange+++ and below equipment,ItemName1170008,ItemDesc1170008,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,5,1,ui_equipbox_0593,,0,,,,
+1180001,(For display only! Do not grant!) Equipment below orange,ItemName1180001,ItemDesc1180001,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,5,1,ui_equipbox_0599,,0,,,,
+1180002,(For display only! Do not grant!) Equipment below purple,ItemName1180002,ItemDesc1180002,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,4,2,ui_equipbox_0499,,0,,,,
+1180003,(For display only! Do not grant!) Equipment below blue,ItemName1180003,ItemDesc1180003,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,3,3,ui_equipbox_0399,,0,,,,
+1180004,(For display only! Do not grant!) Equipment below green,ItemName1180004,ItemDesc1180004,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,2,4,ui_equipbox_0299,,0,,,,
+1180005,(For display only! Do not grant!) Purple+ and below equipment,ItemName1180005,ItemDesc1180005,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,4,2,ui_equipbox_0491,,0,,,,
+1180006,(For display only! Do not grant!) Orange+ and below equipment,ItemName1180006,ItemDesc1180006,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,5,1,ui_equipbox_0591,,0,,,,
+1180007,(For display only! Do not grant!) Orange++ and below equipment,ItemName1180007,ItemDesc1180007,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,5,1,ui_equipbox_0592,,0,,,,
+1180008,(For display only! Do not grant!) Orange+++ and below equipment,ItemName1180008,ItemDesc1180008,(UI Display) Feature rewards include equipment of listed quality,1,,,,1,,,,,,1,5,5,1,ui_equipbox_0593,,0,,,,
+1121001,Inertron Fragment,ItemName1121001,ItemDesc1121001,,1,,,,1,,,,,,2,1,3,301,ui_item_1121001,,0,,,,2800
+1121002,Inertronite,ItemName1121002,ItemDesc1121002,Badge Tier 1 Enhancement Material,1,,,,1,,,,,,2,1,4,302,ui_item_1121002,,0,,,,2800
+1121003,Inertron Alloy - Universal,ItemName1121003,ItemDesc1121003,Badge Tier 2 Enhancement Material,1,,,,1,,,,,,2,1,5,303,ui_item_1121003,,0,,,,2800
+1121004,Inertron Alloy - Strength,ItemName1121004,ItemDesc1121004,Badge Tier 3 Enhancement Material (Universal),1,,,,1,,,,,,2,1,5,304,ui_item_1121004,,0,,,,2800
+1121005,Inertron Alloy - Agility,ItemName1121005,ItemDesc1121005,Badge Tier 3 Enhancement Material (Strength),1,,,,1,,,,,,2,1,5,305,ui_item_1121005,,0,,,,2800
+1121006,Inertron Alloy - Intellect,ItemName1121006,ItemDesc1121006,Badge Tier 3 Enhancement Material (Agility),1,,,,1,,,,,,2,1,5,306,ui_item_1121006,,0,,,,2800
+1110001,Cyber Coins (Cyborg Activity Tokens),ItemName1110001,ItemDesc1110001,,1,,,,1,,,,,,4,4,5,15,ui_item_1110001,,,,,,3600
+1110002,Mercenary Coins (Deathstroke Event Tokens),ItemName1110002,ItemDesc1110002,,1,,,,1,,,,,,4,4,5,15,ui_item_1110002,,,,,,3600
+1110003,【Sinestro Event】Activity Tokens,ItemName1110003,ItemDesc1110003,,1,,,,1,,,,,,4,4,4,15,ui_item_1110003,,,,,,3600
+1110004,【Sinestro Event】Paid Tokens,ItemName1110004,ItemDesc1110004,,1,,,,1,,,,,,4,4,5,15,ui_item_1110004,,,,,,3600
+1110005,【Martian Hunter Event】Activity Tokens,ItemName1110005,ItemDesc1110005,,1,,,,1,,,,,,4,4,4,15,ui_item_1110005,,,,,,3600
+1110006,【Martian Hunter Event】Paid Tokens,ItemName1110006,ItemDesc1110006,,1,,,,1,,,,,,4,4,5,15,ui_item_1110006,,,,,,3600
+1110007,【Hal Jordan】Active Token,ItemName1110007,ItemDesc1110007,,1,,,,1,,,,,,4,4,4,15,ui_item_1110007,,,,,,3600
+1110008,【Hal Jordan】Paid Tokens,ItemName1110008,ItemDesc1110008,,1,,,,1,,,,,,4,4,5,15,ui_item_1110008,,,,,,3600
+1110009,【Kyle】Active Token,ItemName1110009,ItemDesc1110009,,1,,,,1,,,,,,4,4,4,15,ui_item_1110009,,,,,,3600
+1110010,【Kyle】Paid Token,ItemName1110010,ItemDesc1110010,,1,,,,1,,,,,,4,4,5,15,ui_item_1110010,,,,,,3600
+1122001,Blueprint: Batgirl's Room,ItemName1122001,ItemDesc1122001,Blueprint: Batgirl's Room,1,,,,1,,,,,,1,6,5,1,ui_item_1122001,,1,,,,3100
+1122002,Blueprint: Catwoman's Room,ItemName1122002,ItemDesc1122002,Blueprint: Catwoman's Room,1,,,,1,,,,,,1,6,5,1,ui_item_1122002,,1,,,,3100
+1122003,Blueprint: Batman's Room,ItemName1122003,ItemDesc1122003,Blueprint: Batman's Room,1,,,,1,,,,,,1,6,5,1,ui_item_1122003,,1,,,,3100
+1122004,Blueprint: Green Arrow's Room,ItemName1122004,ItemDesc1122004,Blueprint: Green Arrow's Room,1,,,,1,,,,,,1,6,5,1,ui_item_1122004,,1,,,,3100
+1122005,Blueprint: Deathstroke's Room,ItemName1122005,ItemDesc1122005,Blueprint: Deathstroke's Room,1,,,,1,,,,,,1,6,5,1,ui_item_1122005,,1,,,,3100
+1122006,Blueprint: Sinestro's Room,ItemName1122006,ItemDesc1122006,Blueprint: Sinestro's Room,1,,,,1,,,,,,1,6,5,1,ui_item_1122006,,1,,,,3100
+1122007,Blueprint: Raven's Room,ItemName1122007,ItemDesc1122007,Blueprint: Raven's Room,1,,,,1,,,,,,1,6,5,1,ui_item_1122007,,1,,,,3100
+1122008,Blueprint: Martian Manhunter's Room,ItemName1122008,ItemDesc1122008,Blueprint: Martian Manhunter's Room,1,,,,1,,,,,,1,6,5,1,ui_item_112208,,1,,,,3100
+1160100,Batgirl - Collection Item Source Prop,ItemName1160100,ItemDesc1160100,Batgirl - Collection Item Source Prop,1,,,,1,,,,,,7,1,5,1,ui_item_1160100,,0,,,,3100
+1160101,Batgirl - Teddy Bear,ItemName1160101,ItemDesc1160101,Batgirl - Teddy Bear,1,,,,1,,,,,,7,1,5,1,ui_item_1160101,,0,,,,3100
+1160102,Batgirl - Oracle System,ItemName1160102,ItemDesc1160102,Batgirl - Oracle System,1,,,,1,,,,,,7,1,5,1,ui_item_1160102,,0,,,,3100
+1160103,Batgirl - Trophy,ItemName1160103,ItemDesc1160103,Batgirl - Trophy,1,,,,1,,,,,,7,1,5,1,ui_item_1160103,,0,,,,3100
+1160104,Batgirl - Utility Belt,ItemName1160104,ItemDesc1160104,Batgirl - Utility Belt,1,,,,1,,,,,,7,1,5,1,ui_item_1160104,,0,,,,3100
+1160105,Batgirl - Book 1,ItemName1160105,ItemDesc1160105,Batgirl - Book 1,1,,,,1,,,,,,8,1,4,1,ui_item_1160105,,0,,,,3100
+1160106,Batgirl - Book 2,ItemName1160106,ItemDesc1160106,Batgirl - Book 2,1,,,,1,,,,,,8,1,4,1,ui_item_1160105,,0,,,,3100
+1160107,Batgirl - Book 3,ItemName1160107,ItemDesc1160107,Batgirl - Book 3,1,,,,1,,,,,,8,1,4,1,ui_item_1160105,,0,,,,3100
+1160108,Batgirl - Book 4,ItemName1160108,ItemDesc1160108,Batgirl - Book 4,1,,,,1,,,,,,8,1,4,1,ui_item_1160108,,0,,,,3100
+1160109,Batgirl - Book 5,ItemName1160109,ItemDesc1160109,Batgirl - Book 5,1,,,,1,,,,,,8,1,4,1,ui_item_1160108,,0,,,,3100
+1160110,Batgirl - Book 6,ItemName1160110,ItemDesc1160110,Batgirl - Book 6,1,,,,1,,,,,,8,1,4,1,ui_item_1160108,,0,,,,3100
+1160111,Batgirl - Book 7,ItemName1160111,ItemDesc1160111,Batgirl - Book 7,1,,,,1,,,,,,8,1,4,1,ui_item_1160111,,0,,,,3100
+1160112,Batgirl - Book 8,ItemName1160112,ItemDesc1160112,Batgirl - Book 8,1,,,,1,,,,,,8,1,4,1,ui_item_1160111,,0,,,,3100
+1160113,Batgirl - Book 9,ItemName1160113,ItemDesc1160113,Batgirl - Book 9,1,,,,1,,,,,,8,1,4,1,ui_item_1160111,,0,,,,3100
+1160114,Batgirl - Book 10,ItemName1160114,ItemDesc1160114,Batgirl - Book 10,1,,,,1,,,,,,8,1,4,1,ui_item_1160114,,0,,,,3100
+1160115,Batgirl - Book 11,ItemName1160115,ItemDesc1160115,Batgirl - Book 11,1,,,,1,,,,,,8,1,4,1,ui_item_1160114,,0,,,,3100
+1160116,Batgirl - Book 12,ItemName1160116,ItemDesc1160116,Batgirl - Book 12,1,,,,1,,,,,,8,1,4,1,ui_item_1160114,,0,,,,3100
+1160200,Catwoman - Collection Item Source Props,ItemName1160200,ItemDesc1160200,Catwoman - Collection Item Source Props,1,,,,1,,,,,,7,1,5,1,ui_item_1160200,,0,,,,3100
+1160201,Catwoman - Famous Painting,ItemName1160201,ItemDesc1160201,Catwoman - Famous Painting,1,,,,1,,,,,,7,1,5,1,ui_item_1160201,,0,,,,3100
+1160202,Catwoman - Clock,ItemName1160202,ItemDesc1160202,Catwoman - Wall Clock,1,,,,1,,,,,,7,1,5,1,ui_item_1160202,,0,,,,3100
+1160203,Catwoman - Antique,ItemName1160203,ItemDesc1160203,Catwoman - Antique,1,,,,1,,,,,,7,1,5,1,ui_item_1160203,,0,,,,3100
+1160204,Catwoman - Mahjong Table,ItemName1160204,ItemDesc1160204,Catwoman - Mahjong Table,1,,,,1,,,,,,7,1,5,1,ui_item_1160204,,0,,,,3100
+1160205,Catwoman - Helmet,ItemName1160205,ItemDesc1160205,Catwoman - Helmet,1,,,,1,,,,,,7,1,5,1,ui_item_1160205,,0,,,,3100
+1160206,Catwoman - Jewelry 1,ItemName1160206,ItemDesc1160206,,1,,,,1,,,,,,8,1,4,1,ui_item_1160206,,0,,,,3100
+1160207,Catwoman - Jewelry 2,ItemName1160207,ItemDesc1160207,Sapphire Bracelet,1,,,,1,,,,,,8,1,4,1,ui_item_1160207,,0,,,,3100
+1160208,Catwoman - Jewelry 3,ItemName1160208,ItemDesc1160208,Pure Gold Necklace,1,,,,1,,,,,,8,1,4,1,ui_item_1160208,,0,,,,3100
+1160209,Catwoman - Jewelry 4,ItemName1160209,ItemDesc1160209,Pearl Necklace,1,,,,1,,,,,,8,1,4,1,ui_item_1160209,,0,,,,3100
+1160210,Catwoman - Jewelry 5,ItemName1160210,ItemDesc1160210,Heart of the Ocean,1,,,,1,,,,,,8,1,4,1,ui_item_1160210,,0,,,,3100
+1160211,Catwoman - Jewelry 6,ItemName1160211,ItemDesc1160211,Diamond Crown,1,,,,1,,,,,,8,1,4,1,ui_item_1160211,,0,,,,3100
+1160212,Catwoman - Jewelry 7,ItemName1160212,ItemDesc1160212,Peridot Crown,1,,,,1,,,,,,8,1,4,1,ui_item_1160212,,0,,,,3100
+1160213,Catwoman - Jewelry 8,ItemName1160213,ItemDesc1160213,Imperial Crown,1,,,,1,,,,,,8,1,4,1,ui_item_1160213,,0,,,,3100
+1160214,Catwoman - Jewelry 9,ItemName1160214,ItemDesc1160214,Emerald Bracelet,1,,,,1,,,,,,8,1,4,1,ui_item_1160214,,0,,,,3100
+1160215,Catwoman - Jewelry 10,ItemName1160215,ItemDesc1160215,Princess Bracelet,1,,,,1,,,,,,8,1,4,1,ui_item_1160215,,0,,,,3100
+1160216,Catwoman - Jewelry 11,ItemName1160216,ItemDesc1160216,Mermaid's Tear,1,,,,1,,,,,,8,1,4,1,ui_item_1160216,,0,,,,3100
+1160217,Catwoman - Jewelry 12,ItemName1160217,ItemDesc1160217,Pearl Tear Earrings,1,,,,1,,,,,,8,1,4,1,ui_item_1160217,,0,,,,3100
+1160300,Batman - Collection Item Source Props,ItemName1160300,ItemDesc1160300,Saint's Earrings,1,,,,1,,,,,,7,1,5,1,ui_item_1160300,,0,,,,3100
+1160301,Batman - Mug,ItemName1160301,ItemDesc1160301,,1,,,,1,,,,,,7,1,5,1,ui_item_1160301,,0,,,,3100
+1160302,Batman - Ticket Stub,ItemName1160302,ItemDesc1160302,Batman - Collection Item Source Props,1,,,,1,,,,,,7,1,5,1,ui_item_1160302,,0,,,,3100
+1160303,Batman - Family Photo,ItemName1160303,ItemDesc1160303,Batman - Mug,1,,,,1,,,,,,7,1,5,1,ui_item_1160303,,0,,,,3100
+1160304,Batman - Joker Playing Cards,ItemName1160304,ItemDesc1160304,Batman - Ticket Stub,1,,,,1,,,,,,7,1,5,1,ui_item_1160304,,0,,,,3100
+1160305,Batman - Batsuit,ItemName1160305,ItemDesc1160305,Batman - Family Photo,1,,,,1,,,,,,7,1,5,1,ui_item_1160305,,0,,,,3100
+1160306,Batman - Project Babel - Green Lantern,ItemName1160306,ItemDesc1160306,Batman - Joker Playing Card,1,,,,1,,,,,,8,1,4,1,ui_item_1160306,,0,,,,3100
+1160307,Batman - Project Babel - Superman,ItemName1160307,ItemDesc1160307,Batman - Batsuit,1,,,,1,,,,,,8,1,4,1,ui_item_1160307,,0,,,,3100
+1160308,Batman - Project Babel - Wonder Woman,ItemName1160308,ItemDesc1160308,Batman - Project Babel - Green Lantern,1,,,,1,,,,,,8,1,4,1,ui_item_1160308,,0,,,,3100
+1160309,Batman - Project Babel - Flash,ItemName1160309,ItemDesc1160309,Batman - Project Babel - Superman,1,,,,1,,,,,,8,1,4,1,ui_item_1160309,,0,,,,3100
+1160310,Batman - Project Babel - Aquaman,ItemName1160310,ItemDesc1160310,Batman - Project Babel - Wonder Woman,1,,,,1,,,,,,8,1,4,1,ui_item_1160310,,0,,,,3100
+1160311,Batman - Project Babel - Cyborg,ItemName1160311,ItemDesc1160311,Batman - Project Babel - Flash,1,,,,1,,,,,,8,1,4,1,ui_item_1160311,,0,,,,3100
+1160314,Batman - Envelope,ItemName1160314,ItemDesc1160314,Batman - Project Babel - Aquaman,1,,,,1,,,,,,7,1,5,1,ui_item_1160314,,0,,,,3100
+1160400,Green Arrow - Collection Item Source Item,ItemName1160400,ItemDesc1160400,Batman - Project Babel - Cyborg,1,,,,1,,,,,,7,1,5,1,ui_item_1160400,,0,,,,3100
+1160401,Green Arrow - Green Arrow Motorcycle,ItemName1160401,ItemDesc1160401,Batman - Envelope,1,,,,1,,,,,,7,1,5,1,ui_item_1160401,,0,,,,3100
+1160402,Green Arrow - Ball Machine,ItemName1160402,ItemDesc1160402,,1,,,,1,,,,,,7,1,5,1,ui_item_1160402,,0,,,,3100
+1160403,Green Arrow - Star City Map,ItemName1160403,ItemDesc1160403,Green Arrow - Collection Item Source Item,1,,,,1,,,,,,7,1,5,1,ui_item_1160403,,0,,,,3100
+1160404,Green Arrow - Group Photo,ItemName1160404,ItemDesc1160404,Green Arrow - Green Arrow Motorcycle,1,,,,1,,,,,,7,1,5,1,ui_item_1160404,,0,,,,3100
+1160405,Green Arrow - Repair Station,ItemName1160405,ItemDesc1160405,Green Arrow - Ball Machine,1,,,,1,,,,,,7,1,5,1,ui_item_1160405,,0,,,,3100
+1160406,Green Arrow - Arrow 1,ItemName1160406,ItemDesc1160406,Green Arrow - Star City Map,1,,,,1,,,,,,8,1,4,1,ui_item_1160406,,0,,,,3100
+1160407,Green Arrow - Arrow 2,ItemName1160407,ItemDesc1160407,Green Arrow - Group Photo,1,,,,1,,,,,,8,1,4,1,ui_item_1160407,,0,,,,3100
+1160408,Green Arrow - Arrow 3,ItemName1160408,ItemDesc1160408,Shock Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160408,,0,,,,3100
+1160409,Green Arrow - Arrow 4,ItemName1160409,ItemDesc1160409,Injection Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160409,,0,,,,3100
+1160410,Green Arrow - Arrow 5,ItemName1160410,ItemDesc1160410,Kryptonite Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160410,,0,,,,3100
+1160411,Green Arrow - Arrow 6,ItemName1160411,ItemDesc1160411,Boxing Glove Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160411,,0,,,,3100
+1160412,Green Arrow - Arrow 7,ItemName1160412,ItemDesc1160412,Ice Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160412,,0,,,,3100
+1160413,Green Arrow - Arrow 8,ItemName1160413,ItemDesc1160413,Magnet Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160413,,0,,,,3100
+1160414,Green Arrow - Arrow 9,ItemName1160414,ItemDesc1160414,Recording Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160414,,0,,,,3100
+1160415,Green Arrow - Arrow 10,ItemName1160415,ItemDesc1160415,Smoke Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160415,,0,,,,3100
+1160416,Green Arrow - Arrow 11,ItemName1160416,ItemDesc1160416,Piercing Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160416,,0,,,,3100
+1160417,Green Arrow - Arrow 12,ItemName1160417,ItemDesc1160417,Fire Arrow,1,,,,1,,,,,,8,1,4,1,ui_item_1160417,,0,,,,3100
+1160500,Deathstroke - Collection Item Source Item,ItemName1160500,ItemDesc1160500,Deathstroke - Collection Item Source Item,1,,,,1,,,,,,7,1,5,1,ui_item_1160500,,0,,,,3100
+1160501,Deathstroke - Cretan Sword,ItemName1160501,ItemDesc1160501,Deathstroke - Cretan Sword,1,,,,1,,,,,,7,1,5,1,ui_item_1160501,,0,,,,3100
+1160502,Deathstroke - Iconic Uniform,ItemName1160502,ItemDesc1160502,Deathstroke - Iconic Uniform,1,,,,1,,,,,,7,1,5,1,ui_item_1160502,,0,,,,3100
+1160503,Deathstroke - Godslayer Weapon,ItemName1160503,ItemDesc1160503,Deathstroke - Godslayer Weapon,1,,,,1,,,,,,7,1,5,1,ui_item_1160503,,0,,,,3100
+1160504,Deathstroke - Video Tape,ItemName1160504,ItemDesc1160504,Deathstroke - Video Tape,1,,,,1,,,,,,7,1,5,1,ui_item_1160504,,0,,,,3100
+1160505,Deathstroke - Multifunctional Staff,ItemName1160505,ItemDesc1160505,Deathstroke - Multi-Functional Staff,1,,,,1,,,,,,7,1,5,1,ui_item_1160505,,0,,,,3100
+1160506,Deathstroke - Collection Item 1,ItemName1160506,ItemDesc1160506,Deathstroke - Collection Item 1,1,,,,1,,,,,,8,1,4,1,ui_item_1160506,,0,,,,3100
+1160507,Deathstroke - Collection Item 2,ItemName1160507,ItemDesc1160507,Deathstroke - Collection Item 2,1,,,,1,,,,,,8,1,4,1,ui_item_1160507,,0,,,,3100
+1160508,Deathstroke - Collection Item 3,ItemName1160508,ItemDesc1160508,Deathstroke - Collection Item 3,1,,,,1,,,,,,8,1,4,1,ui_item_1160508,,0,,,,3100
+1160509,Deathstroke - Collection Item 4,ItemName1160509,ItemDesc1160509,Deathstroke - Collection Item 4,1,,,,1,,,,,,8,1,4,1,ui_item_1160509,,0,,,,3100
+1160510,Deathstroke - Collection Item 5,ItemName1160510,ItemDesc1160510,Deathstroke - Collection Item 5,1,,,,1,,,,,,8,1,4,1,ui_item_1160510,,0,,,,3100
+1160511,Deathstroke - Collection Item 6,ItemName1160511,ItemDesc1160511,Deathstroke - Collection Item 6,1,,,,1,,,,,,8,1,4,1,ui_item_1160511,,0,,,,3100
+1160512,Deathstroke - Collection Item 7,ItemName1160512,ItemDesc1160512,Deathstroke - Collection Item 7,1,,,,1,,,,,,8,1,4,1,ui_item_1160512,,0,,,,3100
+1160513,Deathstroke - Collection Item 8,ItemName1160513,ItemDesc1160513,Deathstroke - Collection Item 8,1,,,,1,,,,,,8,1,4,1,ui_item_1160513,,0,,,,3100
+1160514,Deathstroke - Collection Item 9,ItemName1160514,ItemDesc1160514,Deathstroke - Collection Item 9,1,,,,1,,,,,,8,1,4,1,ui_item_1160514,,0,,,,3100
+1160515,Deathstroke - Collection Item 10,ItemName1160515,ItemDesc1160515,Deathstroke - Collection Item 10,1,,,,1,,,,,,8,1,4,1,ui_item_1160515,,0,,,,3100
+1160516,Deathstroke - Collection Item 11,ItemName1160516,ItemDesc1160516,Deathstroke - Collection Item 11,1,,,,1,,,,,,8,1,4,1,ui_item_1160516,,0,,,,3100
+1160517,Deathstroke - Collection Item 12,ItemName1160517,ItemDesc1160517,Deathstroke - Collection Item 12,1,,,,1,,,,,,8,1,4,1,ui_item_1160517,,0,,,,3100
+1160600,Sinestro - Collection Item Source Item,ItemName1160600,ItemDesc1160600,Sinestro - Collection Item Source Item,1,,,,1,,,,,,7,1,5,1,ui_item_1160600,,0,,,,3100
+1160601,Sinestro - Yellow Lantern Ring Forge,ItemName1160601,ItemDesc1160601,Sinestro - Yellow Lantern Ring Forge,1,,,,1,,,,,,7,1,5,1,ui_item_1160601,,0,,,,3100
+1160602,Sinestro - Yellow Lantern Furnace,ItemName1160603,ItemDesc1160603,Sinestro - Yellow Lantern Battery,1,,,,1,,,,,,7,1,5,1,ui_item_1160602,,0,,,,3100
+1160603,Sinestro - Throne of Qward,ItemName1160602,ItemDesc1160602,Sinestro - Throne of Korugar,1,,,,1,,,,,,7,1,5,1,ui_item_1160603,,0,,,,3100
+1160604,Sinestro - Parallax Model,ItemName1160604,ItemDesc1160604,Sinestro - Parallax Model,1,,,,1,,,,,,7,1,5,1,ui_item_1160604,,0,,,,3100
+1160605,Sinestro - Space Pod,ItemName1160605,ItemDesc1160605,Sinestro - Space Pod,1,,,,1,,,,,,7,1,5,1,ui_item_1160605,,0,,,,3100
+1160606,Sinestro - Photo of Memories,ItemName1160606,ItemDesc1160606,Sinestro - Photo of Memories,1,,,,1,,,,,,7,1,5,1,ui_item_1160606,,0,,,,3100
+1160607,Sinestro - Building Block 09801,ItemName1160607,ItemDesc1160607,Sinestro - Building Block 09801,1,,,,1,,,,,,8,1,4,1,ui_item_1160607,,0,,,,3100
+1160608,Sinestro - Building Block 01902,ItemName1160608,ItemDesc1160608,Sinestro - Building Block 01902,1,,,,1,,,,,,8,1,4,1,ui_item_1160608,,0,,,,3100
+1160609,Sinestro - Building Block 06403,ItemName1160609,ItemDesc1160609,Sinestro - Building Block 06403,1,,,,1,,,,,,8,1,4,1,ui_item_1160609,,0,,,,3100
+1160610,Sinestro - Building Block 07204,ItemName1160610,ItemDesc1160610,Sinestro - Building Block 07204,1,,,,1,,,,,,8,1,4,1,ui_item_1160610,,0,,,,3100
+1160611,Sinestro - Building Block 18301,ItemName1160611,ItemDesc1160611,Sinestro - Building Block 18301,1,,,,1,,,,,,8,1,4,1,ui_item_1160611,,0,,,,3100
+1160612,Sinestro - Building Block 14702,ItemName1160612,ItemDesc1160612,Sinestro - Building Block 14702,1,,,,1,,,,,,8,1,4,1,ui_item_1160612,,0,,,,3100
+1160613,Sinestro - Building Block 15203,ItemName1160613,ItemDesc1160613,Sinestro - Building Block 15203,1,,,,1,,,,,,8,1,4,1,ui_item_1160613,,0,,,,3100
+1160614,Sinestro - Building Block 10904,ItemName1160614,ItemDesc1160614,Sinestro - Building Block 10904,1,,,,1,,,,,,8,1,4,1,ui_item_1160614,,0,,,,3100
+1160615,Sinestro - Building Block 21701,ItemName1160615,ItemDesc1160615,Sinestro - Building Block 21701,1,,,,1,,,,,,8,1,4,1,ui_item_1160615,,0,,,,3100
+1160616,Sinestro - Building Block 28402,ItemName1160616,ItemDesc1160616,Sinestro - Building Block 28402,1,,,,1,,,,,,8,1,4,1,ui_item_1160616,,0,,,,3100
+1160617,Sinestro - Building Block 26003,ItemName1160617,ItemDesc1160617,Sinestro - Building Block 26003,1,,,,1,,,,,,8,1,4,1,ui_item_1160617,,0,,,,3100
+1160618,Sinestro - Building Block 23104,ItemName1160618,ItemDesc1160618,Sinestro - Building Block 23104,1,,,,1,,,,,,8,1,4,1,ui_item_1160618,,0,,,,3100
+1160701,Raven - Sweet Memories,ItemName1160701,ItemDesc1160701,Raven - Sweet Memories,1,,,,1,,,,,,7,1,5,1,ui_item_1160707,,0,,,,3100
+1160702,Raven - High School Student ID,ItemName1160702,ItemDesc1160702,Raven - High School Student ID,1,,,,1,,,,,,7,1,5,1,ui_item_1160703,,0,,,,3100
+1160703,Raven - Enchanted Pendant,ItemName1160703,ItemDesc1160703,Raven - Magical Pendant,1,,,,1,,,,,,7,1,5,1,ui_item_1160701,,1,,,,3100
+1160704,Raven - Black Backpack,ItemName1160704,ItemDesc1160704,Raven - Black Backpack,1,,,,1,,,,,,7,1,5,1,ui_item_1160702,,0,,,,3100
+1160705,Raven - Wonder Woman Poster,ItemName1160705,ItemDesc1160705,Raven - Wonder Woman Poster,1,,,,1,,,,,,7,1,5,1,ui_item_1160705,,0,,,,3100
+1160706,Raven - Wonder Woman Doll,ItemName1160706,ItemDesc1160706,Raven - Wonder Woman Doll,1,,,,1,,,,,,7,1,5,1,ui_item_1160704,,1,,,,3100
+1160707,Raven - Teen Titans Tower Model,ItemName1160707,ItemDesc1160707,Raven - Teen Titans Tower Model,1,,,,1,,,,,,7,1,5,1,ui_item_1160706,,1,,,,3100
+1160708,Raven - Decorative Belt,ItemName1160708,ItemDesc1160708,Raven - Decorative Belt,1,,,,1,,,,,,7,1,5,1,ui_item_1160708,,0,,,,3100
+1160801,Martian Manhunter - Chocolate Cookies,ItemName1160801,ItemDesc1160801,Martian Manhunter - Chocolate Cookies,1,,,,1,,,,,,7,1,5,1,ui_item_1160801,,1,,,,3100
+1160802,Martian Manhunter - Kuru Tag,ItemName1160802,ItemDesc1160802,Martian Manhunter - Culu Tag,1,,,,1,,,,,,7,1,5,1,ui_item_1160802,,0,,,,3100
+1160803,Martian Manhunter - Badge and Handcuffs,ItemName1160803,ItemDesc1160803,Martian Manhunter - Badge and Handcuffs,1,,,,1,,,,,,7,1,5,1,ui_item_1160803,,0,,,,3100
+1160804,Martian Manhunter - Martian Plant,ItemName1160804,ItemDesc1160804,Martian Manhunter - Martian Plant,1,,,,1,,,,,,7,1,5,1,ui_item_1160804,,1,,,,3100
+1160805,Martian Manhunter - Martian Romance,ItemName1160805,ItemDesc1160805,Martian Manhunter - Martian Romance,1,,,,1,,,,,,7,1,5,1,ui_item_1160805,,0,,,,3100
+1160806,Martian Manhunter - Holographic Earth,ItemName1160806,ItemDesc1160806,Martian Manhunter - Holographic Earth,1,,,,1,,,,,,7,1,5,1,ui_item_1160806,,0,,,,3100
+1160807,Martian Manhunter - Martian Manhunter Doll,ItemName1160807,ItemDesc1160807,Martian Manhunter - Martian Manhunter Doll,1,,,,1,,,,,,7,1,5,1,ui_item_1160807,,0,,,,3100
+1160808,Martian Manhunter - Police Uniform,ItemName1160808,ItemDesc1160808,Martian Manhunter - Police Uniform,1,,,,1,,,,,,7,1,5,1,ui_item_1160808,,0,,,,3100
+1111001,Collection Events (Purchase Tokens),ItemName1111001,ItemDesc1111001,Collection Events (Purchase Tokens),1,,,,1,,,,,,4,4,5,15,ui_item_1111001,,0,,,,3600
+11111001,Collection Events Krypto Rerun - (Purchase Tokens),ItemName1111001,ItemDesc1111001,Collection Events (Purchase Tokens),1,,,,1,,,,,,4,4,5,15,ui_item_1111001,,0,,,,3600
+1111002,Collection Events (Exchange Tokens),ItemName1111002,ItemDesc1111002,Collection Events (Exchange Tokens),1,,,,1,,,,,,4,4,5,15,ui_item_1111002,,0,,,,3600
+1111003,Collection Events (Purchase Tokens) - Diamond,ItemName1111003,ItemDesc1111003,Collection Events (Purchase Tokens) - Diamond,1,,,,1,,,,,,4,4,5,15,ui_item_1111003,,0,,,,3600
+1111004,Collection Events (Exchange Tokens) - Diamond,ItemName1111004,ItemDesc1111004,Collection Events (Exchange Tokens) - Diamond,1,,,,1,,,,,,4,4,5,15,ui_item_1111004,,0,,,,3600
+1111007,Collection Events Phantom Projector Rerun - (Purchase Tokens),ItemName1111001,ItemDesc1111001,Collection Events (Purchase Tokens),1,,,,1,,,,,,4,4,5,15,ui_item_1111001,,0,,,,3600
+1111008,Collection Events Spacehog - (Purchase Tokens),ItemName1111001,ItemDesc1111001,Collection Events (Purchase Tokens),1,,,,1,,,,,,4,4,5,15,ui_item_1111001,,0,,,,3600
+1111111,Guild Currency,ItemName1111111,ItemDesc1111111,Guild Currency,2,14,,,2,14,,,,,0,0,4,0,ui_gve_img_icon01,,0,,,,2003
+1123001,Enhance Sphere - Red Fragment,ItemName1123001,ItemDesc1123001,Enhance Sphere - Red Fragment,1,,,,1,,,,,,3,3,3,20,Artifact_Fragment_242001,,1,,,,3200
+1123002,Enhance Sphere - Orange Fragment,ItemName1123002,ItemDesc1123002,Enhance Sphere - Orange Fragment,1,,,,1,,,,,,3,3,3,20,Artifact_Fragment_242002,,1,,,,3200
+1123003,Enhance Sphere - Yellow Fragment,ItemName1123003,ItemDesc1123003,Enhance Sphere - Yellow Fragment,1,,,,1,,,,,,3,3,3,20,Artifact_Fragment_242003,,1,,,,3200
+1123004,Enhance Sphere - Green Fragment,ItemName1123004,ItemDesc1123004,Enhance Sphere - Green Fragment,1,,,,1,,,,,,3,3,3,20,Artifact_Fragment_242004,,1,,,,3200
+1123005,Enhance Sphere - Blue Fragment,ItemName1123005,ItemDesc1123005,Enhance Sphere - Blue Fragment,1,,,,1,,,,,,3,3,3,20,Artifact_Fragment_242005,,1,,,,3200
+1123006,Enhance Sphere - Purple Fragment,ItemName1123006,ItemDesc1123006,Enhance Sphere - Purple Fragment,1,,,,1,,,,,,3,3,3,20,Artifact_Fragment_242006,,1,,,,3200
+1123007,Enhance Sphere - Pink Fragment,ItemName1123007,ItemDesc1123007,Enhance Sphere - Pink Fragment,1,,,,1,,,,,,3,3,3,20,Artifact_Fragment_242007,,1,,,,3200
+1123008,Mega Rod Fragment,ItemName1123008,ItemDesc1123008,Mega Rod Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243001,,1,,,,3200
+1123009,Canary Crying Bomb Fragment,ItemName1123009,ItemDesc1123009,Canary Crying Bomb Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243002,,1,,,,3200
+1123010,Wrist Gun Fragment,ItemName1123010,ItemDesc1123010,Wrist Gun Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243003,,1,,,,3200
+1123011,Escrima Sticks Fragment,ItemName1123011,ItemDesc1123011,Escrima Sticks Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243004,,1,,,,3200
+1123012,Bane's Venom Fragment,ItemName1123012,ItemDesc1123012,Bane's Venom Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243005,,1,,,,3200
+1123013,Lasso of Truth Fragment,ItemName1123013,ItemDesc1123013,Lasso of Truth Fragment,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244001,,1,,,,3200
+1123014,Chaos Crystal Fragment,ItemName1123014,ItemDesc1123014,Chaos Crystal Fragment,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244002,,1,,,,3200
+1123015,Philosopher's Stone Fragment,ItemName1123015,ItemDesc1123015,Philosopher's Stone Fragment,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244003,,1,,,,3200
+1123016,Atlantean Helmet Fragment,ItemName1123016,ItemDesc1123016,Atlantean Helmet Fragment,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244004,,1,,,,3200
+1123017,Bow of Ra Fragment,ItemName1123017,ItemDesc1123017,Bow of Ra Fragment,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244005,,1,,,,3200
+1123100,Random Coordinates,ItemName1123100,ItemDesc1123100,Artifact Pull token,1,,,,1,,,,,,2,1,5,75,ui_item_1123100,,0,,,,3200
+1123101,Elite Coordinate Locator,ItemName1123101,ItemDesc1123101,Purple Artifact Self-Selected Guaranteed,1,,,,1,,5,19230301,2,1,8,2,4,1,ui_item_1123101,,0,,,,3200
+1123102,Epic Coordinate Locator,ItemName1123102,ItemDesc1123102,Orange Artifact Self-Selected Guaranteed,1,,,,1,,5,19230401,2,1,8,2,5,2,ui_item_1123102,,0,,,,3200
+1123901,Basic Energy Cell,ItemName1123901,ItemDesc1123901,Basic Energy Cell,1,,,,1,,,,,,2,1,2,306,ui_item_1123901,,0,,,,3200
+1123902,Rare Energy Cell,ItemName1123902,ItemDesc1123902,Rare Energy Cell,1,,,,1,,,,,,2,1,3,305,ui_item_1123902,,0,,,,3200
+1123903,Ultimate Energy Cell,ItemName1123903,ItemDesc1123903,Ultimate Energy Cell,1,,,,1,,,,,,2,1,4,304,ui_item_1123903,,0,,,,3200
+11201401,Cross-server Avatar Frame-Champion,ProfileName201,ProfileDes201,Cross-server Avatar Frame-Champion,1,201401,,,1,,,,,,8,,5,0,ui_profile_pvp5,,0,,,,760
+11201501,Cross-server Avatar Frame-Runner Up,ProfileName202,ProfileDes202,Cross-server Avatar Frame-Runner Up,1,201501,,,1,,,,,,8,,5,0,ui_profile_pvp4,,0,,,,760
+11201601,Cross-server Avatar Frame-Top 4,ProfileName203,ProfileDes203,Cross-server Avatar Frame-Top 4,1,201601,,,1,,,,,,8,,5,0,ui_profile_pvp3,,0,,,,760
+1110011,【Doctor Fate Event】Common tokens,ItemName1110011,ItemDesc1110011,Used in Doctor Fate Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110011,,,,,,3600
+1110012,【Doctor Fate Event】Rare tokens,ItemName1110012,ItemDesc1110012,Used in Doctor Fate Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110012,,,,,,3600
+1113207,Vixen Fragment,ItemName1113207,ItemDesc1113207,"Vixen fragments, when collected can be used to upgrade",1,,,,1,,4,13207,,,3,1,5,207,,,0,,,,
+1123018,Mirror of Reverie Fragment,ItemName1123018,ItemDesc1123018,Mirror of Reverie Fragment,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244006,,1,,,,3200
+1123019,Vial of Velcoro's Blood Fragment,ItemName1123019,ItemDesc1123019,Vial of Velcoro's Blood Fragment,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244007,,1,,,,3200
+1113226,Vigilante Fragment,ItemName1113226,ItemDesc1113226,"Vigilante fragments, when collected can be used to upgrade",1,,,,1,,4,13226,,,3,1,5,1,,,,,,,
+1113234,Judomaster Fragment,ItemName1113234,ItemDesc1113234,"Judomaster fragments, when collected can be used to upgrade",1,,,,1,,4,13234,,,3,1,5,2,,,,,,,
+1113231,Nubia Fragment,ItemName1113231,ItemDesc1113231,"Nubia fragments, when collected can be used to upgrade",1,,,,1,,4,13231,,,3,1,5,2,,,,,,,
+1113232,Yara Flor Fragment,ItemName1113232,ItemDesc1113232,"Yara Flor fragments, when collected can be used to upgrade",1,,,,1,,4,13232,,,3,1,5,2,,,,,,,
+11114022,Bingo Token 1 - Dr. Phosphorus,ItemName11114022,ItemDesc11114022,Irradiated Silver Coin,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13219,,0,,,,9806
+11114023,Bingo Token 2 - Dr. Phosphorus,ItemName11114023,ItemDesc11114023,Irradiated Gold Coin,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13219,,0,,,,9806
+11114024,Bingo Token_TheWeasel_GlisteningFang,ItemName11114024,ItemDesc11114024,Glistening Fang,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13220,,0,,,,9806
+11114025,Bingo Token_TheWeasel_FerociousFang,ItemName11114025,ItemDesc11114025,Ferocious Fang,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13220,,0,,,,9806
+1110013,The Bride Event - Common tokens,ItemName1110013,ItemDesc1110013,Used in The Bride Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110013,,,,,,3600
+1110014,The Bride Event - Rare tokens,ItemName1110014,ItemDesc1110014,Used in The Bride Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110014,,,,,,3600
+1113213,Guy Gardner Fragment,ItemName1113213,ItemDesc1113213,"Guy Gardner fragments, when collected can be used to upgrade",1,,,,1,,4,13213,,,3,1,5,2,,,,,,,
+1113216,Mister Terrific (DCU) Fragment,ItemName1113216,ItemDesc1113216,"Mister Terrific (DCU) fragments, when collected can be used to upgrade",1,,,,1,,4,13216,,,3,1,5,2,,,,,,,
+1113212,Swamp Thing Fragment,ItemName1113212,ItemDesc1113212,"Swamp Thing fragments, when collected can be used to upgrade",1,,,,1,,4,13212,,,3,1,5,2,,,,,,,
+1123020,Krona's Power Gauntlet Fragment,ItemName1123020,ItemDesc1123020,Krona's Power Gauntlet Fragment. Can be used to rank up the corresponding artifact.,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244008,,1,,,,3200
+1123021,Screwdriver Helmet Fragment,ItemName1123021,ItemDesc1123021,Screwdriver Helmet Fragment. Can be used to rank up the corresponding artifact.,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_244009,,1,,,,3200
+1120045,Krypto SL Fragment,ItemName1120045,ItemDesc1120045,Krypto SL unlock item.,5,210,1111002,35,1,,,210,,,3,2,5,10,ui_item_1120045,,,,,,2300
+1120046,Energy Disruptor Fragment,ItemName1120046,ItemDesc1120046,Energy Disruptor unlock item.,5,211,1111002,35,1,,,210,,,3,2,5,10,ui_item_1120046,,,,,,2300
+1113236,Superman - Legacy Fragment,ItemName1113236,ItemDesc1113236,"Superman - Legacy fragments, when collected can be used to upgrade",1,,,,1,,4,13236,,,3,1,5,2,,,,,,,
+11114026,Bingo Token 1 - Guy Gardner,ItemName11114026,ItemDesc11114026,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13213,,0,,,,9806
+11114027,Bingo Token 2 - Guy Gardner,ItemName11114027,ItemDesc11114027,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13213,,0,,,,9806
+11114028,Bingo Token 1 - Mr. Terrific,ItemName11114028,ItemDesc11114028,T-Sphere,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13216,,0,,,,9806
+11114029,Bingo Token 2 - Mr. Terrific,ItemName11114029,ItemDesc11114029,Glowing T-Sphere,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13216,,0,,,,9806
+1113235,Harley Quinn - Criminal Jester Fragment,ItemName1113235,ItemDesc1113235,"Harley Quinn - Criminal Jester fragments, when collected can be used to upgrade",1,,,,1,,4,13235,,,3,1,5,2,,,,,,,
+1110015,Superman DCU Event - Common tokens,ItemName1110015,ItemDesc1110015,Used in Superman DCU Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110015,,,,,,3600
+1110016,Superman DCU Event - Rare tokens,ItemName1110016,ItemDesc1110016,Used in Superman DCU Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110016,,,,,,3600
+1118100,Weasel Equipment Chest,ItemName1118100,ItemDesc1118100,Equipment for Weasel Early Access sale,1,,,,1,,5,19118100,1,1,1,5,5,2,ui_equipbox_0501,,,,,1,
+11114030,Bingo Token 1 - Judomaster,ItemName11114030,ItemDesc11114030,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13234,,0,,,,9806
+11114031,Bingo Token 2 - Judomaster,ItemName11114031,ItemDesc11114031,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13234,,0,,,,9806
+11114032,Bingo Token 1 - Vigilante,ItemName11114032,ItemDesc11114032,Grenade,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13226,,0,,,,9806
+11114033,Bingo Token 2 - Vigilante,ItemName11114033,ItemDesc11114033,Golden Grenade,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13226,,0,,,,9806
+1113230,Batman Beyond Fragment,ItemName1113230,ItemDesc1113230,Batman Beyond fragments,1,,,,1,,4,13230,,,3,1,5,2,,,,,,,
+1110017,Peacemaker Event - Common tokens,ItemName1110017,ItemDesc1110017,Used in Peacemaker Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110017,,,,,,3600
+1110018,Peacemaker Event - Rare tokens,ItemName1110018,ItemDesc1110018,Used in Peacemaker Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110018,,,,,,3600
+1113229,Batwoman Fragment,ItemName1113229,ItemDesc1113229,Batwoman fragments,1,,,,1,,4,13229,,,3,1,5,2,,,,,,,
+1113253,Cassandra Cain Fragment,ItemName1113253,ItemDesc1113253,"Cassandra Cain fragments, when collected can be used to upgrade",1,,,,1,,4,13253,,,3,1,3,403,,,,,,,
+1118101,Guy Gardner Equipment Chest,ItemName1118101,ItemDesc1118101,Equipment for Guy Gardner Early Access sale,1,,,,1,,5,19118101,1,1,1,5,5,2,ui_equipbox_0501,,,,,1,
+11232001,League Challenge Reward Chest 01,ItemName19232001,ItemDesc19232001,Tier 1 rewards for League Challenge. Chance of League Encrypted Tokens!,1,,,,1,,5,19232001,1,1,1,5,2,1,ui_gve_img_chest_01,,0,,,1,
+11232002,League Challenge Reward Chest 02,ItemName19232002,ItemDesc19232002,Tier 2 rewards for League Challenge. More League Currency & League Encrypted Tokens!,1,,,,1,,5,19232002,1,1,1,5,2,1,ui_gve_img_chest_02,,0,,,1,
+11232003,League Challenge Reward Chest 03,ItemName19232003,ItemDesc19232003,Tier 3 rewards for League Challenge. Chance of Inertron Fragments & Inertronite!,1,,,,1,,5,19232003,1,1,1,5,2,1,ui_gve_img_chest_03,,0,,,1,
+11232004,League Challenge Reward Chest 04,ItemName19232004,ItemDesc19232004,Tier 4 rewards for League Challenge. Chance of Basic & Rare Energy Cells!,1,,,,1,,5,19232004,1,1,1,5,3,1,ui_gve_img_chest_04,,0,,,1,
+11232005,League Challenge Reward Chest 05,ItemName19232005,ItemDesc19232005,Tier 5 rewards for League Challenge. More Inertronite & Rare Energy Cells!,1,,,,1,,5,19232005,1,1,1,5,3,1,ui_gve_img_chest_05,,0,,,1,
+11232006,League Challenge Reward Chest 06,ItemName19232006,ItemDesc19232006,Tier 6 rewards for League Challenge. Chance of Ultimate Energy Cells!,1,,,,1,,5,19232006,1,1,1,5,3,1,ui_gve_img_chest_06,,0,,,1,
+11232007,League Challenge Reward Chest 07,ItemName19232007,ItemDesc19232007,Tier 7 rewards for League Challenge. More Ultimate Energy Cells!,1,,,,1,,5,19232007,1,1,1,5,4,1,ui_gve_img_chest_07,,0,,,1,
+11232008,League Challenge Reward Chest 08,ItemName19232008,ItemDesc19232008,Tier 8 rewards for League Challenge. More League Currency & League Encrypted Tokens!,1,,,,1,,5,19232008,1,1,1,5,4,1,ui_gve_img_chest_08,,0,,,1,
+1118102,Mr. Terrific Equipment Chest,ItemName1118102,ItemDesc1118102,Equipment for Mr. Terrific Early Access sale,1,,,,1,,5,19118102,1,1,1,5,5,2,ui_equipbox_0505,,,,,1,
+1113250,Silver Banshee Fragment,ItemName1113250,ItemDesc1113250,"Silver Banshee fragments, when collected can be used to upgrade",1,,,,1,,4,13250,,,3,1,5,2,,,,,,,
+11114034,Bingo Token 1 - Cheshire,ItemName11114034,ItemDesc11114034,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13210,,0,,,,9806
+11114035,Bingo Token 2 - Cheshire,ItemName11114035,ItemDesc11114035,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13210,,0,,,,9806
+11114036,Bingo Token 1 - Doctor Poison,ItemName11114036,ItemDesc11114036,Doctor Poison Bingo Token 1 Name (Placeholder),1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13211,,0,,,,9806
+11114037,Bingo Token 2 - Doctor Poison,ItemName11114037,ItemDesc11114037,Doctor Poison Bingo Token 2 Name (Placeholder),1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13211,,0,,,,9806
+1110019,Swamp Thing Event - Common tokens,ItemName1110019,ItemDesc1110019,Used in Swamp Thing Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110019,,,,,,3600
+1110020,Swamp Thing Event - Rare tokens,ItemName1110020,ItemDesc1110020,Used in Swamp Thing Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110020,,,,,,3600
+1123022,Nightshade Perfume Fragment,ItemName1123022,ItemDesc1123022,Nightshade Perfume Fragment. Can be used to rank up the corresponding artifact.,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244010,,1,,,,3200
+1118103,Judomaster Equipment Chest,ItemName1118103,ItemDesc1118103,Equipment for Judomaster Early Access sale,1,,,,1,,5,19118103,1,1,1,5,5,2,ui_equipbox_0501,,,,,1,
+1118104,Vigilante Equipment Chest,ItemName1118104,ItemDesc1118104,Equipment for Vigilante Early Access sale,1,,,,1,,5,19118104,1,1,1,5,5,2,ui_equipbox_0501,,,,,1,
+1120047,Sethe - Avatar of Rot Fragment,ItemName1120047,ItemDesc1120047,Sethe - Avatar of Rot unlock item.,5,212,1111002,35,1,,,212,,,3,2,5,10,ui_item_1120047,,,,,,2300
+1111005,Splash Activity - Energy Item,ItemName1111005,ItemDesc1111005,Splash Activity - Energy Item,1,,,,1,,,,,,4,4,4,18,ui_item_1111005,,0,,,,9808
+1111006,Splash Activity - Score Item,ItemName1111006,ItemDesc1111006,Splash Activity - Score Item,1,,,,1,,,,,,4,4,4,18,ui_item_1111006,,0,,,,9808
+1113211,Doctor Poison Fragment,ItemName1113211,ItemDesc1113211,"Doctor Poison fragments, when collected can be used to upgrade",1,,,,1,,4,13211,,,3,1,5,1,,,,,,,
+1123023,Jack-In-The-Box Fragment,ItemName1123023,ItemDesc1123023,Jack-in-The-Box Fragment. Can be used to rank up the corresponding artifact.,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244011,,1,,,,3200
+1118106,Cheshire Equipment Chest,ItemName1118106,ItemDesc1118106,Equipment for Cheshire Early Access sale,1,,,,1,,5,19118106,1,1,1,5,5,2,ui_equipbox_0501,,,,,1,
+1113228,Booster Gold Fragment,ItemName1113228,ItemDesc1113228,"Booster Gold fragments, when collected can be used to upgrade",1,,,,1,,4,13228,,,3,1,5,2,,,,,,,
+1118105,Random Block Set Equipment Chest,ItemName1118105,ItemDesc1118105,Random Block Piece for Block Event IAPs,1,,,,1,,5,19181605,1,1,1,5,5,2,ui_equipbox_0506,,,,,1,
+1118108,Mera Equipment Chest,ItemName1118108,ItemDesc1118108,Mera Direct Purchase equipment,1,,,,1,,5,19118108,1,1,1,5,5,2,ui_equipbox_0523,,,,,1,
+1110021,Aquaman Event - Common tokens,ItemName1110021,ItemDesc1110021,Aquaman Legendary Event Currency,1,,,,1,,,,,,4,4,4,15,ui_item_1110021,,,,,,3600
+1110022,Aquaman Event - Rare tokens,ItemName1110022,ItemDesc1110022,Aquaman Legendary Event Currency,1,,,,1,,,,,,4,4,5,15,ui_item_1110022,,,,,,3600
+1123024,Kryptonian Battle Armor Fragment,ItemName1123024,ItemDesc1123024,Kryptonian Battle Armor Fragment. Can be used to rank up the corresponding artifact.,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_244012,,1,,,,3200
+1118107,Doctor Poison Equipment Chest,ItemName1118107,ItemDesc1118107,Equipment for Doctor Poison Early Access sale,1,,,,1,,5,19120554,1,1,1,5,5,2,ui_equipbox_0501,,,,,1,
+1113134,Black Adam Fragment,ItemName1113134,ItemDesc1113134,"Black Adam fragments, when collected can be used to upgrade",1,,,,1,,4,13134,,,3,1,5,2,,,,,,,
+1113233,Artemis Fragment,ItemName1113233,ItemDesc1113233,"Artemis fragments, when collected can be used to upgrade",1,,,,1,,4,13233,,,3,1,5,2,,,,,,,
+1120048,Jerry the Winged Horse Fragment,ItemName1120048,ItemDesc1120048,Jerry the Winged Horse unlock item.,5,213,1111002,35,1,,,213,,,3,2,5,10,ui_item_30213,,,,,,2300
+1123026,Elite Sphere - Red Fragment,ItemName1123026,ItemDesc1123026,Elite Sphere - Red Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243006,,1,,,,
+1123027,Elite Sphere - Orange Fragment,ItemName1123027,ItemDesc1123027,Elite Sphere - Orange Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243007,,1,,,,
+1123028,Elite Sphere - Yellow Fragment,ItemName1123028,ItemDesc1123028,Elite Sphere - Yellow Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243008,,1,,,,
+1123029,Elite Sphere - Green Fragment,ItemName1123029,ItemDesc1123029,Elite Sphere - Green Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243009,,1,,,,
+1123030,Elite Sphere - Blue Fragment,ItemName1123030,ItemDesc1123030,Elite Sphere - Blue Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243010,,1,,,,
+1123031,Elite Sphere - Purple Fragment,ItemName1123031,ItemDesc1123031,Elite Sphere - Purple Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243011,,1,,,,
+1123032,Elite Sphere - Pink Fragment,ItemName1123032,ItemDesc1123032,Elite Sphere - Pink Fragment,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_243012,,1,,,,
+1113267,Lobo Fragment,ItemName1113267,ItemDesc1113267,Lobo fragments,1,,,,1,,4,13267,,,3,1,5,2,,,,,,,
+1118109,Killer Frost Equipment Chest,ItemName1118109,ItemDesc1118109,Equipment for Killer Frost Early Access sale,1,,,,1,,5,19120555,1,1,1,5,5,2,ui_equipbox_0501,,,,,1,
+11114038,Bingo Token 1 - Firestorm,ItemName11114038,ItemDesc11114038,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13118,,0,,,,9806
+11114039,Bingo Token 2 - Firestorm,ItemName11114039,ItemDesc11114039,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13118,,0,,,,9806
+1118110,Firestorm Equipment Chest,ItemName1118110,ItemDesc1118110,Equipment for Firestorm Early Access sale,1,,,,1,,5,1930001016,1,1,1,5,5,2,ui_equipbox_0501,,,,,1,
+1110025,Superman DCU Event - Common tokens,ItemName1110015,ItemDesc1110015,Used in Superman DCU Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110015,,,,,,3600
+1110026,Superman DCU Event - Rare tokens,ItemName1110016,ItemDesc1110016,Used in Superman DCU Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110016,,,,,,3600
+1110023,General Zod Event - Common tokens,ItemName1110023,ItemDesc1110023,General Zod Legendary Event Currency,1,,,,1,,,,,,4,4,4,15,ui_item_1110023,,,,,,3600
+1110024,General Zod Event  - Rare tokens,ItemName1110024,ItemDesc1110024,General Zod Legendary Event Currency,1,,,,1,,,,,,4,4,5,15,ui_item_1110024,,,,,,3600
+1118111,Red Selection Equipment Chest - Attack,ItemName1118111,ItemDesc1118111,Christmas Special Offer,1,,,,1,,5,19232009,2,1,1,5,5,1,ui_equipbox_0501,,0,,,,
+1118112,Blue Selection Equipment Chest - Block,ItemName1118112,ItemDesc1118112,Christmas Special Offer,1,,,,1,,5,19232010,2,1,1,5,5,1,ui_equipbox_0506,,0,,,,
+1118113,Purple Selection Equipment Chest - Speed II,ItemName1118113,ItemDesc1118113,Christmas Special Offer,1,,,,1,,5,19232011,2,1,1,5,5,1,ui_equipbox_0545,,0,,,,
+1118114,Red Selection Equipment Chest - Attack II,ItemName1118114,ItemDesc1118114,Christmas Special Offer,1,,,,1,,5,19232012,2,1,1,5,5,1,ui_equipbox_0541,,0,,,,
+1118115,Yellow Selection Equipment Chest - HP,ItemName1118115,ItemDesc1118115,Christmas Special Offer,1,,,,1,,5,19232013,2,1,1,5,5,1,ui_equipbox_0503,,0,,,,
+11114040,Bingo Token 1 - Punchline,ItemName11114040,ItemDesc11114040,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13217,,0,,,,9806
+11114041,Bingo Token 2 - Punchline,ItemName11114041,ItemDesc11114041,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13217,,0,,,,9806
+1118116,Punchline Equipment Chest,ItemName1118116,ItemDesc1118116,Equipment for Punchline Early Access sale,1,,,,1,,5,19120561,1,1,1,5,5,2,ui_equipbox_0501,,,,,1,
+11114042,Bingo Token 1 - Hugo Strange,ItemName11114042,ItemDesc11114042,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13214,,0,,,,9806
+11114043,Bingo Token 2 - Hugo Strange,ItemName11114043,ItemDesc11114043,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13214,,0,,,,9806
+1118117,Hugo Strange Equipment Chest,ItemName1118117,ItemDesc1118117,Equipment for Hugo Strange Early Access sale,1,,,,1,,5,19120562,1,1,1,5,5,2,ui_equipbox_0503,,,,,1,
+1110027,The Joker Event - Common tokens,ItemName1110027,ItemDesc1110027,Used in The Joker Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110027,,,,,,3600
+1110028,The Joker Event - Rare tokens,ItemName1110028,ItemDesc1110028,Used in The Joker Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110028,,,,,,3600
+1110029,Sinestro Re-Run Event - Common token,ItemName1110003,ItemDesc1110003,Used in Sinestro Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110003,,,,,,3600
+1110030,Sinestro Re-Run Event - Common token,ItemName1110004,ItemDesc1110004,Used in Sinestro Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110004,,,,,,3600
+1123033,Bracelets of Submission Fragment,ItemName1123033,ItemDesc1123033,Bracelets of Submission Fragment. Can be used to rank up the corresponding artifact.,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_244014,,1,,,,3200
+1110031,Nubia Event - Common token,ItemName1110031,ItemDesc1110031,Used in Nubia Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110031,,,,,,3600
+1110032,Nubia Event - Rare token,ItemName1110032,ItemDesc1110032,Used in Nubia Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110032,,,,,,3600
+11114044,Bingo Token 1 - Yara Flor,ItemName11114044,ItemDesc11114044,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13232,,0,,,,9806
+11114045,Bingo Token 2 - Yara Flor,ItemName11114045,ItemDesc11114045,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13232,,0,,,,9806
+1118118,Yara Flor Equipment Chest,ItemName1118118,ItemDesc1118118,Equipment for Yara Flor Early Access sale,1,,,,1,,5,19120566,1,1,1,5,5,2,ui_equipbox_0502,,,,,1,
+1123025,Purple Healing Ray Fragment,ItemName1123025,ItemDesc1123025,Purple Healing Ray Fragment. Can be used to rank up the corresponding artifact.,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244013,,1,,,,3200
+1110033,Black Adam Event - Common token,ItemName1110033,ItemDesc1110033,Used in Black Adam Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110033,,,,,,3600
+1110034,Black Adam Event - Rare token,ItemName1110034,ItemDesc1110034,Used in Black Adam Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110034,,,,,,3600
+11114046,Bingo Token 1 - Artemis,ItemName11114046,ItemDesc11114046,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13233,,0,,,,9806
+11114047,Bingo Token 2 - Artemis,ItemName11114047,ItemDesc11114047,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13233,,0,,,,9806
+1118119,Artemis Equipment Chest,ItemName1118119,ItemDesc1118119,Equipment for Artemis Early Access sale,1,,,,1,,5,19120569,1,1,1,5,5,2,ui_equipbox_0502,,,,,2,
+1113268,Ruthye (DCU) Fragment,ItemName1113268,ItemDesc1113268,Ruthye (DCU) fragments,1,,,,1,,4,13268,,,3,1,5,2,,,,,,,
+111114040,Bingo Token 1 - Punchline Rerun,ItemName11114040,ItemDesc11114040,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13217,,0,,,,9806
+111114041,Bingo Token 2 - Punchline Rerun,ItemName11114041,ItemDesc11114041,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13217,,0,,,,9806
+111114042,Bingo Token 1 - Hugo Strange Rerun,ItemName11114042,ItemDesc11114042,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13214,,0,,,,9806
+111114043,Bingo Token 2 - Hugo Strange Rerun,ItemName11114043,ItemDesc11114043,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13214,,0,,,,9806
+1113266,Supergirl (DCU) Fragment,ItemName1113266,ItemDesc1113266,Supergirl (DCU) fragments,1,,,,1,,4,13266,,,3,1,5,2,,,,,,,
+1110035,Artemis Event - Common token,ItemName1110035,ItemDesc1110035,Used in Artemis Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110035,,,,,,3600
+1110036,Artemis Event - Rare token,ItemName1110036,ItemDesc1110036,Used in Artemis Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110036,,,,,,3600
+1110037,Black Adam Event - Common token,ItemName1110033,ItemDesc1110033,Used in Black Adam Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110033,,,,,,3600
+1110038,Black Adam Event - Rare token,ItemName1110034,ItemDesc1110034,Used in Black Adam Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110034,,,,,,3600
+111114030,Bingo Token 1 - Judomaster Rerun,ItemName11114030,ItemDesc11114030,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13234,,0,,,,9806
+111114031,Bingo Token 2 - Judomaster Rerun,ItemName11114031,ItemDesc11114031,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13234,,0,,,,9806
+111114032,Bingo Token 1 - Vigilante Rerun,ItemName11114032,ItemDesc11114032,Grenade,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13226,,0,,,,9806
+111114033,Bingo Token 2 - Vigilante Rerun,ItemName11114033,ItemDesc11114033,Golden Grenade,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13226,,0,,,,9806
+111114022,Bingo Token 1 - Dr. Phosphorus Rerun,ItemName11114022,ItemDesc11114022,Irradiated Silver Coin,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13219,,0,,,,9806
+111114023,Bingo Token 2 - Dr. Phosphorus Rerun,ItemName11114023,ItemDesc11114023,Irradiated Gold Coin,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13219,,0,,,,9806
+111114024,Bingo Token 1 - Weasel Rerun,ItemName11114024,ItemDesc11114024,Glistening Fang,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon02_13220,,0,,,,9806
+111114025,Bingo Token 2 - Weasel Rerun,ItemName11114025,ItemDesc11114025,Ferocious Fang,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon01_13220,,0,,,,9806
+111114044,Bingo Token 1 - Yara Flor Rerun,ItemName11114044,ItemDesc11114044,,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13232,,0,,,,9806
+111114045,Bingo Token 2 - Yara Flor Rerun,ItemName11114045,ItemDesc11114045,,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13232,,0,,,,9806
+1110039,Artemis Event - Common token,ItemName1110035,ItemDesc1110035,Used in Artemis Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110035,,,,,,3600
+1110040,Artemis Event - Rare token,ItemName1110036,ItemDesc1110036,Used in Artemis Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110036,,,,,,3600
+11114048,Bingo Token 1 - Ruthye,ItemName11114048,ItemDesc11114048,Used in Ruthye Epic Event,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13268,,0,,,,9806
+11114049,Bingo Token 2 - Ruthye,ItemName11114049,ItemDesc11114049,Used in Ruthye Epic Event,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13268,,0,,,,9806
+11114050,Bingo Token 1 - Ruthye Rerun,ItemName11114048,ItemDesc11114048,Used in Ruthye Epic Event,1,,,,1,,,,,,4,4,3,17,ui_Bingo_icon01_13268,,0,,,,9806
+11114051,Bingo Token 2 - Ruthye Rerun,ItemName11114049,ItemDesc11114049,Used in Ruthye Epic Event,1,,,,1,,,,,,4,4,4,18,ui_Bingo_icon02_13268,,0,,,,9806
+1118120,Ruthye Equipment Chest,ItemName1118120,ItemDesc1118120,Equipment for Ruthye Early Access sale,1,,,,1,,5,19120566,1,1,1,5,5,2,ui_equipbox_0502,,,,,1,
+1110041,Lobo Event - Common token,ItemName1110041,ItemDesc1110041,Used in Lobo Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110041,,,,,,3600
+1110042,Lobo Event - Rare token,ItemName1110042,ItemDesc1110042,Used in Lobo Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110042,,,,,,3600
+1123034,Popcorn Butt Fragment,ItemName1123034,ItemDesc1123034,Popcorn Butt Fragment. Can be used to rank up the corresponding artifact.,1,,,,1,,,,,,3,3,5,20,Artifact_Fragment_244015,,1,,,,3200
+1123035,Pocket Watch Fragment,ItemName1123035,ItemDesc1123035,Pocket Watch Fragment. Can be used to rank up the corresponding artifact.,1,,,,1,,,,,,3,3,4,20,Artifact_Fragment_244016,,1,,,,3200
+1120018,Support Encrypted Token,ItemName1120018,ItemDesc1120018,For pulling Support Characters Motherbox,1,,,,1,,,,,,2,1,4,75,ui_item_1120018,,0,,,,470
+1120019,Superhero Token,ItemName1120019,ItemDesc11120019,Advanced draw,1,,,,1,,,,,,2,1,5,75,ui_item_1120019,,0,,,,470
+1113269,Black Lightning Fragment,ItemName1113269,ItemDesc1113269,Black Lightning fragments,1,,,,1,,4,13269,,,3,1,5,2,,,,,,,
+1110043,BlackLightning Event - Common token,ItemName1110043,ItemDesc1110043,Used in BlackLightning Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110043,,,,,,3600
+1110044,BlackLightning Event - Rare token,ItemName1110044,ItemDesc1110044,Used in BlackLightning Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110044,,,,,,3600
+1120049,Space Hog Fragment,ItemName1120049,ItemDesc1120049,Space Hog unlock item.,5,214,1111002,35,1,,,214,,,3,2,5,10,ui_item_30214,,,,,,2300
+1110045,Supergirl DCU Event - Common token,ItemName1110045,ItemDesc1110045,Used in Supergirl DCU Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110045,,,,,,3600
+1110046,Supergirl DCU Event - Rare token,ItemName1110046,ItemDesc1110046,Used in Supergirl DCU Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110046,,,,,,3600
+1113237,Absolute Wonder Woman Fragment,ItemName1113237,ItemDesc1113237,Absolute Wonder Woman fragments,1,,,,1,,4,13237,,,3,1,5,2,,,,,,,
+1113238,Absolute Batman Fragment,ItemName1113238,ItemDesc1113238,Absolute Batman fragments,1,,,,1,,4,13238,,,3,1,5,2,,,,,,,
+1113239,Absolute Superman Fragment,ItemName1113239,ItemDesc1113239,Absolute Superman fragments,1,,,,1,,4,13239,,,3,1,5,2,,,,,,,
+1110047,WhiteLantern Event - Common token,ItemName1110009,ItemDesc1110009,Used in WhiteLantern Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110009,,,,,,3600
+1110048,WhiteLantern Event - Rare token,ItemName1110010,ItemDesc1110010,Used in WhiteLantern Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110010,,,,,,3600
+1110049,Black Lightning Rerun Event - Common token,ItemName1110043,ItemDesc1110043,Used in Black Lightning Rerun Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110043,,,,,,3600
+1110050,Black Lightning Rerun Event - Rare token,ItemName1110044,ItemDesc1110044,Used in Black Lightning Rerun Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110044,,,,,,3600
+1110051,SupergirlDCU Event - Common token,ItemName1110045,ItemDesc1110045,Used in SupergirlDCU Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110045,,,,,,3600
+1110052,SupergirlDCU Event - Rare token,ItemName1110046,ItemDesc1110046,Used in SupergirlDCU Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110046,,,,,,3600
+1110053,Lobo Rerun Event - Common token,ItemName1110041,ItemDesc1110041,Used in Lobo Rerun Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110041,,,,,,3600
+1110054,Lobo Rerun Event - Rare token,ItemName1110042,ItemDesc1110042,Used in Lobo Rerun Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110042,,,,,,3600
+1111009,Collection Events Lex Armor rerun - (Purchase Tokens),ItemName1111001,ItemDesc1111001,Collection Events (Purchase Tokens),1,,,,1,,,,,,4,4,5,15,ui_item_1111001,,0,,,,3600
+1120020,Anniversary Encrypted Token,ItemName1120020,ItemDesc1120020,For pulling Support Characters Motherbox,1,,,,1,,,,,,2,1,4,75,ui_item_1120020,,0,,,,470
+1111010,Anniversary Event Token,ItemName1111010,ItemDesc1111010,Collection Events (Purchase Tokens),1,,,,1,,,,,,4,4,5,15,ui_item_1111010,,0,,,,3600
+1110055,Absolute Wonder Woman Event - Common token,ItemName1110055,ItemDesc1110055,Used in Absolute Wonder Woman Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110055,,,,,,3600
+1110056,Absolute Wonder Woman Event - Rare token,ItemName1110056,ItemDesc1110056,Used in Absolute Wonder Woman Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110056,,,,,,3600
+1110057,Absolute Superman Event - Common token,ItemName1110057,ItemDesc1110057,Used in Absolute Superman Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110057,,,,,,3600
+1110058,Absolute Superman Event - Rare token,ItemName1110058,ItemDesc1110058,Used in Absolute Superman Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110058,,,,,,3600
+1110059,Absolute Batman Event - Common token,ItemName1110059,ItemDesc1110059,Used in Absolute Batman Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110059,,,,,,3600
+1110060,Absolute Batman Event - Rare token,ItemName1110060,ItemDesc1110060,Used in Absolute Batman Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110060,,,,,,3600
+1110061,Booster Gold Event - Common token,ItemName1110061,ItemDesc1110061,Used in Booster Gold Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110061,,,,,,3600
+1110062,Booster Gold Event - Rare token,ItemName1110062,ItemDesc1110062,Used in Booster Gold Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110062,,,,,,3600
+1110063,Black Lightning Event - Common token,ItemName1110043,ItemDesc1110043,Used in Black Lightning Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110043,,,,,,3600
+1110064,Black Lightning Event - Rare token,ItemName1110044,ItemDesc1110044,Used in Black Lightning Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110044,,,,,,3600
+1120052,Reanimated Pegasus Fragment,ItemName1120052,ItemDesc1120052,Reanimated Pegasus unlock item.,5,215,1111002,35,1,,,215,,,3,2,5,10,ui_item_30215,,,,,,2300
+1120021,Fatal Encrypted Token,ItemName1120021,ItemDesc1120021,For pulling Fatal Exception Characters Motherbox,1,,,,1,,,,,,2,1,5,75,ui_item_1120021,,0,,,,470
+1111011,Fatal Exception Milestone Point,ItemName1111011,ItemDesc1111011,Fatal Exception Milestone Point,1,,,,1,,,,,,4,4,5,65,ui_item_1111011,,0,,,,3600
+1110065,Black Adam Event - Common token,ItemName1110033,ItemDesc1110033,Used in Black Adam Legendary Event,1,,,,1,,,,,,4,4,4,15,ui_item_1110033,,,,,,3600
+1110066,Black Adam Event - Rare token,ItemName1110034,ItemDesc1110034,Used in Black Adam Legendary Event,1,,,,1,,,,,,4,4,5,15,ui_item_1110034,,,,,,3600

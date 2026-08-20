@@ -1,0 +1,4 @@
+﻿ID,o,Gacha,GachaRandom,Gacha1Cost,Token,Guaranteed,OpenTime,CloseTime
+Card pool type ID,Note,Special drop S (drop group and key table ID),"Random drop group, weight",Type of item required for a single card draw,Get the setting ID for diamond purchase of lottery ticket corresponding to ArtifactGachaToken,How many rounds of extra guarantee - corresponding to the guaranteed table,Time to Open,Time to Close
+index,,2darray-int,2darray-int,int,int,int,string,string
+11,Summon,1924110|501,1924111|950;1924112|1800;1924113|1085;1924114|1890;1924115|4026,1123100,11,40,,

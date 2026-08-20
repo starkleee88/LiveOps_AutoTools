@@ -1,0 +1,96 @@
+﻿ID,O,SectorUnlockType,UnlockTime,SegmentCount,O,SectorSkills,SectorSkillParams,O,Limiters,O,IsBoss,EnemyGroupID,BattlefieldBoss,Scene,PlayerBattleEnergyRule,EnemyBattleEnergyRule,HiddenBattleEffect,O,VisibleBattleEffect
+"Sector ID (abbccdd, a = challenge, b = difficulty, c = area, d = sector/rotation)",Sector,"Status of sector (1 = Permalocked, 2 = Unlocks after time, 3 = Starts unlocked)","If Unlock Type is 2, time (in seconds) relative to the start of the season/week",Number of segments for players to battle,Skill,Number of segments to unlock and sector skill that it unlocks,Array of sector skills params,Limiter,Sector limiters,Fight,Whether it is a boss battle or not,Enemy group ID,Enemy ID of the boss,Battle scene,Player energy configuration,Enemy energy configuration,Skill ID active for all battles in this sector,Battle Effects,Extra skills for specific sector
+index,O,int,int,int,O,Array2dInt,int,O,int,O,int,int,string,string,int,int,int,,int
+1010101,Diff 1 A1 S1,3,0,8,Tactical Edge,8|7,5000,,,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,,
+1010201,Diff 1 A2 S1 & S2,3,0,8,Tactical Edge,8|7,5000,,,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,,
+1020101,Diff 2 A1 S1,3,0,8,Tactical Attack,8|1,4000,,,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701
+1020102,Diff 2 A1 S2,3,0,8,Precise Strike,8|3,1000 | 25 | 2500,,,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801
+1020103,Diff 2 A1 S3,3,0,8,Tactical Edge,8|7,5000,,,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101
+1020201,Diff 2 A2 S1,3,0,8,Deadly Blow,8|4,1000 | 75 | 2500,,,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901
+1020202,Diff 2 A2 S2,3,0,8,Tactical Attack,8|1,4000,,,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001
+1020203,Diff 2 A2 S3,3,0,8,Tactical Edge,8|7,5000,,,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201
+1020301,Diff 2 A3 S1 (Boss),3,0,8,,,,,,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1030101,Diff 3 A1 S1,3,0,8,Tactical Attack,8|1,15000,Min 2 aoe (min rank 0),5100103,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701
+1030102,Diff 3 A1 S2,3,0,8,Precise Strike,8|3,4500 | 25 | 9000,Min 2 burn (min rank 0),5101103,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801
+1030103,Diff 3 A1 S3,3,0,8,Tactical Edge,8|7,5000,None,,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101
+1030201,Diff 3 A2 S1,3,0,8,Deadly Blow,8|4,4500 | 75 | 9000,Min 2 shield (min rank 0),5100703,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901
+1030202,Diff 3 A2 S2,3,0,8,Tactical Attack,8|1,15000,Min 2 single-target (min rank 0),5100403,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001
+1030203,Diff 3 A2 S3,3,0,8,Tactical Edge,8|7,5000,None,,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201
+1030301,Diff 3 A3 S1 (Boss),3,0,8,,,,None,,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1030302,Diff 3 A3 S1 (Boss),3,0,8,,,,None,,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1030303,Diff 3 A3 S1 (Boss),3,0,8,,,,None,,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1040101,Diff 4 A1 S1 a,3,0,8,Tactical Attack,8|1,30000,Min 2 aoe (min rank 5),5100104,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1040102,Diff 4 A1 S2 a,3,0,8,Tactical Attack,8|1,24000,Min 2 burn (min rank 5),5101104,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1040103,Diff 4 A1 S3 a,3,0,8,Tactical Strike,8|5,5,Min 2 back row (min rank 0),5100304,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1040104,Diff 4 A1 S1 b,3,0,8,Tactical Attack,8|1,30000,Min 2 aoe (min rank 5),5100104,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1040105,Diff 4 A1 S2 b,3,0,8,Tactical Attack,8|1,24000,Min 2 burn (min rank 5),5101104,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1040106,Diff 4 A1 S3 b,3,0,8,Tactical Strike,8|5,5,Min 2 back row (min rank 0),5100304,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1040201,Diff 4 A2 S1 a,3,0,8,Tactical Attack,8|1,24000,Min 2 shield (min rank 5),5100704,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1040202,Diff 4 A2 S2 a,3,0,8,Deadly Blow,8|4,10000 | 75 | 20000,Min 2 single-target (min rank 5),5100404,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1040203,Diff 4 A2 S3 a,3,0,8,Tactical Attack,8|1,30000,Min 2 debuff (min rank 0),5101804,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1040204,Diff 4 A2 S1 b,3,0,8,Tactical Attack,8|1,24000,Min 2 shield (min rank 5),5100704,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1040205,Diff 4 A2 S2 b,3,0,8,Deadly Blow,8|4,10000 | 75 | 20000,Min 2 single-target (min rank 5),5100404,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1040206,Diff 4 A2 S3 b,3,0,8,Tactical Attack,8|1,30000,Min 2 debuff (min rank 0),5101804,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1040301,Diff 4 A3 S1 (Boss) a,3,0,8,,,,No tanks,20100,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1040302,Diff 4 A3 S1 (Boss) b,3,0,8,,,,Min 2 block (min rank 0),5101004,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1040303,Diff 4 A3 S1 (Boss) c,3,0,8,,,,Min 2 sacrifice (min rank 0),5101504,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1050101,Diff 5 A1 S1 a,3,0,8,Precise Strike,8|3,25000 | 25 | 45000,Min 3 aoe (min rank 6),5100105,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1050102,Diff 5 A1 S2 a,3,0,8,Tactical Attack,8|1,56000,Min 3 burn (min rank 6),5101105,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1050103,Diff 5 A1 S3 a,3,0,8,Tactical Strike,8|5,7,Min 3 back row (min rank 5),5100305,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1050104,Diff 5 A1 S1 b,3,0,8,Tactical Attack,8|1,56000,Min 3 aoe (min rank 6),5100105,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1050105,Diff 5 A1 S2 b,3,0,8,Tactical Strike,8|5,7,Min 3 burn (min rank 6),5101105,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1050106,Diff 5 A1 S3 b,3,0,8,Precise Strike,8|3,25000 | 25 | 45000,Min 3 back row (min rank 5),5100305,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1050201,Diff 5 A2 S1 a,3,0,8,Deadly Blow,8|4,25000 | 75 | 45000,Min 3 shield (min rank 6),5100705,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1050202,Diff 5 A2 S2 a,3,0,8,Combo Strikes,8|6,9,Min 3 single-target (min rank 6),5100405,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1050203,Diff 5 A2 S3 a,3,0,8,Tactical Attack,8|1,56000,Min 3 debuff (min rank 5),5101805,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1050204,Diff 5 A2 S1 b,3,0,8,Combo Strikes,8|6,9,Min 3 shield (min rank 6),5100705,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1050205,Diff 5 A2 S2 b,3,0,8,Tactical Attack,8|1,56000,Min 3 single-target (min rank 6),5100405,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1050206,Diff 5 A2 S3 b,3,0,8,Deadly Blow,8|4,25000 | 75 | 45000,Min 3 debuff (min rank 5),5101805,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1050301,Diff 5 A3 S1 (Boss) a,3,0,8,,,,No tanks Min 1 dampen (min rank 5),20100|5103205,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1050302,Diff 5 A3 S1 (Boss) b,3,0,8,,,,Min 2 block (min rank 5),5101005,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1050303,Diff 5 A3 S1 (Boss) c,3,0,8,,,,Min 2 sacrifice (min rank 5),5101505,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1060101,Diff 6 A1 S1 a,3,0,8,Effect Warm-Up,8|2,2,Min 3 aoe (min rank 7),5100106,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1060102,Diff 6 A1 S2 a,3,0,8,Tactical Attack,8|1,120000,Min 3 burn (min rank 7),5101106,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1060103,Diff 6 A1 S3 a,3,0,8,Tactical Strike,8|5,7,Min 3 back row (min rank 7),5100306,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1060104,Diff 6 A1 S1 b,3,0,8,Tactical Attack,8|1,120000,Min 3 aoe (min rank 7),5100106,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1060105,Diff 6 A1 S2 b,3,0,8,Effect Warm-Up,8|2,2,Min 3 burn (min rank 7),5101106,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1060106,Diff 6 A1 S3 b,3,0,8,Tactical Strike,8|5,7,Min 3 back row (min rank 7),5100306,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1060201,Diff 6 A2 S1 a,3,0,8,Tactical Attack,8|1,120000,Min 3 shield (min rank 7),5100706,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1060202,Diff 6 A2 S2 a,3,0,8,Deadly Blow,8|4,50000 | 75 | 100000,Min 3 single-target (min rank 7),5100406,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1060203,Diff 6 A2 S3 a,3,0,8,Effect Warm-Up,8|2,2,Min 3 debuff (min rank 7),5101806,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1060204,Diff 6 A2 S1 b,3,0,8,Deadly Blow,8|4,50000 | 75 | 100000,Min 3 shield (min rank 7),5100706,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1060205,Diff 6 A2 S2 b,3,0,8,Effect Warm-Up,8|2,2,Min 3 single-target (min rank 7),5100406,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1060206,Diff 6 A2 S3 b,3,0,8,Tactical Attack,8|1,120000,Min 3 debuff (min rank 7),5101806,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1060301,Diff 6 A3 S1 (Boss) a,3,0,8,,,,No tanks Min 1 dampen (min rank 6),20100|5103206,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1060302,Diff 6 A3 S1 (Boss) b,3,0,8,,,,Min 2 block (min rank 6),5101006,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1060303,Diff 6 A3 S1 (Boss) c,3,0,8,,,,Min 2 sacrifice (min rank 6),5101506,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1070101,Diff 7 A1 S1 a,3,0,8,Effect Warm-Up,8|2,2,Min 3 aoe (min rank 8),5100108,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1070102,Diff 7 A1 S2 a,3,0,8,Tactical Attack,8|1,360000,Min 3 burn (min rank 8),5101108,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1070103,Diff 7 A1 S3 a,3,0,8,Tactical Strike,8|5,7,Min 3 back row (min rank 8),5100308,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1070104,Diff 7 A1 S1 b,3,0,8,Tactical Attack,8|1,360000,Min 3 aoe (min rank 8),5100108,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1070105,Diff 7 A1 S2 b,3,0,8,Effect Warm-Up,8|2,2,Min 3 burn (min rank 8),5101108,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1070106,Diff 7 A1 S3 b,3,0,8,Tactical Strike,8|5,7,Min 3 back row (min rank 8),5100308,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1070201,Diff 7 A2 S1 a,3,0,8,Tactical Attack,8|1,360000,Min 3 shield (min rank 8),5100708,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1070202,Diff 7 A2 S2 a,3,0,8,Deadly Blow,8|4,150000 | 75 | 300000,Min 3 single-target (min rank 8),5100408,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1070203,Diff 7 A2 S3 a,3,0,8,Effect Warm-Up,8|2,2,Min 3 debuff (min rank 8),5101808,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1070204,Diff 7 A2 S1 b,3,0,8,Deadly Blow,8|4,150000 | 75 | 300000,Min 3 shield (min rank 8),5100708,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1070205,Diff 7 A2 S2 b,3,0,8,Effect Warm-Up,8|2,2,Min 3 single-target (min rank 8),5100408,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1070206,Diff 7 A2 S3 b,3,0,8,Tactical Attack,8|1,360000,Min 3 debuff (min rank 8),5101808,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1070301,Diff 7 A3 S1 (Boss) a,3,0,8,,,,No tanks Min 2 dampen (min rank 8),20100|5103208,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1070302,Diff 7 A3 S1 (Boss) b,3,0,8,,,,Min 2 block (min rank 8),5101008,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1070303,Diff 7 A3 S1 (Boss) c,3,0,8,,,,Min 2 sacrifice (min rank 8),5101508,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1080101,Diff 8 A1 S1 a,3,0,8,Effect Warm-Up,8|2,2,Min 3 aoe (min rank 10),5100110,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1080102,Diff 8 A1 S2 a,3,0,8,Tactical Attack,8|1,1200000,Min 3 burn (min rank 10),5101110,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1080103,Diff 8 A1 S3 a,3,0,8,Tactical Strike,8|5,8,Min 3 back row (min rank 10),5100310,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1080104,Diff 8 A1 S1 b,3,0,8,Tactical Attack,8|1,1200000,Min 3 aoe (min rank 10),5100110,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,aoe,200002701|200003601
+1080105,Diff 8 A1 S2 b,3,0,8,Effect Warm-Up,8|2,2,Min 3 burn (min rank 10),5101110,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,burn,200002801|200003701
+1080106,Diff 8 A1 S3 b,3,0,8,Tactical Strike,8|5,8,Min 3 back row (min rank 10),5100310,Parademon,0,4000201,2121701,Battle_Lab,11,34,213050201,backrow damage,200003101|200003801
+1080201,Diff 8 A2 S1 a,3,0,8,Tactical Attack,8|1,1200000,Min 3 shield (min rank 10),5100710,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1080202,Diff 8 A2 S2 a,3,0,8,Deadly Blow,8|4,500000 | 75 | 1000000,Min 3 single-target (min rank 10),5100410,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1080203,Diff 8 A2 S3 a,3,0,8,Effect Warm-Up,8|2,2,Min 3 debuff (min rank 10),5101810,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1080204,Diff 8 A2 S1 b,3,0,8,Deadly Blow,8|4,500000 | 75 | 1000000,Min 3 shield (min rank 10),5100710,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,shield,200002901|200003901
+1080205,Diff 8 A2 S2 b,3,0,8,Effect Warm-Up,8|2,2,Min 3 single-target (min rank 10),5100410,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,single-target burst,200003001|200004001
+1080206,Diff 8 A2 S3 b,3,0,8,Tactical Attack,8|1,1200000,Min 3 debuff (min rank 10),5101810,DeSaad,0,4000101,2121101,Battle_CentralCity_1,11,6,,debuff,200003201|200004101
+1080301,Diff 8 A3 S1 (Boss) a,3,0,8,,,,No tanks Min 2 dampen (min rank 10),20100|5103210,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1080302,Diff 8 A3 S1 (Boss) b,3,0,8,,,,Min 2 block (min rank 10),5101010,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,
+1080303,Diff 8 A3 S1 (Boss) c,3,0,8,,,,Min 2 sacrifice (min rank 10),5101510,Steppenwolf,1,4000001,2121201,Battle_EvilFall_1,11,6,,,

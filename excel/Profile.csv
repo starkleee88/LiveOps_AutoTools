@@ -1,0 +1,163 @@
+﻿ID,Name,O,Icon,Desc,Type,SubType,Group,Level,UnlockOrLevelup,Cost,ShowLock,Sort,Quality,FuncId
+Avatar Frame ID,Name,Name,Icon,Obtain description,Frame Type,Frame subtype,Upgradable Frame Set,Upgradable frame level,"Upgrade or Unlock
+Avatar frames are automatically unlocked the first time the corresponding flag is obtained. After that the obtained are consumed as upgrades",Consumption for upgrade or unlock,"Whether to display
+0: Show
+1: Hide",Order,Quality,Feature Flag ID
+index,string,O,string,string,int,int,int,int,int,int,int,int,int,int
+201001,ProfileName1,,ui_profile_batman1,ProfileDes1,1,,,,,,0,1,5,
+201002,ProfileNameUnreleased,,ui_profile_guild2,ProfileDesUnreleased,1,,,,,,0,2,5,2001
+201003,ProfileNameUnreleased,,ui_profile_guild1,ProfileDesUnreleased,1,,,,,,0,3,5,2001
+201004,ProfileName4,Pandora,ui_profile_pandora1,CharacterSaying_13187,1,,,,,,1,4,5,
+201005,ProfileName5,Superman,ui_profile_superman1,CharacterSaying_13101,1,,,,,,0,6,5,
+201006,ProfileName6,Doctor Fate,ui_profile_drfate1,CharacterSaying_13108,1,,,,,,1,7,5,
+201007,ProfileName7,Wonder Woman,ui_profile_ww1,CharacterSaying_13103,1,,,,,,0,8,5,
+201008,ProfileName8,Two-Face,ui_profile_twoface1,CharacterSaying_13171,1,,,,,,0,9,5,
+201009,ProfileName9,Cyborg,ui_profile_cyborg1,CharacterSaying_13113,1,,,,,,0,10,5,
+201010,ProfileName10,Batgirl,ui_profile_batgirl1,CharacterSaying_13130,1,,,,,,0,11,5,
+201011,ProfileName11,Catwoman,ui_profile_catwoman1,CharacterSaying_13117,1,,,,,,0,12,5,
+201012,ProfileName12,Green Arrow,ui_profile_greenarrow1,CharacterSaying_13119,1,,,,,,0,13,5,
+201013,ProfileNameUnreleased,2022 Valentine's Day,ui_profile_valentine1,ProfileDesUnreleased,1,,,,,,0,14,5,
+201014,ProfileName14,Killer Frost,ui_profile_frostkiller1,CharacterSaying_13141,1,,,,,,0,15,5,
+201015,ProfileName15,Deathstroke,ui_profile_deathstroke1,CharacterSaying_13151,1,,,,,,0,16,5,
+201016,ProfileName16,Green Lantern - Jessica,ui_profile_jessica1,CharacterSaying_13170,1,,,,,,0,17,5,
+201100,ProfileNameUnreleased,2022 What am I Avatar Frame,ui_profile_riddle101,ProfileDesUnreleased,1,,,,,,0,18,5,9805
+201017,ProfileName17,Sinestro,ui_profile_sinestro1,CharacterSaying_13133,1,,,,,,1,19,5,
+201018,ProfileName18,Raven,ui_profile_raven1,CharacterSaying_13136,1,,,,,,0,20,5,
+201019,ProfileName19,Martian Manhunter,ui_profile_manhunter1,CharacterSaying_13106,1,,,,,,0,21,5,
+201020,ProfileName20,Star Sapphire Carol,ui_profile_carol1,CharacterSaying_13196,1,,,,,,0,22,5,
+201021,ProfileName21,Green Lantern Hal,ui_profile_hal1,CharacterSaying_13152,1,,,,,,0,23,5,
+201022,Character_RecordTitle_13195_1,Green Lantern John,ui_profile_john1,CharacterSaying_13195,1,,,,,,0,24,5,
+201023,ProfileName22,White Lantern Kyle,ui_profile_kyle1,CharacterSaying_13194,1,,,,,,1,25,5,
+201024,Character_RecordTitle_13202_1,Mera,ui_profile_mera1,CharacterSaying_13202,1,,,,,,1,26,5,
+201025,CharacterName_13213,Guy Gardner,ui_profile_13213,CharacterSaying_13213,1,,,,,,0,27,5,
+201026,CharacterName_13216,Mister Terrific,ui_profile_13216,CharacterSaying_13216,1,,,,,,0,28,5,
+201027,CharacterName_13236,Superman DCU,ui_profile_13236,CharacterSaying_13236,1,,,,,,0,29,5,
+201028,ProfileName28,Peacemaker Frame,ui_profile_13227,CharacterSaying_13227,1,,,,,,0,28,5,
+201029,ProfileName29,Vigilante Frame,ui_profile_13226,CharacterSaying_13226,1,,,,,,0,29,5,
+201030,ProfileName30,Judomaster Frame,ui_profile_13234,CharacterSaying_13234,1,,,,,,0,30,5,
+201201,ProfileNameUnreleased,Ult Champion,ui_profile_pvp05,ProfileDesUnreleased,1,,,,,,0,122,5,760
+201202,ProfileNameUnreleased,Ult Champion,ui_profile_pvp04,ProfileDesUnreleased,1,,,,,,0,123,5,760
+201203,ProfileNameUnreleased,Ult Champion,ui_profile_pvp03,ProfileDesUnreleased,1,,,,,,0,124,5,760
+201204,ProfileNameUnreleased,Ult Champion,ui_profile_pvp02,ProfileDesUnreleased,1,,,,,,0,125,5,760
+201205,ProfileNameUnreleased,Ult Champion,ui_profile_pvp01,ProfileDesUnreleased,1,,,,,,0,126,5,760
+201301,ProfileNameUnreleased,Beast Champion,ui_profile_jjc301,ProfileDesUnreleased,1,,,,,,0,127,5,720
+201302,ProfileNameUnreleased,Beast Champion,ui_profile_jjc302,ProfileDesUnreleased,1,,,,,,0,128,5,720
+201303,ProfileNameUnreleased,Beast Champion,ui_profile_jjc303,ProfileDesUnreleased,1,,,,,,0,129,5,720
+201311,ProfileName311,no text,ui_profile_pata311,ProfileDes311,1,,,,,,1,130,5,710
+201312,ProfileName312,no text,ui_profile_pata312,ProfileDes312,1,,,,,,1,131,5,710
+201313,ProfileName313,no text,ui_profile_pata313,ProfileDes313,1,,,,,,1,132,5,710
+201321,ProfileName321,no text,ui_profile_jifen321,ProfileDes321,1,,,,,,1,133,5,
+201322,ProfileName322,no text,ui_profile_jifen322,ProfileDes322,1,,,,,,1,134,5,
+201323,ProfileName323,no text,ui_profile_jifen323,ProfileDes323,1,,,,,,1,135,5,
+201331,ProfileName331,Ultraman Syndicate Supremacy,ui_profile_Evil331,ProfileDes331,1,,,,,,0,136,5,
+201401,ProfileName201,,ui_profile_pvp5,ProfileDes211,2,1,1,1,11201401,1,0,122,5,760
+201402,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,2,11201401,4,1,122,5,760
+201403,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,3,11201401,5,1,122,5,760
+201404,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,4,11201401,5,1,122,5,760
+201405,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,5,11201401,5,1,122,5,760
+201406,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,6,11201401,5,1,122,5,760
+201407,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,7,11201401,8,1,122,5,760
+201408,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,8,11201401,8,1,122,5,760
+201409,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,9,11201401,8,1,122,5,760
+201410,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,10,11201401,8,1,122,5,760
+201411,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,11,11201401,10,1,122,5,760
+201412,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,12,11201401,10,1,122,5,760
+201413,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,13,11201401,10,1,122,5,760
+201414,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,14,11201401,15,1,122,5,760
+201415,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,15,11201401,15,1,122,5,760
+201416,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,16,11201401,25,1,122,5,760
+201417,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,17,11201401,25,1,122,5,760
+201418,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,18,11201401,25,1,122,5,760
+201419,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,19,11201401,25,1,122,5,760
+201420,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,20,11201401,25,1,122,5,760
+201421,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,21,11201401,25,1,122,5,760
+201422,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,22,11201401,25,1,122,5,760
+201423,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,23,11201401,25,1,122,5,760
+201424,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,24,11201401,25,1,122,5,760
+201425,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,25,11201401,25,1,122,5,760
+201426,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,26,11201401,25,1,122,5,760
+201427,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,27,11201401,25,1,122,5,760
+201428,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,28,11201401,25,1,122,5,760
+201429,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,29,11201401,25,1,122,5,760
+201430,ProfileName201,,ui_profile_pvp005,ProfileDes211,2,1,1,30,11201401,25,1,122,5,760
+201501,ProfileName202,,ui_profile_pvp4,ProfileDes212,2,1,2,1,11201501,1,0,123,5,760
+201502,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,2,11201501,4,1,123,5,760
+201503,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,3,11201501,5,1,123,5,760
+201504,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,4,11201501,5,1,123,5,760
+201505,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,5,11201501,5,1,123,5,760
+201506,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,6,11201501,5,1,123,5,760
+201507,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,7,11201501,8,1,123,5,760
+201508,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,8,11201501,8,1,123,5,760
+201509,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,9,11201501,8,1,123,5,760
+201510,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,10,11201501,8,1,123,5,760
+201511,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,11,11201501,10,1,123,5,760
+201512,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,12,11201501,10,1,123,5,760
+201513,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,13,11201501,10,1,123,5,760
+201514,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,14,11201501,15,1,123,5,760
+201515,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,15,11201501,15,1,123,5,760
+201516,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,16,11201501,25,1,123,5,760
+201517,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,17,11201501,25,1,123,5,760
+201518,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,18,11201501,25,1,123,5,760
+201519,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,19,11201501,25,1,123,5,760
+201520,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,20,11201501,25,1,123,5,760
+201521,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,21,11201501,25,1,123,5,760
+201522,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,22,11201501,25,1,123,5,760
+201523,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,23,11201501,25,1,123,5,760
+201524,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,24,11201501,25,1,123,5,760
+201525,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,25,11201501,25,1,123,5,760
+201526,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,26,11201501,25,1,123,5,760
+201527,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,27,11201501,25,1,123,5,760
+201528,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,28,11201501,25,1,123,5,760
+201529,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,29,11201501,25,1,123,5,760
+201530,ProfileName202,,ui_profile_pvp004,ProfileDes212,2,1,2,30,11201501,25,1,123,5,760
+201601,ProfileName203,,ui_profile_pvp3,ProfileDes213,2,1,3,1,11201601,1,0,124,5,760
+201602,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,2,11201601,4,1,124,5,760
+201603,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,3,11201601,5,1,124,5,760
+201604,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,4,11201601,10,1,124,5,760
+201605,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,5,11201601,15,1,124,5,760
+201606,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,6,11201601,15,1,124,5,760
+201607,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,7,11201601,15,1,124,5,760
+201608,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,8,11201601,15,1,124,5,760
+201609,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,9,11201601,15,1,124,5,760
+201610,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,10,11201601,20,1,124,5,760
+201611,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,11,11201601,20,1,124,5,760
+201612,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,12,11201601,20,1,124,5,760
+201613,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,13,11201601,25,1,124,5,760
+201614,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,14,11201601,25,1,124,5,760
+201615,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,15,11201601,25,1,124,5,760
+201616,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,16,11201601,50,1,124,5,760
+201619,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,17,11201601,50,1,124,5,760
+201620,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,18,11201601,50,1,124,5,760
+201621,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,19,11201601,50,1,124,5,760
+201622,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,20,11201601,50,1,124,5,760
+201623,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,21,11201601,50,1,124,5,760
+201624,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,22,11201601,50,1,124,5,760
+201625,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,23,11201601,50,1,124,5,760
+201626,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,24,11201601,50,1,124,5,760
+201627,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,25,11201601,50,1,124,5,760
+201628,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,26,11201601,50,1,124,5,760
+201629,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,27,11201601,50,1,124,5,760
+201630,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,28,11201601,50,1,124,5,760
+201631,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,29,11201601,50,1,124,5,760
+201632,ProfileName203,,ui_profile_pvp003,ProfileDes213,2,1,3,30,11201601,50,1,124,5,760
+201617,ProfileNameSoftLaunch,,ui_profile_motherbox2,ProfileDesSoftLaunch,1,,,,,,0,999,5,
+201618,ProfileWWLPreRegName,,ui_profile_motherbox1,ProfileWWLPreRegDesc,1,,,,,,0,998,5,
+201633,CharacterName_13218,The Bride,ui_profile_bride1,CharacterSaying_13218,1,,,,,,0,31,5,
+201634,ProfileName31,The Flash,ui_profile_13104,CharacterSaying_13104,1,,,,,,0,32,5,
+201635,CharacterName_13118,Firestorm,ui_profile_13118,CharacterSaying_13118,1,,,,,,0,33,5,
+201636,CharacterName_13209,General Zod,ui_profile_zod1,CharacterSaying_13209,1,,,,,,0,34,5,
+201637,CharacterName_13217,Punchline,ui_profile_13217,CharacterSaying_13217,1,,,,,,0,35,5,
+201638,CharacterName_13214,Hugo Strange,ui_profile_13214,CharacterSaying_13214,1,,,,,,0,36,5,
+201639,CharacterName_13132,Joker,ui_profile_joker1,CharacterSaying_13132,1,,,,,,0,37,5,
+201640,CharacterName_13233,Artemis,ui_profile_13233,CharacterSaying_13233,1,,,,,,0,38,5,
+201641,CharacterName_13232,Yara Flor,ui_profile_13232,CharacterSaying_13232,1,,,,,,0,39,5,
+201642,CharacterName_13231,Nubia,ui_profile_13231,CharacterSaying_13231,1,,,,,,0,40,5,
+201643,CharacterName_13134,Black Adam,ui_profile_13134,CharacterSaying_13134,1,,,,,,0,41,5,
+201644,CharacterName_13267,Lobo,ui_profile_13267,CharacterSaying_13267,1,,,,,,0,42,5,
+201645,CharacterName_13268,Ruthye (DCU),ui_profile_13268,CharacterSaying_13268,1,,,,,,0,43,5,
+201646,CharacterName_13266,Supergirl (DCU),ui_profile_13266,CharacterSaying_13266,1,,,,,,0,44,5,
+201647,CharacterName_13269,Black Lightning,ui_profile_13269,CharacterSaying_13269,1,,,,,,0,45,5,
+209990,ProfileName2026Anniversary,,ui_profile_2026anniverary,ProfileDes2026Anniversary,1,,,,,,0,1,5,
+201648,CharacterName_13238,Absolute Batman,ui_profile_13238,CharacterSaying_13238,1,,,,,,0,45,5,
+201649,CharacterName_13239,Absolute Superman,ui_profile_13239,CharacterSaying_13239,1,,,,,,0,46,5,
+

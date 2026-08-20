@@ -1,0 +1,5 @@
+﻿ID,O,GetDays,RewardID
+Sign In Reward Template ID,Note,# of Days to Collect,Reward ID
+index,O,index,int
+300401,Sign In 1,1,19300401
+300402,Sign In 2,1,19300401

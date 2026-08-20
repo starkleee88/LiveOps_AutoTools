@@ -1,0 +1,69 @@
+﻿Id,DramaType,DramaReward,DramaHero,DramaHero,DramaHero,O
+Theater ID,"Theater Type - 
+1: Normal Hero Theater
+2: Special Theater
+3: Event Theater",Theater Reward,Theater Hero,Theater Hero,Theater Hero,Note
+index,int,int,int,int,int,
+1,1,19060004,13102,13117,13130,Random Little Theater 1 (not called online)
+2,1,19060004,13102,13117,13130,Random Little Theater 2 (not called online)
+3,1,19060004,13102,13117,13130,Random Little Theater 3 (not called online)
+4,2,,,,,"Novice guide, multiverse table in the lobby, guide to new function tower climbing (guidegroup27)"
+5,2,,,,,"Novice guide, lobby mother box, welcome Bat Girl after the first card draw (guidegroup6)"
+6,2,,,,,"Exploration copy phase 2, admission"
+7,2,,,,,Explore the second phase of the dungeon and ride across the bridge
+8,2,,,,,"Exploring the 2nd issue of the dungeon, wear night vision goggles"
+9,2,,,,,"Exploration copy issue 1, admission"
+10,2,,,,,Plot copy: Arrow 1
+11,2,,,,,Plot copy: Arrow 2
+12,2,,,,,Plot copy: Arrow 3
+14,2,,,,,Plot copy: Arrow 4
+15,2,,,,,Plot copy: Arrow 5
+16,2,,,,,Plot copy: Arrow 6
+17,2,,,,,Plot copy: Arrow 7
+18,2,,,,,Plot copy: Arrow 8
+19,2,,,,,Plot copy: Arrow 9
+20,2,,,,,Plot copy: Arrow 10
+21,2,,,,,Plot copy: Arrow 11
+22,2,,,,,Plot copy: Arrow 12
+23,2,,,,,Plot copy: Arrow 13
+24,2,,,,,Plot copy: Arrow 14
+25,2,,,,,Plot copy: Arrow 15
+26,2,,,,,Plot copy: Arrow 16
+30,2,,,,,Plot copy: Wonder Woman 1
+31,2,,,,,Plot copy: Wonder Woman 2
+32,2,,,,,Plot copy: Wonder Woman 3
+33,2,,,,,Plot copy: Wonder Woman 4
+34,2,,,,,Plot copy: Wonder Woman 5
+35,2,,,,,Plot copy: Wonder Woman 6
+36,2,,,,,Plot copy: Wonder Woman 7
+37,2,,,,,Plot copy: Wonder Woman 8
+38,2,,,,,Plot copy: Wonder Woman 9
+39,2,,,,,"Exploration dungeon issue 3, admission"
+40,2,,,,,"Exploration dungeon issue 4, admission"
+13,2,,,,,"Exploration dungeon issue 5, admission"
+50,2,,,,,Plot copy: Cyborg 1
+51,2,,,,,Plot copy: Cyborg 2
+52,2,,,,,Plot copy: Cyborg 3
+53,2,,,,,Plot copy: Cyborg 4
+54,2,,,,,Plot copy: Cyborg 5
+55,2,,,,,Plot copy: Cyborg 6
+56,2,,,,,Plot copy: Cyborg 7
+57,2,,,,,Plot copy: Cyborg 8
+58,2,,,,,Plot copy: Cyborg 9
+59,2,,,,,"Novice guide, no one can locate, needs to be repaired"
+60,2,,,,,"Beginner’s guide, Colorado is too cold"
+61,2,,,,,"Novice guide, complaining about why there are still enemies"
+62,2,,,,,"Beginner’s guide, drone recovery"
+101,2,,,,,Forever Evil - Chapter 1 - Scene 0 Small Theater 1
+102,2,,,,,Forever Evil - Chapter 1 - Act 1 Small Theater 1
+103,2,,,,,Forever Evil - Chapter 1 - Act 2 Small Theater 1
+104,2,,,,,Forever Evil - Chapter 1 - Act 2 Small Theater 2
+105,2,,,,,Forever Evil - Chapter 1 - Act 3 Small Theater 1
+106,2,,,,,Forever Evil - Chapter 1 - Act 3 Small Theater 2
+107,2,,,,,Forever Evil - Chapter 1 - Act 4 Small Theater 1
+108,2,,,,,Forever Evil - Chapter 1 - Act 4 Small Theater 2
+109,2,,,,,Forever Evil - Chapter 1 - Act 4 Small Theater 3
+110,2,,,,,Forever Evil - Chapter 1 - Act 5 Small Theater 1
+111,2,,,,,Forever Evil - Chapter 1 - Act 5 Small Theater 2
+112,2,,,,,Forever Evil - Chapter 1 - Act 5 Small Theater 3
+113,2,,,,,Forever Evil - Chapter 1 - Act 6 Small Theater 1

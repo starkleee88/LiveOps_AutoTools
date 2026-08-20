@@ -1,0 +1,13 @@
+﻿ID,NameLocKey,InfoLocKey,SpriteName
+ID,Name,Description,Sprite Name
+int,string,string,string
+1,,UnityLegalNotice,ui_icon_logo_unity
+2,,MonotypeLegalNotice,ui_icon_logo_monotype
+3,,WwiseLegalNotice,ui_icon_logo_wwise
+4,KtorLabel,KtorLegalNotice,
+5,ToLuaLabel,ToLuaLegalNotice,
+6,KVaultLabel,KVaultLegalNotice,
+7,UnityNativeShareLabel,UnityNativeShareLegalNotice,
+8,ApacheLabel,ApacheLegalNotice,
+9,SomatoneLabel,SomatoneLegalNotice,
+10,GailSimoneLabel,GailSimoneLegalNotice,

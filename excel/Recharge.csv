@@ -1,0 +1,20 @@
+﻿ID,ShopId,O,Open,GainItem,GeneralGain,ExtraGain,FirstTimeGift,FirstTimeGiftDesc,GeneralGiftDesc,PayID,PayNum,SkuId
+ID,Store ID,Explanation,"Recharge Switch
+0 Never On
+1 Official Server Configuration
+2 Review Server Submission Only",Obtain Item,Regular Acquisition Quantity,Additional Acquisition Quantity,First-Time Double?,First-Time Gift Description Copy,Regular Gift Description Copy,Quota Identifier (Deprecated),Actual Tier,SKU ID from RechargeSKU.csv
+index,int,O,int,int,int,int,int,string,string,int,int,string
+1002,9601,4.99,1,111202,300,28,1,Recharge_First,Recharge_Extra,100499,100499,diamond5
+1003,9601,9.99,1,111202,680,58,1,Recharge_First,Recharge_Extra,100999,100999,diamond10
+1004,9601,19.99,1,111202,1280,198,1,Recharge_First,Recharge_Extra,101999,101999,diamond20
+1005,9601,49.99,1,111202,3280,548,1,Recharge_First,Recharge_Extra,104999,104999,diamond50
+1006,9601,99.99,1,111202,6480,1288,1,Recharge_First,Recharge_Extra,109999,109999,diamond100
+1007,9601,1.99,2,111202,120,8,0,,,100199,100199,diamondcombo2
+1008,9601,2.99,2,111202,180,16,0,,,100299,100299,diamondcombo3
+1009,9601,14.99,2,111202,980,128,0,,,101499,101499,diamondcombo15
+1010,9601,24.99,2,111202,1680,268,0,,,102499,102499,diamondcombo25
+1011,9601,29.99,2,111202,1980,318,0,,,102999,102999,diamondcombo30
+1014,9601,34.99,2,111202,2280,388,0,,,119999,103499,diamondcombo35
+1015,9601,39.99,2,111202,2680,458,0,,,119999,103999,diamondcombo40
+1012,9601,44.99,2,111202,2980,528,0,,,103999,104499,diamondcombo45
+1013,9601,199.99,2,111202,12960,2688,0,,,119999,119999,diamondcombo200

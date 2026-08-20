@@ -1,0 +1,10 @@
+﻿Key,SequenceNum,O,Reward
+Ranking Number,"Target Ranking -
+ ≥ this value",Note,Ranking Rewards
+index,int,,int
+1,3,Top 3,19149050
+2,10,Top 10,19149051
+3,30,Top 30,19149052
+4,50,Top 50,19149053
+5,70,Top 70,19149054
+6,100,Top 100,19149055

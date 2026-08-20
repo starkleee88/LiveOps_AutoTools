@@ -1,0 +1,29 @@
+﻿PricePoint,GetCash,Point,ShowPrice,BackDiamond,RecPackMatchID
+"Price Point ID, 
+6 digits. 1 followed by the price point value in cents, including 0s to match digits","""Value"" of purchase in points, 100 points = 1 USD | Points Earned
+Nico - Sun Qian:
+100 points = 1 USD","Literally ""Get Recharge Points"" | Earn Recharge Points","""Purchase price display in cents. Fallback only, typically this is fetched from SDK | Purchase Price (Cents) - Display
+Bai Dongchen:
+Normally fetched directly from SDK. Displayed when it fails.""","Number of Reissued Diamonds, in cases where the purchase can't be granted | Number of Reissued Diamonds",Payment amount value for Recommended Gift Packs | Payment Amount Value - For Recommended Gift Packs
+int,int,int,int,int,int
+100099,99,100,99,60,1
+100199,199,200,199,128,2
+100299,299,300,299,196,3
+100399,399,400,399,262,4
+100499,499,500,499,328,4
+100799,799,800,799,588,5
+100999,999,1000,999,738,5
+101499,1499,1500,1499,1108,6
+101999,1999,2000,1999,1478,7
+102499,2499,2500,2499,1948,8
+102999,2999,3000,2999,2298,9
+103499,3499,3500,3499,2668,9
+103999,3999,4000,3999,3138,10
+104499,4499,4500,4499,3508,10
+104999,4999,5000,4999,3828,11
+105999,5999,6000,5999,4698,12
+106999,6999,7000,6999,5498,13
+107999,7999,8000,7999,6298,14
+108999,8999,9000,8999,7098,15
+109999,9999,10000,9999,7768,16
+119999,19999,20000,19999,15648,17

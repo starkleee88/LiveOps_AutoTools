@@ -1,0 +1,148 @@
+﻿AllyID,O,EnemyName,EnemyTips
+AllyID,Name,Character name and title,Enemy tip description
+index,,string,string
+13101,Superman,CharacterName_13101,CharacterTips_13101
+13102,Batman,CharacterName_13102,CharacterTips_13102
+13103,Wonder Woman,CharacterName_13103,CharacterTips_13103
+13104,The Flash,CharacterName_13104,CharacterTips_13104
+13106,Martian Manhunter,CharacterName_13106,CharacterTips_13106
+13108,Doctor Fate,CharacterName_13108,CharacterTips_13108
+13109,Nightwing,CharacterName_13109,CharacterTips_13109
+13110,Superboy,CharacterName_13110,CharacterTips_13110
+13111,Kid Flash,CharacterName_13111,CharacterTips_13111
+13112,Red Robin,CharacterName_13112,CharacterTips_13112
+13113,Cyborg,CharacterName_13113,CharacterTips_13113
+13114,Constantine,CharacterName_13114,CharacterTips_13114
+13115,Red Hood,CharacterName_13115,CharacterTips_13115
+13117,Catwoman,CharacterName_13117,CharacterTips_13117
+13118,Firestorm,CharacterName_13118,CharacterTips_13118
+13119,Green Arrow,CharacterName_13119,CharacterTips_13119
+13120,Robin,CharacterName_13120,CharacterTips_13120
+13121,Zatanna,CharacterName_13121,CharacterTips_13121
+13122,Starfire,CharacterName_13122,CharacterTips_13122
+13126,Black Canary,CharacterName_13126,CharacterTips_13126
+13127,Cheetah,CharacterName_13127,CharacterTips_13127
+13128,Huntress,CharacterName_13128,CharacterTips_13128
+13129,King Shark,CharacterName_13129,CharacterTips_13129
+13130,Batgirl,CharacterName_13130,CharacterTips_13130
+13131,Lex Luthor,CharacterName_13131,CharacterTips_13131
+13133,Sinestro,CharacterName_13133,CharacterTips_13133
+13135,Bizarro,CharacterName_13135,CharacterTips_13135
+13136,Raven,CharacterName_13136,CharacterTips_13136
+13137,Captain Cold,CharacterName_13137,CharacterTips_13137
+13138,Poison Ivy,CharacterName_13138,CharacterTips_13138
+13139,Bane,CharacterName_13139,CharacterTips_13139
+13140,Gorilla Grodd,CharacterName_13140,CharacterTips_13140
+13141,Killer Frost,CharacterName_13141,CharacterTips_13141
+13142,Harley Quinn,CharacterName_13142,CharacterTips_13142
+13143,Black Manta,CharacterName_13143,CharacterTips_13143
+13144,Captain Boomerang,CharacterName_13144,CharacterTips_13144
+13145,Scarecrow,CharacterName_13145,CharacterTips_13145
+13147,Mirror Master,CharacterName_13147,CharacterTips_13147
+13148,Penguin,CharacterName_13148,CharacterTips_13148
+13150,Deadshot,CharacterName_13150,CharacterTips_13150
+13151,Deathstroke,CharacterName_13151,CharacterTips_13151
+13152,Green Lantern - Hal Jordan,CharacterName_13152,CharacterTips_13152
+13153,Mr. Freeze,CharacterName_13153,CharacterTips_13153
+13169,Killer Croc,CharacterName_13169,CharacterTips_13169
+13170,Green Lantern - Jessica Cruz,CharacterName_13170,CharacterTips_13170
+13171,Two-Face,CharacterName_13171,CharacterTips_13171
+13173,Clayface,CharacterName_13173,CharacterTips_13173
+13184,Frankenstein,CharacterName_13184,CharacterTips_13184
+13185,Phantom Stranger,CharacterName_13185,CharacterTips_13185
+13186,The Question,CharacterName_13186,CharacterTips_13186
+13187,Pandora,CharacterName_13187,CharacterTips_13187
+13194,White Lantern - Kyle Rayner,CharacterName_13194,CharacterTips_13194
+13195,Green Lantern - John Stewart,CharacterName_13195,CharacterTips_13195
+13196,Star Sapphire - Carol Ferris,CharacterName_13196,CharacterTips_13196
+19117,Crisis Watch 1 - Catwoman,CharacterName_19117,CharacterTips_19117
+19138,Crisis Watch 1 - Poison Ivy,CharacterName_19138,CharacterTips_19138
+19142,Crisis Watch 1 - Harley Quinn,CharacterName_19142,CharacterTips_19142
+19229,Crisis Watch 2 - King Shark,CharacterName_19229,CharacterTips_19229
+19242,Crisis Watch 2 - Harley Quinn,CharacterName_19242,CharacterTips_19242
+19244,Crisis Watch 2 - Captain Boomerang,CharacterName_19244,CharacterTips_19244
+19250,Crisis Watch 2 - Deadshot,CharacterName_19250,CharacterTips_19250
+19269,Crisis Watch 2 - Killer Croc,CharacterName_19269,CharacterTips_19269
+19327,Crisis Watch 3 - Cheetah,CharacterName_19327,CharacterTips_19327
+19335,Crisis Watch 3 - Bizarro,CharacterName_19335,CharacterTips_19335
+19339,Crisis Watch 3 - Bane,CharacterName_19339,CharacterTips_19339
+19345,Crisis Watch 3 - Scarecrow,CharacterName_19345,CharacterTips_19345
+19348,Crisis Watch 3 - Penguin,CharacterName_19348,CharacterTips_19348
+19431,Crisis Watch 4 - Lex Luthor,CharacterName_19431,CharacterTips_19431
+19435,Crisis Watch 4 - Bizarro,CharacterName_19435,CharacterTips_19435
+19437,Crisis Watch 4 - Captain Cold,CharacterName_19437,CharacterTips_19437
+19441,Crisis Watch 4 - Killer Frost,CharacterName_19441,CharacterTips_19441
+19453,Crisis Watch 4 - Mr. Freeze,CharacterName_19453,CharacterTips_19453
+19514,Crisis Watch 5 - Constantine,CharacterName_19514,CharacterTips_19514
+19521,Crisis Watch 5 - Zatanna,CharacterName_19521,CharacterTips_19521
+19587,Crisis Watch 5 - Pandora,CharacterName_19587,CharacterTips_19587
+20001,Urban Rogue - Tank,CharacterName_20001,CharacterTips_20001
+20002,Urban Rogue - Support,CharacterName_20002,CharacterTips_20002
+20003,Urban Rogue - DPS Melee,CharacterName_20003,CharacterTips_20003
+20004,Urban Rogue - DPS Ranged,CharacterName_20004,CharacterTips_20004
+20101,Amazonian - Tank,CharacterName_20101,CharacterTips_20101
+20102,Amazonian - Support,CharacterName_20102,CharacterTips_20102
+20103,Amazonian - DPS Melee,CharacterName_20103,CharacterTips_20103
+20104,Amazonian - DPS Ranged,CharacterName_20104,CharacterTips_20104
+20301,Mercenary - Tank,CharacterName_20301,CharacterTips_20301
+20302,Mercenary - Support,CharacterName_20302,CharacterTips_20302
+20303,Mercenary - DPS Melee,CharacterName_20303,CharacterTips_20303
+20304,Mercenary - DPS Ranged,CharacterName_20304,CharacterTips_20304
+20401,Mechanical Guard - Tank,CharacterName_20401,CharacterTips_20401
+20402,Mechanical Guard - Support,CharacterName_20402,CharacterTips_20402
+20403,Mechanical Guard - DPS Melee,CharacterName_20403,CharacterTips_20403
+20404,Mechanical Guard - DPS Ranged,CharacterName_20404,CharacterTips_20404
+20701,Prisoner - Tank,CharacterName_20701,CharacterTips_20701
+20702,Prisoner - Support,CharacterName_20702,CharacterTips_20702
+20703,Prisoner - DPS Melee,CharacterName_20703,CharacterTips_20703
+20704,Prisoner - DPS Ranged,CharacterName_20704,CharacterTips_20704
+20801,Desert Mercenary - Tank,CharacterName_20801,CharacterTips_20801
+20802,Desert Mercenary - Support,CharacterName_20802,CharacterTips_20802
+20803,Desert Mercenary - DPS Melee,CharacterName_20803,CharacterTips_20803
+20804,Desert Mercenary - DPS Ranged,CharacterName_20804,CharacterTips_20804
+21001,Trencher - Tank,CharacterName_21001,CharacterTips_21001
+21002,Trencher - Support,CharacterName_21002,CharacterTips_21002
+21003,Trencher - DPS Melee,CharacterName_21003,CharacterTips_21003
+21004,Trencher - DPS Ranged,CharacterName_21004,CharacterTips_21004
+21201,Superwoman,CharacterName_21201,CharacterTips_21201
+21202,Johnny Quick,CharacterName_21202,CharacterTips_21202
+21203,Ultraman,CharacterName_21203,CharacterTips_21203
+21205,Deathstorm,CharacterName_21205,CharacterTips_21205
+21206,Power Ring,CharacterName_21206,CharacterTips_21206
+21207,Owlman,CharacterName_21207,CharacterTips_21207
+131390,Exploration Bane,CharacterName_13139,CharacterTips_131390
+30101,Batcycle,Collection_Name_101,Collection_Tips_101
+30102,Mirror of Shadows,Collection_Name_102,Collection_Tips_102
+30103,Tawky Tawny,Collection_Name_103,Collection_Tips_103
+30104,Throne of Kahndaq,Collection_Name_104,Collection_Tips_104
+30201,Batmobile,Collection_Name_201,Collection_Tips_201
+30202,Invisible Plane,Collection_Name_202,Collection_Tips_202
+30203,Parallax,Collection_Name_203,Collection_Tips_203
+30204,Lex Armor,Collection_Name_204,Collection_Tips_204
+13206,Supergirl,CharacterName_13206,CharacterTips_13206
+13207,Vixen,CharacterName_13207,CharacterTips_13207
+13149,Ocean Master,CharacterName_13149,CharacterTips_13149
+13201,Blue Beetle,CharacterName_13201,CharacterTips_13201
+13208,Bloodsport,CharacterName_13208,CharacterTips_13208
+13202,Mera,CharacterName_13202,CharacterTips_13202
+13218,The Bride,CharacterName_13218,CharacterTips_13218
+13219,Dr Phosphorous,CharacterName_13219,CharacterTips_13219
+13220,Weasel,CharacterName_13220,CharacterTips_13220
+13227,Peacemaker,CharacterName_13227,CharacterTips_13227
+13226,Vigilante,CharacterName_13226,CharacterTips_13226
+13234,Judomaster,CharacterName_13234,CharacterTips_13234
+13105,Aquaman,CharacterName_13105,CharacterTips_13105
+13213,Guy Gardner,CharacterName_13213,CharacterTips_13213
+13216,Mister Terrific,CharacterName_13216,CharacterTips_13216
+13236,Superman (DCU),CharacterName_13236,CharacterTips_13236
+13211,Doctor Poison,CharacterName_13211,CharacterTips_13211
+13132,Joker,CharacterName_13132,CharacterTips_13132
+13217,Punchline,CharacterName_13217,CharacterTips_13217
+13214,Hugo Strange,CharacterName_13214,CharacterTips_13214
+13209,Zod,CharacterName_13209,CharacterTips_13209
+13232,Yara Flor,CharacterName_13232,CharacterTips_13232
+13231,Nubia,CharacterName_13231,CharacterTips_13231
+13233,Artemis,CharacterName_13233,CharacterTips_13233
+13134,Black Adam,CharacterName_13134,CharacterTips_13134
+13210,Cheshire,CharacterName_13210,CharacterTips_13210
+13212,Swamp Thing,CharacterName_13212,CharacterTips_13212

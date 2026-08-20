@@ -1,0 +1,7 @@
+﻿Key,Value,note
+Name,Numeric value,Note
+string,array-string,string
+DisplayThresholds,815|1615,Campaign progress that triggers showing the incentive popup
+DisplayOnIAP,1,Flag to indicate that if the player makes an IAP purchase that we should display this popup if a webstore purchase has not been made
+WebstoreDirectLink,https://news.dcworldscollidegame.com/latest-news/get-rubies-upgrade-characters-gear/?source=in-game-webstore/,The link to use for directly going to the webstore in the promo safely
+WebstoreDirectLinkAggressive,https://store.dcworldscollidegame.com/,The link to use when aggressively telling player the value of webstore

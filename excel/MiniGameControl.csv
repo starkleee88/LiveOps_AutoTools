@@ -1,0 +1,8 @@
+﻿FuncId,ScoreLimit,Name,O,Desc,LeaderboardId,DialogId,Model,ModelPosX,ModelRotateY,ModelScale,LightPosX,AntiSpamValue1,AntiSpamValue2,RuleDescId,AdsTips
+Minigame Function ID,Score Limit (0 = no limit),Name,Notes,Minigame Rules,Leaderboard ID,Initial Dialog ID,Display Model,Model X Coordinates (100x game's X),Model Rotation,Model Scaling (100x game's scale),Background light effect offset,Anticheat Parameter 1,Anticheat Parameter 2,Activity description ID,Minigame Tips
+index,int,string,O,array-string,int,int,int,int,int,int,int,int,int,int,String
+3102,500,MiniGameGuess_Name,蝙蝠侠小游戏,MiniGameGuess_Rule1|MiniGameGuess_Rule2|MiniGameGuess_Rule3|MiniGameGuess_Rule4,201,51001,13102,-700,0,100,0,0,0,232,ActivityMiniGame_AdsTips
+3103,0,MiniGameShoot_Name,绿箭侠小游戏,MiniGameShoot_Rule1|MiniGameShoot_Rule2|MiniGameShoot_Rule3|MiniGameShoot_Rule4,202,51002,13119,-700,0,100,0,300,2,233,ActivityMiniGame_AdsTips
+3104,0,MiniGameWeapon_Name,丧钟小游戏,MiniGameWeapon_Rule1|MiniGameWeapon_Rule2|MiniGameWeapon_Rule3|MiniGameWeapon_Rule4,203,51003,13151,-700,0,100,0,2500,30,234,ActivityMiniGame_AdsTips
+3105,0,MiniGameSector_Name,塞尼斯托小游戏,MiniGameSector_Rule1|MiniGameSector_Rule2|MiniGameSector_Rule3|MiniGameSector_Rule4|MiniGameSector_Rule5|MiniGameSector_Rule6,204,51004,13133,-700,0,100,0,6,0,235,ActivityMiniGame_AdsTips
+3106,0,MiniGameMind_Name,火星猎人小游戏,MiniGameMind_Rule1|MiniGameMind_Rule2|MiniGameMind_Rule3|MiniGameMind_Rule4,205,51005,13106,-700,0,100,0,2000,20,236,ActivityMiniGame_AdsTips

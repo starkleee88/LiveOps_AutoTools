@@ -1,0 +1,171 @@
+﻿Id,FuncId,Name,O,ServerOpen,AdvanceStyle,AdvanceParam,OpenStyle,OpenParam,O,ParentId,isFuncWindow,ShowIcon,FuncDesc,FilterUnderage,LockOnGroupChange
+Id num,Function id,Name,Note,"Server startup conditions
+Tang Yuliang:
+0 Enabled by default
+1 Read openstyle and openparam","Preview conditions
+Tang Yuliang:
+1 Enabled by default
+2 Adventure progress
+3 Lobby level
+4 Player level
+5 VIP level","Parameters appear in the preview
+Tang Yuliang:
+It means after clearing this level","Open condition:
+1 DefaultOpen
+2 Adventure
+3 CenterLevel
+4 UserLevel
+5 VipLevel
+6 Disabled (new)
+7 Month card pro (6 in HJ)
+",Open parameters (after clearing this level),"Before opening, the function is displayed
+1. The function is hidden
+2. The function is grayed out",Parent function id,Whether the parent function ID displays the function opening pop-up window,Pop up the corresponding icon,Functional Description,Filter Underage,Lock On Group Change
+index,int,string,O,int,int,int,int,int,O,int,int,string,string,int,int
+1,100,Func_gerenxinxi,Personal Information,0,1,,1,,1,,,,,,
+2,101,Func_gonggao,Announcement,0,1,,2,102,1,,,,,,
+3,200,Func_liaotian,Chat,0,1,,2,106,2,400,,,,1,
+4,300,Func_huobi,Currency Area,0,1,,1,,1,,,,,,
+5,400,Func_shousuotiao,Right side auxiliary function,0,1,,1,,1,,,,,,
+6,410,Func_renwu,Mission(BP),0,1,,2,203,1,,,ui_function_icon_renwu,,,
+7,411,Func_richangrenwu,Daily Tasks,0,1,,1,,1,410,,,,,
+8,412,Func_zhouchangrenwu,Weekly Tasks,0,1,,1,,1,410,,,,,
+9,413,Func_zhuxianrenwu,Main Quest,0,1,,1,,1,410,,,,,
+10,420,Func_beibao,Backpack,0,1,,1,,1,400,,,,,
+11,430,Func_youjian,Mail,0,1,,1,,1,400,,,,,
+12,440,Func_haoyou,Friends,0,1,,2,106,2,400,,,,1,
+13,450,Func_Shop,Shop,0,1,,1,,1,400,,,,,
+14,460,Func_daohang,Navigation bar in the lower right corner,0,1,,1,,1,,,,,,
+15,461,Func_yingxiong,Ally,0,1,,1,,1,,,,,,
+16,4611,Func_AllyQualityUp,Rank Up,0,2,,2,2130,1,,,,,,
+17,462,Func_zhuxian,Main line push picture,0,1,,1,,1,,,,,,
+18,463,Func_shiyanshi,Laboratory,0,1,,1,,1,,,,,,
+19,464,Func_shiyanshibaoxiang,Lab Chest,0,1,,2,103,1,460,,,,,
+20,465,Func_LobbyBuildTips,Laboratory upgrade tips,0,1,,2,,1,,,,,,
+21,470,Func_chouka,Gacha,0,1,,1,,1,,,,,,
+22,500,Func_zhuangbei,Equipment,1,1,,1,,2,,,,,,
+23,700,Func_duoyuanyuzhou,Multiverse,1,1,,1,,2,,,,,,
+24,710,Func_pata,Convergence,,2,306,2,403,2,700,1,ui_function_icon_pata,Func_pata_desc,,
+25,730,Func_EvilFall,Evil Falls,,1,,2,306,2,700,1,ui_function_icon_EvilFall,Func_EvilFall_desc,,
+26,800,Func_danganguan,Archives,1,2,403,2,403,2,,,ui_function_icon_danganguan,,,
+27,900,Func_datingxiaceng,Star Lab,0,1,,1,,2,,,,,,
+28,1000,Func_maoxiandiqiu,Adventure,0,1,,1,,2,,,,,,
+29,1100,Func_zidongzhandou,Auto battle,0,1,,2,102,1,,,,,,
+30,1101,Func_pause,Pause,0,1,,2,103,1,,,,,,
+31,1102,Func_battledata,Settlement data,0,1,,2,101,1,,,,,,
+32,1103,Func_setzidong,Auto battle settings,0,1,,2,105,1,1100,,,,,
+33,1200,Func_liangbeisu,2x speed,0,1,,2,106,1,,,,,,
+34,1201,Func_sanbeisu,3x speed,0,1,,2,308,1,1200,,,,,
+35,1300,Func_xinpian,Chip,0,1,,2,9901,2,,1,ui_function_icon_xinpian,Func_xinpian_desc,,
+36,1400,Func_gongmingshuijing,Reserve League,0,2,312,2,406,2,,1,ui_function_icon_gongmingshuijing,Func_gongmingshuijing_desc,,
+37,1500,Func_elseworld,Elseworld,1,2,503,2,509,2,,1,ui_function_icon_elseworld,Func_elseworld_desc,,
+38,1600,Func_Checkin,Sign in seven days,0,1,,2,106,1,,,,,1,
+39,1104,Func_resultjump,Victory settlement skipped,0,1,,1,,1,,,,,,
+40,720,Func_warworld,Warworld,0,2,403,2,503,2,700,1,ui_function_icon_jingjichang,Func_warworld_desc,1,1
+41,750,Func_InfArena,Unrestricted Arena,0,2,403,2,1115,2,700,1,ui_function_icon_jingjichang,Func_warworld_desc,1,1
+42,1800,Func_CityExplore,Explore the copy,0,1,,2,530,1,,1,ui_function_icon_chengshijiuyuan,Func_CityExplore_desc,,
+43,1900,Func_Report,Report function,1,1,,6,201,2,,,,,,
+44,2000,Func_community,Share Button || Community jump entrance,0,1,,2,101,1,,,,,1,
+45,721,Func_warworldskip,Warworld skip battle,0,1,,2,509,1,720,,,,,
+46,2500,Func_StoryMode,Forever Evil Story || Story copy,0,2,415,6,603,1,,1,ui_function_icon_shouchong,Func_StoryMode_desc,,
+47,1801,Func_CityExplore02,Explore-Gotham PD,0,1,,1,,1,,,ui_function_icon_chengshijiuyuan,Func_CityExplore02_desc,,
+48,2100,Func_Album,Picture album system entrance,0,2,312,2,409,1,,,,,,
+49,3000,Func_TaskNewPlayer,Novice target mission system,0,1,,2,303,1,,,ui_function_icon_TaskNewPlayer,Func_TaskNewPlayer_desc,,
+50,2200,Func_Trial,Trial copy,0,2,603,2,703,2,,1,ui_function_icon_Trial,Func_Trial_desc,,
+51,2001,Func_Guild,Guild system,0,2,312,2,409,2,,1,ui_function_icon_Guild,Func_Guild_desc,1,
+52,2300,Func_Collection,Collection,0,2,409,2,415,1,,1,ui_function_icon_Collection,Func_Collection_desc,,
+53,9998,Func_ActivityAlly,Hero activity function,0,1,,2,530,1,,,,,,
+54,9999,Func_FirstRecharge,First IAP (Green Arrow),0,1,,2,203,1,,,,,1,
+55,9000,Func_fufeishangcheng,IAP Store || Pay Store (also Func_PayStore),0,1,,2,203,1,,,,,1,
+56,9700,Func_tuijianlibao,Recommended gift pack,0,1,,2,203,1,,,,,,
+57,9800,Func_Activity,Activity center,0,1,,2,106,1,,,,,,
+58,9801,Func_Banner,Lobby carousel,0,1,,2,203,1,,,,,,
+59,9802,Func_PopUp,Face photo,0,1,,2,203,1,,,,,,
+60,7000,Func_DigitalUniverse,Digital Universe,0,2,206,2,415,2,,1,ui_function_icon_digital,Func_DigitalUniverse_desc,,
+61,7001,Func_DigitalUniverse01,Digital Universe_Level 1,0,1,,2,415,2,7000,,ui_function_icon_digital,Func_DigitalUniverse_desc,,
+62,7002,Func_DigitalUniverse02,Digital Universe_Level 2,0,1,,2,415,2,7000,,ui_function_icon_digital,Func_DigitalUniverse_desc,,
+63,7003,Func_DigitalUniverse03,Digital Universe_Level 3,0,1,,2,615,2,7000,,ui_function_icon_digital,Func_DigitalUniverse_desc,,
+64,7004,Func_DigitalUniverse04,Digital Universe_Level 4,0,1,,2,815,2,7000,,ui_function_icon_digital,Func_DigitalUniverse_desc,,
+65,7005,Func_DigitalUniverse05,Digital Universe_Level 5,0,1,,2,1015,2,7000,,ui_function_icon_digital,Func_DigitalUniverse_desc,,
+66,7006,Func_DigitalUniverse06,Digital Universe_Level 6,0,1,,2,1215,2,7000,,ui_function_icon_digital,Func_DigitalUniverse_desc,,
+67,4000,Func_Profile,Avatar frame,0,1,,2,106,2,,,,,,
+68,2600,Func_Trouble,Troubleshooting,0,1,,2,930,1,,1,ui_function_icon_Trouble,Func_Trouble_desc,,
+69,2900,Func_Leaderboard,Ranking list,0,2,409,2,421,1,,,,,1,1
+70,2700,Func_OnlineReward,Online rewards,0,1,,2,106,1,,,,,1,
+71,501,Func_Realequipexchange,Equipment exchange,0,1,,2,106,1,,,,,,
+72,740,Func_CrisisWatch,Crisis Watch,0,2,509,2,1230,2,700,1,ui_function_icon_weixing,Func_CrisisWatch_desc,,1
+73,3100,Func_Basement,Allies Lounge,0,2,106,2,206,2,,,,,,
+74,3101,Func_Dispatch,Team dispatch,0,1,,2,206,0,,,,,,
+75,3102,MiniGameGuess_Name,Identification,0,1,,0,0,0,,,,,,1
+76,3103,MiniGameShoot_Name,Archery training,0,1,,0,0,0,,,,,,1
+77,466,Func_Newcomer_Open,New Player Recommendations-Open,1,1,,6,312,1,,,,,,
+78,467,Func_Newcomer_Close,New Player Recommendations-Close,1,1,,6,1030,3,,,,,,
+79,2800,Func_Badge,Badge system,0,1,,2,1230,2,,,,,,
+80,502,Func_RealEquipRecycle,Equipment exchange,0,1,,2,1730,1,,,,,,
+81,503,Func_RealEquipRedPoint,One-click change of red dots,0,1,,2,530,1,,,,,,
+82,471,Func_GachaJump,Gacha Skip,0,1,,2,203,1,470,,,,,
+83,3104,MiniGameWeapon_Name,Weapon Training,0,0,0,0,,,,,,,,1
+84,3105,MiniGameSector_Name,Sector Conquest,0,1,,0,0,,,,,,,1
+85,2501,Func_MainStory,Forever Evil,0,1,,2,312,1,,,,,,
+86,801,MonthCard_TryOut,Monthly card trial,0,1,,2,203,,,,,,,
+87,9803,Func_NoviceTask,New server limited time tasks,0,1,,2,106,,,,,,,
+88,3106,MiniGameMind_Name,Telepathic Link,0,1,,0,0,,,,,,,1
+89,2002,Func_Gve,Gve,0,1,,2,409,1,2001,,,,,
+90,2003,Func_GuildShop,Guild store,0,1,,2,409,1,2001,,,,,
+91,3200,Func_Artifact,Artifact,0,2,1630,2,1830,,,1,ui_function_icon_Artifact,Func_Artifact_desc,,
+92,3300,Func_LobbySkin,Hall reskin,0,2,409,2,630,1,,1,ui_function_icon_LobbySkin,Func_LobbySkin_desc,,
+93,780,Func_SocialBoss,Battle Assist,0,2,1230,2,1830,2,700,1,ui_function_icon_SocialBoss,Func_SocialBoss_desc,1,
+94,414,Func_BPPaid,Premium Battle Pass,0,1,,1,,1,410,,ui_function_icon_renwu,,1,
+95,2502,Func_MainPlayback,Main Playback,0,1,,2,312,1,2501,,,,,
+96,760,Func_InfArenaP2,Victors Arena,0,2,403,2,1115,2,750,1,ui_function_icon_jingjichang,Func_warworld_desc,1,1
+97,3400,Func_StoreReview,App Review Rewards,0,1,,6,,1,,,,,,
+98,731,Func_EvilFall_Replay,Evil Falls Battle Replay (Clear Lineup),0,2,409,2,421,2,730,,,,1,
+99,741,Func_CrisisWatch_LB,Crisis Watch Leaderboard,0,2,509,2,1230,2,740,,,,1,1
+100,742,Func_CrisisWatch_Replay,Crisis Watch Battle Replay,0,2,509,2,1230,2,740,,,,1,1
+101,3500,Func_Billboard,Lobby Billboard/Ads Banner,0,1,,1,,1,,,,,1,
+102,3600,Func_EventItems,Event Items Inventory Visibility,0,1,,1,,1,,,,,1,
+103,3301,Func_LobbySkinsPaid,Premium Lobby Skins,0,2,409,2,630,1,3300,,,,1,
+104,4001,Func_ChangeUserName,Change User Name,0,1,,1,,1,,,,,1,
+105,9804,Func_ActivityAlly,Legendary events,0,1,,1,,1,,,,,1,
+106,1601,Func_LoginTasks,Login Tasks,0,1,,1,,1,,,,,1,
+107,3700,Func_ChatEvent,System Auto Messages,0,1,,1,,1,200,,,,,
+108,3701,Func_ChatEvent_GetHero,System Auto Messages unlock hero,0,1,,1,,1,3700,,,,,
+109,3702,Func_ChatEvent_HeroStarUp,System Auto Messages rank up hero,0,1,,1,,1,3700,,,,,
+110,3703,Func_ChatEvent_GetCollection,System Auto Messages get collection,0,1,,1,,1,3700,,,,,
+111,3704,Func_ChatEvent_CollectionStarUp,System Auto Messages rank up collection,0,1,,1,,1,3700,,,,,
+112,3705,Func_ChatEvent_UseLease,System Auto Messages hire character,0,1,,1,,1,3700,,,,,
+113,3706,Func_ChatEvent_LeaseAdventureWin,System Auto Messages pass stage with hired character,0,1,,1,,1,3700,,,,,
+114,3707,Func_ChatEvent_GuildAnswer,System Auto Messages answered guild Q&A,0,1,,1,,1,3700,,,,,
+115,1602,Func_MonthSignIn,Month Sign In Activity,0,1,,1,,1,1600,,,,,
+116,9805,Func_ActivityRiddler,Who am I?,0,1,,1,,1,9800,,,,1,
+117,9806,Func_ActivityBingo,Bingo Events,0,1,,1,,1,9800,,,,1,
+118,3800,Func_Newsfeed,Newsfeed,0,1,,6,,1,,,,,,1
+119,3900,Func_AppRating,App Rating pre-promt and prompt,0,1,,1,,1,,,,,1,
+120,11000,Func_WebView,Will WebviewBiz/Controller open links on internal webview,0,1,,1,,1,,,,,,
+121,11001,Func_WebView_Android,Will  WebviewBiz/Controller open links on internal webview,0,1,,1,,1,11000,,,,,
+122,11002,Func_WebView_IOS,Will WebviewBiz/Controller open links on internal webview,0,1,,1,,1,11000,,,,,
+123,5000,Func_SkipFormationSave,Skip saving the formation before starting a battle,0,1,,1,,1,,,,,,
+124,6000,Func_WebStore,Web Store enabled,1,1,,1,,1,,,,,,
+125,4100,Func_OneTrust,,0,1,,1,,1,,,,,,
+126,6001,Func_WebStore_Android,Web Store enabled on Android,1,1,,1,,1,6000,,,,,
+127,6002,Func_WebStore_iOS,Web Store enabled on iOS,1,1,,1,,1,6000,,,,,
+128,20000,Func_AdMon,Enable AdMon feature,0,2,,2,207,1,,,ui_function_icon_admon,Func_AdMon_desc,1,
+129,20001,Func_AdMon_Android,Enable AdMon feature on Android,0,1,,1,,1,20000,,,,,
+130,20002,Func_AdMon_IOS,Enable AdMon feature on iOS,0,1,,1,,1,20000,,,,,
+131,20003,Func_AdMon_OfferWall_Promo,AdMon feature OfferWall Promo. Use FuncDesc to configure promo name,0,1,,1,,1,20000,,,TJ_Offerwall,,
+132,20004,Func_AdMon_RewardedVideo_Promo,AdMon feature Rewarded Video Promo. Use FuncDesc to configure promo name,0,1,,1,,1,20000,,,VideoForGems,,
+133,20005,Func_AdMon_Interstitial_Promo,AdMon feature Interstitial Promo. Use FuncDesc to configure promo name,0,1,,1,,1,20000,,,Home_Screen,,
+134,21001,Func_TeamCredits,Team Credits,0,1,,1,,1,,,,,,
+135,20100,Func_CodeRedemption,Enable the Code Redemption tab on Player profile window,0,1,,1,,1,,,,,,
+136,20101,Func_CodeRedemption_Android,(Android) Enable the Code Redemption tab on Player profile window,0,1,,1,,1,20100,,,,,
+137,20102,Func_CodeRedemption_iOS,(iOS) Enable the Code Redemption tab on Player profile window,0,1,,1,,1,20100,,,,,
+138,9807,Func_ActivityAllyBoss,Legendary boss,0,1,,1,,1,9804,,,,1,1
+139,711,Func_Tower_LB,Convergence Leaderboard,,2,306,2,403,2,710,,,,1,1
+140,2901,Func_CharPower_LB,Character Power Leaderboard,0,2,409,2,421,1,2900,,,,1,1
+141,3999,Func_SuperFan,Super Fan feature,0,1,,2,301,1,,1,,,1,
+142,9808,Func_ActivitySplash,NECE Events,0,1,,1,,1,9800,,,,1,
+143,12000,Func_MaxIntegration,Show Max Integration on the settings menu,0,1,,1,,1,,,,,1,
+144,761,Func_InfArenaP2_Guild_Rewards,Enable Guild Rewards from Inf Arena P2 (Victors Arena),0,1,,6,,1,760,,,,1,
+145,6003,Func_Webstore_Promo,Enable Including Web Store Next To Top Nav,1,1,,1,203,1,6000,,,,1,
+146,6004,Func_Webstore_Promo_Aggressive_Text,If Web Store promo is enabled then also swap targeted strings if able,1,1,,1,,1,6003,,,,,
+147,6005,Func_Webstore_Promo_iOS_Normal,Should the webstore promo be visible if not in the US on iOS,1,1,,6,,1,6003,,,,1,

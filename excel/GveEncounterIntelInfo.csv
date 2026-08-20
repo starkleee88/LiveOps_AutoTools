@@ -1,0 +1,6 @@
+﻿ID,EncounterName,EncounterSummary,RecommendedSubtitle,EncounterStrategy,AllyTagID,RecommendedDesc,RecommendedCharacters
+Enemy group ID,Intel dialog header localization key,Intel dialog description localization key,Recommended section sub-title localization key,Encounter strategy localization key,Ally tag ID,Character tag recommendation localization key,Ally IDs
+index,string,string,string,string,int,string,int
+4000201,GveIntel_FightName_Parademon,GveIntel_FightSummary_Parademon,GveUI40,GveIntel_FightRecommendation_Parademon,1001,GveIntel_RecommendedDesc_Tag,13103|13119
+4000101,GveIntel_FightName_Desaad,GveIntel_FightSummary_Desaad,GveUI40,GveIntel_FightRecommendation_Desaad,1007,GveIntel_RecommendedDesc_Tag,13131|13170
+4000001,GveIntel_FightName_Steppenwolf,GveIntel_FightSummary_Steppenwolf,GveUI40,GveIntel_FightRecommendation_Steppenwolf,2021,GveIntel_RecommendedDesc_Tag,13136|13115

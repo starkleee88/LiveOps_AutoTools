@@ -1,0 +1,24 @@
+﻿AllyID,O,ProfileID
+AllyCharacter,Remarks,Avatar Frame ID in Profile Sheet
+index,string,int-array
+13102,Batman,201001
+13187,Pandora,201004
+13101,Superman,201005
+13108,Dr. Fate,201006
+13103,Wonder Woman,201007
+13171,Two-Face,201008
+13113,Cyborg,201009
+13130,Batgirl,201010
+13117,Catwoman,201011
+13119,Green Arrow,201012
+13141,Killer Frost,201014
+13151,Deathstroke,201015
+13170,Green Lantern - Jessica Cruz,201016
+13133,Sinestro,201017
+13136,Raven,201018
+13106,Martian Manhunter,201019
+13196,Star Sapphire - Carol Ferris,201020
+13152,Green Lantern - Hal Jordan,201021
+13195,Green Lantern - John Stewart,201022
+13194,White Lantern - Kyle Rayner,201023
+13202,Mera,201024

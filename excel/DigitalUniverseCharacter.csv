@@ -1,0 +1,90 @@
+﻿ID,CharacterGroup,CharacterID,O
+ID,Branch Group,AllyCharacter ID,O
+index,int,int,
+1,1,13101,Superman
+2,1,13103,Wonder Woman
+3,1,13104,The Flash
+4,2,13131,Lex Luthor
+5,2,13201,Blue Beetle
+6,2,13102,Batman
+7,3,13135,Bizarro
+8,3,13120,Robin
+9,3,13122,Starfire
+10,4,13140,Gorilla Grodd
+11,4,13138,Poison Ivy
+12,4,13208,Bloodsport
+13,5,13101,Superman
+14,5,13121,Zatanna
+15,5,13171,Two-Face
+16,6,13109,Nightwing
+17,6,13201,Blue Beetle
+18,6,13102,Batman
+19,7,13131,Lex Luthor
+20,7,13171,Two-Face
+21,7,13201,Blue Beetle
+22,8,13148,Penguin
+23,8,13102,Batman
+24,8,13103,Wonder Woman
+25,9,13139,Bane
+26,9,13122,Starfire
+27,9,13208,Bloodsport
+28,10,13131,Lex Luthor
+29,10,13121,Zatanna
+30,10,13111,Kid Flash
+31,11,13109,Nightwing
+32,11,13114,Constantine
+33,11,13110,Superboy
+34,12,13101,Superman
+35,12,13111,Kid Flash
+36,12,13121,Zatanna
+37,13,13101,Superman
+38,13,13103,Wonder Woman
+39,13,13104,The Flash
+40,14,13131,Lex Luthor
+41,14,13201,Blue Beetle
+42,14,13113,Cyborg
+43,15,13103,Wonder Woman
+44,15,13122,Starfire
+45,15,13138,Poison Ivy
+46,16,13207,Vixen
+47,16,13187,Pandora
+48,16,13121,Zatanna
+49,17,13101,Superman
+50,17,13103,Wonder Woman
+51,17,13104,The Flash
+52,18,13131,Lex Luthor
+53,18,13201,Blue Beetle 
+54,18,13113,Cyborg
+55,19,13206,Supergirl
+56,19,13151,Deathstroke
+57,19,13102,Batman
+58,20,13101,Superman
+59,20,13103,Wonder Woman
+60,20,13104,The Flash
+61,21,13131,Lex Luthor
+62,21,13201,Blue Beetle 
+63,21,13113,Cyborg
+64,22,13101,Superman
+65,22,13103,Wonder Woman
+66,22,13104,The Flash
+67,23,13131,Lex Luthor
+68,23,13201,Blue Beetle 
+69,23,13113,Cyborg
+70,24,13151,Deathstroke
+71,24,13206,Supergirl
+72,24,13106,Martian Manhunter
+73,25,13152,Green Lantern - Hal
+74,25,13208,Bloodsport
+75,25,13170,Green Lantern - Jessica
+76,26,13170,Green Lantern - Jessica
+77,26,13152,Green Lantern - Hal
+78,26,13208,Bloodsport
+79,27,13196,Star Sapphire - Carol
+80,27,13152,Green Lantern - Hal
+81,27,13206,Supergirl
+82,28,13201,Blue Beetle
+83,28,13113,Cyborg
+84,28,13106,Martian Manhunter
+85,29,13135,Bizarro
+86,29,13109,Nightwing
+87,29,13122,Starfire

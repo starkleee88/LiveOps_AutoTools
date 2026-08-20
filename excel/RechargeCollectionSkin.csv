@@ -1,0 +1,6 @@
+﻿SubStoreID,PageStartTime,PageEndTime,ShowVideo,ShowTimeline,ShowBG,CollectionEff,Title,SubTitle,TitlePic,SkillID,SkillDesc,SkillShowPic,SkillShowVideo
+"Sub-Store ID  
+Tianxing:  
+Indexed to the PayStoreSub table.",Tab Opening Time,Tab Closing Time,Opening Video,Entrance Timeline,Sales Page Background,Collection Effect,Sales Title,Sales Subtitle,Remaining Time Background,Skill ID,Skill Description,Skill Demonstration Image,Skill Demonstration Video
+int,string,string,string,string,string,string,string,string,string,string,string,string,string
+9801,20220116_000000,20220126_000000,201_CollectionSale_Video,201_CollectionSale_Timeline,ui_CollectionSale_img_bg_fx,vx_CollectionSale_201,CollectionSaleTitle01,CollectionSaleSubTitle01,ui_CollectionSale_img_title_bg,302010105,SkillName302010101,ui_CollectionSale_img_SkillShow,video_CollectionSale_SkillShow

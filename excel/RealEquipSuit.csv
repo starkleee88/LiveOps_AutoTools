@@ -1,0 +1,9 @@
+﻿ID,O,SuitIcon,SuitName,SuitDesc2,SuitDesc4,AddTypeTwo,AddValueTwo,AddTypeFour,AddValueFour,SuitType,ScoreTank,ScoreDps,ScoreSupport,ScoreSuit4,Recommend
+Set ID,,Set Icon,Set Name,Set Description 2-Piece,Set Description 4-Piece,2-Piece Set Bonus Attribute Type,2-Piece Set Bonus Value,4-Piece Set Bonus Attribute Type,4-Piece Set Bonus,Bonus Type,Tank Rating Parameter,Output Rating Parameter,Support Rating Parameter,4-Piece Set Activation Parameter,Equipment Recommendation
+index,,string,string,string,string,int,int,array-int,int,int,int,int,int,int,int
+11,Attack set,ui_RealEquip_icon_shuxing02,Equip_suit_attk,Equip_suit_attk2,Equip_suit_attk4,7,300,7,600,1,8000,11000,9000,5000,2
+12,Critical hit set,ui_RealEquip_icon_shuxing04,Equip_suit_crt,Equip_suit_crt2,Equip_suit_crt4,152,500,152,1000,1,7000,12000,7000,5000,2
+13,Life set,ui_RealEquip_icon_shuxing01,Equip_suit_hp,Equip_suit_hp2,Equip_suit_hp4,3,300,3,600,1,11000,9000,10000,5000,1
+14,Heal set,ui_RealEquip_icon_shuxing05,Equip_suit_heal,Equip_suit_heal2,Equip_suit_heal4,171,500,171,1000,1,10000,7000,12000,5000,3
+15,Speed set,ui_RealEquip_icon_shuxing03,Equip_suit_speed,Equip_suit_speed2,Equip_suit_speed4,104,8,104,12,1,9000,10000,11000,5000,3
+16,Block Set,ui_RealEquip_icon_shuxing06,Equip_suit_block,Equip_suit_block2,Equip_suit_block4,26,500,26,1000,1,12000,8000,8000,5000,1

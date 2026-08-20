@@ -1,0 +1,11 @@
+ActivityID,Score,Reward,ReplaceReward
+Activity ID,Score,Reward,ReplaceReward
+index,index,int,int
+1,200,195120001,
+1,400,195120002,
+1,600,195120003,
+1,900,195120004,
+1,1200,195120005,
+1,1500,195120006,
+1,2000,195120007,
+1,3000,195120008,195120006

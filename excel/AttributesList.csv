@@ -1,0 +1,105 @@
+﻿ID,O,DefaultRule,DefaultValue,DefaultPoints,MinProtect,MaxProtect,ValueType,DisplayOrder,IsBriefShow,O,Name,ShortName,RelationName,Desc,Icon
+Attribute enum,Name,Combat logic rules,Default Value,Actual combat conversion,Minimum,Maximum,Panel display,Display order,Whether to display it in the properties panel,Attribute name displayed,Attribute name - long,Attribute name - short,Bond with attribute name - short,Description of the attribute,Small icon
+index,O,int,int,int,int,int,int,int,int,O,string,string,string,string,string
+1,Current life,1,0,1,-1,-1,1,4,1,HP,AttributeName1,AttributeName1,AttributeName1,AttributeDesc1,ui_hero_icon_shengming
+302,Minimum life,1,0,1,-1,-1,1,4,1,HP,AttributeName302,AttributeName1,AttributeName1,AttributeDesc302,ui_hero_icon_shengming
+301,Current health ratio,2,0,1,0,10000,2,8,0,Current Health Ratio,AttributeName301,AttributeName301,AttributeName301,AttributeDesc301,ui_hero_icon_shengming
+2,Max Life Base (Heroic),1,0,1,1,-1,1,5,1,Base HP,AttributeName2,AttributeName2,AttributeName2,AttributeDesc2,ui_hero_icon_shengming
+3,Max Health Bonus (Percentage),1,0,10000,0,-1,2,6,1,HP Bonus,AttributeName3,AttributeName3,AttributeName1,AttributeDesc3,ui_hero_icon_shengming
+4,Extra maximum life,1,0,1,0,-1,1,7,1,Extra HP,LongAttributeName4,AttributeName4,AttributeName4,AttributeDesc4,ui_hero_icon_shengming
+5,Ultimately - life,2,0,1,1,-1,1,1,1,HP,AttributeName5,AttributeName5,AttributeName5,AttributeDesc5,ui_hero_icon_shengming
+34,Max Health Percentage - In Battle,1,0,10000,0,-1,2,6,0,HP Bonus,AttributeName3,AttributeName3,AttributeName3,AttributeDesc34,ui_hero_icon_shengming
+35,Fixed maximum health - in battle,1,0,1,0,-1,1,7,0,HP,AttributeName4,AttributeName4,AttributeName4,AttributeDesc35,ui_hero_icon_shengming
+6,Attack Basics,1,0,1,1,-1,1,9,1,Base Attack,AttributeName6,AttributeName6,AttributeName6,AttributeDesc6,ui_hero_icon_gongji
+7,Max Attack Bonus (percentage),1,0,10000,-1,-1,2,10,1,Attack Bonus,AttributeName7,AttributeName7,AttributeName8,AttributeDesc7,ui_hero_icon_gongji
+8,Extra Attack,1,0,1,-1,-1,1,11,1,Extra Attack,LongAttributeName8,AttributeName8,AttributeName8,AttributeDesc8,ui_hero_icon_gongji
+9,Finally - attack,2,0,1,1,-1,1,2,1,Attack,AttributeName9,AttributeName9,AttributeName9,AttributeDesc9,ui_hero_icon_gongji
+36,Percentage of Attack - Fighting,1,0,10000,-1,-1,2,10,0,Attack Bonus,AttributeName7,AttributeName7,AttributeName7,AttributeDesc36,ui_hero_icon_gongji
+37,Attack fixed value - in battle,1,0,1,-1,-1,1,11,0,Attack,AttributeName8,AttributeName8,AttributeName8,AttributeDesc37,ui_hero_icon_gongji
+10,Defensive basics,1,0,1,1,-1,1,12,1,Base Defense,AttributeName10,AttributeName10,AttributeName10,AttributeDesc10,ui_hero_icon_fangyu
+11,Max Defense Bonus (Percentage),1,0,10000,0,-1,2,13,1,Defense Bonus,AttributeName11,AttributeName11,AttributeName12,AttributeDesc11,ui_hero_icon_fangyu
+12,Extra defense,1,0,1,0,-1,1,14,1,Extra Defense,LongAttributeName12,AttributeName12,AttributeName12,AttributeDesc12,ui_hero_icon_fangyu
+13,Ultimately - defense,2,0,1,0,-1,1,3,1,Defense,AttributeName13,AttributeName13,AttributeName13,AttributeDesc13,ui_hero_icon_fangyu
+38,Percentage of defense - in battle,1,0,10000,0,-1,2,13,0,Defense Bonus,AttributeName11,AttributeName11,AttributeName11,AttributeDesc38,ui_hero_icon_fangyu
+39,Defense fixed value - in battle,1,0,1,0,-1,1,14,0,Defense,AttributeName12,AttributeName12,AttributeName12,AttributeDesc39,ui_hero_icon_fangyu
+18,Speed Basics,1,0,1,1,-1,1,19,0,Base Speed,AttributeName18,AttributeName18,AttributeName18,AttributeDesc18,ui_hero_icon_sudu
+101,Bonus speed percentage,1,0,10000,-1,-1,2,15,0,Speed Bonus,AttributeName101,AttributeName101,AttributeName101,AttributeDesc101,ui_hero_icon_sudu
+102,Bonus speed percentage decreased,1,0,10000,-1,-1,2,16,0,Bonus Speed Percentage Decreased,AttributeName102,AttributeName102,AttributeName102,AttributeDesc102,ui_hero_icon_sudu
+103,Extra speed reduction,1,0,1,-1,-1,1,17,0,Extra Speed Reduction,AttributeName103,AttributeName103,AttributeName103,AttributeDesc103,ui_hero_icon_sudu
+104,Extra speed increased,1,0,1,-1,-1,1,18,0,Extra Speed,LongAttributeName104,AttributeName104,AttributeName104,AttributeDesc104,ui_hero_icon_sudu
+105,Ultimately - speed,2,0,1,100,500,1,4,1,Speed,AttributeName105,AttributeName105,AttributeName105,AttributeDesc105,ui_hero_icon_sudu
+40,Speed Percentage - Fighting,1,0,10000,-1,-1,2,15,0,Speed Bonus,AttributeName101,AttributeName101,AttributeName101,AttributeDesc40,ui_hero_icon_sudu
+41,Fixed speed - in battle,1,0,1,-1,-1,1,18,0,Speed,AttributeName104,AttributeName104,AttributeName104,AttributeDesc41,ui_hero_icon_sudu
+24,Extra - hit rate,1,0,10000,0,-1,2,20,0,Hit Rate,AttributeName24,AttributeName24,AttributeName24,AttributeDesc24,ui_hero_icon_mingzhong
+25,Bonus - Evasion Chance,1,0,10000,0,-1,2,21,0,Dodge Rate,AttributeName25,AttributeName25,AttributeName25,AttributeDesc25,ui_hero_icon_shanbi
+152,Bonus - Critical Strike Chance,1,0,10000,-1,-1,2,26,1,Crit,AttributeName152,AttributeName152,AttributeName152,AttributeDesc152,ui_hero_icon_baoji
+153,Bonus - Critical Strike Resistance,1,0,10000,-1,-1,2,27,1,Crit Res,AttributeName153,AttributeName153,AttributeName153,AttributeDesc153,ui_hero_icon_kangbaoji
+162,Critical damage,1,0,10000,-1,-1,2,31,1,Crit Dmg,AttributeName162,AttributeName162,AttributeName162,AttributeDesc162,ui_hero_icon_baojizengfu
+163,Critical Damage Reduction,1,0,10000,-1,-1,2,32,0,Crit Dmg Reduction,AttributeName163,AttributeName163,AttributeName163,AttributeDesc163,ui_hero_icon_baojidikang
+22,Ultimate - Critical Damage,1,0,10000,-1,-1,2,37,0,Ultimate - Critical Damage,AttributeName22,AttributeName22,AttributeName22,AttributeDesc22,ui_hero_icon_baojizengfu
+26,Block Chance,1,0,10000,0,-1,2,39,1,Block,AttributeName26,AttributeName26,AttributeName26,AttributeDesc26,ui_hero_icon_gedang
+28,Break block rate,1,0,10000,0,-1,2,41,1,Block Break,AttributeName28,AttributeName28,AttributeName28,AttributeDesc28,ui_hero_icon_pogedang
+27,Block effect,1,0,10000,-1,-1,2,40,1,Block Amount,AttributeName27,AttributeName27,AttributeName27,AttributeDesc27,ui_hero_icon_gedangqiangdu
+401,Block effect is ignored,1,0,10000,-1,-1,2,42,0,Ignore Block Amount,AttributeName401,AttributeName401,AttributeName401,AttributeDesc401,ui_hero_icon_jingzun
+29,Armor piercing,1,0,1,0,-1,1,52,1,Armor Piercing,AttributeName29,AttributeName29,AttributeName29,AttributeDesc29,ui_hero_icon_pojia
+30,Defensive Piercing Effect,1,0,10000,0,-1,2,53,0,Defense Penetration Effect,AttributeName30,AttributeName30,AttributeName30,AttributeDesc30,ui_hero_icon_fangyuchuantou
+33,Reflect,1,0,10000,0,-1,2,54,1,Reflect,AttributeName33,AttributeName33,AttributeName33,AttributeDesc33,ui_hero_icon_fantan
+32,Life Steal,1,0,10000,0,-1,2,55,1,Life Steal,AttributeName32,AttributeName32,AttributeName32,AttributeDesc32,ui_hero_icon_xixie
+171,Heal Critical Rate,1,0,10000,0,-1,2,56,0,Heal Crit,AttributeName171,AttributeName171,AttributeName171,AttributeDesc171,ui_hero_icon_huixinglv
+173,Bonus Heal Critical,1,0,10000,0,-1,2,58,0,Heal Crit Effect,AttributeName173,AttributeName173,AttributeName173,AttributeDesc173,ui_hero_icon_sudu
+232,Shield Hearts effect bonus,1,0,10000,0,-1,2,60,0,Shield Crit Effect,AttributeName232,AttributeName232,AttributeName232,AttributeDesc232,ui_hero_icon_sudu
+181,Healing amplification,1,0,10000,-1,-1,2,61,1,Heal Bonus,AttributeName181,AttributeName181,AttributeName181,AttributeDesc181,ui_hero_icon_zhiliaohudun
+182,Healing reduction,1,0,10000,-1,-1,2,62,0,Healing reduction,AttributeName182,AttributeName182,AttributeName182,AttributeDesc182,ui_hero_icon_sudu
+191,Heals Received amplification,1,0,10000,0,10000,2,63,0,Healing Received Bonus,AttributeName191,AttributeName191,AttributeName191,AttributeDesc191,ui_hero_icon_sudu
+192,Heals Received reduction,1,0,10000,0,10000,2,64,0,Heals Received reduction,AttributeName192,AttributeName192,AttributeName192,AttributeDesc192,ui_hero_icon_sudu
+51,Shield penetration rate (% of attacks ignoring shields),1,0,10000,0,-1,2,71,0,Shield Penetration Effect,AttributeName51,AttributeName51,AttributeName51,AttributeDesc51,ui_hero_icon_sudu
+201,Self releases all damage and increases damage,1,0,10000,-1,-1,2,72,0,Dmg Amp,AttributeName201,AttributeName201,AttributeName201,AttributeDesc201,ui_hero_icon_sudu
+202,Self-release reduces all damage,1,0,10000,-1,-1,2,73,0,Self-release reduces all damage,AttributeName202,AttributeName202,AttributeName202,AttributeDesc202,ui_hero_icon_sudu
+203,Takes all damage and increases damage,1,0,10000,-1,-1,2,74,0,Takes all damage and increases damage,AttributeName203,AttributeName203,AttributeName203,AttributeDesc203,ui_hero_icon_sudu
+204,Takes all damage and reduces damage,1,0,10000,-1,-1,2,75,0,Dmg Red,AttributeName204,AttributeName204,AttributeName204,AttributeDesc204,ui_hero_icon_sudu
+211,Physical Damage Inflicted Amplification,1,0,10000,-1,-1,2,76,0,Physical Amplification,AttributeName211,AttributeName211,AttributeName211,AttributeDesc211,ui_hero_icon_zengshang
+212,Physical Damage Inflicted Reduction,1,0,10000,-1,-1,2,77,0,Physical Damage Inflicted Reduction,AttributeName212,AttributeName212,AttributeName212,AttributeDesc212,ui_hero_icon_sudu
+213,Physical Damage Resist Amplification,1,0,10000,-1,-1,2,78,0,Physical Damage Resist Amplification,AttributeName213,AttributeName213,AttributeName213,AttributeDesc213,ui_hero_icon_sudu
+214,Physical Damage Resist Reduction,1,0,10000,-1,-1,2,79,0,Physical Reduction,AttributeName214,AttributeName214,AttributeName214,AttributeDesc214,ui_icon_special_tag_0002
+221,Superpower Damage Inflicted Amplification,1,0,10000,-1,-1,2,80,0,Power Amplification,AttributeName221,AttributeName221,AttributeName221,AttributeDesc221,ui_hero_icon_sudu
+222,Superpower Damage Inflicted Reduction,1,0,10000,-1,-1,2,81,0,Superpower Damage Inflicted Reduction,AttributeName222,AttributeName222,AttributeName222,AttributeDesc222,ui_hero_icon_sudu
+223,Superpower Damage Resist Amplification,1,0,10000,-1,-1,2,82,0,Superpower Damage Resist Amplification,AttributeName223,AttributeName223,AttributeName223,AttributeDesc223,ui_hero_icon_sudu
+224,Superpower Damage Resist Reduction,1,0,10000,-1,-1,2,83,0,Power Reduction,AttributeName224,AttributeName224,AttributeName224,AttributeDesc224,ui_hero_icon_jianshang
+241,Eventually increases damage.+,1,0,10000,-1,-1,2,95,0,Final Damage Amplification,AttributeName241,AttributeName241,AttributeName241,AttributeDesc241,ui_hero_icon_sudu
+242,Final Damage-,1,0,10000,-1,-1,2,96,0,Final Damage-,AttributeName242,AttributeName242,AttributeName242,AttributeDesc242,ui_hero_icon_sudu
+243,Final Damage Reduction-,1,0,10000,-1,-1,2,97,0,Final Damage Reduction-,AttributeName243,AttributeName243,AttributeName243,AttributeDesc243,ui_hero_icon_sudu
+244,Final Damage Reduction+,1,0,10000,-1,-1,2,98,0,Final Damage Reduction,AttributeName244,AttributeName244,AttributeName244,AttributeDesc244,ui_hero_icon_sudu
+251,Self-release control effect hits increased by percentage,1,0,10000,-1,-1,2,84,0,Control Hit Rate,AttributeName251,AttributeName251,AttributeName251,AttributeDesc251,ui_hero_icon_sudu
+252,Percentage of self-absorbed control resistance,1,0,10000,-1,-1,2,85,0,Control Resist,AttributeName252,AttributeName252,AttributeName252,AttributeDesc252,ui_hero_icon_sudu
+261,Self-releasing debuff hit percentage,1,0,10000,-1,-1,2,86,0,Self-releasing debuff hit percentage,AttributeName261,AttributeName261,AttributeName261,AttributeDesc261,ui_hero_icon_sudu
+262,Percentage of self-absorbed negative effect resistance,1,0,10000,-1,-1,2,87,0,Percentage of self-absorbed negative effect resistance,AttributeName262,AttributeName262,AttributeName262,AttributeDesc262,ui_hero_icon_sudu
+271,Damage increased,1,0,10000,-1,-1,2,88,1,Dmg Amp,AttributeName271,AttributeName271,AttributeName271,AttributeDesc271,ui_hero_icon_zengshang
+272,Damage reduction,1,0,10000,-1,-1,2,89,1,Dmg Red,AttributeName272,AttributeName272,AttributeName272,AttributeDesc272,ui_hero_icon_jianshang
+281,Gameplay mechanics increase damage +,1,0,10000,-1,-1,2,95,0,Gameplay mechanics increase damage +,AttributeName281,AttributeName281,AttributeName281,AttributeDesc281,ui_hero_icon_sudu
+282,Gameplay Mechanics Damage Increase-,1,0,10000,-1,-1,2,96,0,Gameplay Mechanics Damage Increase-,AttributeName282,AttributeName282,AttributeName282,AttributeDesc282,ui_hero_icon_sudu
+283,Gameplay Mechanics Damage Reduction-,1,0,10000,-1,-1,2,97,0,Gameplay Mechanics Damage Reduction-,AttributeName283,AttributeName283,AttributeName283,AttributeDesc283,ui_hero_icon_sudu
+284,Gameplay mechanics: Damage reduction+,1,0,10000,-1,-1,2,98,0,Gameplay mechanics: Damage reduction+,AttributeName284,AttributeName284,AttributeName284,AttributeDesc284,ui_hero_icon_sudu
+321,Self-release damage over time type increases damage rate,1,0,10000,-1,-1,2,91,0,DOT Bonus,AttributeName321,AttributeName321,AttributeName321,AttributeDesc321,ui_hero_icon_sudu
+322,Self-release damage reduction rate for damage over time types,1,0,10000,-1,-1,2,92,0,Self-release damage reduction rate for damage over time types,AttributeName322,AttributeName322,AttributeName322,AttributeDesc322,ui_hero_icon_sudu
+323,Increases the damage rate of the damage taken over time type,1,0,10000,-1,-1,2,93,0,Increases the damage rate of the damage taken over time type,AttributeName323,AttributeName323,AttributeName323,AttributeDesc323,ui_hero_icon_sudu
+324,Self damage reduction rate for damage over time types,1,0,10000,-1,-1,2,94,0,DOT Reduction,AttributeName324,AttributeName324,AttributeName324,AttributeDesc324,ui_hero_icon_sudu
+331,Push bar resistance,1,0,10000,-1,-1,2,99,0,Push bar resistance,AttributeName331,AttributeName331,AttributeName331,AttributeName331,ui_hero_icon_sudu
+999,Temp,1,0,1,-1,-1,1,100,0,Used for a temp attribute,AttributeName999,AttributeName999,AttributeName999,AttributeName999,ui_hero_icon_sudu
+332,Burn Crit Rate,1,0,10000,-1,-1,2,101,1,Burn Crit Rate,AttributeName332,AttributeName332,AttributeName332,AttributeDesc332,ui_hero_icon_baoji
+333,Burn Damage reduction,1,0,1,-1,-1,1,102,0,Burn Resistance,AttributeName333,AttributeName333,AttributeName333,AttributeDesc333,ui_hero_icon_sudu
+334,Burn Damage increased,1,0,1,-1,-1,1,103,0,Burn Amp,AttributeName334,AttributeName334,AttributeName334,AttributeDesc334,ui_hero_icon_sudu
+335,Frostbite Crit Rate,1,0,10000,-1,-1,2,104,1,Frostbite Crit Rate,AttributeName335,AttributeName335,AttributeName335,AttributeDesc335,ui_hero_icon_baoji
+336,Frostbite Damage reduction,1,0,1,-1,-1,1,105,0,Frostbite Resistance,AttributeName336,AttributeName336,AttributeName336,AttributeDesc336,ui_hero_icon_sudu
+337,Frostbite Damage increased,1,0,1,-1,-1,1,106,0,Frostbite Amp,AttributeName337,AttributeName337,AttributeName337,AttributeDesc337,ui_hero_icon_sudu
+338,Poison Crit Rate,1,0,10000,-1,-1,2,107,1,Poison Crit Rate,AttributeName338,AttributeName338,AttributeName338,AttributeDesc338,ui_hero_icon_baoji
+339,Poison Damage reduction,1,0,1,-1,-1,1,108,0,Poison Resistance,AttributeName339,AttributeName339,AttributeName339,AttributeDesc339,ui_hero_icon_sudu
+340,Poison Damage increased,1,0,1,-1,-1,1,109,0,Poison Amp,AttributeName340,AttributeName340,AttributeName340,AttributeDesc340,ui_hero_icon_sudu
+341,Bleed Crit Rate,1,0,10000,-1,-1,2,110,1,Bleed Crit Rate,AttributeName341,AttributeName341,AttributeName341,AttributeDesc341,ui_hero_icon_baoji
+342,Bleed Damage reduction,1,0,1,-1,-1,1,111,0,Bleed Resistance,AttributeName342,AttributeName342,AttributeName342,AttributeDesc342,ui_hero_icon_sudu
+343,Bleed Damage increased,1,0,1,-1,-1,1,112,0,Bleed Amp,AttributeName343,AttributeName343,AttributeName343,AttributeDesc343,ui_hero_icon_sudu
+344,Shielding Applied amplification,1,0,10000,-1,-1,2,113,1,Shield Amp,AttributeName344,AttributeName344,AttributeName344,AttributeDesc344,ui_hero_icon_zhiliaohudun
+345,Shielding Applied reduction,1,0,10000,-1,-1,2,114,0,Shield Reduction,AttributeName345,AttributeName345,AttributeName345,AttributeDesc345,ui_hero_icon_sudu
+346,Shields Received amplification,1,0,10000,0,10000,2,115,0,Shield Received Amp,AttributeName346,AttributeName346,AttributeName346,AttributeDesc346,ui_hero_icon_sudu
+347,Shields Received reduction,1,0,10000,0,10000,2,116,0,Shield Received Reduction,AttributeName347,AttributeName347,AttributeName347,AttributeDesc347,ui_hero_icon_sudu
+348,Shield Critical Rate,1,0,10000,0,-1,2,56,0,Shield Crit Rate,AttributeName348,AttributeName348,AttributeName348,AttributeDesc348,ui_hero_icon_huixinglv
+501,Shock Damage bonus percentage,1,0,1,-1,-1,1,117,0,Shock Damage bonus percentage,AttributeName510,AttributeName510,AttributeName510,AttributeDesc510,ui_hero_icon_sudu

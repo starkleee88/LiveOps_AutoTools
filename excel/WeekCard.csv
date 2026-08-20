@@ -1,0 +1,10 @@
+﻿WeekCardID,,SubStoreID,PayNum,Type,ImmediateReward1,ImmediateReward2,ExtraReward,PreviewImg,TitleText,LimitText,NoteText,SkuId
+ID,O,Sub-store ID,Product price,"Daily gift pack or weekly subscription
+Daily gift pack: 1
+Weekly subscription: 2","Count Interval 1 Daily Reward
+For the weekly card (type=2) fill in 0","Count Interval 2 Daily Reward
+For the weekly card (type=2) fill in 0",Additional bonus,Reward preview,Title text,Purchase limit text,Prompt text,SKU ID from RechargeSKU.csv
+int,,int,int,int,int,int,int,string,string,string,string,string
+1,Ordinary version of daily gift pack,9701,100099,1,19700001,19700001,0,ui_dailyRecharge_img_tanc01,WeekCard_Title1,WeekCard_Limit1,WeekCard_Note1,characterupgrade1
+2,Additional Edition Day Pack,9701,100199,1,19700002,19700002,0,ui_dailyRecharge_img_tanc03,WeekCard_Title2,WeekCard_Limit2,WeekCard_Note2,characterupgrade2
+3,Order by week,9701,101499,2,0,0,19700003,ui_dailyRecharge_img_tanc02,WeekCard_Title3,WeekCard_Limit3,WeekCard_Note3,characterupgrade15

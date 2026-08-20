@@ -1,0 +1,12 @@
+﻿ID,StandIdle,StandRelax,StandTalk,SitIdle,SitRelax,SitTalk,Type,Note
+ID,Activities of the same type cannot have overlapping start time periods,,"1: Level chapter, such as 701",,"Descending order
+The ones with higher numbers are listed at the top",Left tab title,,
+index,string,string,string,string,string,string,,
+1,An_S_119_idle,An_S_119_relax,An_S_119_Talk,,,,Story,"Origin Copy, Green Arrow, 1-5"
+2,An_S_119_Idle_loop,,,,,,Story,"Origin Copy, Green Arrow, 6"
+3,An_S_103_idle_log_T7,An_S_103_relax,,,,,Story,"Origin copy, Wonder Woman, 1, 5"
+4,An_S_103_Idle_Loop,,,,,,Story,"Origin Copy, Wonder Woman, 2"
+5,An_S_103_idle_log_T7,,An_S_103_talk_normal_T1_1,,,,Story,"Origin Copy, Wonder Woman, 3"
+6,An_S_103_idle_sword_T6,,An_S_103_talk_alert_T3,,,,Story,"Origin Copy, Wonder Woman, 4"
+7,An_S_1511351_normal_idle,,An_S_1511351_normal_talk,,,,Story,"Origin copy, Cyborg, 1, 2"
+8,An_S_113_idle,An_S_113_relax,An_S_113_Talk,,,,Story,"Origin copy, Cyborg, 3, 4"

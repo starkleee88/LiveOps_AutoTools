@@ -1,0 +1,56 @@
+{
+  "TargetDir": "C:\\Users\\gear\\Perforce\\x.son.lengoc_Config_Dev\\excel",
+  "Banners": [
+    {
+      "BannerID": "1317",
+      "PopUpID": "1317",
+      "HeroName": "Lobo",
+      "BannerType": "Legendary",
+      "GachaTypeID": "1317",
+      "BannerName": "AllyGachaName117",
+      "PackJumpId": "1205",
+      "AllyId": "13267",
+      "GachaJumpId": "11317",
+      "RewardData": {
+        "GachaLegendary": "1901370601",
+        "GachaEpic": "1901390502"
+      },
+      "StartTime": "20260901_000000",
+      "EndTime": ""
+    },
+    {
+      "BannerID": "1123",
+      "PopUpID": "1123",
+      "HeroName": "Supergirl",
+      "BannerType": "Legendary",
+      "GachaTypeID": "1123",
+      "BannerName": "AllyGachaName121",
+      "PackJumpId": "1205",
+      "AllyId": "13266",
+      "GachaJumpId": "11123",
+      "RewardData": {
+        "GachaLegendary": "1902480501",
+        "GachaEpic": "1902480502"
+      },
+      "StartTime": "20260902_000000",
+      "EndTime": ""
+    },
+    {
+      "BannerID": "12116",
+      "PopUpID": "12116",
+      "HeroName": "Ruthye",
+      "BannerType": "Epic",
+      "GachaTypeID": "12116",
+      "BannerName": "AllyGachaName116",
+      "PackJumpId": "1205",
+      "AllyId": "13268",
+      "GachaJumpId": "12116",
+      "RewardData": {
+        "GachaLegendary": "1902480502",
+        "GachaEpic": "1904001304"
+      },
+      "StartTime": "20260903_000000",
+      "EndTime": ""
+    }
+  ]
+}

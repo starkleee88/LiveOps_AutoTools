@@ -1,0 +1,32 @@
+﻿Answer,,PosX,PosY,PosZ,Scale,ActivityID,RiddleID,ActivityID,RiddleID,ActivityID,RiddleID
+Answer ID,Note,"Position X Axis
+x10","Position Y Axis
+x10","Position Z Axis
+x10",Zoomx10,Activity ID,Riddle ID,Activity ID,Riddle ID,Activity ID,Riddle ID
+int,,int,int,int,int,int,int,int,int,int,int
+1,Batgirl's Room - Bookshelf,-99,465,0,2,101,1,,,,
+2,Batgirl's Room-Gordon Clippings,650,574,0,2,101,2,102,13,,
+3,Catwoman's room-wine,280,-250,0,2,101,3,102,12,,
+4,Catwoman's Room-Mirror,2360,0,0,2,101,4,,,,
+5,Catwoman Room-Rose,-35,-300,0,2,101,5,,,,
+6,Hall of Justice - Statue,-1500,1000,0,12,101,6,102,7,,
+7,Lobby-billboard,-1,0,-1,10,101,7,102,5,,
+8,Collection-Tiger model,0,0,0,10,101,8,,,,
+9,Hall Archives Area-Personal Archives,168,33,-290,10,101,9,,,,
+10,Hall-Black Cat,1,2,3,8,101,10,102,1,,
+11,Hall-Multiverse,0,5,2,15,101,11,102,4,,
+12,Exploration Dungeon-Waterfall,-400,243,-430,10,101,12,102,14,,
+13,Arena,-580,480,0,12,101,13,102,11,,
+14,Mainline Dungeon or Adventure Earth-Airship,-8,19,8,9,101,14,,,,
+15,Mall-Drone,-1530,1060,0,11,101,15,102,3,,
+16,Evil is coming interface - Ultraman,0,0,0,10,,,102,6,,
+17,Evil is coming interface-Johnny Quick,0,0,0,10,,,,,,
+18,Evil Advent Interface-Superwoman,0,0,0,10,,,102,9,,
+19,Evil Advent Interface-Deathstorm,0,0,0,10,,,,,,
+20,Evil Advent Interface-Divine Power Ring,0,0,0,10,,,,,,
+21,Paid collection interface-Batmobile,0,0,0,10,,,102,10,,
+22,Batman Room-Tower of Babel Project,-2150,650,0,2,,,,,,
+23,Batman Room-Mini Games,0,450,0,2,,,,,,
+24,Reserve Team-Resonance Crystal,0,-1490,0,12,,,102,15,,
+25,Ranking-top player,2630,0,0,10,,,102,8,,
+26,Tower climbing interface,2590,-2580,0,12,,,102,2,,

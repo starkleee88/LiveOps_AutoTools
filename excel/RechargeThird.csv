@@ -1,0 +1,37 @@
+﻿ID,PayNum,PackItem,ItemNum,PackItem,ItemNum,PackItem,ItemNum,PackItem,ItemNum,PackItem,ItemNum,ActivityTitle,LocalKey
+Gift Pack ID,Actual Tier,Reward Item 1,Item Quantity 1,Reward Item 2,Item Quantity 2,Reward Item 3,Item Quantity 3,Reward Item 4,Item Quantity 4,Reward Item 5,Item Quantity 5,Gift Pack Title,Gift Pack Title Multilingual Key
+index,int,int,int,int,int,int,int,int,int,int,int,O,string
+100001,300120,111202,80,,,,,,,,,80 Diamond Gift Pack,RechargeThirdPack_01
+100002,300150,111202,100,,,,,,,,,100 Diamond Gift Pack,RechargeThirdPack_02
+100003,300240,111202,160,,,,,,,,,160 Diamond Gift Pack,RechargeThirdPack_03
+100004,300360,111202,240,,,,,,,,,240 Diamond Gift Pack,RechargeThirdPack_04
+100005,300720,111202,480,,,,,,,,,480 Diamond Gift Pack,RechargeThirdPack_05
+100006,301200,111202,780,,,,,,,,,780 Diamond Gift Pack,RechargeThirdPack_06
+100007,303000,1120016,10,,,,,,,,,Basic Ally Contact Gift Pack,RechargeThirdPack_07
+100008,303600,111202,400,1120016,10,,,,,,,Basic Ally Contact Gift Pack,RechargeThirdPack_07
+100009,304400,111202,800,1120016,10,,,,,,,Basic Ally Contact Gift Pack,RechargeThirdPack_07
+100010,305800,111202,800,1120016,15,,,,,,,Basic Ally Contact Gift Pack,RechargeThirdPack_07
+100011,307200,111202,800,1120016,20,,,,,,,Advanced Ally Contact Gift Pack,RechargeThirdPack_08
+100012,310500,111202,800,1120016,30,,,,,,,Advanced Ally Contact Gift Pack,RechargeThirdPack_08
+100013,310800,111202,1000,1120016,30,,,,,,,Advanced Ally Contact Gift Pack,RechargeThirdPack_08
+100014,312000,111202,1000,1120016,35,,,,,,,Advanced Ally Contact Gift Pack,RechargeThirdPack_08
+100015,315000,111202,1800,1120016,40,,,,,,,Deluxe Ally Contact Gift Pack,RechargeThirdPack_09
+100016,322000,111202,2300,1120016,60,,,,,,,Deluxe Ally Contact Gift Pack,RechargeThirdPack_09
+100017,300299,111202,196,,,,,,,,,196 Diamond Gift Pack,RechargeThirdPack_10
+100018,301499,111202,1108,,,,,,,,,1108 Diamond Gift Pack,RechargeThirdPack_11
+100019,303999,111202,3468,,,,,,,,,3468 Diamond Gift Pack,RechargeThirdPack_12
+100020,300007,111202,5,,,,,,,,,5 Diamond Gift Pack,RechargeThirdPack_13
+100021,302200,111202,1440,,,,,,,,,1440 Diamond Gift Pack,RechargeThirdPack_14
+100022,300070,111202,47,,,,,,,,,47 Diamond Gift Pack,RechargeThirdPack_15
+100023,300167,111202,108,,,,,,,,,108 Diamond Gift Pack,RechargeThirdPack_16
+100024,302400,111202,1600,,,,,,,,,1600 Diamond Gift Pack,RechargeThirdPack_17
+100025,324000,111202,2000,1120016,70,,,,,,,Deluxe Ally Contact Gift Pack,RechargeThirdPack_09
+100026,348000,111202,2000,1120016,150,,,,,,,Deluxe Ally Contact Gift Pack,RechargeThirdPack_09
+100027,372000,111202,2000,1120016,230,,,,,,,Deluxe Ally Contact Gift Pack,RechargeThirdPack_09
+100028,300040,111202,28,,,,,,,,,28 Diamond Gift Pack,RechargeThirdPack_18
+100029,300200,111202,140,,,,,,,,,140 Diamond Gift Pack,RechargeThirdPack_19
+100030,300400,111202,280,,,,,,,,,280 Diamond Gift Pack,RechargeThirdPack_20
+100031,300600,111202,420,,,,,,,,,420 Diamond Gift Pack,RechargeThirdPack_21
+100032,300800,111202,610,,,,,,,,,610 Diamond Gift Pack,RechargeThirdPack_22
+100033,308000,111202,800,1120016,24,,,,,,,Advanced Ally Contact Gift Pack,RechargeThirdPack_08
+100034,317500,111202,2000,1120016,50,,,,,,,Deluxe Ally Contact Gift Pack,RechargeThirdPack_09

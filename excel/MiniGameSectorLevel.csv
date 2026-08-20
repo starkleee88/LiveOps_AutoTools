@@ -1,0 +1,9 @@
+﻿Id,Name,LevelPic,PlayerDefaultSpeed
+Level ID,Level Name,Level Entrance Map,Player Default Movement Speed (% of horizontal distance/sec)
+index,string,string,int
+1,MiniGameSector_BuleSector,ui_minigame_icon_galaxy_blue,15
+2,MiniGameSector_PurpleSector,ui_minigame_icon_galaxy_purple,15
+3,MiniGameSector_RedSector,ui_minigame_icon_galaxy_red,15
+4,MiniGameSector_OrangeSector,ui_minigame_icon_galaxy_orange,15
+5,MiniGameSector_CyanSector,ui_minigame_icon_galaxy_cyan,15
+6,MiniGameSector_GreenSector,ui_minigame_icon_galaxy_green,15

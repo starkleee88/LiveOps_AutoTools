@@ -1,0 +1,127 @@
+﻿ID,O,RecordID,RecordID,RecordID,RecordType,RecordType,RecordType,RecordTitle,RecordTitle,RecordTitle,RecordDesc,RecordDesc,RecordDesc
+Character ID,Name,Record ID,Record ID,Record ID,"Record Type
+1 - Monitor Recording Headphone Icon
+2 - Readme Headset icon
+3 - Data Collection Portfolio icon",Record Type,Record Type,Secret Record Title,Secret Record Title,Secret Record Title,Secret Record Description,Secret Record Description,Secret Record Description
+index,,int,int,int,int,int,int,string,string,string,string,string,string
+13101,Superman,1,2,3,1,1,1,Character_RecordTitle_13101_1,Character_RecordTitle_13101_2,Character_RecordTitle_13101_3,Character_RecordDesc_13101_1,Character_RecordDesc_13101_2,Character_RecordDesc_13101_3
+13102,tactical armor Batman,1,2,,1,1,,Character_RecordTitle_13102_1,Character_RecordTitle_13102_2,,Character_RecordDesc_13102_1,Character_RecordDesc_13102_2,
+13103,Wonder Woman,1,2,,1,1,,Character_RecordTitle_13103_1,Character_RecordTitle_13103_2,,Character_RecordDesc_13103_1,Character_RecordDesc_13103_2,
+13104,Crimson Runner The Flash,1,2,,1,1,,Character_RecordTitle_13104_1,Character_RecordTitle_13104_2,,Character_RecordDesc_13104_1,Character_RecordDesc_13104_2,
+13105,Aquaman,1,2,3,1,1,1,Character_RecordTitle_13105_1,Character_RecordTitle_13105_2,Character_RecordTitle_13105_3,Character_RecordDesc_13105_1,Character_RecordDesc_13105_2,Character_RecordDesc_13105_3
+13106,martian manhunter,1,2,,1,1,,Character_RecordTitle_13106_1,Character_RecordTitle_13106_2,,Character_RecordDesc_13106_1,Character_RecordDesc_13106_2,
+13107,SHAZAM,1,2,3,1,1,1,,,,,,
+13108,Doctor Fate,1,2,,1,1,,Character_RecordTitle_13108_1,Character_RecordTitle_13108_2,,Character_RecordDesc_13108_1,Character_RecordDesc_13108_2,
+13109,Nightwing,1,2,,1,1,,Character_RecordTitle_13109_1,Character_RecordTitle_13109_2,,Character_RecordDesc_13109_1,Character_RecordDesc_13109_2,
+13110,Super Boy,1,2,3,1,1,1,Character_RecordTitle_13110_1,Character_RecordTitle_13110_2,Character_RecordTitle_13110_3,Character_RecordDesc_13110_1,Character_RecordDesc_13110_2,Character_RecordDesc_13110_3
+13111,Kid Flash,1,2,,1,1,,Character_RecordTitle_13111_1,Character_RecordTitle_13111_2,,Character_RecordDesc_13111_1,Character_RecordDesc_13111_2,
+13112,Red Robin,1,2,,1,1,,Character_RecordTitle_13112_1,Character_RecordTitle_13112_2,,Character_RecordDesc_13112_1,Character_RecordDesc_13112_2,
+13113,Steel frame,1,2,,1,1,,Character_RecordTitle_13113_1,Character_RecordTitle_13113_2,,Character_RecordDesc_13113_1,Character_RecordDesc_13113_2,
+13114,Constantine,1,2,,1,1,,Character_RecordTitle_13114_1,Character_RecordTitle_13114_2,,Character_RecordDesc_13114_1,Character_RecordDesc_13114_2,
+13115,Red Hood,1,2,3,3,1,1,Character_RecordTitle_13115_1,Character_RecordTitle_13115_2,Character_RecordTitle_13115_3,Character_RecordDesc_13115_1,Character_RecordDesc_13115_2,Character_RecordDesc_13115_3
+13116,Mela,,,,,,,,,,,,
+13117,Catwoman,1,,,1,,,Character_RecordTitle_13117_1,,,Character_RecordDesc_13117_1,,
+13118,Firestorm,1,2,,1,1,,Character_RecordTitle_13118_1,Character_RecordTitle_13118_2,,Character_RecordDesc_13118_1,Character_RecordDesc_13118_2,
+13119,Green Arrow,1,2,3,1,1,1,Character_RecordTitle_13119_1,Character_RecordTitle_13119_2,Character_RecordTitle_13119_3,Character_RecordDesc_13119_1,Character_RecordDesc_13119_2,Character_RecordDesc_13119_3
+13120,Robin,1,,,1,,,Character_RecordTitle_13120_1,,,Character_RecordDesc_13120_1,,
+13121,Zatanna,1,2,,1,1,,Character_RecordTitle_13121_1,Character_RecordTitle_13121_2,,Character_RecordDesc_13121_1,Character_RecordDesc_13121_2,
+13122,Spark,1,2,,1,1,,Character_RecordTitle_13122_1,Character_RecordTitle_13122_2,,Character_RecordDesc_13122_1,Character_RecordDesc_13122_2,
+13123,Hawkgirl,,,,,,,,,,,,
+13124,time traveler flash,,,,,,,,,,,,
+13125,Batman,,,,,,,,,,,,
+13126,Black Canary,1,,,1,,,Character_RecordTitle_13126_1,,,Character_RecordDesc_13126_1,,
+13127,Cheetah,1,2,,1,1,,Character_RecordTitle_13127_1,Character_RecordTitle_13127_2,,Character_RecordDesc_13127_1,Character_RecordDesc_13127_2,
+13128,Huntress,1,,,1,,,Character_RecordTitle_13128_1,,,Character_RecordDesc_13128_1,,
+13129,King Shark,1,,,1,,,Character_RecordTitle_13129_1,,,Character_RecordDesc_13129_1,,
+13130,Bat Girl,1,,,1,,,Character_RecordTitle_13130_1,,,Character_RecordDesc_13130_1,,
+13131,Lex Luthor,1,2,,1,1,,Character_RecordTitle_13131_1,Character_RecordTitle_13131_2,,Character_RecordDesc_13131_1,Character_RecordDesc_13131_2,
+13132,Joker,1,2,3,1,1,1,Character_RecordTitle_13132_1,Character_RecordTitle_13132_2,Character_RecordTitle_13132_3,Character_RecordDesc_13132_1,Character_RecordDesc_13132_2,Character_RecordDesc_13132_3
+13133,Sinestro,1,2,3,1,1,1,Character_RecordTitle_13133_1,Character_RecordTitle_13133_2,Character_RecordTitle_13133_3,Character_RecordDesc_13133_1,Character_RecordDesc_13133_2,Character_RecordDesc_13133_3
+13134,Black Adam,1,2,3,1,1,1,Character_RecordTitle_13134_1,Character_RecordTitle_13134_2,Character_RecordTitle_13134_3,Character_RecordDesc_13134_1,Character_RecordDesc_13134_2,Character_RecordDesc_13134_3
+13135,Bizarro,1,2,,1,1,,Character_RecordTitle_13135_1,Character_RecordTitle_13135_2,,Character_RecordDesc_13135_1,Character_RecordDesc_13135_2,
+13136,Raven,1,,,1,,,Character_RecordTitle_13136_1,,,Character_RecordDesc_13136_1,,
+13137,Captain Cold,1,,,1,,,Character_RecordTitle_13137_1,,,Character_RecordDesc_13137_1,,
+13138,Poison Ivy,1,2,,1,1,,Character_RecordTitle_13138_1,Character_RecordTitle_13138_2,,Character_RecordDesc_13138_1,Character_RecordDesc_13138_2,
+13139,Bane,1,2,,1,1,,Character_RecordTitle_13139_1,Character_RecordTitle_13139_2,,Character_RecordDesc_13139_1,Character_RecordDesc_13139_2,
+13140,Gorilla Grodd,1,2,,1,1,,Character_RecordTitle_13140_1,Character_RecordTitle_13140_2,,Character_RecordDesc_13140_1,Character_RecordDesc_13140_2,
+13141,Killer Frost,1,,,1,,,Character_RecordTitle_13141_1,,,Character_RecordDesc_13141_1,,
+13142,Harley Quinn,1,2,,1,1,,Character_RecordTitle_13142_1,Character_RecordTitle_13142_2,,Character_RecordDesc_13142_1,Character_RecordDesc_13142_2,
+13143,Black Manta,1,,,1,,,Character_RecordTitle_13143_1,,,Character_RecordDesc_13143_1,,
+13144,Captain Boomerang,1,,,1,,,Character_RecordTitle_13144_1,,,Character_RecordDesc_13144_1,,
+13145,Scarecrow,1,,,1,,,Character_RecordTitle_13145_1,,,Character_RecordDesc_13145_1,,
+13146,Doctor of Neurology,,,,,,,,,,,,
+13147,Mirror Master,1,2,,1,1,,Character_RecordTitle_13147_1,Character_RecordTitle_13147_2,,Character_RecordDesc_13147_1,Character_RecordDesc_13147_2,
+13148,Penguin,1,,,1,,,Character_RecordTitle_13148_1,,,Character_RecordDesc_13148_1,,
+13149,Ocean Master,1,2,3,1,1,1,Character_RecordTitle_13149_1,Character_RecordTitle_13149_2,Character_RecordTitle_13149_3,Character_RecordDesc_13149_1,Character_RecordDesc_13149_2,Character_RecordDesc_13149_3
+13150,Deadshot,1,,,1,,,Character_RecordTitle_13150_1,,,Character_RecordDesc_13150_1,,
+13151,Deathstroke,1,2,,1,1,,Character_RecordTitle_13151_1,Character_RecordTitle_13151_2,,Character_RecordDesc_13151_1,Character_RecordDesc_13151_2,
+13152,Green Lantern-Hal,1,2,,2,1,,Character_RecordTitle_13152_1,Character_RecordTitle_13152_2,,Character_RecordDesc_13152_1,Character_RecordDesc_13152_2,
+13153,Mr. Freeze,1,,,1,,,Character_RecordTitle_13153_1,,,Character_RecordDesc_13153_1,,
+13156,Zansha,,,,,,,,,,,,
+13157,death storm,,,,,,,,,,,,
+13158,Power Ring,,,,,,,,,,,,
+13159,Johnny Quick,,,,,,,,,,,,
+13160,Super Woman,,,,,,,,,,,,
+13161,Ninja Master,,,,,,,,,,,,
+13162,Speedmaster,,,,,,,,,,,,
+13163,Owlman,,,,,,,,,,,,
+13164,Ring of Madness,,,,,,,,,,,,
+13165,Mrs. Xanadu,,,,,,,,,,,,
+13166,Grid,,,,,,,,,,,,
+13168,Red Arrow,,,,,,,,,,,,
+13169,killer crocodile,1,,,1,,,Character_RecordTitle_13169_1,,,Character_RecordDesc_13169_1,,
+13170,Green Lantern-Jessica,1,,,1,,,Character_RecordTitle_13170_1,,,Character_RecordDesc_13170_1,,
+13171,Two-face,1,2,,1,1,,Character_RecordTitle_13171_1,Character_RecordTitle_13171_2,,Character_RecordDesc_13171_1,Character_RecordDesc_13171_2,
+13172,Red Lantern,,,,,,,,,,,,
+13173,Clayface,1,,,1,,,Character_RecordTitle_13173_1,,,Character_RecordDesc_13173_1,,
+13182,Dr. Ray,,,,,,,,,,,,
+13183,dead,,,,,,,,,,,,
+13184,frankenstein,1,2,,1,3,,Character_RecordTitle_13184_1,Character_RecordTitle_13184_2,,Character_RecordDesc_13184_1,Character_RecordDesc_13184_2,
+13185,Phantom Stranger,1,,,1,,,Character_RecordTitle_13185_1,,,Character_RecordDesc_13185_1,,
+13186,Questioner,1,,,1,,,Character_RecordTitle_13186_1,,,Character_RecordDesc_13186_1,,
+13187,Pandora,1,2,3,1,1,1,Character_RecordTitle_13187_1,Character_RecordTitle_13187_2,Character_RecordTitle_13187_3,Character_RecordDesc_13187_1,Character_RecordDesc_13187_2,Character_RecordDesc_13187_3
+13188,Swamp Monster,,,,,,,,,,,,
+13193,Isis,1,,,1,,,Character_RecordTitle_13193_1,,,Character_RecordDesc_13193_1,,
+13194,White Lantern-Kyle,1,2,3,1,1,1,Character_RecordTitle_13194_1,Character_RecordTitle_13194_2,Character_RecordTitle_13194_3,Character_RecordDesc_13194_1,Character_RecordDesc_13194_2,Character_RecordDesc_13194_3
+13195,Green Lantern-John,1,2,,1,1,,Character_RecordTitle_13195_1,Character_RecordTitle_13195_2,,Character_RecordDesc_13195_1,Character_RecordDesc_13195_2,
+13196,Star Sapphire-Carol,1,2,,1,1,,Character_RecordTitle_13196_1,Character_RecordTitle_13196_2,,Character_RecordDesc_13196_1,Character_RecordDesc_13196_2,
+13200,Jarson,1,,,1,,,,,,,,
+13201,Blue Beetle,1,2,3,1,1,1,Character_RecordTitle_13201_1,Character_RecordTitle_13201_2,Character_RecordTitle_13201_3,Character_RecordDesc_13201_1,Character_RecordDesc_13201_2,Character_RecordDesc_13201_3
+13202,Mera,1,2,,1,1,,Character_RecordTitle_13202_1,Character_RecordTitle_13202_2,,Character_RecordDesc_13202_1,Character_RecordDesc_13202_2,
+13203,Isis,1,2,,1,1,,,,,,,
+13204,WW Clone,1,2,,1,1,,,,,,,
+13205,LL Clone J,1,2,,1,1,,Character_RecordTitle_13131_1,Character_RecordTitle_13131_2,,Character_RecordDesc_13131_1,Character_RecordDesc_13131_2,
+13206,Supergirl,1,2,3,1,1,1,Character_RecordTitle_13206_1,Character_RecordTitle_13206_2,Character_RecordTitle_13206_3,Character_RecordDesc_13206_1,Character_RecordDesc_13206_2,Character_RecordDesc_13206_3
+13208,Bloodsport,1,2,3,1,1,1,Character_RecordTitle_13208_1,Character_RecordTitle_13208_2,Character_RecordTitle_13208_3,Character_RecordDesc_13208_1,Character_RecordDesc_13208_2,Character_RecordDesc_13208_3
+13209,General Zod,1,2,3,1,1,1,Character_RecordTitle_13214_1,Character_RecordTitle_13214_2,Character_RecordTitle_13214_3,Character_RecordDesc_13214_1,Character_RecordDesc_13214_2,Character_RecordDesc_13214_3
+13214,Hugo Strange,1,2,3,1,1,1,Character_RecordTitle_13214_1,Character_RecordTitle_13214_2,Character_RecordTitle_13214_3,Character_RecordDesc_13214_1,Character_RecordDesc_13214_2,Character_RecordDesc_13214_3
+13217,Punchline,1,2,3,1,1,1,Character_RecordTitle_13217_1,Character_RecordTitle_13217_2,Character_RecordTitle_13217_3,Character_RecordDesc_13217_1,Character_RecordDesc_13217_2,Character_RecordDesc_13217_3
+13218,The Bride,1,2,,1,1,,Character_RecordTitle_13218_1,Character_RecordTitle_13218_2,Character_RecordTitle_13218_3,Character_RecordDesc_13218_1,Character_RecordDesc_13218_2,Character_RecordDesc_13218_3
+13219,Dr. Phosphorus,1,2,3,1,2,3,Character_RecordTitle_13219_1,Character_RecordTitle_13219_2,Character_RecordTitle_13219_3,Character_RecordDesc_13219_1,Character_RecordDesc_13219_2,Character_RecordDesc_13219_3
+13220,Weasel,1,2,,1,1,,Character_RecordTitle_13220_1,Character_RecordTitle_13220_2,Character_RecordTitle_13220_3,Character_RecordDesc_13220_1,Character_RecordDesc_13220_2,Character_RecordDesc_13220_3
+13210,Cheshire,1,2,3,1,1,1,Character_RecordTitle_13210_1,Character_RecordTitle_13210_2,Character_RecordTitle_13210_3,Character_RecordDesc_13210_1,Character_RecordDesc_13210_2,Character_RecordDesc_13210_3
+13226,Vigilante,1,2,3,1,1,1,Character_RecordTitle_13226_1,Character_RecordTitle_13226_2,Character_RecordTitle_13226_3,Character_RecordDesc_13226_1,Character_RecordDesc_13226_2,Character_RecordDesc_13226_3
+13207,Vixen,1,2,3,1,1,1,Character_RecordTitle_13207_1,Character_RecordTitle_13207_2,Character_RecordTitle_13207_3,Character_RecordDesc_13207_1,Character_RecordDesc_13207_2,Character_RecordDesc_13207_3
+13234,Judomaster,1,2,3,1,1,1,Character_RecordTitle_13234_1,Character_RecordTitle_13234_2,Character_RecordTitle_13234_3,Character_RecordDesc_13234_1,Character_RecordDesc_13234_2,Character_RecordDesc_13234_3
+13231,Nubia,1,2,3,1,1,1,Character_RecordTitle_13231_1,Character_RecordTitle_13231_2,Character_RecordTitle_13231_3,Character_RecordDesc_13231_1,Character_RecordDesc_13231_2,Character_RecordDesc_13231_3
+13232,Yara Flor,1,2,3,1,1,1,Character_RecordTitle_13232_1,Character_RecordTitle_13232_2,Character_RecordTitle_13232_3,Character_RecordDesc_13232_1,Character_RecordDesc_13232_2,Character_RecordDesc_13232_3
+13213,Guy Gardner,1,2,3,1,1,1,Character_RecordTitle_13213_1,Character_RecordTitle_13213_2,Character_RecordTitle_13213_3,Character_RecordDesc_13213_1,Character_RecordDesc_13213_2,Character_RecordDesc_13213_3
+13216,Mister Terrific - Michael Holt,1,2,3,1,1,1,Character_RecordTitle_13216_1,Character_RecordTitle_13216_2,Character_RecordTitle_13216_3,Character_RecordDesc_13216_1,Character_RecordDesc_13216_2,Character_RecordDesc_13216_3
+13212,Swamp Thing,1,2,3,1,1,1,Character_RecordTitle_13212_1,Character_RecordTitle_13212_2,Character_RecordTitle_13212_3,Character_RecordDesc_13212_1,Character_RecordDesc_13212_2,Character_RecordDesc_13212_3
+13236,Superman - Legacy,1,2,3,1,1,1,Character_RecordTitle_13236_1,Character_RecordTitle_13236_2,Character_RecordTitle_13236_3,Character_RecordDesc_13236_1,Character_RecordDesc_13236_2,Character_RecordDesc_13236_3
+13227,Peacemaker,1,2,3,1,1,1,Character_RecordTitle_13227_1,Character_RecordTitle_13227_2,Character_RecordTitle_13227_3,Character_RecordDesc_13227_1,Character_RecordDesc_13227_2,Character_RecordDesc_13227_3
+13235,Harley Quinn - Criminal Jester,1,2,,1,1,,Character_RecordTitle_13235_1,Character_RecordTitle_13235_2,,Character_RecordDesc_13235_1,Character_RecordDesc_13235_2,
+13230,Batman Beyond,1,2,,1,1,,Character_RecordTitle_13230_1,Character_RecordTitle_13230_2,,Character_RecordDesc_13230_1,Character_RecordDesc_13230_2,
+13229,Batwoman,1,2,,1,1,,Character_RecordTitle_13229_1,Character_RecordTitle_13229_2,,Character_RecordDesc_13229_1,Character_RecordDesc_13229_2,
+13253,Cassandra Cain,1,,,1,,,Character_RecordTitle_13253_1,,,Character_RecordDesc_13253_1,,
+13250,Silver Banshee,1,2,,1,1,,Character_RecordTitle_13250_1,Character_RecordTitle_13250_2,,Character_RecordDesc_13250_1,Character_RecordDesc_13250_2,
+13211,Doctor Poison,1,2,3,1,1,1,Character_RecordTitle_13211_1,Character_RecordTitle_13211_2,Character_RecordTitle_13211_3,Character_RecordDesc_13211_1,Character_RecordDesc_13211_2,Character_RecordDesc_13211_3
+13228,Booster Gold,1,2,,1,1,,Character_RecordTitle_13228_1,Character_RecordTitle_13228_2,,Character_RecordDesc_13228_1,Character_RecordDesc_13228_2,
+13233,Artemis,1,2,3,1,1,1,Character_RecordTitle_13233_1,Character_RecordTitle_13233_2,Character_RecordTitle_13233_3,Character_RecordDesc_13233_1,Character_RecordDesc_13233_2,Character_RecordDesc_13233_3
+13267,Lobo,1,2,3,1,1,1,Character_RecordTitle_13267_1,Character_RecordTitle_13267_2,Character_RecordTitle_13267_3,Character_RecordDesc_13267_1,Character_RecordDesc_13267_2,Character_RecordDesc_13267_3
+13268,Ruthye (DCU),1,2,3,1,1,1,Character_RecordTitle_13268_1,Character_RecordTitle_13268_2,Character_RecordTitle_13268_3,Character_RecordDesc_13268_1,Character_RecordDesc_13268_2,Character_RecordDesc_13268_3
+13266,Supergirl (DCU),1,2,3,1,1,1,Character_RecordTitle_13266_1,Character_RecordTitle_13266_2,Character_RecordTitle_13266_3,Character_RecordDesc_13266_1,Character_RecordDesc_13266_2,Character_RecordDesc_13266_3
+13269,Black Lightning,1,2,3,1,1,1,Character_RecordTitle_13269_1,Character_RecordTitle_13269_2,Character_RecordTitle_13269_3,Character_RecordDesc_13269_1,Character_RecordDesc_13269_2,Character_RecordDesc_13269_3
+13237,Absolute Wonder Woman,1,2,3,1,1,1,Character_RecordTitle_13237_1,Character_RecordTitle_13237_2,Character_RecordTitle_13237_3,Character_RecordDesc_13237_1,Character_RecordDesc_13237_2,Character_RecordDesc_13237_3
+13238,Absolute Batman,1,2,3,1,1,1,Character_RecordTitle_13238_1,Character_RecordTitle_13238_2,Character_RecordTitle_13238_3,Character_RecordDesc_13238_1,Character_RecordDesc_13238_2,Character_RecordDesc_13238_3
+13239,Absolute Superman,1,2,3,1,1,1,Character_RecordTitle_13239_1,Character_RecordTitle_13239_2,Character_RecordTitle_13239_3,Character_RecordDesc_13239_1,Character_RecordDesc_13239_2,Character_RecordDesc_13239_3

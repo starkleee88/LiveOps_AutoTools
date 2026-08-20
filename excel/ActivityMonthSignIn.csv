@@ -1,0 +1,33 @@
+﻿ActivityID,O,GetDays,RewardID,SpRewardID
+Activity ID,Note,Check In Days,Reward ID,Bonus Reward ID
+int,O,int,int,int
+6001,Monthly Check In - Day 1,1,19600101,
+6001,Monthly Check In - Day 2,2,19600102,
+6001,Monthly Check In - Day 3,3,19600103,
+6001,Monthly Check In - Day 4,4,19600104,
+6001,Monthly Check In - Day 5,5,19600105,
+6001,Monthly Check In - Day 6,6,19600106,
+6001,Monthly Check In - Day 7,7,19600107,
+6001,Monthly Check In - Day 8,8,19600108,
+6001,Monthly Check In - Day 9,9,19600109,
+6001,Monthly Check In - Day 10,10,19600110,
+6001,Monthly Check In - Day 11,11,19600111,
+6001,Monthly Check In - Day 12,12,19600112,
+6001,Monthly Check In - Day 13,13,19600113,
+6001,Monthly Check In - Day 14,14,19600114,
+6001,Monthly Check In - Day 15,15,19600115,19600131
+6001,Monthly Check In - Day 16,16,19600116,
+6001,Monthly Check In - Day 17,17,19600117,
+6001,Monthly Check In - Day 18,18,19600118,
+6001,Monthly Check In - Day 19,19,19600119,
+6001,Monthly Check In - Day 20,20,19600120,
+6001,Monthly Check In - Day 21,21,19600121,
+6001,Monthly Check In - Day 22,22,19600122,
+6001,Monthly Check In - Day 23,23,19600123,
+6001,Monthly Check In - Day 24,24,19600124,
+6001,Monthly Check In - Day 25,25,19600125,
+6001,Monthly Check In - Day 26,26,19600126,
+6001,Monthly Check In - Day 27,27,19600127,
+6001,Monthly Check In - Day 28,28,19600128,
+6001,Monthly Check In - Day 29,29,19600129,
+6001,Monthly Check In - Day 30,30,19600130,19600132

@@ -1,0 +1,173 @@
+﻿Key,O,Name,Desc,O,Quality,ICON,Sort
+ID,Name,Name,Description,Description,"Quality
+1: White
+2: Green
+3: Blue
+4: Purple
+5: Orange
+6: Gold",Icon,"Sorting
+In the inventory, sort by quality, within the same quality sort by type, and within the same type sort by priority (smaller numbers come first)."
+index,string,string,string,string,int,string,int
+19230100,Common Equipment Chest,ItemName11101100,ItemDesc11101100,Obtain a random piece of equipment belonging to the Attack Set. (Quality: Common),1,ui_equipbox_0299,1
+19230101,Excellent Equipment Chest,ItemName11101101,ItemDesc11101101,Obtain a random piece of equipment belonging to the Life Set. (Maximum quality: Excellent),2,ui_equipbox_0299,1
+19230102,Excellent Equipment Chest,ItemName11101101,ItemDesc11101102,Obtain a random piece of equipment belonging to the Attack Set. (Maximum quality: Excellent),2,ui_equipbox_0299,1
+19230103,Excellent Equipment Chest,ItemName11101101,ItemDesc11101102,Obtain a random piece of equipment belonging to the Attack Set. (Maximum quality: Excellent),2,ui_equipbox_0299,1
+19230104,Excellent Equipment Chest,ItemName11101101,ItemDesc11101101,Obtain a random piece of equipment belonging to the Life Set. (Maximum quality: Excellent),2,ui_equipbox_0299,1
+19230105,Excellent Equipment Chest,ItemName11101101,ItemDesc11101102,Obtain a random piece of equipment belonging to the Attack Set. (Maximum quality: Excellent),2,ui_equipbox_0299,1
+19230106,Excellent Equipment Chest,ItemName11101101,ItemDesc11101101,Obtain a random piece of equipment belonging to the Life Set. (Maximum quality: Excellent),2,ui_equipbox_0299,1
+19230201,Rare Equipment Chest,ItemName11101102,ItemDesc11101103,Obtain a random piece of equipment belonging to the Life Set. (Maximum quality: Rare),3,ui_equipbox_0399,1
+19230202,Rare Equipment Chest,ItemName11101102,ItemDesc11101104,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Rare),3,ui_equipbox_0399,1
+19230203,Rare Equipment Chest,ItemName11101102,ItemDesc11101105,Obtain a random piece of equipment belonging to the Healing Set. (Maximum quality: Rare),3,ui_equipbox_0399,1
+19230204,Rare Equipment Chest,ItemName11101102,ItemDesc11101103,Obtain a random piece of equipment belonging to the Life Set. (Maximum quality: Rare),3,ui_equipbox_0399,1
+19230205,Rare Equipment Chest,ItemName11101102,ItemDesc11101106,Obtain a random piece of equipment belonging to the Attack Set. (Maximum quality: Rare),3,ui_equipbox_0399,1
+19230206,Rare Equipment Chest,ItemName11101102,ItemDesc11101103,Obtain a random piece of equipment belonging to the Life Set. (Maximum quality: Rare),3,ui_equipbox_0399,1
+19230301,Elite Equipment Chest,ItemName11101103,ItemDesc11101107,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230302,Elite Equipment Chest,ItemName11101103,ItemDesc11101108,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230303,Elite Equipment Chest,ItemName11101103,ItemDesc11101109,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230304,Elite Equipment Chest,ItemName11101103,ItemDesc11101110,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230305,Elite Equipment Chest,ItemName11101103,ItemDesc11101111,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230306,Elite Equipment Chest,ItemName11101103,ItemDesc11101112,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230401,Elite Equipment Chest,ItemName11101103,ItemDesc11101107,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230402,Elite Equipment Chest,ItemName11101103,ItemDesc11101108,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230403,Elite Equipment Chest,ItemName11101103,ItemDesc11101109,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230404,Elite Equipment Chest,ItemName11101103,ItemDesc11101110,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230405,Elite Equipment Chest,ItemName11101103,ItemDesc11101111,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230406,Elite Equipment Chest,ItemName11101103,ItemDesc11101112,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230501,Elite Equipment Chest,ItemName11101103,ItemDesc11101107,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230502,Elite Equipment Chest,ItemName11101103,ItemDesc11101108,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230503,Elite Equipment Chest,ItemName11101103,ItemDesc11101109,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230504,Elite Equipment Chest,ItemName11101103,ItemDesc11101110,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230505,Elite Equipment Chest,ItemName11101103,ItemDesc11101111,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230506,Elite Equipment Chest,ItemName11101103,ItemDesc11101112,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230601,Elite Equipment Chest,ItemName11101103,ItemDesc11101107,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230602,Elite Equipment Chest,ItemName11101103,ItemDesc11101108,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230603,Elite Equipment Chest,ItemName11101103,ItemDesc11101109,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230604,Elite Equipment Chest,ItemName11101103,ItemDesc11101110,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230605,Elite Equipment Chest,ItemName11101103,ItemDesc11101111,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230606,Elite Equipment Chest,ItemName11101103,ItemDesc11101112,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Elite),4,ui_equipbox_0499,1
+19230701,Elite Equipment Chest,ItemName11101104,ItemDesc11101113,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230702,Epic Equipment Chest,ItemName11101104,ItemDesc11101114,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230703,Epic Equipment Chest,ItemName11101104,ItemDesc11101115,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230704,Epic Equipment Chest,ItemName11101104,ItemDesc11101116,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230705,Epic Equipment Chest,ItemName11101104,ItemDesc11101117,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230706,Epic Equipment Chest,ItemName11101104,ItemDesc11101118,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230801,Epic Equipment Chest,ItemName11101104,ItemDesc11101113,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230802,Epic Equipment Chest,ItemName11101104,ItemDesc11101114,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230803,Epic Equipment Chest,ItemName11101104,ItemDesc11101115,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230804,Epic Equipment Chest,ItemName11101104,ItemDesc11101116,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230805,Epic Equipment Chest,ItemName11101104,ItemDesc11101117,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230806,Epic Equipment Chest,ItemName11101104,ItemDesc11101118,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230901,Epic Equipment Chest,ItemName11101104,ItemDesc11101113,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230902,Epic Equipment Chest,ItemName11101104,ItemDesc11101114,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230903,Epic Equipment Chest,ItemName11101104,ItemDesc11101115,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230904,Epic Equipment Chest,ItemName11101104,ItemDesc11101116,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230905,Epic Equipment Chest,ItemName11101104,ItemDesc11101117,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19230906,Epic Equipment Chest,ItemName11101104,ItemDesc11101118,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231001,Epic Equipment Chest,ItemName11101104,ItemDesc11101113,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231002,Epic Equipment Chest,ItemName11101104,ItemDesc11101114,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231003,Epic Equipment Chest,ItemName11101104,ItemDesc11101115,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231004,Epic Equipment Chest,ItemName11101104,ItemDesc11101116,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231005,Epic Equipment Chest,ItemName11101104,ItemDesc11101117,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231006,Epic Equipment Chest,ItemName11101104,ItemDesc11101118,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231101,Epic Equipment Chest,ItemName11101104,ItemDesc11101113,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231102,Epic Equipment Chest,ItemName11101104,ItemDesc11101114,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231103,Epic Equipment Chest,ItemName11101104,ItemDesc11101115,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231104,Epic Equipment Chest,ItemName11101104,ItemDesc11101116,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231105,Epic Equipment Chest,ItemName11101104,ItemDesc11101117,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231106,Epic Equipment Chest,ItemName11101104,ItemDesc11101118,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231201,Epic Equipment Chest,ItemName11101104,ItemDesc11101113,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231202,Epic Equipment Chest,ItemName11101104,ItemDesc11101114,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231203,Epic Equipment Chest,ItemName11101104,ItemDesc11101115,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231204,Epic Equipment Chest,ItemName11101104,ItemDesc11101116,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231205,Epic Equipment Chest,ItemName11101104,ItemDesc11101117,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231206,Epic Equipment Chest,ItemName11101104,ItemDesc11101118,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231301,Epic Equipment Chest,ItemName11101104,ItemDesc11101113,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231302,Epic Equipment Chest,ItemName11101104,ItemDesc11101114,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231303,Epic Equipment Chest,ItemName11101104,ItemDesc11101115,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231304,Epic Equipment Chest,ItemName11101104,ItemDesc11101116,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231305,Epic Equipment Chest,ItemName11101104,ItemDesc11101117,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231306,Epic Equipment Chest,ItemName11101104,ItemDesc11101118,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231401,Epic Equipment Chest,ItemName11101104,ItemDesc11101113,Obtain a random piece of equipment belonging to the Life or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231402,Epic Equipment Chest,ItemName11101104,ItemDesc11101114,Obtain a random piece of equipment belonging to the Attack or Critical Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231403,Epic Equipment Chest,ItemName11101104,ItemDesc11101115,Obtain a random piece of equipment belonging to the Healing or Speed Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231404,Epic Equipment Chest,ItemName11101104,ItemDesc11101116,Obtain a random piece of equipment belonging to the Critical or Life Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231405,Epic Equipment Chest,ItemName11101104,ItemDesc11101117,Obtain a random piece of equipment belonging to the Attack or Healing Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19231406,Epic Equipment Chest,ItemName11101104,ItemDesc11101118,Obtain a random piece of equipment belonging to the Speed or Block Set. (Maximum quality: Epic),5,ui_equipbox_0599,1
+19800001,Epic Equipment Chest,ItemName19800001,ItemDesc19800001,"Random chest after BP max level, randomly obtain 1 item",5,ui_Bpbox_1,1
+19800002,Epic Equipment Chest,ItemName19800001,ItemDesc19800002,"Random chest after BP max level, randomly obtain 1 item",5,ui_Bpbox_1,1
+198001001,Epic Equipment Chest,ItemName19800001,ItemDesc19800002,"Random chest after BP max level, randomly obtain 1 item",5,ui_Bpbox_1,1
+19030002,BP Extra Reward Chest,ItemName1118337,ItemDesc1118337,Obtain a random piece of equipment with a fixed quality of Excellent.,2,ui_equipbox_0299,1
+19030003,BP Extra Reward Chest - New Version,ItemName1118338,ItemDesc1118338,Obtain a random piece of equipment with a fixed quality of Rare.,3,ui_equipbox_0399,1
+19030004,BP Extra Reward Chest - New Version,ItemName1118339,ItemDesc1118339,Obtain a random piece of equipment with a fixed quality of Elite.,4,ui_equipbox_0499,1
+19030014,Random Excellent Equipment,ItemName1118339,ItemDesc1118341,Obtain a random piece of equipment with a fixed quality of Elite Tier 1.,4,ui_equipbox_0499,1
+19030005,Random Rare Equipment,ItemName1118340,ItemDesc1118340,Obtain a random piece of equipment with a fixed quality of Epic.,5,ui_equipbox_0599,1
+19030015,Random Elite Equipment,ItemName1118340,ItemDesc1118342,Obtain a random piece of equipment with a fixed quality of Epic Tier 1.,5,ui_equipbox_0599,1
+19030025,Random Elite Equipment,ItemName1118340,ItemDesc1118343,Obtain a random piece of equipment with a fixed quality of Epic Tier 2.,5,ui_equipbox_0599,1
+19030035,Random Epic Equipment,ItemName1118340,ItemDesc1118344,Obtain a random piece of equipment with a fixed quality of Epic Tier 3.,5,ui_equipbox_0599,1
+1904001304,Random Epic Equipment,ItemName1116004,ItemDesc1116002,"Randomly recruit an Elite ally. If the ally is already recruited, convert to 20 ally shards of that ally.",4,ui_herobox_010103,1
+1904001204,Random Epic Equipment,ItemName1116005,ItemDesc1116003,"Randomly recruit a Rare ally. If the ally is already recruited, convert to 20 ally shards of that ally.",3,ui_herobox_010102,1
+19051104,Random Epic Equipment,ItemName1116009,ItemDesc1116007,"Randomly recruit an Epic ally. If the ally is already recruited, convert to 40 ally shards of that ally.",5,ui_herobox_010104,1
+19051101,Random Elite Ally,ItemName1116006,ItemDesc1116004,"Randomly recruit an Epic ally from the Strength faction. If the ally is already recruited, convert to 40 ally shards of that ally.",5,ui_herobox_010104,1
+19051102,Random Rare Ally,ItemName1116007,ItemDesc1116005,"Randomly recruit an Epic ally from the Agility faction. If the ally is already recruited, convert to 40 ally shards of that ally.",5,ui_herobox_010104,1
+19051103,Random Epic Ally,ItemName1116008,ItemDesc1116006,"Randomly recruit an Epic ally from the Intelligence faction. If the ally is already recruited, convert to 40 ally shards of that ally.",5,ui_herobox_010104,1
+19051105,Random Epic Ally - Strength,RewardDescName19051105,RewardDescDesc19051105,"Randomly obtain an Epic ally shard, fixed as Strength trait.",5,ui_herobox_020104,1
+19051106,Random Epic Ally - Agility,RewardDescName19051106,RewardDescDesc19051106,"Randomly obtain an Epic ally shard, fixed as Agility trait.",5,ui_herobox_020104,1
+19051107,Random Epic Ally - Wisdom,RewardDescName19051107,RewardDescDesc19051107,"Randomly obtain an Epic ally shard, fixed as Intelligence trait.",5,ui_herobox_020104,1
+19180307,Epic Ally Shard - Strength,ItemName1118307,ItemDesc1118307,Specific part random set,2,ui_item_1118307,1
+19180308,Epic Ally Shard - Agility,ItemName1118308,ItemDesc1118308,Specific part random set,2,ui_item_1118308,1
+19180309,Epic Ally Shard - Wisdom,ItemName1118309,ItemDesc1118309,Specific part random set,2,ui_item_1118309,1
+19180310,Random Head - Green,ItemName1118310,ItemDesc1118310,Specific part random set,2,ui_item_1118310,1
+19180311,Random Shoulders - Green,ItemName1118311,ItemDesc1118311,Specific part random set,2,ui_item_1118311,1
+19180312,Random Chest - Green,ItemName1118312,ItemDesc1118312,Specific part random set,2,ui_item_1118312,1
+19180313,Random Waist - Green,ItemName1118313,ItemDesc1118313,Specific part random set,3,ui_item_1118313,1
+19180314,Random Communicator - Green,ItemName1118314,ItemDesc1118314,Specific part random set,3,ui_item_1118314,1
+19180315,Random Accessory - Green,ItemName1118315,ItemDesc1118315,Specific part random set,3,ui_item_1118315,1
+19180316,Random Head - Blue,ItemName1118316,ItemDesc1118316,Specific part random set,3,ui_item_1118316,1
+19180317,Random Shoulders - Blue,ItemName1118317,ItemDesc1118317,Specific part random set,3,ui_item_1118317,1
+19180318,Random Chest - Blue,ItemName1118318,ItemDesc1118318,Specific part random set,3,ui_item_1118318,1
+19180319,Random Waist - Blue,ItemName1118319,ItemDesc1118319,Specific part random set,4,ui_item_1118319,1
+19180320,Random Communicator - Blue,ItemName1118320,ItemDesc1118320,Specific part random set,4,ui_item_1118320,1
+19180321,Random Accessory - Blue,ItemName1118321,ItemDesc1118321,Specific part random set,4,ui_item_1118321,1
+19180322,Random Head - Purple,ItemName1118322,ItemDesc1118322,Specific part random set,4,ui_item_1118322,1
+19180323,Random Shoulders - Purple,ItemName1118323,ItemDesc1118323,Specific part random set,4,ui_item_1118323,1
+19180324,Random Chest - Purple,ItemName1118324,ItemDesc1118324,Specific part random set,4,ui_item_1118324,1
+19180325,Random Waist - Purple,ItemName1118325,ItemDesc1118325,Specific part random set,5,ui_item_1118325,1
+19180326,Random Communicator - Purple,ItemName1118326,ItemDesc1118326,Specific part random set,5,ui_item_1118326,1
+19180327,Random Accessory - Purple,ItemName1118327,ItemDesc1118327,Specific part random set,5,ui_item_1118327,1
+19180328,Random Head - Orange,ItemName1118328,ItemDesc1118328,Specific part random set,5,ui_item_1118328,1
+19180329,Random Shoulders - Orange,ItemName1118329,ItemDesc1118329,Specific part random set,5,ui_item_1118329,1
+19180330,Random Chest - Orange,ItemName1118330,ItemDesc1118330,Specific part random set,5,ui_item_1118330,1
+199801001,Random Waist - Orange,PackTitleAll_980101,ItemDesc980101,Batmobile Combo Pack,5,ui_item_1120035,1
+199801002,Random Communicator - Orange,PackTitleAll_980102,ItemDesc980102,Basic Development Combo Pack,5,ui_CollectionSale_img_pack,1
+199801003,Random Accessory - Orange,PackTitleAll_980103,ItemDesc980103,Advanced Development Combo Pack,5,ui_CollectionSale_img_pack,1
+19230001,Collection Sale Pack 1,ItemName11101100,ItemDesc1170000,Obtain a random piece of equipment with a maximum quality of Common.,1,ui_equipbox_0199,1
+19230002,Collection Sale Pack 2,ItemName11101101,ItemDesc1170004,Obtain a random piece of equipment with a maximum quality of Excellent.,2,ui_equipbox_0299,1
+19230003,Collection Sale Pack 3,ItemName11101101,ItemDesc1170004,Obtain a random piece of equipment with a maximum quality of Excellent.,2,ui_equipbox_0299,1
+19230004,Common Equipment Chest,ItemName11101102,ItemDesc1170003,Obtain a random piece of equipment with a maximum quality of Rare.,3,ui_equipbox_0399,1
+19230005,Excellent Equipment Chest,ItemName11101102,ItemDesc1170003,Obtain a random piece of equipment with a maximum quality of Rare.,3,ui_equipbox_0399,1
+19230006,Excellent Equipment Chest,ItemName11101102,ItemDesc1170003,Obtain a random piece of equipment with a maximum quality of Rare.,3,ui_equipbox_0399,1
+19230007,Rare Equipment Chest,ItemName11101103,ItemDesc1170002,Obtain a random piece of equipment with a maximum quality of Elite.,4,ui_equipbox_0499,1
+19230008,Rare Equipment Chest,ItemName11101103,ItemDesc1170002,Obtain a random piece of equipment with a maximum quality of Elite.,4,ui_equipbox_0499,1
+19230009,Rare Equipment Chest,ItemName11101105,ItemDesc1170005,Obtain a random piece of equipment with a maximum quality of Elite Tier 1.,4,ui_equipbox_0491,1
+19230010,Elite Equipment Chest,ItemName11101105,ItemDesc1170005,Obtain a random piece of equipment with a maximum quality of Elite Tier 1.,4,ui_equipbox_0491,1
+19230011,Elite Equipment Chest,ItemName11101105,ItemDesc1170005,Obtain a random piece of equipment with a maximum quality of Elite Tier 1.,4,ui_equipbox_0491,1
+19230012,Elite Equipment Chest,ItemName11101104,ItemDesc1170001,Obtain a random piece of equipment with a maximum quality of Epic.,5,ui_equipbox_0599,1
+19230013,Elite Equipment Chest,ItemName11101106,ItemDesc1170006,Obtain a random piece of equipment with a maximum quality of Epic Tier 1.,5,ui_equipbox_0591,1
+19230014,Elite Equipment Chest,ItemName11101106,ItemDesc1170006,Obtain a random piece of equipment with a maximum quality of Epic Tier 1.,5,ui_equipbox_0591,1
+19230015,Epic Equipment Chest,ItemName11101106,ItemDesc1170006,Obtain a random piece of equipment with a maximum quality of Epic Tier 1.,5,ui_equipbox_0591,1
+19230016,Epic Equipment Chest,ItemName11101107,ItemDesc1170007,Obtain a random piece of equipment with a maximum quality of Epic Tier 2.,5,ui_equipbox_0592,1
+19230017,Epic Equipment Chest,ItemName11101107,ItemDesc1170007,Obtain a random piece of equipment with a maximum quality of Epic Tier 2.,5,ui_equipbox_0592,1
+19230018,Epic Equipment Chest,ItemName11101107,ItemDesc1170007,Obtain a random piece of equipment with a maximum quality of Epic Tier 2.,5,ui_equipbox_0592,1
+19230019,Epic Equipment Chest,ItemName11101107,ItemDesc1170007,Obtain a random piece of equipment with a maximum quality of Epic Tier 2.,5,ui_equipbox_0592,1
+19401100,Epic Equipment Chest,ItemName11114100,ItemDesc11114100,"Contains all fragments of the ""Who Am I"" illustration, which can be activated in the album.",5,ui_Archives_icon01,1
+19041613,Epic Equipment Chest,ItemName1116014,ItemDesc1116008,Randomly obtain a B Hero shard.,4,ui_item_1116009,1
+19041614,Epic Equipment Chest,ItemName1116015,ItemDesc1116009,Randomly obtain a C Hero shard.,3,ui_item_1116008,1
+19000002,Batman Movie Event Illustration Box,RewardName19000002,RewardDesc19000002,"Each reward includes Equipment Enhancement Parts x5000, Gold x200000.",4,ui_item_111207,1
+19232001,League Challenge Reward Chest 01,ItemName19232001,ItemDesc19232001,Tier 1 rewards for League Challenge. Chance of League Encrypted Tokens!,2,ui_gve_img_chest_01,1
+19232002,League Challenge Reward Chest 02,ItemName19232002,ItemDesc19232002,Tier 2 rewards for League Challenge. More League Currency & League Encrypted Tokens!,2,ui_gve_img_chest_02,1
+19232003,League Challenge Reward Chest 03,ItemName19232003,ItemDesc19232003,Tier 3 rewards for League Challenge. Chance of Inertron Fragments & Inertronite!,2,ui_gve_img_chest_03,1
+19232004,League Challenge Reward Chest 04,ItemName19232004,ItemDesc19232004,Tier 4 rewards for League Challenge. Chance of Basic & Rare Energy Cells!,3,ui_gve_img_chest_04,1
+19232005,League Challenge Reward Chest 05,ItemName19232005,ItemDesc19232005,Tier 5 rewards for League Challenge. More Inertronite & Rare Energy Cells!,3,ui_gve_img_chest_05,1
+19232006,League Challenge Reward Chest 06,ItemName19232006,ItemDesc19232006,Tier 6 rewards for League Challenge. Chance of Ultimate Energy Cells!,3,ui_gve_img_chest_06,1
+19232007,League Challenge Reward Chest 07,ItemName19232007,ItemDesc19232007,Tier 7 rewards for League Challenge. More Ultimate Energy Cells!,4,ui_gve_img_chest_07,1
+19232008,League Challenge Reward Chest 08,ItemName19232008,ItemDesc19232008,Tier 8 rewards for League Challenge. More League Currency & League Encrypted Tokens!,4,ui_gve_img_chest_08,1

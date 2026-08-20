@@ -1,0 +1,12 @@
+﻿TaskID,O,ClickNum,ClickShow,ClickShow,ClickShow,RewardID
+Task ID,Note,Clicks,"Click Status - 
+1: Can Be Clicked
+2: Cannot Click",Click Status 2,Click Status 2,Reward ID
+int,O,int,int,int,int,int
+300101,Task 1,3,1,1,2,190300011
+300102,Task 2,3,1,1,1,190300012
+300103,Task 3,3,1,1,1,190300013
+300104,Task 4,3,1,1,1,190300014
+300105,Task 5,3,1,1,1,190300015
+300106,Task 6,3,1,1,1,190300016
+300107,Task 7,3,1,1,1,190300017

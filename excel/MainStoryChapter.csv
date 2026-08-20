@@ -1,0 +1,8 @@
+﻿ID,Name,Desc,ModelID,PreChapterID,AdvChapterID,AdvStageID,ConfigID,imgThumbnail,imgShare,RewardID,isOpen
+Chapter ID,Name,Description,Character Key,Previous Chapter,Pre-Main section,Main Section,Script ID,Thumbnail,Shared Image,Reward ID,Enabled/Disabled
+index,string,string,int,int,int,int,int,string,string,int,int
+1,Skip_ForeverEvil_Title_01,Skip_ForeverEvil_CH_01,13137,,3,12,1,ui_mainstory_img_illustration1,ui_mainstory_img_share,19069902,1
+2,ItemName1160210,ItemDesc1160106,13131,1,1,1,1,ui_mainstory_img_illustration2,ui_icon_heroheadillustration13131,19010503,0
+3,ItemName1160211,ItemDesc1160107,13102,2,1,1,1,ui_mainstory_img_illustration3,ui_icon_heroheadillustration13102,19010503,0
+4,ItemName1160212,ItemDesc1160108,13102,3,1,1,1,ui_mainstory_img_illustration4,ui_icon_heroheadillustration13102,19010503,0
+5,ItemName1160213,ItemDesc1160109,13113,4,1,1,1,ui_mainstory_img_illustration5,ui_icon_heroheadillustration13113,19010503,0

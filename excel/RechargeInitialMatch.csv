@@ -1,0 +1,32 @@
+﻿Country,,Tag,,RecPackMatchID
+"Country/Region  
+Xie Yue:  
+1 - KR (South Korea)  
+2 - TW (Taiwan)  
+3 - HK (Hong Kong)",,"UG Channel Tag  
+Xie Yue:  
+1 - UAC 1.0  
+2 - UAC 2.5  
+3 - UAC 3.0  
+4 - FB Install  
+5 - FB AEO  
+6 - FB VO",,Reset Historical Maximum Payment Tier
+index,O,index,O,int
+1,kr,1,uac1.0,1
+1,kr,2,uac2.5,5
+1,kr,3,uac3.0,6
+1,kr,4,FB-install,1
+1,kr,5,FB-aeo,6
+1,kr,6,FB-vo,8
+2,tw,1,uac1.0,1
+2,tw,2,uac2.5,3
+2,tw,3,uac3.0,6
+2,tw,4,FB-install,1
+2,tw,5,FB-aeo,3
+2,tw,6,FB-vo,6
+3,hk,1,uac1.0,1
+3,hk,2,uac2.5,6
+3,hk,3,uac3.0,6
+3,hk,4,FB-install,1
+3,hk,5,FB-aeo,6
+3,hk,6,FB-vo,8

@@ -1,0 +1,46 @@
+﻿Id,Name,O,Quality,AllyClass,Desc,FragmentId,FragmentNum,MaxClass,MaxStar,Effect,Version,BattleDes,BrandingIcon,AllyTag
+Artifact ID,Artifact name,Name notes,"Quality
+1-Green
+2-Blue
+3-Violet
+4-Orange","Class restrictions
+0-Any
+1-Tank
+2-DPS
+3-Support",Artifact description,Fragment ID,Number of converted fragments for repeated summons,Maximum class,Maximum star rating,Artifact vfx,New artifact version number,Description of artifact combat characteristics,"DC branding icon path, empty for no icon",Tag type restriction. 0 = Any
+index,string,O,int,int,string,int,int,int,int,array-string,int,string,string,int
+242001,Artifact_Name242001,Enhance Sphere - Red,2,0,Artifact_Desc242001,1123001,5,2,5,,,,,
+242002,Artifact_Name242002,Enhance Sphere - Orange,2,0,Artifact_Desc242002,1123002,5,2,5,,,,,
+242003,Artifact_Name242003,Enhance Sphere - Yellow,2,0,Artifact_Desc242003,1123003,5,2,5,,,,,
+242004,Artifact_Name242004,Enhance Sphere - Green,2,0,Artifact_Desc242004,1123004,5,2,5,,,,,
+242005,Artifact_Name242005,Enhance Sphere - Blue,2,0,Artifact_Desc242005,1123005,5,2,5,,,,,
+242006,Artifact_Name242006,Enhance Sphere - Purple,2,0,Artifact_Desc242006,1123006,5,2,5,,,,,
+242007,Artifact_Name242007,Enhance Sphere - Pink,2,0,Artifact_Desc242007,1123007,5,2,5,,,,,
+243001,Artifact_Name243001,Mega Rod,3,2,Artifact_Desc243001,1123008,10,3,5,,,,,
+243002,Artifact_Name243002,Canary Cry Bomb,3,3,Artifact_Desc243002,1123009,10,3,5,VX_Artifact_Crybomb_01,,,,
+243003,Artifact_Name243003,Wrist Gun,3,2,Artifact_Desc243003,1123010,10,3,5,,,,,
+243004,Artifact_Name243004,Escrima Sticks,3,1,Artifact_Desc243004,1123011,10,3,5,,,,,
+243005,Artifact_Name243005,Bane's Venom,3,1,Artifact_Desc243005,1123012,10,3,5,,,,,
+244001,Artifact_Name244001,Lasso of Truth,4,2,Artifact_Desc244001,1123013,30,4,5,VX_Artifact_LassoofMantra_01,,,,
+244002,Artifact_Name244002,Chaos Crystal,4,2,Artifact_Desc244002,1123014,30,4,5,VX_Artifact_Choascrystal_01|VX_Artifact_Choascrystal_02,,,,
+244003,Artifact_Name244003,Philosopher's Stone,4,3,Artifact_Desc244003,1123015,30,4,5,VX_Artifact_PhilosophersStone_01,,,,
+244004,Artifact_Name244004,Atlantean Helmet,4,1,Artifact_Desc244004,1123016,30,4,5,VX_Artifact_AtlanteanHelmet_01,,Artifact_sale_ui_244004,,
+244005,Artifact_Name244005,Bow of Ra,4,2,Artifact_Desc244005,1123017,30,4,5,VX_Artifact_BowofRa_01,,Artifact_sale_ui_244005,,
+244006,Artifact_Name244006,Mirror of Reverie,4,3,Artifact_Desc244006,1123018,30,4,5,VX_Artifact_MirrorofReverie_01,,,,
+244007,Artifact_Name244007,Vial of Velcoro's Blood,4,2,Artifact_Desc244007,1123019,30,4,5,VX_Artifact_VialofVelcorosBlood_01,,Artifact_sale_ui_244007,,
+244008,Artifact_Name244008,Krona's Power Gauntlet,4,0,Artifact_Desc244008,1123020,30,4,5,VX_Artifact_KronasPowerGauntlet_01,,Artifact_sale_ui_244008,,17
+244009,Artifact_Name244009,Screwdriver Helmet,3,1,Artifact_Desc244009,1123021,10,3,5,VX_Artifact_ScrewdriverHelmet_01,,Artifact_sale_ui_244009,,
+244010,Artifact_Name244010,Nightshade Perfume,4,0,Artifact_Desc244010,1123022,30,4,5,VX_Artifact_NightshadePerfume_01,,Artifact_sale_ui_244010,,1012
+244011,Artifact_Name244011,Jack-In-The-Box,4,2,Artifact_Desc244011,1123023,30,4,5,VX_Artifact_JackInTheBox_01,,Artifact_sale_ui_244011,,
+244012,Artifact_Name244012,Kryptonian Battle Armor,3,0,Artifact_Desc244012,1123024,10,3,5,FX_B_KryptonianBattleArmor_01,,,,14
+244013,Artifact_Name244013,Purple Healing Ray,4,2,Artifact_Desc244013,1123025,30,4,5,VX_Artifact_PurpleHealingRay01,2,Artifact_sale_ui_244013,,
+243006,Artifact_Name243006,Elite Sphere - Red,3,0,Artifact_Desc243006,1123026,10,3,5,,,,,
+243007,Artifact_Name243007,Elite Sphere - Orange,3,0,Artifact_Desc243007,1123027,10,3,5,,,,,
+243008,Artifact_Name243008,Elite Sphere - Yellow,3,0,Artifact_Desc243008,1123028,10,3,5,,,,,
+243009,Artifact_Name243009,Elite Sphere - Green,3,0,Artifact_Desc243009,1123029,10,3,5,,,,,
+243010,Artifact_Name243010,Elite Sphere - Blue,3,0,Artifact_Desc243010,1123030,10,3,5,,,,,
+243011,Artifact_Name243011,Elite Sphere - Purple,3,0,Artifact_Desc243011,1123031,10,3,5,,,,,
+243012,Artifact_Name243012,Elite Sphere - Pink,3,0,Artifact_Desc243012,1123032,10,3,5,,,,,
+244014,Artifact_Name244014,Bracelets of Submission,3,0,Artifact_Desc244014,1123033,10,3,5,VX_Artifact_BraceletsOfSubmission_01,2,Artifact_sale_ui_244014,,
+244015,Artifact_Name244015,Popcorn Butt,4,3,Artifact_Desc244015,1123034,30,4,5,VX_Artifact_PopcornButt_01,2,Artifact_sale_ui_244015,,
+244016,Artifact_Name244016,Pocket Watch ,3,3,Artifact_Desc244016,1123035,10,3,5,VX_Artifact_PocketWatch_01,2,Artifact_sale_ui_244016,,

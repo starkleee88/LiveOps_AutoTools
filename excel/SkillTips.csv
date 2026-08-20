@@ -1,0 +1,12 @@
+﻿ID,TipsName,O,TipsDes,O
+ID,Name,Notes,Description,Notes
+index,string,,string,
+1,StipsName1,Restore,StipsDes1,"Same as Heal, but does not trigger healing related effects from abilities"
+2,StipsName2,Counterattack,StipsDes2,"Gain an extra action opportunity to attack the source of the damage. Unless otherwise specified, default to using normal attacks to counterattack"
+3,StipsName3,True damage,StipsDes3,"Ignores defense, damage reduction, final damage reduction, and can't be blocked"
+1313302,StipsName1313302,Probability,StipsDes1313302,"The more debuffs the enemy has, the higher the probability. When the enemy has 5 types of debuffs, probability is 100%"
+1313402,StipsName1313402,,StipsDes1313402,
+1319504,StipsName1319504,Chance,StipsDes1319504,Base 40% chance plus 5% for each debuff from the source of damage
+4,StipsName4,Block,StipsDes4,Blocking an attack reduces Dmg by their Block Amount. Physical Damage is reduced by a further 20%
+5,StipsName5,Shield,StipsDes5,Absorbs incoming Dmg. Shields reduce incoming Superpower Damage by 10%.
+6,StipsName6,Invulnerability,StipsDes6,"Immune to Damage, Debuffs, and Control Effects.",

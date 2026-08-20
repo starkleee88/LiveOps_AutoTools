@@ -1,0 +1,20 @@
+﻿Id,FuncId,,ShowOrder,IsHidden,FixPosition
+ID,Function ID - Related Func Table,Note,"What's the number from the right?
+※Ascending order, from right to left
+(No. 1 is on the far right)
+※ Ensure that the display order of resident functions is smaller than that of non-resident functions
+※There are 14 display positions in 2x7, which will be automatically postponed to the next line.","Whether it cannot be put away
+1: Cannot be folded
+0: Can be folded","line break mark
+※ Only supports 0~1
+※ 0 means normal arrangement, 1 means line wrapping is required."
+index,int,,int,int,int
+1,9000,Paid mall,3,0,0
+2,410,BP(mission),2,0,0
+3,3000,Newcomer's Manual,1,0,0
+4,9800,activity center,5,0,0
+5,1600,Sign in seven days,6,0,0
+6,9999,First charge,4,0,1
+7,9700,Recommended gift pack,7,0,1
+8,9803,New server limited time tasks,6,0,0
+9,9809,Standalone limited time tasks,6,0,0

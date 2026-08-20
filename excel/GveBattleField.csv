@@ -1,0 +1,6 @@
+﻿BattleFieldID,O,BattleFieldName,BattleFieldBoss,EnemyGroup,Scene,PlayerBattleEnergyRule,EnemyBattleEnergyRule,BattleFieldBuff
+Battleground ID,Observation,Battlefield Name,Battlefield BossID,Monster Group,Corresponding scenarios,Player energy configuration,Enemy Energy Configuration,Buff Configuration
+int,O,string,int,int,string,int,int,int
+1,Outlying Area,,2121701,4000201,Battle_EvilFall_1,11,34,213050201
+2,Energy Supply Area,,2121101,4000101,Battle_EvilFall_1,11,6,
+3,Boss Area,,2121201,4000001,Battle_EvilFall_1,11,6,

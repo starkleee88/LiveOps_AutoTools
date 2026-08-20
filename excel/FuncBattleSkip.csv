@@ -1,0 +1,26 @@
+﻿Id,O,O,ShowStage,OpenStage,VipShowStage,VipOpenStage,O,FullSkipOpenStage,FullSkipVipOpenStage,FullSkipPower
+ID,Note,Note,"Entering the skipped showcase level - 
+Indicates that after clearing this level","Enter the skipped opening level - 
+Indicates that after clearing this level","Enter the display level that was skipped when purchasing VIP -
+Indicates that after clearing this level","Enter the skipped opening level when purchasing VIP - 
+Indicates that after clearing this level",Is there a direct skip function?,Directly skip the opening level,"You can directly skip the opening level when purchasing VIP - 
+Indicates that after clearing this level",By what percentage does your combat power exceed the opponent's to skip?
+index,O,O,int,int,int,int,O,int,int,int
+0,Main line,,,,,,1,,,
+1,Climb the tower,,,,,,1,730,730,50
+2,Elseworld,1,1330,1415,1330,1415,,,,
+3,Explore the copy,1,824,824,824,824,1,824,824,50
+4,Evil Falls,1,1315,1330,1315,1330,1,310,310,50
+5,trial book,,,,,,,,,
+6,Digital Universe,1,415,415,415,415,1,415,415,50
+7,Troubleshooting,,,,,,,,,
+8,Crisis Watch,,,,,,,,,
+9,S Activity-Boss,1,530,530,530,530,,,,
+10,Unrestricted Arena,,,,,,,,,
+11,Friends discuss,,,,,,,,,
+12,S Activity-Tower Climbing,,,,,,,,,
+13,Resource book,,,,,,,,,
+14,Forever Evil,,,,,,,,,
+15,GVE,1,421,421,421,421,,,,
+16,Coordinated operations,1,1830,1830,1830,1830,,,,
+17,Events - Digital Universe,1,1215,1215,1215,1215,1,1215,1215,50

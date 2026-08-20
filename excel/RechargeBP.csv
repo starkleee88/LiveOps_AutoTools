@@ -1,0 +1,54 @@
+﻿ActivityID,O,Type,TypeParam,StartTime,EndTime,Extra,Time,Info,Title,Des,Tips,Banner,Back
+Event ID - Fill in paysub and main,O,Specific Type,Type Parameters,BP Push Time,Event End Time,Whether to Trigger Outside Event Period (1 for Trigger),Duration After Triggering Outside Event Period (Days),Related Conditions\Reward Settings,Title,Description,Condition Hint Description,Banner Image - Change Each Time,Background Base Image
+index,O,int,array-int,string,string,int,int,int,string,string,string,string,string
+9999,"Hero BP - Default, for Custom Display Only",2,,20240825_000000,20240925_000000,0,60,9999,RechargeBpTitle_9999,RechargeBpDes_9999,RechargeBpTips1,ui_recharge_banner_9999,ui_recharg_img_dailyreward_bg
+9901,Hero BP - Superman,1,13101,,,1,60,9901,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13101,ui_recharg_img_dailyreward_bg
+9902,Hero BP - Wonder Woman,1,13103,,,1,60,9902,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13103,ui_recharg_img_dailyreward_bg
+9903,Hero BP - The Flash,1,13104,,,1,60,9903,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13104,ui_recharg_img_dailyreward_bg
+9904,Hero BP - Doctor Fate,1,13108,20250410_000000,20250609_000000,0,60,9904,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13108,ui_recharg_img_dailyreward_bg
+9905,Hero BP - Cyborg,1,13113,,,1,60,9905,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13113,ui_recharg_img_dailyreward_bg
+9906,Hero BP - Luthor,1,13131,,,1,60,9906,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13131,ui_recharg_img_dailyreward_bg
+9907,Hero BP - Deathstroke,1,13151,,,1,60,9907,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13151,ui_recharg_img_dailyreward_bg
+9908,Hero BP - Sinestro (Re-run s8),1,13133,20260312_000000,20260511_000000,0,60,9908,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13133,ui_recharg_img_dailyreward_bg
+9909,Hero BP - Martian Manhunter,1,13106,20220428_000000,20220627_000000,0,60,9909,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13106,ui_recharg_img_dailyreward_bg
+9910,Hero BP - Hal Jordan,1,13152,20220526_000000,20220725_000000,0,60,9910,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13152,ui_recharg_img_dailyreward_bg
+9911,Hero BP - Blue Beetle,1,13201,,,1,60,9911,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips2,ui_recharge_banner_13201,ui_recharg_img_dailyreward_bg
+9912,Hero BP - Supergirl,1,13206,,,1,60,9912,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips3,ui_recharge_banner_13206,ui_recharg_img_dailyreward_bg
+9941,Hero BP - Batman,1,13102,,,0,60,9941,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13102,ui_recharg_img_dailyreward_bg
+9942,Hero BP - Constantine,1,13114,,,0,60,9942,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13114,ui_recharg_img_dailyreward_bg
+9943,Hero BP - Superboy,1,13110,,,0,60,9943,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13110,ui_recharg_img_dailyreward_bg
+9944,Hero BP - Green Arrow,1,13119,,,0,60,9944,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13119,ui_recharg_img_dailyreward_bg
+9945,Hero BP - Grodd,1,13140,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13140,ui_recharg_img_dailyreward_bg
+9946,Hero BP - Starfire,1,13122,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13122,ui_recharg_img_dailyreward_bg
+9947,Hero BP - Red Hood,1,13115,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13115,ui_recharg_img_dailyreward_bg
+9948,Hero BP - Nightwing,1,13109,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13109,ui_recharg_img_dailyreward_bg
+9949,Hero BP - Robin,1,13120,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13120,ui_recharg_img_dailyreward_bg
+9950,Hero BP - Firestorm,1,13118,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13118,ui_recharg_img_dailyreward_bg
+9951,Hero BP - Poison Ivy,1,13138,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13138,ui_recharg_img_dailyreward_bg
+9952,Hero BP - Bane,1,13139,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13139,ui_recharg_img_dailyreward_bg
+9953,Hero BP - Bizarro,1,13135,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13135,ui_recharg_img_dailyreward_bg
+9954,Hero BP - Penguin,1,13148,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13148,ui_recharg_img_dailyreward_bg
+9955,Hero BP - Kid Flash,1,13111,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13111,ui_recharg_img_dailyreward_bg
+9956,Hero BP - Zatanna,1,13121,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13121,ui_recharg_img_dailyreward_bg
+9957,Hero BP - Pandora,1,13187,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13187,ui_recharg_img_dailyreward_bg
+9958,Hero BP - Two-Face,1,13171,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13171,ui_recharg_img_dailyreward_bg
+9959,Hero BP - Killer Frost,1,13141,,,0,60,9945,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13141,ui_recharg_img_dailyreward_bg
+9960,Hero BP - The Bride,1,13218,20250522_000000,20250721_000000,0,60,9960,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13218,ui_recharg_img_dailyreward_bg
+9961,Hero BP - Superman DCU (Re-Schedule),1,13236,20260115_000000,20260316_000000,0,60,9961,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13236,ui_recharg_img_dailyreward_bg
+9913,Hero BP - Peacemaker,1,13227,20250828_000000,20251027_000000,0,60,9913,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13227,ui_recharg_img_dailyreward_bg
+9914,Hero BP - Swamp Thing,1,13212,20251023_000000,20251222_000000,0,60,9914,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13212,ui_recharg_img_dailyreward_bg
+9915,Hero BP - Aquaman (Re-Schedule s9),1,13105,20260510_000000,20260709_000000,0,60,9915,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13105,ui_recharg_img_dailyreward_bg
+9916,Hero BP - Kyle (S9 Rerun),1,13194,20260601_000000,20260731_000000,0,60,9916,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13194,ui_recharg_img_dailyreward_bg
+9918,Hero BP - Superman DCU Re-Run,1,13236,20260110_000000,20260127_000000,0,60,9961,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13236,ui_recharg_img_dailyreward_bg
+9964,Hero BP - General Zod,1,13209,20251218_000000,20260216_000000,0,60,9964,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13209,ui_recharg_img_dailyreward_bg
+9965,Hero BP - The Joker,1,13132,20260212_000000,20260413_000000,0,60,9965,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13132,ui_recharg_img_dailyreward_bg
+9966,Hero BP - Nubia,1,13231,20260409_000000,20260608_000000,0,60,9966,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13231,ui_recharg_img_dailyreward_bg
+9967,Hero BP - Black Adam,1,13134,20260501_000000,20260630_000000,0,60,9967,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13134,ui_recharg_img_dailyreward_bg
+9968,Hero BP - Artemis,1,13233,20260422_000000,20260621_000000,0,60,9968,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13233,ui_recharg_img_dailyreward_bg
+9969,Hero BP - Lobo,1,13267,20260611_000000,20260810_000000,0,60,9969,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13267,ui_recharg_img_dailyreward_bg
+9970,Hero BP - Black Lightning,1,13269,20260925_000000,20261124_000000,0,60,9970,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13269,ui_recharg_img_dailyreward_bg
+9971,Hero BP - Supergirl DCU,1,13266,20260625_000000,20260824_000000,0,60,9971,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13266,ui_recharg_img_dailyreward_bg
+9972,Hero BP - Absolute Superman,1,13239,20260814_000000,20261013_000000,0,60,9972,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13239,ui_recharg_img_dailyreward_bg
+9973,Hero BP - Absolute Wonder Woman,1,13237,20260807_000000,20261006_000000,0,60,9973,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13237,ui_recharg_img_dailyreward_bg
+9974,Hero BP - Absolute Batman,1,13238,20260821_000000,20261020_000000,0,60,9974,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13238,ui_recharg_img_dailyreward_bg
+9975,Hero BP - Booster Gold,1,13228,20260828_000000,20261027_000000,0,60,9975,RechargeBpTitle_1,RechargeBpDes_1,RechargeBpTips1,ui_recharge_banner_13228,ui_recharg_img_dailyreward_bg

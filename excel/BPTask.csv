@@ -1,0 +1,26 @@
+﻿Id,O,O,AddBpScore,AddBoxScore
+Task ID,Note,Note,BP Point Quantity,"Increase Daily Mission  Rewards Progress?
+1: Yes
+2: no"
+index,,,int,int
+9030001,Rank up Characters 2 times,Weekly Task,100,2
+9030002,Recruit Characters 20 times,Weekly Task,200,2
+9030004,Clear Elseworld 2 times,Weekly Task,100,2
+9030006,Buy items from the Base Shop 5 times,Weekly Task,100,2
+9030008,Participate in League Quizzes 3 times,Weekly Task,100,2
+9030009,Complete 1 weekly login,Weekly Task,50,2
+9030010,Level up a character 5 times,Weekly Task,100,2
+9030011,Enhance equipment 5 times,Weekly Task,100,2
+9030012,Level Up Reinforcements 5 Times,Weekly Task,100,2
+9030013,Challenge a Crisis Watch stage 5 times,Weekly Task,150,2
+9030014,Contribute to some areas of League Challenge,Weekly Task,100,2
+9030015,Contribute to each area of League Challenge,Weekly Task,50,2
+9010001,Gather supplies 1 time,Daily Task,20,1
+9010004,Challenge a Convergence Crisis stage 1 time,Daily Task,10,1
+9010005,Challenge Elseworld 1 time,Daily Task,20,1
+9010006,Participate in an Arena battle 1 time,Daily Task,10,1
+9010009,Challenge any Evil Falls boss 1 time,Daily Task,20,1
+9010013,Quick Collect resources 1 time,Daily Task,20,1
+9010014,Accept a Squad Dispatch mission 3 times,Daily Task,20,1
+9010015,Challenge a Main Stage or System Recovery Stage 1 time,Daily Task,10,1
+9010016,Participate in an Elite Arena battle 1 time,Daily Task,10,1

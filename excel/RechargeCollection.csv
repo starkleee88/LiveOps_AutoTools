@@ -1,0 +1,26 @@
+﻿ID,SubStoreID,,StartTime,EndTime,BuyPrePack,PayNum,RewardID,PackTitle,PackSubTitle,PackTitleAll,PackIconSub,SkuId
+"Product ID  
+Tianxing:  
+ID configuration uses store sub-tab + 1XXX configuration, be careful not to use duplicate IDs.","Sub-Store ID  
+Tianxing:  
+Indexed to the PayStoreSub table.","Remarks  
+Tianxing:  
+For local remarks only, the actual gift pack name is indexed to localcommonui to read the localkey.","Shelf Time  
+Tianxing:  
+Enter the specific effective time in the format YYYYMMDDHHMMSS, totaling 14 digits.  
+If not using a specific time as the shelf condition, enter 0.  
+
+Not applicable for limited-time gift packs.","""Unshelf Time  
+Tianxing:  
+Enter the specific effective time in the format YYYYMMDDHHMMSS, totaling 14 digits.  
+If not using a specific time as the unshelf condition, enter 0; for example, 20210511000000.""","Prerequisite Gift Pack for Purchase  
+Bai Dongchen:  
+Enter the specific ID of the prerequisite gift pack. For example, if you enter 2001, it means the current gift pack will only be available after purchasing gift pack 2001.","PayNum  
+User:  
+Keep consistent with the RechargeSDK table, read the payNum field; for diamonds, directly write the number of diamonds.","""Reward ID  
+Tianxing:  
+Mapped to the NormalPackageReward table.""",Combo Pack Title,Combo Pack Subtitle,Secondary Popup Title,Secondary Popup Gift Pack Icon,SKU ID from RechargeSKU.csv
+index,int,O,string,string,int,int,int,string,string,string,string,string
+9801001,9801,Batmobile Sale Tier 1  ,20220116_000000,20220126_000000,,109999,199801001,PackTitle_980101,PackSubTitle_980101,PackTitleAll_980101,ui_CollectionSale_img_tc,characterupgrade100
+9801002,9801,Batmobile Sale Tier 2  ,20220116_000000,20220126_000000,9801001,104999,199801002,PackTitle_980102,PackSubTitle_980101,PackTitleAll_980102,ui_CollectionSale_img_pack02,characterupgrade50
+9801003,9801,Batmobile Sale Tier 3  ,20220116_000000,20220126_000000,9801002,109999,199801003,PackTitle_980103,PackSubTitle_980101,PackTitleAll_980103,ui_CollectionSale_img_pack02,characterupgrade100

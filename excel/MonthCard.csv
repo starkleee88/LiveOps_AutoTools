@@ -1,0 +1,4 @@
+﻿MonthCardID,O,PayNum,Duration,FirstRecharge,ImmediateReward,ImmediateRewardNum,AdditionItemId,AdditionRate,AdditionItemId,AdditionRate,AdditionItemId,AdditionRate,HangUpDiamond,HangUpDiamondDuration,DroneShowType,HangUpShowType,SkuId
+Monthly Card ID,Monthly Card Name,Product Price,Effective Period,Triggers First Purchase,Direct Reward,Direct Reward Quantity,Gold,Additional Gold Bonus Percentage,Experience,Additional Experience Bonus Percentage,Breakthrough Stone,Additional Breakthrough Stone Percentage,Idle Diamonds,Diamond Idle Effective Period,Display Drone Type,Lobby Idle Performance,SKU ID from RechargeSKU.csv
+int,O,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,string
+9201,Standard Monthly Card,100499,2592000,1,111202,300,111201,1000,111203,1000,1113003,1000,10,3600,1,1,diamonddaily5

@@ -1,0 +1,41 @@
+﻿ID,O,StickerID,Name,Icon,Desc,Quality
+"Emoji package ID
+Eduardo-Zhang Hehan:
+21+character ID+the character's set of expressions",Remark,Facial Expression ID,Stickers package name,Stickers package display icon,Description of Stickers,Stickers background
+index,O,array-int,string,string,string,int
+211031,Wonder Woman,101|102|103|104|105|106,stickername211031,ww_icon_despise,stickerdes211031,1
+211021,Batman,201,sticker201,batman_icon_angry,stickerdes201,1
+211022,Batman,202,sticker202,batman_icon_embrass,stickerdes202,1
+211023,Batman,203,sticker203,batman_icon_like,stickerdes203,1
+211024,Batman,204,sticker204,batman_icon_proud,stickerdes204,1
+211025,Batman,205,sticker205,batman_icon_question,stickerdes205,1
+211026,Batman,206,sticker206,batman_icon_shocking,stickerdes206,1
+211051,Deathstroke,301,sticker301,deathstroke_icon_like,stickerdes301,1
+211052,Deathstroke,302,sticker302,deathstroke_icon_happy,stickerdes302,1
+211053,Deathstroke,303,sticker303,deathstroke_icon_point,stickerdes303,1
+211054,Deathstroke,304,sticker304,deathstroke_icon_crazy,stickerdes304,1
+211055,Deathstroke,305,sticker305,deathstroke_icon_shake,stickerdes305,1
+211056,Deathstroke,306,sticker306,deathstroke_icon_serious,stickerdes306,1
+211061,Sinestro,401,sticker401,sinestro_icon_rings,stickerdes401,1
+211062,Sinestro,402,sticker402,sinestro_icon_angry,stickerdes402,1
+211063,Sinestro,403,sticker404,sinestro_icon_smile,stickerdes403,1
+211064,Sinestro,404,sticker404,sinestro_icon_arrogant,stickerdes404,1
+211065,Sinestro,405,sticker405,sinestro_icon_thinking,stickerdes405,1
+211066,Sinestro,406,sticker406,sinestro_icon_blackline,stickerdes406,1
+211071,Martian Manhunter,501,sticker501,manhunter_icon_cookie,stickerdes501,1
+211072,Martian Manhunter,502,sticker502,manhunter_icon_strong,stickerdes502,1
+211073,Martian Manhunter,503,sticker503,manhunter_icon_fear,stickerdes503,1
+211074,Martian Manhunter,504,sticker504,manhunter_icon_aggrieved,stickerdes504,1
+211075,Martian Manhunter,505,sticker505,manhunter_icon_cheers,stickerdes505,1
+211076,Martian Manhunter,506,sticker506,manhunter_icon_hug,stickerdes506,1
+211081,Super Squad,601,sticker601,guild_icon_red,stickerdes601,6
+211082,Super Squad,602,sticker602,guild_icon_orange,stickerdes602,5
+211083,Super Squad,603,sticker603,guild_icon_purple,stickerdes603,4
+211084,Super Squad,604,sticker604,guild_icon_blue,stickerdes604,2
+211085,Super Squad,605,sticker605,guild_icon_green,stickerdes605,1
+211091,Hal Jordan,701,sticker701,hal_icon_nomatter,stickerdes701,1
+211092,Hal Jordan,702,sticker702,hal_icon_follow,stickerdes702,1
+211093,Hal Jordan,703,sticker703,hal_icon_power,stickerdes703,1
+211094,Hal Jordan,704,sticker704,hal_icon_givetome,stickerdes704,1
+211095,Hal Jordan,705,sticker705,hal_icon_want,stickerdes705,1
+211096,Hal Jordan,706,sticker706,hal_icon_ridicule,stickerdes706,1

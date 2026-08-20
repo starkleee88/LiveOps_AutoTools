@@ -1,0 +1,10 @@
+﻿Id,Point,Reward,SpeRewardType
+Daily Activity Reward Levels,Grade,Reward Drop Set,"Special Reward Type - 
+0: No special reward
+1: Rotate rewards, query RoundInfo table"
+index,int,int,int
+1,20,199020001,
+2,40,199020002,
+3,60,199020003,
+4,80,199020004,
+5,100,199020005,1

@@ -1,0 +1,37 @@
+﻿ID,Ally,O,OpenType,OpenValue,Name,Introduction,Animation
+Chapter number,Heroes,Note,"Unlock condition
+1: Unlock this hero
+2: Unlocked when this hero reaches the OpenValue star value",Condition parameter,Description,Description,"Lens type
+3 - Model is biased upward
+4 - Model is centered
+4_1 - upper middle
+4_2 - middle to lower
+5 - Model is biased lower
+6 - Gorilla Grodd
+7 - Bane"
+index,int,O,int,int,string,string,string
+2,13102,Batman,1,,Trial102Name,Trial102Intro,Vx_TrialWindow_change_4
+3,13103,Wonder Woman,1,,Trial103Name,Trial103Intro,Vx_TrialWindow_change_4_1
+6,13110,Superboy,2,5,Trial110Name,Trial110Intro,Vx_TrialWindow_change_4_2
+7,13111,Kid Flash,2,5,Trial111Name,Trial111Intro,Vx_TrialWindow_change_4_2
+9,13115,Red Hood,2,5,Trial115Name,Trial115Intro,Vx_TrialWindow_change_4_1
+11,13119,Green Arrow,2,5,Trial119Name,Trial119Intro,Vx_TrialWindow_change_4_2
+12,13120,Robin,2,5,Trial120Name,Trial120Intro,Vx_TrialWindow_change_5
+18,13138,Poison Ivy,2,5,Trial138Name,Trial138Intro,Vx_TrialWindow_change_4_1
+19,13187,Pandora,2,5,Trial187Name,Trial187Intro,Vx_TrialWindow_change_4_1
+20,13108,Doctor Fate,1,,Trial108Name,Trial108Intro,Vx_TrialWindow_change_6
+21,13171,Two-Face,2,5,Trial171Name,Trial171Intro,Vx_TrialWindow_change_4_1
+22,13113,Cyborg,1,,Trial113Name,Trial113Intro,Vx_TrialWindow_change_4
+23,13131,Lex Luthor,1,,Trial131Name,Trial131Intro,Vx_TrialWindow_change_4
+25,13151,Deathstroke,1,,Trial151Name,Trial151Intro,Vx_TrialWindow_change_4
+26,13101,Superman,1,,Trial101Name,Trial101Intro,Vx_TrialWindow_change_6
+27,13170,GL-Jessica,2,5,Trial170Name,Trial170Intro,Vx_TrialWindow_change_6
+28,13104,The Flash,1,,Trial104Name,Trial104Intro,Vx_TrialWindow_change_4_1
+29,13109,Nightwing,2,5,Trial109Name,Trial109Intro,Vx_TrialWindow_change_4_2
+30,13133,Sinestro,1,,Trial133Name,Trial133Intro,Vx_TrialWindow_change_6
+31,13136,Raven,2,5,Trial136Name,Trial136Intro,Vx_TrialWindow_change_4_1
+32,13114,Constantine,2,5,Trial114Name,Trial114Intro,Vx_TrialWindow_change_4_1
+33,13106,Martian Manhunter,1,,Trial106Name,Trial106Intro,Vx_TrialWindow_change_6
+34,13140,Gorilla Grodd,2,5,Trial140Name,Trial140Intro,Vx_TrialWindow_change_7
+35,13196,Star Sapphire,2,5,Trial196Name,Trial196Intro,Vx_TrialWindow_change_4_1
+36,13152,GL - Hal,1,,Trial152Name,Trial152Intro,Vx_TrialWindow_change_6

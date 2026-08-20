@@ -1,0 +1,54 @@
+﻿ID,O,EventType,EventID,EventName,EventQuality,EventPic,Attribute,O,AttributeTarget,Skill,O,EventDesc,Weight
+ID,O,Event Type,Type ID,Event Name,Event Quality,Event Graph,Attributes | Effects,O,Attribute Target,Skill ID,O,Detailed description of the event,Weight
+index,,int,int,string,int,string,2darray-int,,int,int,,string,int
+1,enemy,1,11,else_enemy,,ui_elseworld_img_zbg_mitu,,,,,,enemy_desc,100
+2,Restore blood,2,12,else_recover,,ui_elseworld_img_zbg_wunhenengliang,1|99999,,1,,,recover_desc,100
+3,Carriage 1,3,13,else_mache,,ui_elseworld_img_zbg_zhaohuanjun,,,,,,mache_desc,50
+4,Carriage 1,3,13,else_mache,,ui_elseworld_img_zbg_zhaohuanjun,,,,,,mache_desc,100
+5,Ordinary Blessings,4,20,else_putong,3,putong,152|2500,Increases Critical Hit by 25%,1,,Increases Critical Hit by 15%,putong_desc4,150
+6,Ordinary Blessings,4,20,else_putong,3,putong,7|1500,Increases attack by 15%,1,,Increases attack by 15%,putong_desc5,150
+7,Ordinary Blessings,4,20,else_putong,3,putong,11|5000,Increase defense by 50%,1,,Increase defense by 30%,putong_desc6,150
+8,Ordinary Blessings,4,20,else_putong,3,putong,3|1500,Increases maximum health by 15%,1,,Increases maximum health by 15%,putong_desc7,150
+9,Ordinary Blessings,4,20,else_putong,4,putong,,,,140010101,"At the start of the battle, add 3 layers of damage reduction and 3 layers of deceleration to all enemies, which lasts for 3 rounds",SkillName140010101,100
+10,Ordinary Blessings,4,20,else_putong,4,putong,,,,140010201,"When the battle starts, the enemy's attack power is reduced by 15% and the critical damage is reduced by 15%.",SkillName140010201,100
+11,Ordinary Blessings,4,20,else_putong,4,putong,,,,140020101,Increases damage by 50% to enemies with HP above 60%.,SkillName140020101,100
+12,Ordinary Blessings,4,20,else_putong,4,putong,,,,140020201,Increases damage by 50% to enemies with health below 40%.,SkillName140020201,100
+13,Ordinary Blessings,4,20,else_putong,4,putong,,,,140020501,"When the health ratio is below 40%, the attack power is increased by 50%",SkillName140020501,100
+14,Ordinary Blessings,4,20,else_putong,4,putong,,,,140020601,"When the health ratio is higher than 60%, the attack power is increased by 50%",SkillName140020601,100
+15,Ordinary Blessings,4,20,else_putong,4,putong,,,,140020701,"Friendly back row heroes, increase attack power by 25% and crit by 20%",SkillName140020701,100
+16,Ordinary Blessings,4,20,else_putong,4,putong,,,,140020901,Friendly enemies with Strength trait increase attack power by 25% and lifesuck by 15%,SkillName140020901,100
+17,Ordinary Blessings,4,20,else_putong,4,putong,,,,140021001,"Speed ​​trait friendly, increase attack power by 25%, lifesteal by 15%",SkillName140021001,100
+18,Ordinary Blessings,4,20,else_putong,4,putong,,,,140021101,Energy-type friendly units increase attack power by 25% and lifesucking by 15%.,SkillName140021101,100
+19,Ordinary Blessings,4,20,else_putong,4,putong,,,,140040701,"At the end of any friendly turn, there is a 60% chance to advance 1 energy level",SkillName140040701,100
+20,Ordinary Blessings,4,20,else_putong,4,putong,,,,140040801,"At the end of any friendly turn, a thunderbolt is dropped on a random enemy target, causing super damage equal to 70% of the attack power.",SkillName140040801,100
+21,Ordinary Blessings,4,20,else_putong,4,putong,,,,140041801,"When frostbite and burning are added, the target's defense is permanently reduced by 8%",SkillName140041801,100
+22,Ordinary Blessings,4,20,else_putong,4,putong,,,,140040101,"When causing frostbite damage, if the target has burning, the frostbite damage will be increased by 40%",SkillName140040101,100
+23,Ordinary Blessings,4,20,else_putong,4,putong,,,,140040201,"When an enemy is detonated, for every layer of frostbite it has, the detonation damage is increased by an additional 20%.",SkillName140040201,100
+24,Ordinary Blessings,4,20,else_putong,4,putong,,,,140042301,"When any friendly unit releases a big move, the friendly unit loses 15% of its current health and gains 4 layers of strong attack, which lasts for 1 round.",SkillName140042301,100
+25,Ordinary Blessings,4,20,else_putong,4,putong,,,,140040301,"When poisoning and bleeding are added, 2 additional layers of the same debuff are added, which lasts until the end of the battle",SkillName140040301,100
+26,Ordinary Blessings,4,20,else_putong,4,putong,,,,140040401,"When poisoned or bleeding, reduces the target's defense by 15%.",SkillName140040401,100
+27,Ordinary Blessings,4,20,else_putong,4,putong,,,,140041601,"Poison and bleeding damage, additional 50% critical hit rate",SkillName140041601,100
+28,Angel Blessing,6,22,else_tianshi,4,tianshi,,,,140030301,"When each friendly hero's health percentage drops below 30% for the first time in battle, he gains immunity and 5 layers of recovery for 1 round.",SkillName140030301,75
+29,Angel Blessing,6,22,else_tianshi,4,tianshi,,,,140042401,"When any friendly unit is damaged, there is a 40% chance of counterattacking with a normal attack.",SkillName140042401,75
+30,Angel Blessing,6,22,else_tianshi,4,tianshi,,,,140020301,Increases damage to enemies in the back row by 35%,SkillName140020301,75
+31,Angel Blessing,6,22,else_tianshi,4,tianshi,,,,140020401,Increases damage to front row enemies by 40%,SkillName140020401,75
+32,Angel Blessing,6,22,else_tianshi,4,tianshi,,,,140020801,"At the start of the round, gain 1 critical hit, which lasts until the end of the battle",SkillName140020801,75
+33,Angel Blessing,6,22,else_tianshi,4,tianshi,,,,140030201,Front row allies gain 30% damage counterattack and 20% health limit,SkillName140030201,75
+34,Angel Blessing,6,22,else_tianshi,4,tianshi,,,,140041401,Increases attack power by 3% of maximum health,SkillName140041401,75
+35,Angel Blessing,6,22,else_tianshi,4,tianshi,,,,140042101,"When being treated, the action bar increases by 15%",SkillName140042101,75
+36,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140030101,"At the start of the battle, all friendly units gain a shield for 2 turns, absorbing damage equal to 30% of their maximum health.",SkillName140030101,50
+37,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140041701,"Increases attack power by 20%; when causing damage, adds 1 layer of poison or 1 layer of bleeding, which lasts for 3 rounds",SkillName140041701,50
+38,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140042501,All friendly forces gain a 30% chance to assist in battle,SkillName140042501,50
+39,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140042201,"When a support ally uses a special move, another random non-support ally can also use a special move without any cost.",SkillName140042201,50
+40,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140041901,"When causing damage, add 1 layer of burning or 1 layer of frostbite",SkillName140041901,50
+41,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140042001,"When a tank ally is damaged, the action bar is increased by 15%.",SkillName140042001,50
+42,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140041001,"When any friendly attack causes damage for the first time, it will release magic shock to 3 random enemy targets, causing super energy damage of 160% of the attack power.",SkillName140041001,50
+43,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140030401,"When the enemy uses a special move for the first time, all friendly units will gain a shield for 2 turns, absorbing damage equal to 30% of their maximum health.",SkillName140030401,50
+44,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140030501,"When receiving damage, the damage will not exceed 10% of the upper limit of health.",SkillName140030501,50
+45,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140040501,The ultimate skill of the front row friendly team reduces the ultimate skill point consumption by 1,SkillName140040501,50
+46,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140040601,"At the start of any friendly turn, there is a 40% chance to gain 1 energy",SkillName140040601,50
+47,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140040901,"After every 5 friendly turns, detonate all enemies, causing super damage equal to 105% of the attack power.",SkillName140040901,50
+48,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140041101,"At the start of a battle, the enemy will be stunned for 2 rounds, but the enemy's attack power will be increased by 20% until the end of the battle",SkillName140041101,50
+49,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140041301,"At the start of the battle, gain 6 energy points, but all friendly units lose 15% of their health",SkillName140041301,50
+50,Angel Blessing,6,22,else_tianshi,5,tianshi,,,,140041501,Tank heroes gain 100% increased damage,SkillName140041501,50
+51,Carriage 2,3,24,,,ui_elseworld_img_zbg_zhaohuanjun,,,,,,,100

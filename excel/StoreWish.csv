@@ -1,0 +1,41 @@
+﻿WishGroup,Priority,RewardPos,O,MixNum,Weight,Reward,IsSpecial,Desc
+Wishing Group,Priority (larger is higher),Prize List,Remark,"Minimum number of draws
+Tang Yuliang:
+When the number is greater than or equal to this number, it will enter the weight pool",Weight,index rewardid,Is there a special reward?,Are there special tags?
+index,index,index,Remark,index,index,index,index,string
+1,1,1,?Make a Wish?Reward-Universal*25,1,10,19150101,1,AllyQualityName2
+1,1,5,?Make a Wish?Reward-Universal*10,1,10,19150102,1,AllyQualityName2
+1,1,7,?Make a Wish?Reward-High Draw*3,1,10,19150103,1,AllyQualityName2
+1,1,11,[Make a Wish] Reward - Hammer*2,1,10,19150104,1,AllyQualityName2
+1,1,3,?Make a Wish?Reward - General draw*5,1,100,19150105,0,
+1,1,6,[Make a Wish] Reward - Purple Melon Seeds*10,1,100,19150106,0,
+1,1,9,?Make a Wish?Reward-B card*4,1,100,19150107,0,
+1,1,12,[Make a Wish] Reward - 24h Gold Box*2,1,100,19150108,0,
+1,1,2,[Make a Wish] Reward - Blue Melon Seeds*15,1,100,19150109,0,
+1,1,4,[Make a Wish] Reward - Collection Experience*100,1,100,19150110,0,
+1,1,8,[Make a Wish] Reward - Equipment Experience*2500,1,100,19150111,0,
+1,1,10,?Make a Wish?Reward-C card*4,1,100,19150112,0,
+2,2,1,Wish - Group 2 - Diamonds,1,10,19150201,1,AllyQualityName2
+2,2,5,Wish - Group 2 - Diamonds,1,10,19150202,1,AllyQualityName2
+2,2,7,Wish - Group 2 - Super Encrypted Tokens,1,10,19150203,1,AllyQualityName2
+2,2,11,Wish - Group 2 - Collection Rank Up Chip,1,10,19150204,1,AllyQualityName2
+2,2,3,Wish - Group 2 - Encrypted Token,1,100,19150205,0,
+2,2,6,Wish - Group 2 - Inertronite,1,100,19150206,0,
+2,2,9,Wish - Group 2 - Elite Character Chest,1,100,19150207,0,
+2,2,12,Wish - Group 2 - 24hr Coin Supply,1,100,19150208,0,
+2,2,2,Wish - Group 2 - Inertron Fragment,1,100,19150209,0,
+2,2,4,Wish - Group 2 - Ninth Metal Fragment,1,100,19150210,0,
+2,2,8,Wish - Group 2 - Equipment Enhancement Part,1,100,19150211,0,
+2,2,10,Wish - Group 2 - Rare Character Chest,1,100,19150212,0,
+3,2,1,Wish - 202510 Update - Diamonds,1,10,19150401,1,AllyQualityName2
+3,3,5,Wish - 202510 Update - Diamonds,1,10,19150402,1,AllyQualityName2
+3,3,7,Wish - 202510 Update - Super Encrypted Tokens,1,10,19150403,1,AllyQualityName2
+3,3,11,Wish - 202510 Update - Collection Rank Up Chip,1,10,19150404,1,AllyQualityName2
+3,3,3,Wish - 202510 Update - Encrypted Token,1,100,19150405,0,
+3,3,6,Wish - 202510 Update - Inertronite,1,100,19150406,0,
+3,3,9,Wish - 202510 Update - Elite Character Chest,1,100,19150407,0,
+3,3,12,Wish - 202510 Update - 12hr Coin Supply,1,100,19150408,0,
+3,3,2,Wish - 202510 Update - Inertron Fragment,1,100,19150409,0,
+3,3,4,Wish - 202510 Update - Ninth Metal Fragment,1,100,19150410,0,
+3,3,8,Wish - 202510 Update - Equipment Enhancement Part,1,100,19150411,0,
+3,3,10,Wish - 202510 Update - Rare Character Chest,1,100,19150412,0,

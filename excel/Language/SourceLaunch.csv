@@ -1,0 +1,86 @@
+﻿Key,en,Module,Explanation
+"NOTE: SourceLaunch.csv and LocalizationLaunch.csv are unique. Editing them may require manually updating ""hard-coded"" string in the app binary. Please consult Engineering before making changes.",English,The area of the game where this string appears,An explanation of the string
+string,string,,
+LaunchStrId_Ok,OK,,Button text for confirmation of dialogs shown before assets are downloaded.
+LaunchStrId_Cancel,Cancel,,not used
+LaunchStrId_ConnectBegin,Connecting to version server,,Text displayed to player when beginning the initial server connection step
+LaunchStrId_ConnectFailed,Failed to connect to the server. Please check your network and retry.,,Generic error message when early initialization fails for non-specific reason
+LaunchStrId_AnnounceBegin,Downloading game announcements,,not used
+LaunchStrId_AnnounceFailed,Failed to download game announcements. Please check your network and retry.,,not used
+LaunchStrId_CheckUpdateBegin,Checking game updates,,Text displayed to player when beginning the asset patch step
+LaunchStrId_CheckUpdateFailed,Failed to get game updates. Please check your network and retry.,,Text displayed to player when failing the asset patch step
+LaunchStrId_PromptReinstall,New game version detected. Please download the newest app from store.,,Text displayed to player if a new binary app download from app store is required.
+LaunchStrId_PromptNewUpdates,A new update is available. Download it now?\n(Estimated download size: <color=green>{0}</color>),,Text displayed to player if a large asset download is needed when they are on wifi
+LaunchStrId_PromptNewUpdatesMobile,A new update is available. Download it now?\n(Estimated download size: <color=green>{0}</color>)\nWi-Fi is not available. Do you want to download the update over cellular?,,Text displayed to player if a large asset download is needed when they are on mobile data
+LaunchStrId_DownloadBegin,Downloading,,Text displayed to player when assets are actively downloading
+LaunchStrId_DownloadFailed,Failed to download assets. Please check your network and retry.,,Text displayed to player when assets failed to download
+LaunchStrId_DecompressBegin,Decompressing package,,not used
+LaunchStrId_DecompressFailed,Failed to decompress {0}. Retry?,,not used
+LaunchStrId_DecompressFinish,Decompression finished,,not used
+LaunchStrId_CheckSeverStatusBegin,Checking game server status,,not used
+LaunchStrId_CheckSeverStatusFailed,Failed to get server status. Please check your network and retry.,,not used
+LaunchStrId_PrepareLogin,Preparing for login,,Text displayed to player when beginning the login step
+LaunchStrId_CopyAssetsBegin,"Uncompressing game data, this process does not consume cellular data",,Text displayed to player when the initial data of the new app is being unpacked onto the device
+LaunchStrId_CleanupOldPatches,Cleaning up old patches,,Text displayed to player when old content needs to be deleted
+LaunchStrId_Notice,NOTICE,,Header text for all prompts to the player during the initialization steps
+LaunchStrId_SDKInit,Initializing…,,not used
+LaunchStrId_SDKInitFailed,Failed to initialize. Please check your network and retry.,,not used
+LaunchStrId_ErrorInternal,Internal error.,,Unexpected error message. Not meant to be seen by players.
+LaunchStrId_ErrorNoSpace,"Insufficient storage space, please reserve at least {0}MB of storage and try again.",,Text displayed to player if they do not have enough storage on their device to play the game
+LaunchStrId_ErrorFileReadFail,File read failed. Retry?,,Text displayed if the game fails to read a necessary file at launch.
+LaunchStrId_ErrorFileWriteFail,File write failed.,,Text displayed if the game fails to write critical information to the player device.
+LaunchStrId_PhotosensitivityWarning,<b><color=#b54536>WARNING</color></b>: This game contains sequences of flashing lights and other visual elements that may cause dizziness or discomfort or trigger seizures in people with photosensitive epilepsy or other photosensitivities. Seizures can occur in people who have not previously experienced them or other epileptic symptoms.,First Window at launch,Photosensitivity warning for the game
+LaunchStrId_AcknowledgmentLabel,Acknowledge,First Window at launch,Photosensitivity warning acknowledgment button label
+LoginMediator_001,Anti-Addiction,,
+LoginMediator_004,Unable to connect to the server. Please check your network connection and try again.,,
+LoginMediator_005,Server Connection Error,,
+LoginMediator_007,Unable to connect to the server. Please check your network connection and try again.,,
+LoginMediator_008,"Login error, please try again.",,
+LoginMediator_012,Hello! Your remaining play time is,,
+LoginMediator_013,minute(s). Please manage your time well.,,
+LoginMediator_014,Your play time today has been used up and will be reset tomorrow. Get some rest!,,
+LoginMediator_017,We have reached the maximum number of players for this beta test. Thank you for your support and understanding!,,
+LoginMediator_018,"Your account has been banned, please contact Support!",,
+LoginMediator_019,Server connection timeout. Please check your network and try again.,,
+LoginMediator_020,There are currently {0} player(s) ahead of you in the queue. Please wait patiently.,,
+LoginMediator_027,Another device is currently logged in with the same account. Please only play on one device at a time.,,
+LoginWindow_002,Connecting to server... ({0}/{1}),,
+LoginWindow_003,Connected to server. Logging in... ({0}/{1}),,
+LoginWindow_004,Logged in to server. Obtaining player info... ({0}/{1}),,
+LoginWindow_005,Player info obtained ({0}/{1}).,,
+LoginWindow_011,Fetching Data... ({0}/{1}),,
+COMMON_CANCEL,Cancel,,
+COMMON_CONFIRM,Confirm,,
+COMMON_REMINDER,Note,,
+COMMON_EXIT,Exit,,
+COMMON_SkipVideoTitle,Skip,,
+SDKLoginHelper_002,Please verify your identity before entering the game.,,
+AgeGateDescription,Please tell us your age so we can provide the best experience for you,,
+AgeGateNoInput,Use the slider to select your age to continue!,,
+AgeGatePreviousParticipation,Please select if you participated in the previous soft launch,,
+GameReconnection_009,Reconnection timed out. Please log in again.,,
+GameReconnection_010,Server is undergoing maintenance.,,
+COMMON_Bgip_Func_Closed,"Sorry, this feature is under maintenance.",,
+AccountLinking_PlayerNetwork_OpenWebsite,Create Account / Sign In,,Button text as CTA to link to Player Network (opens website)
+AccountLinking_PlayerNetwork_APIError,Error {0} when waiting WB Games Account,,When player network returns an unexpected error
+AccountLinking_PlayerNetwork_Title,WB Games Account Linking,,
+AccountLinking_PlayerNetwork_Description,Sign in to your WB Games account to protect your game progress and play on any device. You will also receive 1000 Diamonds to kickstart your game!,,
+AccountLinking_PlayerNetwork_Skip,Do This Later,,
+TOUNotAccepted,Agreement to the Terms of Use is required to play,TOU / Privacy,Popup when trying to continue to game without accepting TOU / PP
+TOUPrompt,"By selecting ‘Confirm’, I agree to the {0} and acknowledge the {1}.",TOU / Privacy,Prompt the user to accept TOU / PP
+TOUTitle,Terms of Use,TOU / Privacy,TOU localized name
+PPTitle,Privacy Policy,TOU / Privacy,PP localized name
+COMMON_RETRY,Retry,,
+AgeGateFail_Title,Account verifier server not responding,,Window title for when PN fails to respond to login or Age Gate Check
+AgeGateFail_Desc,Could not contact server to verify your account. Please try again.,,Window desc for when PN fails to respond to login or Age Gate Check
+PlatformLoginFailDesc,Login using the current first-party platform failed. Retry?,Platform Login Failure,Description of Platform Login Failure
+PlatformLoginFailDescAndroid,Login using your Google Play Games account failed. Retry?,Platform Login Failure (Android),Description of Platform Login Failure
+PlatformLoginFailDescIos,Login using your Apple Game Center account failed. Retry?,Platform Login Failure (Apple),Description of Platform Login Failure
+PlatformLoginFailTitle,Platform Login failed,Platform Login Failure,Title of Platform Login failure
+A11y_Step_Counter, Out of, Login Window, Count the number of steps of Login Screen
+AgeGateTitle,Welcome to DC Worlds Collide,,
+MaintenanceNoticeWithTime,The game will enter Maintenance Mode in approximately {0} minutes.,,Display a message when exists a pending server Maintenance.
+SettingExitTitle,Exit Game,设置,返回按钮
+SettingExitConfirm,Confirm Exit,设置,返回按钮
+SettingExitCancel,Cancel,设置,返回按钮
+SettingExitTips,Are you sure you want to exit the game?,设置,返回按钮

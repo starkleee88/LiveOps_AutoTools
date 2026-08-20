@@ -1,0 +1,19 @@
+﻿BuddleId,Id,LobbySkinId,O,Price
+Bundle ID,Contents ID,Skin ID,Name Note,Price
+index,index,int,O,int
+1,1,232001,Sofa - Recolor 1,1500
+1,2,232002,Floor - Recolor 1,1000
+1,3,232003,Multiverse Table - Recolor 1,500
+1,4,232004,Ally Lounge Door - Recolor 1,1000
+1,5,232005,Hall of Justice Portal - Recolor 1,1500
+1,6,232006,Armrest - Recolor 1,500
+1,7,232007,Archive - Recolor 1,500
+1,8,232008,Spaceship - Recolor 1,1000
+2,1,233001,Sofa - Recolor 2,180
+2,2,233002,Floor - Recolor 2,120
+2,3,233003,Multiverse Table - Recolor 2,60
+2,4,233004,Ally Lounge Door - Recolor 2,120
+2,5,233005,Hall of Justice Portal - Recolor 2,180
+2,6,233006,Armrest - Recolor 2,60
+2,7,233007,Archive - Recolor 2,60
+2,8,233008,Spaceship - Recolor 2,120

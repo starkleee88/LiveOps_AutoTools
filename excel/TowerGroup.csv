@@ -1,0 +1,11 @@
+﻿ID,O,LimitID,OpenWeekDay,ExtraTimeLimit,Location,ClearState,VisibleLocked,GateLevelIDs,TypeIcon,TypeColor,FeaturedItem,IsStarter
+Category ID,Tower,Restricted entry type,Which day it is open,Additional open time,Location,Performance after clearing the level,"0 - Hidden while locked
+1 - Show while locked",res_towerlevel ids limiting early progress. Values separated by |,asset reference,color RGBA hex #FFFFFFFF,featured item id,"0 - False
+1 - True"
+index,O,int,array-int,int,int,int,int,array-int,string,string,int,int
+1,Gotham - Unlimited,0,1|2|3|4|5|6|7,0,1,0,0,805005,,#FFFFFFFF,1113003,0
+2,Central City - Heroes,301,1|6,0,3,0,1,805005,,#FFC137,1113003,1
+3,Keystone City - Villains,300,2|6,0,2,0,1,805005,,#8D248E,1116009,0
+4,Metropolis - Strength,401,3|7,0,6,0,1,805005,,#E32231,111207,0
+5,Star City - Agility,402,4|7,0,5,0,1,805005,,#00B36F,1120030,0
+6,Fawcett - Intellect,403,5|7,0,4,0,1,805005,,#256BFF,111203,0

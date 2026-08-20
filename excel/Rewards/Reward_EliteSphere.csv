@@ -1,0 +1,10 @@
+Key,RewardID,O,HitType,Weight,RuleParams,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,O
+,Reward ID,Note,Randomization,Weights,depricated?,item ID,Amount,Open method,item ID 2,Amount 2,Open method 2,item ID 3,Amount 3,Open method 3,item ID 4,Amount 4,Open method 4,item ID 5,Amount 5,Open method 5,item ID 6,Amount 6,Open method 6,item ID 7,Amount 7,Open method 7,item ID 8,Amount 8,Open method 8,item ID 9,Amount 9,Open method 9,Notes
+index,int,O,int,int,array-int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,O
+192411306,1924113,Artifact Pull - Random Purple Fragment,2,10000,,1123026,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+192411307,1924113,Artifact Pull - Random Purple Fragment,2,10000,,1123027,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+192411308,1924113,Artifact Pull - Random Purple Fragment,2,10000,,1123028,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+192411309,1924113,Artifact Pull - Random Purple Fragment,2,10000,,1123029,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+192411310,1924113,Artifact Pull - Random Purple Fragment,2,10000,,1123030,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+192411311,1924113,Artifact Pull - Random Purple Fragment,2,10000,,1123031,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+192411312,1924113,Artifact Pull - Random Purple Fragment,2,10000,,1123032,2,,,,,,,,,,,,,,,,,,,,,,,,,,

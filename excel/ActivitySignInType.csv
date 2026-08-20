@@ -1,0 +1,12 @@
+﻿ActivityID,O,SignInSubType
+Activity ID,Note,"Sign In Subtype - 
+1: Sign In w/ Gameplay (Christmas)
+2: Ordinary Sign In (New Year's Day)
+3: Comes with extra rewards for signing in (Newbie Month)
+4: Purchasable Calendar"
+int,O,int
+3001,Christmas Sign In,1
+5001,New Year's Day Sign In,2
+6001,Newbie Month Sign In,3
+5002,Valentine's Day Sign In,2
+5003,Halloween Sign In,2

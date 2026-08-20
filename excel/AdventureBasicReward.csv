@@ -1,0 +1,9 @@
+﻿chapterid,FailTime,Reward,Reward,MaxTime
+Main chapter ID,# of Failures,Rewards after reaching failure #,Reward,Max # of times that can be collected
+int,int,array-int,array-int,array-int
+1,1,18110102|1,18110104|1,1
+2,1,18110204|1,0,1
+3,1,18110201|1,0,1
+4,1,18110301|1,0,1
+5,1,18130202|1,18130203|1,1
+6,1,18110302|1,0,1

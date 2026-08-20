@@ -1,0 +1,36 @@
+﻿Id,Name,O,Desc,Quality,Weight,Time
+Event ID,Event Name,Name Note,Event Description,Event Quality,Weight,Time Consumption (seconds)
+index,string,O,string,int,int,int
+1,Dispatch_MissionName1,Find Pet,Dispatch_MissionDesc1,1,100,3600
+2,Dispatch_MissionName2,Stop Ex,Dispatch_MissionDesc2,1,100,3600
+3,Dispatch_MissionName3,Prevent Bullying,Dispatch_MissionDesc3,1,100,3600
+4,Dispatch_MissionName4,School Shooting,Dispatch_MissionDesc4,1,100,3600
+5,Dispatch_MissionName5,Construction Site Collapse,Dispatch_MissionDesc5,1,100,3600
+6,Dispatch_MissionName6,Online Fraud,Dispatch_MissionDesc6,1,100,3600
+7,Dispatch_MissionName7,Mass Prison Break,Dispatch_MissionDesc7,1,100,3600
+8,Dispatch_MissionName8,Gas Leak,Dispatch_MissionDesc8,1,100,3600
+9,Dispatch_MissionName1,Find Pet,Dispatch_MissionDesc1,2,100,7200
+10,Dispatch_MissionName2,Stop Ex,Dispatch_MissionDesc2,2,100,7200
+11,Dispatch_MissionName3,Prevent Bullying,Dispatch_MissionDesc3,2,100,7200
+12,Dispatch_MissionName4,School Shooting,Dispatch_MissionDesc4,2,100,7200
+13,Dispatch_MissionName5,Construction Site Collapse,Dispatch_MissionDesc5,2,100,7200
+14,Dispatch_MissionName6,Online Fraud,Dispatch_MissionDesc6,2,100,7200
+15,Dispatch_MissionName7,Mass Prison Break,Dispatch_MissionDesc7,2,100,7200
+16,Dispatch_MissionName8,Gas Leak,Dispatch_MissionDesc8,2,100,7200
+17,Dispatch_MissionName1,Find Pet,Dispatch_MissionDesc1,3,100,14400
+18,Dispatch_MissionName2,Stop Ex,Dispatch_MissionDesc2,3,100,14400
+19,Dispatch_MissionName3,Prevent Bullying,Dispatch_MissionDesc3,3,100,14400
+20,Dispatch_MissionName4,School Shooting,Dispatch_MissionDesc4,3,100,14400
+21,Dispatch_MissionName5,Construction Site Collapse,Dispatch_MissionDesc5,3,100,14400
+22,Dispatch_MissionName6,Online Fraud,Dispatch_MissionDesc6,3,100,14400
+23,Dispatch_MissionName7,Mass Prison Break,Dispatch_MissionDesc7,3,100,14400
+24,Dispatch_MissionName8,Gas Leak,Dispatch_MissionDesc8,3,100,14400
+25,Dispatch_MissionName1,Find Pet,Dispatch_MissionDesc1,4,100,28800
+26,Dispatch_MissionName2,Stop Ex,Dispatch_MissionDesc2,4,100,28800
+27,Dispatch_MissionName3,Prevent Bullying,Dispatch_MissionDesc3,4,100,28800
+28,Dispatch_MissionName4,School Shooting,Dispatch_MissionDesc4,4,100,28800
+29,Dispatch_MissionName5,Construction Site Collapse,Dispatch_MissionDesc5,4,100,28800
+30,Dispatch_MissionName6,Online Fraud,Dispatch_MissionDesc6,4,100,28800
+31,Dispatch_MissionName7,Mass Prison Break,Dispatch_MissionDesc7,4,100,28800
+32,Dispatch_MissionName8,Gas Leak,Dispatch_MissionDesc8,4,100,28800
+999,Dispatch_MissionName3,Prevent Bullying,Dispatch_MissionDesc3,0,100,1

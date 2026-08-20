@@ -1,0 +1,25 @@
+﻿ID,O,Sort,Times,NeedStar,Cost,NeedHero1,Hero1Cost,NeedHero2,Hero2Cost,NeedHero3,Hero3Cost,NeedHero4,Hero4Cost,NeedHero5,Hero5Cost,Des
+Ally ID,Note,Priority,"# of times this
+can be reedeemed - 
+Leave blank for
+no limit","Star
+Requirement","Whether to consume
+hero fragments
+1: Yes, 2: no
+If 2, you do not need
+to fill in Cost columns",Hero ID,"Different Hero Costs by number of times - Greater than or equal to logic, the first consumption must be filled in to avoid errors.
+1|4;10|5;30|6
+Then the 1st-9th time costs 4, the 10-29th time costs 5, and the ≥30th time costs 6",Hero ID,"Different Hero Costs by number of times - Greater than or equal to logic, the first consumption must be filled in to avoid errors.
+1|4;10|5;30|6
+Then the 1st-9th time costs 4, the 10-29th time costs 5, and the ≥30th time costs 6",Hero ID,"Different Hero Costs by number of times - Greater than or equal to logic, the first consumption must be filled in to avoid errors.
+1|4;10|5;30|6
+Then the 1st-9th time costs 4, the 10-29th time costs 5, and the ≥30th time costs 6",Hero ID,"Different Hero Costs by number of times - Greater than or equal to logic, the first consumption must be filled in to avoid errors.
+1|4;10|5;30|6
+Then the 1st-9th time costs 4, the 10-29th time costs 5, and the ≥30th time costs 6",Hero ID,"Different Hero Costs by number of times - Greater than or equal to logic, the first consumption must be filled in to avoid errors.
+1|4;10|5;30|6
+Then the 1st-9th time costs 4, the 10-29th time costs 5, and the ≥30th time costs 6",Fusion Instructions
+index,,int,int,int,int,int,2darray-int,int,2darray-int,int,2darray-int,int,2darray-int,int,2darray-int,string
+13131,Luthor,1,1,6,2,13119,,13140,,13110,,13111,,,,AllyGachaExchange_Des1
+13140,Gorilla Grood,2,1,8,1,13137,1|60,13147,1|60,13145,1|60,,,,,AllyGachaExchange_Des2
+13110,Superboy,3,1,8,1,13143,1|60,13150,1|60,13169,1|60,,,,,AllyGachaExchange_Des2
+13111,Kid Quick,4,1,8,1,13128,1|60,13142,1|60,13153,1|60,,,,,AllyGachaExchange_Des2

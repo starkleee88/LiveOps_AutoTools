@@ -1,0 +1,1051 @@
+﻿ID,Type,Times,Prob,O,O
+ID,Corresponds to the GachaS and GachaA fields of the gachatype table,Frequency,"Probability - 
+10k ratio","Probability
+Note",Effect
+int,int,int,int,O,O
+1361,502,1,65,0.65%,S card guaranteed for 250 times
+1362,502,2,65,0.65%,S card guaranteed for 250 times
+1363,502,3,65,0.65%,S card guaranteed for 250 times
+1364,502,4,65,0.65%,S card guaranteed for 250 times
+1365,502,5,65,0.65%,S card guaranteed for 250 times
+1366,502,6,65,0.65%,S card guaranteed for 250 times
+1367,502,7,65,0.65%,S card guaranteed for 250 times
+1368,502,8,65,0.65%,S card guaranteed for 250 times
+1369,502,9,65,0.65%,S card guaranteed for 250 times
+1370,502,10,65,0.65%,S card guaranteed for 250 times
+1371,502,11,65,0.65%,S card guaranteed for 250 times
+1372,502,12,65,0.65%,S card guaranteed for 250 times
+1373,502,13,65,0.65%,S card guaranteed for 250 times
+1374,502,14,65,0.65%,S card guaranteed for 250 times
+1375,502,15,65,0.65%,S card guaranteed for 250 times
+1376,502,16,65,0.65%,S card guaranteed for 250 times
+1377,502,17,65,0.65%,S card guaranteed for 250 times
+1378,502,18,65,0.65%,S card guaranteed for 250 times
+1379,502,19,65,0.65%,S card guaranteed for 250 times
+1380,502,20,65,0.65%,S card guaranteed for 250 times
+1381,502,21,65,0.65%,S card guaranteed for 250 times
+1382,502,22,65,0.65%,S card guaranteed for 250 times
+1383,502,23,65,0.65%,S card guaranteed for 250 times
+1384,502,24,65,0.65%,S card guaranteed for 250 times
+1385,502,25,65,0.65%,S card guaranteed for 250 times
+1386,502,26,65,0.65%,S card guaranteed for 250 times
+1387,502,27,65,0.65%,S card guaranteed for 250 times
+1388,502,28,65,0.65%,S card guaranteed for 250 times
+1389,502,29,65,0.65%,S card guaranteed for 250 times
+1390,502,30,65,0.65%,S card guaranteed for 250 times
+1391,502,31,65,0.65%,S card guaranteed for 250 times
+1392,502,32,65,0.65%,S card guaranteed for 250 times
+1393,502,33,65,0.65%,S card guaranteed for 250 times
+1394,502,34,65,0.65%,S card guaranteed for 250 times
+1395,502,35,65,0.65%,S card guaranteed for 250 times
+1396,502,36,65,0.65%,S card guaranteed for 250 times
+1397,502,37,65,0.65%,S card guaranteed for 250 times
+1398,502,38,65,0.65%,S card guaranteed for 250 times
+1399,502,39,65,0.65%,S card guaranteed for 250 times
+1400,502,40,65,0.65%,S card guaranteed for 250 times
+1401,502,41,65,0.65%,S card guaranteed for 250 times
+1402,502,42,65,0.65%,S card guaranteed for 250 times
+1403,502,43,65,0.65%,S card guaranteed for 250 times
+1404,502,44,65,0.65%,S card guaranteed for 250 times
+1405,502,45,65,0.65%,S card guaranteed for 250 times
+1406,502,46,65,0.65%,S card guaranteed for 250 times
+1407,502,47,65,0.65%,S card guaranteed for 250 times
+1408,502,48,65,0.65%,S card guaranteed for 250 times
+1409,502,49,65,0.65%,S card guaranteed for 250 times
+1410,502,50,111,1.11%,S card guaranteed for 250 times
+1411,502,51,111,1.11%,S card guaranteed for 250 times
+1412,502,52,111,1.11%,S card guaranteed for 250 times
+1413,502,53,111,1.11%,S card guaranteed for 250 times
+1414,502,54,111,1.11%,S card guaranteed for 250 times
+1415,502,55,111,1.11%,S card guaranteed for 250 times
+1416,502,56,111,1.11%,S card guaranteed for 250 times
+1417,502,57,111,1.11%,S card guaranteed for 250 times
+1418,502,58,111,1.11%,S card guaranteed for 250 times
+1419,502,59,111,1.11%,S card guaranteed for 250 times
+1420,502,60,111,1.11%,S card guaranteed for 250 times
+1421,502,61,111,1.11%,S card guaranteed for 250 times
+1422,502,62,111,1.11%,S card guaranteed for 250 times
+1423,502,63,111,1.11%,S card guaranteed for 250 times
+1424,502,64,111,1.11%,S card guaranteed for 250 times
+1425,502,65,111,1.11%,S card guaranteed for 250 times
+1426,502,66,111,1.11%,S card guaranteed for 250 times
+1427,502,67,111,1.11%,S card guaranteed for 250 times
+1428,502,68,111,1.11%,S card guaranteed for 250 times
+1429,502,69,111,1.11%,S card guaranteed for 250 times
+1430,502,70,111,1.11%,S card guaranteed for 250 times
+1431,502,71,111,1.11%,S card guaranteed for 250 times
+1432,502,72,111,1.11%,S card guaranteed for 250 times
+1433,502,73,111,1.11%,S card guaranteed for 250 times
+1434,502,74,111,1.11%,S card guaranteed for 250 times
+1435,502,75,111,1.11%,S card guaranteed for 250 times
+1436,502,76,111,1.11%,S card guaranteed for 250 times
+1437,502,77,111,1.11%,S card guaranteed for 250 times
+1438,502,78,111,1.11%,S card guaranteed for 250 times
+1439,502,79,111,1.11%,S card guaranteed for 250 times
+1440,502,80,111,1.11%,S card guaranteed for 250 times
+1441,502,81,111,1.11%,S card guaranteed for 250 times
+1442,502,82,111,1.11%,S card guaranteed for 250 times
+1443,502,83,111,1.11%,S card guaranteed for 250 times
+1444,502,84,111,1.11%,S card guaranteed for 250 times
+1445,502,85,111,1.11%,S card guaranteed for 250 times
+1446,502,86,111,1.11%,S card guaranteed for 250 times
+1447,502,87,111,1.11%,S card guaranteed for 250 times
+1448,502,88,111,1.11%,S card guaranteed for 250 times
+1449,502,89,111,1.11%,S card guaranteed for 250 times
+1450,502,90,111,1.11%,S card guaranteed for 250 times
+1451,502,91,111,1.11%,S card guaranteed for 250 times
+1452,502,92,111,1.11%,S card guaranteed for 250 times
+1453,502,93,111,1.11%,S card guaranteed for 250 times
+1454,502,94,111,1.11%,S card guaranteed for 250 times
+1455,502,95,111,1.11%,S card guaranteed for 250 times
+1456,502,96,111,1.11%,S card guaranteed for 250 times
+1457,502,97,111,1.11%,S card guaranteed for 250 times
+1458,502,98,111,1.11%,S card guaranteed for 250 times
+1459,502,99,111,1.11%,S card guaranteed for 250 times
+1460,502,100,111,1.11%,S card guaranteed for 250 times
+1461,502,101,111,1.11%,S card guaranteed for 250 times
+1462,502,102,111,1.11%,S card guaranteed for 250 times
+1463,502,103,111,1.11%,S card guaranteed for 250 times
+1464,502,104,111,1.11%,S card guaranteed for 250 times
+1465,502,105,111,1.11%,S card guaranteed for 250 times
+1466,502,106,111,1.11%,S card guaranteed for 250 times
+1467,502,107,111,1.11%,S card guaranteed for 250 times
+1468,502,108,111,1.11%,S card guaranteed for 250 times
+1469,502,109,111,1.11%,S card guaranteed for 250 times
+1470,502,110,111,1.11%,S card guaranteed for 250 times
+1471,502,111,111,1.11%,S card guaranteed for 250 times
+1472,502,112,111,1.11%,S card guaranteed for 250 times
+1473,502,113,111,1.11%,S card guaranteed for 250 times
+1474,502,114,111,1.11%,S card guaranteed for 250 times
+1475,502,115,111,1.11%,S card guaranteed for 250 times
+1476,502,116,111,1.11%,S card guaranteed for 250 times
+1477,502,117,111,1.11%,S card guaranteed for 250 times
+1478,502,118,111,1.11%,S card guaranteed for 250 times
+1479,502,119,111,1.11%,S card guaranteed for 250 times
+1480,502,120,111,1.11%,S card guaranteed for 250 times
+1481,502,121,111,1.11%,S card guaranteed for 250 times
+1482,502,122,111,1.11%,S card guaranteed for 250 times
+1483,502,123,111,1.11%,S card guaranteed for 250 times
+1484,502,124,111,1.11%,S card guaranteed for 250 times
+1485,502,125,111,1.11%,S card guaranteed for 250 times
+1486,502,126,111,1.11%,S card guaranteed for 250 times
+1487,502,127,111,1.11%,S card guaranteed for 250 times
+1488,502,128,111,1.11%,S card guaranteed for 250 times
+1489,502,129,111,1.11%,S card guaranteed for 250 times
+1490,502,130,111,1.11%,S card guaranteed for 250 times
+1491,502,131,111,1.11%,S card guaranteed for 250 times
+1492,502,132,111,1.11%,S card guaranteed for 250 times
+1493,502,133,111,1.11%,S card guaranteed for 250 times
+1494,502,134,111,1.11%,S card guaranteed for 250 times
+1495,502,135,111,1.11%,S card guaranteed for 250 times
+1496,502,136,111,1.11%,S card guaranteed for 250 times
+1497,502,137,111,1.11%,S card guaranteed for 250 times
+1498,502,138,111,1.11%,S card guaranteed for 250 times
+1499,502,139,111,1.11%,S card guaranteed for 250 times
+1500,502,140,111,1.11%,S card guaranteed for 250 times
+1501,502,141,111,1.11%,S card guaranteed for 250 times
+1502,502,142,111,1.11%,S card guaranteed for 250 times
+1503,502,143,111,1.11%,S card guaranteed for 250 times
+1504,502,144,111,1.11%,S card guaranteed for 250 times
+1505,502,145,111,1.11%,S card guaranteed for 250 times
+1506,502,146,111,1.11%,S card guaranteed for 250 times
+1507,502,147,111,1.11%,S card guaranteed for 250 times
+1508,502,148,111,1.11%,S card guaranteed for 250 times
+1509,502,149,111,1.11%,S card guaranteed for 250 times
+1510,502,150,111,1.11%,S card guaranteed for 250 times
+1511,502,151,111,1.11%,S card guaranteed for 250 times
+1512,502,152,111,1.11%,S card guaranteed for 250 times
+1513,502,153,111,1.11%,S card guaranteed for 250 times
+1514,502,154,111,1.11%,S card guaranteed for 250 times
+1515,502,155,111,1.11%,S card guaranteed for 250 times
+1516,502,156,111,1.11%,S card guaranteed for 250 times
+1517,502,157,111,1.11%,S card guaranteed for 250 times
+1518,502,158,111,1.11%,S card guaranteed for 250 times
+1519,502,159,111,1.11%,S card guaranteed for 250 times
+1520,502,160,111,1.11%,S card guaranteed for 250 times
+1521,502,161,111,1.11%,S card guaranteed for 250 times
+1522,502,162,111,1.11%,S card guaranteed for 250 times
+1523,502,163,111,1.11%,S card guaranteed for 250 times
+1524,502,164,111,1.11%,S card guaranteed for 250 times
+1525,502,165,111,1.11%,S card guaranteed for 250 times
+1526,502,166,111,1.11%,S card guaranteed for 250 times
+1527,502,167,111,1.11%,S card guaranteed for 250 times
+1528,502,168,111,1.11%,S card guaranteed for 250 times
+1529,502,169,111,1.11%,S card guaranteed for 250 times
+1530,502,170,111,1.11%,S card guaranteed for 250 times
+1531,502,171,111,1.11%,S card guaranteed for 250 times
+1532,502,172,111,1.11%,S card guaranteed for 250 times
+1533,502,173,111,1.11%,S card guaranteed for 250 times
+1534,502,174,111,1.11%,S card guaranteed for 250 times
+1535,502,175,111,1.11%,S card guaranteed for 250 times
+1536,502,176,111,1.11%,S card guaranteed for 250 times
+1537,502,177,111,1.11%,S card guaranteed for 250 times
+1538,502,178,111,1.11%,S card guaranteed for 250 times
+1539,502,179,111,1.11%,S card guaranteed for 250 times
+1540,502,180,111,1.11%,S card guaranteed for 250 times
+1541,502,181,111,1.11%,S card guaranteed for 250 times
+1542,502,182,111,1.11%,S card guaranteed for 250 times
+1543,502,183,111,1.11%,S card guaranteed for 250 times
+1544,502,184,111,1.11%,S card guaranteed for 250 times
+1545,502,185,111,1.11%,S card guaranteed for 250 times
+1546,502,186,111,1.11%,S card guaranteed for 250 times
+1547,502,187,111,1.11%,S card guaranteed for 250 times
+1548,502,188,111,1.11%,S card guaranteed for 250 times
+1549,502,189,111,1.11%,S card guaranteed for 250 times
+1550,502,190,111,1.11%,S card guaranteed for 250 times
+1551,502,191,111,1.11%,S card guaranteed for 250 times
+1552,502,192,111,1.11%,S card guaranteed for 250 times
+1553,502,193,111,1.11%,S card guaranteed for 250 times
+1554,502,194,111,1.11%,S card guaranteed for 250 times
+1555,502,195,111,1.11%,S card guaranteed for 250 times
+1556,502,196,111,1.11%,S card guaranteed for 250 times
+1557,502,197,111,1.11%,S card guaranteed for 250 times
+1558,502,198,111,1.11%,S card guaranteed for 250 times
+1559,502,199,111,1.11%,S card guaranteed for 250 times
+1560,502,200,111,1.11%,S card guaranteed for 250 times
+1561,502,201,111,1.11%,S card guaranteed for 250 times
+1562,502,202,111,1.11%,S card guaranteed for 250 times
+1563,502,203,111,1.11%,S card guaranteed for 250 times
+1564,502,204,111,1.11%,S card guaranteed for 250 times
+1565,502,205,111,1.11%,S card guaranteed for 250 times
+1566,502,206,111,1.11%,S card guaranteed for 250 times
+1567,502,207,111,1.11%,S card guaranteed for 250 times
+1568,502,208,111,1.11%,S card guaranteed for 250 times
+1569,502,209,111,1.11%,S card guaranteed for 250 times
+1570,502,210,111,1.11%,S card guaranteed for 250 times
+1571,502,211,111,1.11%,S card guaranteed for 250 times
+1572,502,212,111,1.11%,S card guaranteed for 250 times
+1573,502,213,111,1.11%,S card guaranteed for 250 times
+1574,502,214,111,1.11%,S card guaranteed for 250 times
+1575,502,215,111,1.11%,S card guaranteed for 250 times
+1576,502,216,111,1.11%,S card guaranteed for 250 times
+1577,502,217,111,1.11%,S card guaranteed for 250 times
+1578,502,218,111,1.11%,S card guaranteed for 250 times
+1579,502,219,111,1.11%,S card guaranteed for 250 times
+1580,502,220,111,1.11%,S card guaranteed for 250 times
+1581,502,221,111,1.11%,S card guaranteed for 250 times
+1582,502,222,111,1.11%,S card guaranteed for 250 times
+1583,502,223,111,1.11%,S card guaranteed for 250 times
+1584,502,224,111,1.11%,S card guaranteed for 250 times
+1585,502,225,111,1.11%,S card guaranteed for 250 times
+1586,502,226,111,1.11%,S card guaranteed for 250 times
+1587,502,227,111,1.11%,S card guaranteed for 250 times
+1588,502,228,111,1.11%,S card guaranteed for 250 times
+1589,502,229,111,1.11%,S card guaranteed for 250 times
+1590,502,230,111,1.11%,S card guaranteed for 250 times
+1591,502,231,111,1.11%,S card guaranteed for 250 times
+1592,502,232,111,1.11%,S card guaranteed for 250 times
+1593,502,233,111,1.11%,S card guaranteed for 250 times
+1594,502,234,111,1.11%,S card guaranteed for 250 times
+1595,502,235,111,1.11%,S card guaranteed for 250 times
+1596,502,236,111,1.11%,S card guaranteed for 250 times
+1597,502,237,111,1.11%,S card guaranteed for 250 times
+1598,502,238,111,1.11%,S card guaranteed for 250 times
+1599,502,239,111,1.11%,S card guaranteed for 250 times
+1600,502,240,111,1.11%,S card guaranteed for 250 times
+1601,502,241,111,1.11%,S card guaranteed for 250 times
+1602,502,242,111,1.11%,S card guaranteed for 250 times
+1603,502,243,111,1.11%,S card guaranteed for 250 times
+1604,502,244,111,1.11%,S card guaranteed for 250 times
+1605,502,245,111,1.11%,S card guaranteed for 250 times
+1606,502,246,111,1.11%,S card guaranteed for 250 times
+1607,502,247,111,1.11%,S card guaranteed for 250 times
+1608,502,248,111,1.11%,S card guaranteed for 250 times
+1609,502,249,111,1.11%,S card guaranteed for 250 times
+1610,502,250,10000,100.00%,S card guaranteed for 250 times
+1611,503,1,0,0.00%,1 time S before premium pool
+1615,401,1,300,3.00%,"Regular Pool, Pity 40, Epics"
+1616,401,2,300,3.00%,"Regular Pool, Pity 40, Epics"
+1617,401,3,300,3.00%,"Regular Pool, Pity 40, Epics"
+1618,401,4,300,3.00%,"Regular Pool, Pity 40, Epics"
+1619,401,5,300,3.00%,"Regular Pool, Pity 40, Epics"
+1620,401,6,300,3.00%,"Regular Pool, Pity 40, Epics"
+1621,401,7,300,3.00%,"Regular Pool, Pity 40, Epics"
+1622,401,8,300,3.00%,"Regular Pool, Pity 40, Epics"
+1623,401,9,300,3.00%,"Regular Pool, Pity 40, Epics"
+1624,401,10,300,3.00%,"Regular Pool, Pity 40, Epics"
+1625,401,11,300,3.00%,"Regular Pool, Pity 40, Epics"
+1626,401,12,300,3.00%,"Regular Pool, Pity 40, Epics"
+1627,401,13,300,3.00%,"Regular Pool, Pity 40, Epics"
+1628,401,14,300,3.00%,"Regular Pool, Pity 40, Epics"
+1629,401,15,300,3.00%,"Regular Pool, Pity 40, Epics"
+1630,401,16,300,3.00%,"Regular Pool, Pity 40, Epics"
+1631,401,17,300,3.00%,"Regular Pool, Pity 40, Epics"
+1632,401,18,300,3.00%,"Regular Pool, Pity 40, Epics"
+1633,401,19,300,3.00%,"Regular Pool, Pity 40, Epics"
+1634,401,20,300,3.00%,"Regular Pool, Pity 40, Epics"
+1635,401,21,300,3.00%,"Regular Pool, Pity 40, Epics"
+1636,401,22,300,3.00%,"Regular Pool, Pity 40, Epics"
+1637,401,23,300,3.00%,"Regular Pool, Pity 40, Epics"
+1638,401,24,300,3.00%,"Regular Pool, Pity 40, Epics"
+1639,401,25,300,3.00%,"Regular Pool, Pity 40, Epics"
+1640,401,26,300,3.00%,"Regular Pool, Pity 40, Epics"
+1641,401,27,300,3.00%,"Regular Pool, Pity 40, Epics"
+1642,401,28,300,3.00%,"Regular Pool, Pity 40, Epics"
+1643,401,29,300,3.00%,"Regular Pool, Pity 40, Epics"
+1644,401,30,300,3.00%,"Regular Pool, Pity 40, Epics"
+1645,401,31,300,3.00%,"Regular Pool, Pity 40, Epics"
+1646,401,32,300,3.00%,"Regular Pool, Pity 40, Epics"
+1647,401,33,300,3.00%,"Regular Pool, Pity 40, Epics"
+1648,401,34,300,3.00%,"Regular Pool, Pity 40, Epics"
+1649,401,35,300,3.00%,"Regular Pool, Pity 40, Epics"
+1650,401,36,300,3.00%,"Regular Pool, Pity 40, Epics"
+1651,401,37,300,3.00%,"Regular Pool, Pity 40, Epics"
+1652,401,38,300,3.00%,"Regular Pool, Pity 40, Epics"
+1653,401,39,300,3.00%,"Regular Pool, Pity 40, Epics"
+1654,401,40,10000,100.00%,"Regular Pool, Pity 40, Epics"
+1655,402,1,300,3.00%,"Premium Pool, Pity 30, Epics"
+1656,402,2,300,3.00%,"Premium Pool, Pity 30, Epics"
+1657,402,3,300,3.00%,"Premium Pool, Pity 30, Epics"
+1658,402,4,300,3.00%,"Premium Pool, Pity 30, Epics"
+1659,402,5,300,3.00%,"Premium Pool, Pity 30, Epics"
+1660,402,6,300,3.00%,"Premium Pool, Pity 30, Epics"
+1661,402,7,300,3.00%,"Premium Pool, Pity 30, Epics"
+1662,402,8,300,3.00%,"Premium Pool, Pity 30, Epics"
+1663,402,9,300,3.00%,"Premium Pool, Pity 30, Epics"
+1664,402,10,300,3.00%,"Premium Pool, Pity 30, Epics"
+1665,402,11,300,3.00%,"Premium Pool, Pity 30, Epics"
+1666,402,12,300,3.00%,"Premium Pool, Pity 30, Epics"
+1667,402,13,300,3.00%,"Premium Pool, Pity 30, Epics"
+1668,402,14,300,3.00%,"Premium Pool, Pity 30, Epics"
+1669,402,15,300,3.00%,"Premium Pool, Pity 30, Epics"
+1670,402,16,300,3.00%,"Premium Pool, Pity 30, Epics"
+1671,402,17,300,3.00%,"Premium Pool, Pity 30, Epics"
+1672,402,18,300,3.00%,"Premium Pool, Pity 30, Epics"
+1673,402,19,300,3.00%,"Premium Pool, Pity 30, Epics"
+1674,402,20,300,3.00%,"Premium Pool, Pity 30, Epics"
+1675,402,21,300,3.00%,"Premium Pool, Pity 30, Epics"
+1676,402,22,300,3.00%,"Premium Pool, Pity 30, Epics"
+1677,402,23,300,3.00%,"Premium Pool, Pity 30, Epics"
+1678,402,24,300,3.00%,"Premium Pool, Pity 30, Epics"
+1679,402,25,300,3.00%,"Premium Pool, Pity 30, Epics"
+1680,402,26,300,3.00%,"Premium Pool, Pity 30, Epics"
+1681,402,27,300,3.00%,"Premium Pool, Pity 30, Epics"
+1682,402,28,300,3.00%,"Premium Pool, Pity 30, Epics"
+1683,402,29,300,3.00%,"Premium Pool, Pity 30, Epics"
+1684,402,30,10000,100.00%,"Premium Pool, Pity 30, Epics"
+1685,403,1,10000,100.00%,The first A card in the advanced pool is guaranteed
+1689,301,1,2000,20.00%,"Elite, Pity 10"
+1690,301,2,2000,20.00%,"Elite, Pity 10"
+1691,301,3,2000,20.00%,"Elite, Pity 10"
+1692,301,4,2000,20.00%,"Elite, Pity 10"
+1693,301,5,2000,20.00%,"Elite, Pity 10"
+1694,301,6,2000,20.00%,"Elite, Pity 10"
+1695,301,7,2000,20.00%,"Elite, Pity 10"
+1696,301,8,2000,20.00%,"Elite, Pity 10"
+1697,301,9,2000,20.00%,"Elite, Pity 10"
+1698,301,10,10000,100.00%,"Elite, Pity 10"
+1699,302,1,1684,16.84%,"Benefits for newbies in the ally pool: rear defense penetration, gang B card guarantee"
+1700,302,2,1684,16.84%,"Benefits for newbies in the ally pool: rear defense penetration, gang B card guarantee"
+1701,302,3,1684,16.84%,"Benefits for newbies in the ally pool: rear defense penetration, gang B card guarantee"
+1702,302,4,1684,16.84%,"Benefits for newbies in the ally pool: rear defense penetration, gang B card guarantee"
+1703,302,5,1684,16.84%,"Benefits for newbies in the ally pool: rear defense penetration, gang B card guarantee"
+1704,302,6,1684,16.84%,"Benefits for newbies in the ally pool: rear defense penetration, gang B card guarantee"
+1705,302,7,1684,16.84%,"Benefits for newbies in the ally pool: rear defense penetration, gang B card guarantee"
+1706,302,8,10000,100.00%,"Benefits for newbies in the ally pool: rear defense penetration, gang B card guarantee"
+1707,500,1,70,0.70%,S card guaranteed for 150 times
+1708,500,2,70,0.70%,S card guaranteed for 150 times
+1709,500,3,70,0.70%,S card guaranteed for 150 times
+1710,500,4,70,0.70%,S card guaranteed for 150 times
+1711,500,5,70,0.70%,S card guaranteed for 150 times
+1712,500,6,70,0.70%,S card guaranteed for 150 times
+1713,500,7,70,0.70%,S card guaranteed for 150 times
+1714,500,8,70,0.70%,S card guaranteed for 150 times
+1715,500,9,70,0.70%,S card guaranteed for 150 times
+1716,500,10,70,0.70%,S card guaranteed for 150 times
+1717,500,11,70,0.70%,S card guaranteed for 150 times
+1718,500,12,70,0.70%,S card guaranteed for 150 times
+1719,500,13,70,0.70%,S card guaranteed for 150 times
+1720,500,14,70,0.70%,S card guaranteed for 150 times
+1721,500,15,70,0.70%,S card guaranteed for 150 times
+1722,500,16,70,0.70%,S card guaranteed for 150 times
+1723,500,17,70,0.70%,S card guaranteed for 150 times
+1724,500,18,70,0.70%,S card guaranteed for 150 times
+1725,500,19,70,0.70%,S card guaranteed for 150 times
+1726,500,20,70,0.70%,S card guaranteed for 150 times
+1727,500,21,70,0.70%,S card guaranteed for 150 times
+1728,500,22,70,0.70%,S card guaranteed for 150 times
+1729,500,23,70,0.70%,S card guaranteed for 150 times
+1730,500,24,70,0.70%,S card guaranteed for 150 times
+1731,500,25,70,0.70%,S card guaranteed for 150 times
+1732,500,26,70,0.70%,S card guaranteed for 150 times
+1733,500,27,70,0.70%,S card guaranteed for 150 times
+1734,500,28,70,0.70%,S card guaranteed for 150 times
+1735,500,29,70,0.70%,S card guaranteed for 150 times
+1736,500,30,70,0.70%,S card guaranteed for 150 times
+1737,500,31,70,0.70%,S card guaranteed for 150 times
+1738,500,32,70,0.70%,S card guaranteed for 150 times
+1739,500,33,70,0.70%,S card guaranteed for 150 times
+1740,500,34,70,0.70%,S card guaranteed for 150 times
+1741,500,35,70,0.70%,S card guaranteed for 150 times
+1742,500,36,70,0.70%,S card guaranteed for 150 times
+1743,500,37,70,0.70%,S card guaranteed for 150 times
+1744,500,38,70,0.70%,S card guaranteed for 150 times
+1745,500,39,70,0.70%,S card guaranteed for 150 times
+1746,500,40,70,0.70%,S card guaranteed for 150 times
+1747,500,41,70,0.70%,S card guaranteed for 150 times
+1748,500,42,70,0.70%,S card guaranteed for 150 times
+1749,500,43,70,0.70%,S card guaranteed for 150 times
+1750,500,44,70,0.70%,S card guaranteed for 150 times
+1751,500,45,70,0.70%,S card guaranteed for 150 times
+1752,500,46,70,0.70%,S card guaranteed for 150 times
+1753,500,47,70,0.70%,S card guaranteed for 150 times
+1754,500,48,70,0.70%,S card guaranteed for 150 times
+1755,500,49,70,0.70%,S card guaranteed for 150 times
+1756,500,50,70,0.70%,S card guaranteed for 150 times
+1757,500,51,70,0.70%,S card guaranteed for 150 times
+1758,500,52,70,0.70%,S card guaranteed for 150 times
+1759,500,53,70,0.70%,S card guaranteed for 150 times
+1760,500,54,70,0.70%,S card guaranteed for 150 times
+1761,500,55,70,0.70%,S card guaranteed for 150 times
+1762,500,56,70,0.70%,S card guaranteed for 150 times
+1763,500,57,70,0.70%,S card guaranteed for 150 times
+1764,500,58,70,0.70%,S card guaranteed for 150 times
+1765,500,59,70,0.70%,S card guaranteed for 150 times
+1766,500,60,70,0.70%,S card guaranteed for 150 times
+1767,500,61,70,0.70%,S card guaranteed for 150 times
+1768,500,62,70,0.70%,S card guaranteed for 150 times
+1769,500,63,70,0.70%,S card guaranteed for 150 times
+1770,500,64,70,0.70%,S card guaranteed for 150 times
+1771,500,65,70,0.70%,S card guaranteed for 150 times
+1772,500,66,70,0.70%,S card guaranteed for 150 times
+1773,500,67,70,0.70%,S card guaranteed for 150 times
+1774,500,68,70,0.70%,S card guaranteed for 150 times
+1775,500,69,70,0.70%,S card guaranteed for 150 times
+1776,500,70,70,0.70%,S card guaranteed for 150 times
+1777,500,71,70,0.70%,S card guaranteed for 150 times
+1778,500,72,70,0.70%,S card guaranteed for 150 times
+1779,500,73,70,0.70%,S card guaranteed for 150 times
+1780,500,74,70,0.70%,S card guaranteed for 150 times
+1781,500,75,169,1.69%,S card guaranteed for 150 times
+1782,500,76,169,1.69%,S card guaranteed for 150 times
+1783,500,77,169,1.69%,S card guaranteed for 150 times
+1784,500,78,169,1.69%,S card guaranteed for 150 times
+1785,500,79,169,1.69%,S card guaranteed for 150 times
+1786,500,80,169,1.69%,S card guaranteed for 150 times
+1787,500,81,169,1.69%,S card guaranteed for 150 times
+1788,500,82,169,1.69%,S card guaranteed for 150 times
+1789,500,83,169,1.69%,S card guaranteed for 150 times
+1790,500,84,169,1.69%,S card guaranteed for 150 times
+1791,500,85,169,1.69%,S card guaranteed for 150 times
+1792,500,86,169,1.69%,S card guaranteed for 150 times
+1793,500,87,169,1.69%,S card guaranteed for 150 times
+1794,500,88,169,1.69%,S card guaranteed for 150 times
+1795,500,89,169,1.69%,S card guaranteed for 150 times
+1796,500,90,169,1.69%,S card guaranteed for 150 times
+1797,500,91,169,1.69%,S card guaranteed for 150 times
+1798,500,92,169,1.69%,S card guaranteed for 150 times
+1799,500,93,169,1.69%,S card guaranteed for 150 times
+1800,500,94,169,1.69%,S card guaranteed for 150 times
+1801,500,95,169,1.69%,S card guaranteed for 150 times
+1802,500,96,169,1.69%,S card guaranteed for 150 times
+1803,500,97,169,1.69%,S card guaranteed for 150 times
+1804,500,98,169,1.69%,S card guaranteed for 150 times
+1805,500,99,169,1.69%,S card guaranteed for 150 times
+1806,500,100,169,1.69%,S card guaranteed for 150 times
+1807,500,101,169,1.69%,S card guaranteed for 150 times
+1808,500,102,169,1.69%,S card guaranteed for 150 times
+1809,500,103,169,1.69%,S card guaranteed for 150 times
+1810,500,104,169,1.69%,S card guaranteed for 150 times
+1811,500,105,169,1.69%,S card guaranteed for 150 times
+1812,500,106,169,1.69%,S card guaranteed for 150 times
+1813,500,107,169,1.69%,S card guaranteed for 150 times
+1814,500,108,169,1.69%,S card guaranteed for 150 times
+1815,500,109,169,1.69%,S card guaranteed for 150 times
+1816,500,110,169,1.69%,S card guaranteed for 150 times
+1817,500,111,169,1.69%,S card guaranteed for 150 times
+1818,500,112,169,1.69%,S card guaranteed for 150 times
+1819,500,113,169,1.69%,S card guaranteed for 150 times
+1820,500,114,169,1.69%,S card guaranteed for 150 times
+1821,500,115,169,1.69%,S card guaranteed for 150 times
+1822,500,116,169,1.69%,S card guaranteed for 150 times
+1823,500,117,169,1.69%,S card guaranteed for 150 times
+1824,500,118,169,1.69%,S card guaranteed for 150 times
+1825,500,119,169,1.69%,S card guaranteed for 150 times
+1826,500,120,169,1.69%,S card guaranteed for 150 times
+1827,500,121,169,1.69%,S card guaranteed for 150 times
+1828,500,122,169,1.69%,S card guaranteed for 150 times
+1829,500,123,169,1.69%,S card guaranteed for 150 times
+1830,500,124,169,1.69%,S card guaranteed for 150 times
+1831,500,125,169,1.69%,S card guaranteed for 150 times
+1832,500,126,169,1.69%,S card guaranteed for 150 times
+1833,500,127,169,1.69%,S card guaranteed for 150 times
+1834,500,128,169,1.69%,S card guaranteed for 150 times
+1835,500,129,169,1.69%,S card guaranteed for 150 times
+1836,500,130,169,1.69%,S card guaranteed for 150 times
+1837,500,131,169,1.69%,S card guaranteed for 150 times
+1838,500,132,169,1.69%,S card guaranteed for 150 times
+1839,500,133,169,1.69%,S card guaranteed for 150 times
+1840,500,134,169,1.69%,S card guaranteed for 150 times
+1841,500,135,169,1.69%,S card guaranteed for 150 times
+1842,500,136,169,1.69%,S card guaranteed for 150 times
+1843,500,137,169,1.69%,S card guaranteed for 150 times
+1844,500,138,169,1.69%,S card guaranteed for 150 times
+1845,500,139,169,1.69%,S card guaranteed for 150 times
+1846,500,140,169,1.69%,S card guaranteed for 150 times
+1847,500,141,169,1.69%,S card guaranteed for 150 times
+1848,500,142,169,1.69%,S card guaranteed for 150 times
+1849,500,143,169,1.69%,S card guaranteed for 150 times
+1850,500,144,169,1.69%,S card guaranteed for 150 times
+1851,500,145,169,1.69%,S card guaranteed for 150 times
+1852,500,146,169,1.69%,S card guaranteed for 150 times
+1853,500,147,169,1.69%,S card guaranteed for 150 times
+1854,500,148,169,1.69%,S card guaranteed for 150 times
+1855,500,149,169,1.69%,S card guaranteed for 150 times
+1856,500,150,10000,100.00%,S card guaranteed for 150 times
+1857,504,1,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1858,504,2,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1859,504,3,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1860,504,4,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1861,504,5,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1862,504,6,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1863,504,7,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1864,504,8,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1865,504,9,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1866,504,10,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1867,504,11,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1868,504,12,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1869,504,13,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1870,504,14,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1871,504,15,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1872,504,16,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1873,504,17,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1874,504,18,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1875,504,19,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1876,504,20,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1877,504,21,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1878,504,22,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1879,504,23,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1880,504,24,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1881,504,25,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1882,504,26,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1883,504,27,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1884,504,28,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1885,504,29,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1886,504,30,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1887,504,31,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1888,504,32,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1889,504,33,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1890,504,34,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1891,504,35,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1892,504,36,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1893,504,37,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1894,504,38,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1895,504,39,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1896,504,40,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1897,504,41,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1898,504,42,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1899,504,43,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1900,504,44,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1901,504,45,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1902,504,46,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1903,504,47,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1904,504,48,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1905,504,49,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1906,504,50,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1907,504,51,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1908,504,52,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1909,504,53,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1910,504,54,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1911,504,55,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1912,504,56,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1913,504,57,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1914,504,58,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1915,504,59,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1916,504,60,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1917,504,61,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1918,504,62,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1919,504,63,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1920,504,64,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1921,504,65,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1922,504,66,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1923,504,67,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1924,504,68,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1925,504,69,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1926,504,70,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1927,504,71,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1928,504,72,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1929,504,73,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1930,504,74,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1931,504,75,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1932,504,76,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1933,504,77,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1934,504,78,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1935,504,79,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1936,504,80,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1937,504,81,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1938,504,82,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1939,504,83,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1940,504,84,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1941,504,85,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1942,504,86,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1943,504,87,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1944,504,88,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1945,504,89,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1946,504,90,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1947,504,91,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1948,504,92,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1949,504,93,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1950,504,94,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1951,504,95,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1952,504,96,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1953,504,97,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1954,504,98,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1955,504,99,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1956,504,100,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1957,504,101,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1958,504,102,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1959,504,103,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1960,504,104,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1961,504,105,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1962,504,106,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1963,504,107,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1964,504,108,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1965,504,109,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1966,504,110,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1967,504,111,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1968,504,112,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1969,504,113,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1970,504,114,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1971,504,115,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1972,504,116,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1973,504,117,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1974,504,118,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1975,504,119,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1976,504,120,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1977,504,121,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1978,504,122,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1979,504,123,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1980,504,124,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1981,504,125,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1982,504,126,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1983,504,127,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1984,504,128,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1985,504,129,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1986,504,130,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1987,504,131,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1988,504,132,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1989,504,133,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1990,504,134,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1991,504,135,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1992,504,136,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1993,504,137,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1994,504,138,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1995,504,139,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1996,504,140,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1997,504,141,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1998,504,142,100,1.00%,"Premium Pool, Pity 150, Legendary"
+1999,504,143,100,1.00%,"Premium Pool, Pity 150, Legendary"
+2000,504,144,100,1.00%,"Premium Pool, Pity 150, Legendary"
+2001,504,145,100,1.00%,"Premium Pool, Pity 150, Legendary"
+2002,504,146,100,1.00%,"Premium Pool, Pity 150, Legendary"
+2003,504,147,100,1.00%,"Premium Pool, Pity 150, Legendary"
+2004,504,148,100,1.00%,"Premium Pool, Pity 150, Legendary"
+2005,504,149,100,1.00%,"Premium Pool, Pity 150, Legendary"
+2006,504,150,10000,100.00%,Newly revised S card 150 times guarantee
+2007,999404,1,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2008,999404,2,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2009,999404,3,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2010,999404,4,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2011,999404,5,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2012,999404,6,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2013,999404,7,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2014,999404,8,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2015,999404,9,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2016,999404,10,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2017,999404,11,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2018,999404,12,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2019,999404,13,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2020,999404,14,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2021,999404,15,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2022,999404,16,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2023,999404,17,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2024,999404,18,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2025,999404,19,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2026,999404,20,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2027,999404,21,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2028,999404,22,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2029,999404,23,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2030,999404,24,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2031,999404,25,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2032,999404,26,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2033,999404,27,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2034,999404,28,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2035,999404,29,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2036,999404,30,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2037,999404,31,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2038,999404,32,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2039,999404,33,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2040,999404,34,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2041,999404,35,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2042,999404,36,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2043,999404,37,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2044,999404,38,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2045,999404,39,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2046,999404,40,10000,100.00%,Basic card pool A must come out (the novice period is guaranteed to be compatible with old users)
+2047,999405,1,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2048,999405,2,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2049,999405,3,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2050,999405,4,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2051,999405,5,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2052,999405,6,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2053,999405,7,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2054,999405,8,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2055,999405,9,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2056,999405,10,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2057,999405,11,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2058,999405,12,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2059,999405,13,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2060,999405,14,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2061,999405,15,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2062,999405,16,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2063,999405,17,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2064,999405,18,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2065,999405,19,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2066,999405,20,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2067,999405,21,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2068,999405,22,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2069,999405,23,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2070,999405,24,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2071,999405,25,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2072,999405,26,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2073,999405,27,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2074,999405,28,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2075,999405,29,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2076,999405,30,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2077,999405,31,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2078,999405,32,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2079,999405,33,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2080,999405,34,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2081,999405,35,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2082,999405,36,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2083,999405,37,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2084,999405,38,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2085,999405,39,0,0.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2086,999405,40,10000,100.00%,Basic card pool A must not be released (the novice period is guaranteed to be compatible with old users)
+2087,999303,1,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2088,999303,2,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2089,999303,3,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2090,999303,4,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2091,999303,5,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2092,999303,6,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2093,999303,7,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2094,999303,8,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2095,999303,9,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2096,999303,10,10000,100.00%,Basic card pool B must come out (the novice period is guaranteed to be compatible with old users)
+2097,999304,1,0,0.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2098,999304,2,0,0.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2099,999304,3,0,0.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2100,999304,4,0,0.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2101,999304,5,0,0.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2102,999304,6,0,0.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2103,999304,7,0,0.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2104,999304,8,0,0.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2105,999304,9,0,0.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2106,999304,10,10000,100.00%,Basic card pool B cannot be released (the novice period is guaranteed to be compatible with old users)
+2107,505,1,0,0.00%,Will never happen
+2108,506,1,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2109,506,2,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2110,506,3,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2111,506,4,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2112,506,5,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2113,506,6,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2114,506,7,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2115,506,8,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2116,506,9,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2117,506,10,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2118,506,11,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2119,506,12,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2120,506,13,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2121,506,14,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2122,506,15,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2123,506,16,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2124,506,17,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2125,506,18,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2126,506,19,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2127,506,20,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2128,506,21,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2129,506,22,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2130,506,23,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2131,506,24,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2132,506,25,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2133,506,26,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2134,506,27,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2135,506,28,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2136,506,29,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2137,506,30,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2138,506,31,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2139,506,32,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2140,506,33,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2141,506,34,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2142,506,35,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2143,506,36,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2144,506,37,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2145,506,38,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2146,506,39,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2147,506,40,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2148,506,41,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2149,506,42,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2150,506,43,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2151,506,44,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2152,506,45,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2153,506,46,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2154,506,47,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2155,506,48,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2156,506,49,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2157,506,50,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2158,506,51,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2159,506,52,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2160,506,53,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2161,506,54,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2162,506,55,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2163,506,56,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2164,506,57,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2165,506,58,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2166,506,59,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2167,506,60,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2168,506,61,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2169,506,62,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2170,506,63,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2171,506,64,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2172,506,65,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2173,506,66,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2174,506,67,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2175,506,68,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2176,506,69,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2177,506,70,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2178,506,71,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2179,506,72,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2180,506,73,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2181,506,74,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2182,506,75,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2183,506,76,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2184,506,77,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2185,506,78,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2186,506,79,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2187,506,80,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2188,506,81,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2189,506,82,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2190,506,83,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2191,506,84,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2192,506,85,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2193,506,86,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2194,506,87,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2195,506,88,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2196,506,89,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2197,506,90,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2198,506,91,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2199,506,92,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2200,506,93,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2201,506,94,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2202,506,95,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2203,506,96,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2204,506,97,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2205,506,98,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2206,506,99,100,1.00%,"Chance of Legend in League Box, 100 Pity"
+2507,506,100,10000,100.00%,"Chance of Legend in League Box, 100 Pity"
+2508,507,1,300,3.00%,Chance of Epic in League box.  Pity 60.
+2509,507,2,300,3.00%,Chance of Epic in League box.  Pity 60.
+2510,507,3,300,3.00%,Chance of Epic in League box.  Pity 60.
+2511,507,4,300,3.00%,Chance of Epic in League box.  Pity 60.
+2512,507,5,300,3.00%,Chance of Epic in League box.  Pity 60.
+2513,507,6,300,3.00%,Chance of Epic in League box.  Pity 60.
+2514,507,7,300,3.00%,Chance of Epic in League box.  Pity 60.
+2515,507,8,300,3.00%,Chance of Epic in League box.  Pity 60.
+2516,507,9,300,3.00%,Chance of Epic in League box.  Pity 60.
+2517,507,10,300,3.00%,Chance of Epic in League box.  Pity 60.
+2518,507,11,300,3.00%,Chance of Epic in League box.  Pity 60.
+2519,507,12,300,3.00%,Chance of Epic in League box.  Pity 60.
+2520,507,13,300,3.00%,Chance of Epic in League box.  Pity 60.
+2521,507,14,300,3.00%,Chance of Epic in League box.  Pity 60.
+2522,507,15,300,3.00%,Chance of Epic in League box.  Pity 60.
+2523,507,16,300,3.00%,Chance of Epic in League box.  Pity 60.
+2524,507,17,300,3.00%,Chance of Epic in League box.  Pity 60.
+2525,507,18,300,3.00%,Chance of Epic in League box.  Pity 60.
+2526,507,19,300,3.00%,Chance of Epic in League box.  Pity 60.
+2527,507,20,300,3.00%,Chance of Epic in League box.  Pity 60.
+2528,507,21,300,3.00%,Chance of Epic in League box.  Pity 60.
+2529,507,22,300,3.00%,Chance of Epic in League box.  Pity 60.
+2530,507,23,300,3.00%,Chance of Epic in League box.  Pity 60.
+2531,507,24,300,3.00%,Chance of Epic in League box.  Pity 60.
+2532,507,25,300,3.00%,Chance of Epic in League box.  Pity 60.
+2533,507,26,300,3.00%,Chance of Epic in League box.  Pity 60.
+2534,507,27,300,3.00%,Chance of Epic in League box.  Pity 60.
+2535,507,28,300,3.00%,Chance of Epic in League box.  Pity 60.
+2536,507,29,300,3.00%,Chance of Epic in League box.  Pity 60.
+2537,507,30,300,3.00%,Chance of Epic in League box.  Pity 60.
+2538,507,31,300,3.00%,Chance of Epic in League box.  Pity 60.
+2539,507,32,300,3.00%,Chance of Epic in League box.  Pity 60.
+2540,507,33,300,3.00%,Chance of Epic in League box.  Pity 60.
+2541,507,34,300,3.00%,Chance of Epic in League box.  Pity 60.
+2542,507,35,300,3.00%,Chance of Epic in League box.  Pity 60.
+2543,507,36,300,3.00%,Chance of Epic in League box.  Pity 60.
+2544,507,37,300,3.00%,Chance of Epic in League box.  Pity 60.
+2545,507,38,300,3.00%,Chance of Epic in League box.  Pity 60.
+2546,507,39,300,3.00%,Chance of Epic in League box.  Pity 60.
+2547,507,40,300,3.00%,Chance of Epic in League box.  Pity 60.
+2548,507,41,300,3.00%,Chance of Epic in League box.  Pity 60.
+2549,507,42,300,3.00%,Chance of Epic in League box.  Pity 60.
+2550,507,43,300,3.00%,Chance of Epic in League box.  Pity 60.
+2551,507,44,300,3.00%,Chance of Epic in League box.  Pity 60.
+2552,507,45,300,3.00%,Chance of Epic in League box.  Pity 60.
+2553,507,46,300,3.00%,Chance of Epic in League box.  Pity 60.
+2554,507,47,300,3.00%,Chance of Epic in League box.  Pity 60.
+2555,507,48,300,3.00%,Chance of Epic in League box.  Pity 60.
+2556,507,49,300,3.00%,Chance of Epic in League box.  Pity 60.
+2557,507,50,300,3.00%,Chance of Epic in League box.  Pity 60.
+2558,507,51,300,3.00%,Chance of Epic in League box.  Pity 60.
+2559,507,52,300,3.00%,Chance of Epic in League box.  Pity 60.
+2560,507,53,300,3.00%,Chance of Epic in League box.  Pity 60.
+2561,507,54,300,3.00%,Chance of Epic in League box.  Pity 60.
+2562,507,55,300,3.00%,Chance of Epic in League box.  Pity 60.
+2563,507,56,300,3.00%,Chance of Epic in League box.  Pity 60.
+2564,507,57,300,3.00%,Chance of Epic in League box.  Pity 60.
+2565,507,58,300,3.00%,Chance of Epic in League box.  Pity 60.
+2566,507,59,300,3.00%,Chance of Epic in League box.  Pity 60.
+2567,507,60,10000,100.00%,Chance of Epic in League box.  Pity 60.
+2568,508,1,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2569,508,2,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2570,508,3,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2571,508,4,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2572,508,5,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2573,508,6,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2574,508,7,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2575,508,8,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2576,508,9,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2577,508,10,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2578,508,11,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2579,508,12,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2580,508,13,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2581,508,14,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2582,508,15,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2583,508,16,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2584,508,17,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2585,508,18,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2586,508,19,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2587,508,20,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2588,508,21,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2589,508,22,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2590,508,23,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2591,508,24,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2592,508,25,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2593,508,26,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2594,508,27,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2595,508,28,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2596,508,29,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2597,508,30,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2598,508,31,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2599,508,32,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2600,508,33,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2601,508,34,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2602,508,35,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2603,508,36,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2604,508,37,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2605,508,38,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2606,508,39,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2607,508,40,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2608,508,41,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2609,508,42,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2610,508,43,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2611,508,44,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2612,508,45,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2613,508,46,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2614,508,47,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2615,508,48,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2616,508,49,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2617,508,50,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2618,508,51,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2619,508,52,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2620,508,53,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2621,508,54,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2622,508,55,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2623,508,56,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2624,508,57,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2625,508,58,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2626,508,59,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2627,508,60,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2628,508,61,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2629,508,62,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2630,508,63,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2631,508,64,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2632,508,65,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2633,508,66,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2634,508,67,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2635,508,68,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2636,508,69,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2637,508,70,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2638,508,71,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2639,508,72,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2640,508,73,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2641,508,74,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2642,508,75,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2643,508,76,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2644,508,77,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2645,508,78,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2646,508,79,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2647,508,80,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2648,508,81,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2649,508,82,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2650,508,83,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2651,508,84,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2652,508,85,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2653,508,86,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2654,508,87,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2655,508,88,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2656,508,89,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2657,508,90,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2658,508,91,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2659,508,92,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2660,508,93,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2661,508,94,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2662,508,95,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2663,508,96,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2664,508,97,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2665,508,98,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2666,508,99,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2667,508,100,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2668,508,101,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2669,508,102,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2670,508,103,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2671,508,104,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2672,508,105,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2673,508,106,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2674,508,107,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2675,508,108,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2676,508,109,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2677,508,110,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2678,508,111,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2679,508,112,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2680,508,113,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2681,508,114,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2682,508,115,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2683,508,116,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2684,508,117,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2685,508,118,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2686,508,119,100,1.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2687,508,120,10000,100.00%,Chance of Legendary in Support Characters box.  Pity 120.
+2688,509,1,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2689,509,2,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2690,509,3,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2691,509,4,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2692,509,5,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2693,509,6,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2694,509,7,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2695,509,8,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2696,509,9,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2697,509,10,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2698,509,11,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2699,509,12,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2700,509,13,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2701,509,14,2500,25.00%,"Anniversary Pool, Pity 15, Legendary"
+2702,509,15,10000,100.00%,"Anniversary Pool, Pity 15, Legendary"
+2703,404,1,2500,25%,"Anniversary Pool, Pity 10, Epics"
+2704,404,2,2500,25%,"Anniversary Pool, Pity 10, Epics"
+2705,404,3,2500,25%,"Anniversary Pool, Pity 10, Epics"
+2706,404,4,2500,25%,"Anniversary Pool, Pity 10, Epics"
+2707,404,5,2500,25%,"Anniversary Pool, Pity 10, Epics"
+2708,404,6,2500,25%,"Anniversary Pool, Pity 10, Epics"
+2709,404,7,2500,25%,"Anniversary Pool, Pity 10, Epics"
+2710,404,8,2500,25%,"Anniversary Pool, Pity 10, Epics"
+2711,404,9,2500,25%,"Anniversary Pool, Pity 10, Epics"
+2712,404,10,10000,100.00%,"Premium Pool, Pity 10, Epics"

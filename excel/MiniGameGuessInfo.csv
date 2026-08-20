@@ -1,0 +1,13 @@
+﻿Id,Difficulty,OptionNum,DisturbLevel
+Round ID,Difficulty,Number of Options,Disturbance Level
+index,int,int,int
+1,1,6,0
+2,1,6,0
+3,1,6,1
+4,1,9,1
+5,1,9,1
+6,1,9,2
+7,1,12,2
+8,1,12,2
+9,1,12,3
+10,1,12,3

@@ -1,0 +1,9 @@
+﻿Key,O,Icon,Name,Desc
+Faction,O,Icon,Name,Description
+index,,string,string,string
+0,NoFaction,ui_icon_faction_gray,AllyFactionName_0,AllyFactionDesc_0
+1,Strength,ui_icon_faction01,AllyFactionName_1,AllyFactionDesc_1
+2,Agility,ui_icon_faction02,AllyFactionName_2,AllyFactionDesc_2
+3,Intellect,ui_icon_faction03,AllyFactionName_3,AllyFactionDesc_3
+4,Superpower,ui_icon_faction04,AllyFactionName_4,AllyFactionDesc_4
+5,Superintelligence,ui_icon_faction04,AllyFactionName_5,AllyFactionDesc_5

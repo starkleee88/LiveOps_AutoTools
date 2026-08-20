@@ -1,0 +1,5 @@
+BossInfoID,BossEnemyID,EnemyGroup,O,BossName,BossDesc,StartTime,EndTime,Scene,SkyBoxMaterial,PlayerBattleEnergyRule,EnemyBattleEnergyRule,BossSkillShow1,BossSkillShow2,BossDialogue,MailID
+Key,The boss id,The ResEnemyGroup id,Boss Name,Boss name loc key,Boss Desk Loc,"StartTime
+The opening time period can not overlap",EndTime,Scene,The Sky Box Material,PlayerBattleEnergy,EnemyBattleEnergy,Skills to Display in UI,Additional Showcase Skills,BossDialog,RankRewardMailID
+index,int,int,O,string,string,string,string,string,string,int,int,array-int,array-int,array-string,int
+15001,2122101,201010,The Bride,ActivityBossName_TheBride,ActivityBossInfo_TheBride,20250828_000000,20250904_000000,Battle_Lab,,11,22,432180103|432180203|432180303|432180403,212210101,ActivityBossSpeak1_TheBride|ActivityBossSpeak2_TheBride|ActivityBossSpeak3_TheBride|ActivityBossSpeak4_TheBride,203

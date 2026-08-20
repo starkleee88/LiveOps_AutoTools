@@ -1,0 +1,4 @@
+﻿ActivityID,O,ActivityTitle,ShareTitle,ShareChatBG,ShareBG,SignInDays,TaskInfo,TaskID,TaskInfo,TaskID,TaskInfo,TaskID,TaskInfo,TaskID,TaskInfo,TaskID,TaskInfo,TaskID,TaskInfo,TaskID,TaskDone
+Activity ID,Note,Event Title,Share Title,Share Chat BG,Share BG,Days,Task Description 1,Task 1,Task Description 2,Task 2,Task Description 3,Task 3,Task Description 4,Task 4,Task Description 5,Task 5,Task Description 6,Task 6,Task Description 7,Task 7,Task Completed Description
+int,O,string,string,string,string,int,string,int,string,int,string,int,string,int,string,int,string,int,string,int,string
+3001,Christmas Sign In,XmasSignInTitle01,XmasSignInTitle01,ui_chat_img_card06,ui_ActivityTex_xmas_bg13,7,XmasSignInTask01,300101,XmasSignInTask02,300102,XmasSignInTask03,300103,XmasSignInTask04,300104,XmasSignInTask05,300105,XmasSignInTask06,300106,XmasSignInTask07,300107,XmasSignInTaskDone

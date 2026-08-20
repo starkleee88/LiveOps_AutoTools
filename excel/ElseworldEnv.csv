@@ -1,0 +1,10 @@
+﻿ID,O,EnvSkill,O,EnvName,EnvDesc,Weight,BossPic,HeroRecommend,TopRewards
+Environment ID,O,Environment Skill ID,O,Environment Name,Environment Description,Appearance weight,BOSS Figure,Recommended Heroes,
+index,,int,,string,string,int,string,array-int,array-int
+1,Rage,140000101,When the monster's health ratio drops to 60% and 30% for the first time，the damage is increased by 35%,Env_baonu,Env_baonu_des,100,ui_elseworld_img_baonu,13236|13102|13115|13120,1113003|111203|1113143|111209|11190001|1120030|111207
+2,Desire,140000401,When a monster deals damage，it adds a random debuff to the target.,Env_yuwang,Env_yuwang_des,100,ui_elseworld_img_yuwang,13216|13131|13236|13111,1113003|111203|1113128|111209|11190001|1120030|111207
+3,Sloth,140000501,"The monster's speed is reduced by 15%, but its action bar is increased by 15% each time it takes damage.",Env_landuo,Env_landuo_des,100,ui_elseworld_img_landuo,13128|13103|13114,1113003|111203|1113169|111209|11190001|1120030|111207
+4,Greed,140000601,When a monster deals damage，it gains a random bonus.,Env_tanlan,Env_tanlan_des,100,ui_elseworld_img_tanlan,13114|13122|13121,1113003|111203|1113153|111209|11190001|1120030|111207
+5,Gluttony,140000201,Monsters' lifesteal increased by 30%,Env_baoshi,Env_baoshi_des,100,ui_elseworld_img_baoshi,13138|13148|13145|13131,1113003|111203|1113137|111209|11190001|1120030|111207
+6,Pride,140000701,"At the start of the battle, the monster's damage is increased by 45%, and this effect is reduced by 15% each round.",Env_jiaoao,Env_jiaoao_des,100,ui_elseworld_img_jiaoao,13131|13236|13105|13137,1113003|111203|1113145|111209|11190001|1120030|111207
+7,Jealousy,140000301,"For every 10% reduction in the monster's health, 4% damage is gained.",Env_jidu,Env_jidu_des,100,ui_elseworld_img_jidu,13169|13220|13111|13213,1113003|111203|1113147|111209|11190001|1120030|111207

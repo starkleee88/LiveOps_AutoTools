@@ -1,0 +1,95 @@
+﻿ID,TagType,TagIcon,TagDesc,O,TagFullDesc,isHidden
+ID,"Label type
+1：General Tag
+2：Advanced Tag
+3：Region & Organization
+4：Hero/Villain",Icon,"Tag Name
+Associated sheet: SourceCommonUI",Notes,"Tag Description
+Associated sheet: SourceCommonUI","Whether the tag should be displayed in the UI. 0 : False, 1 : True"
+index,int,String,String,,String,int
+1001,1,ui_icon_hero_tag_0002,Tag_General_1001,AOE,Tag_Description_General_1001,0
+1002,1,ui_icon_hero_tag_0011,Tag_General_1002,Multi-target Dmg,Tag_Description_General_1002,0
+1003,1,ui_icon_hero_tag_0012,Tag_General_1003,Target: Back Row,Tag_Description_General_1003,0
+1004,1,ui_icon_hero_tag_0001,Tag_General_1004,Single-target Burst,Tag_Description_General_1004,0
+1005,1,ui_icon_hero_tag_0013,Tag_General_1005,Self-Heal,,0
+1006,1,ui_icon_hero_tag_0014,Tag_General_1006,Heal,Tag_Description_General_1006,0
+1007,1,ui_icon_hero_tag_0015,Tag_General_1007,Shield,Tag_Description_General_1007,0
+1009,1,ui_icon_hero_tag_0009,Tag_General_1009,Crit,Tag_Description_General_1009,0
+1010,1,ui_icon_hero_tag_0010,Tag_General_1010,Block,Tag_Description_General_1010,0
+1011,1,ui_icon_hero_tag_0004,Tag_General_1011,Burn,,0
+1012,1,ui_icon_hero_tag_0005,Tag_General_1012,Poison,Tag_Description_General_1012,0
+1013,1,ui_icon_hero_tag_0006,Tag_General_1013,Bleed,Tag_Description_General_1013,0
+1014,1,ui_icon_hero_tag_0008,Tag_General_1014,Frostbite,,0
+1015,1,ui_icon_hero_tag_0003,Tag_General_1015,Sacrifice,,0
+1016,1,ui_icon_hero_tag_0017,Tag_General_1016,Strong Basic Attack,,0
+1017,1,ui_icon_hero_tag_0018,Tag_General_1017,Buffs,,0
+1018,1,ui_icon_hero_tag_0007,Tag_General_1018,Debuffs,,0
+1019,1,ui_icon_hero_tag_0019,Tag_General_1019,Dispel,,0
+1020,1,ui_icon_hero_tag_0020,Tag_General_1020,Cleanse,,0
+1021,1,ui_icon_hero_tag_0021,Tag_General_1021,Obtain Energy,,0
+1022,1,ui_icon_hero_tag_0022,Tag_General_1022,In Battle Growth,,0
+1023,1,ui_icon_hero_tag_0023,Tag_General_1023,Action Bar Progress,,0
+1024,1,ui_icon_hero_tag_0024,Tag_General_1024,Slow,,0
+1025,1,ui_icon_hero_tag_0025,Tag_General_1025,Control,,0
+1026,1,ui_icon_hero_tag_0026,Tag_General_1026,Multi-hits Dmg,,1
+1028,1,ui_icon_hero_tag_0028,Tag_General_1028,Random Target,,1
+2002,2,ui_icon_special_tag_0002,Tag_Special_2002,Physical Dmg Red,,0
+2003,2,ui_icon_special_tag_0003,Tag_Special_2003,Superpower Dmg Red,,0
+2004,2,ui_icon_special_tag_0004,Tag_Special_2004,Counterattack,,0
+2005,2,ui_icon_special_tag_0005,Tag_Special_2005,Life Steal,,0
+2007,2,ui_icon_special_tag_0007,Tag_Special_2007,Assist,,0
+2008,2,ui_icon_special_tag_0008,Tag_Special_2008,Kill Combo,,0
+2010,2,ui_icon_special_tag_0010,Tag_Special_2010,Dmg Share,,0
+2011,2,ui_icon_special_tag_0011,Tag_Special_2011,Back Row Defender,,0
+2012,2,ui_icon_special_tag_0012,Tag_Special_2012,Anti-tank,,0
+2019,2,ui_icon_special_tag_0019,Tag_Special_2019,Freeze,,0
+2020,2,ui_icon_special_tag_0020,Tag_Special_2020,Duplicates Debuffs,,0
+2021,2,ui_icon_hero_tag_0030,Tag_Special_2021,Revive,,0
+2024,2,ui_icon_special_tag_0024,Tag_Special_2024,Position Bonus,,0
+2025,2,ui_icon_special_tag_0025,Tag_Special_2025,Multiple Attacks,,0
+2027,2,ui_icon_special_tag_0027,Tag_Special_2027,Fear,,0
+2030,2,ui_icon_special_tag_0030,Tag_Special_2030,Cleanse Control,,0
+2033,2,ui_icon_special_tag_0033,Tag_Special_2033,Invulnerable,,0
+2034,2,ui_icon_special_tag_0034,Tag_Special_2034,Damage Allies,,0
+1,3,ui_icon_hero_camp_01,Camp_1,Metropolis,Tag_Description_Camp_1,0
+2,3,ui_icon_hero_camp_02,Camp_2,Gotham,Tag_Description_Camp_2,0
+3,3,ui_icon_hero_camp_03,Camp_3,Central City,Tag_Description_Camp_3,0
+4,3,ui_icon_hero_camp_04,Camp_4,Justice League,Tag_Description_Camp_4,0
+5,3,ui_icon_hero_camp_05,Camp_5,Batman Family,Tag_Description_Camp_5,0
+6,3,ui_icon_hero_camp_06,Camp_6,Birds of Prey,Tag_Description_Camp_6,1
+7,3,ui_icon_hero_camp_07,Camp_7,Teen Titans,Tag_Description_Camp_7,1
+8,3,ui_icon_hero_camp_08,Camp_8,Legion of Doom,Tag_Description_Camp_8,0
+9,3,ui_icon_hero_camp_06,Camp_9,Secret Society of Super-Villains,Tag_Description_Camp_9,1
+10,3,ui_icon_hero_camp_10,Camp_10,Suicide Squad,Tag_Description_Camp_10,0
+11,3,ui_icon_hero_camp_10,Camp_11,Trinity of Sin,Tag_Description_Camp_11,1
+12,3,ui_icon_hero_camp_10,Camp_12,Rogues,Tag_Description_Camp_12,1
+13,3,ui_icon_hero_camp_10,Camp_13,Justice League Dark,Tag_Description_Camp_13,1
+101,4,ui_icon_hero_1,Hero_1,Hero,Tag_Description_Hero_1,0
+102,4,ui_icon_hero_2,Hero_2,Villain,Tag_Description_Hero_2,0
+14,3,ui_icon_hero_camp_14,Camp_14,Kryptonian,Tag_Description_Camp_14,0
+15,3,ui_icon_hero_camp_15,Camp_15,Arkham,Tag_Description_Camp_15,0
+16,3,ui_icon_hero_camp_16,Camp_16,Atlantis,Tag_Description_Camp_16,0
+1031,1,ui_icon_hero_tag_0031,Tag_General_1031,Physical Dmg,,1
+103,4,ui_icon_hero_3,Hero_3,Anti-Hero,,0
+1032,1,ui_icon_hero_tag_0032,Tag_General_1032,Dampen,,0
+1033,1,ui_icon_hero_tag_0033,Tag_General_1033,Superpower Damage,,0
+17,3,ui_icon_hero_camp_17,Camp_17,Green Lantern,,0
+1034,1,ui_icon_hero_tag_0034,Tag_General_1034,Armor Break,,0
+1035,1,ui_icon_hero_tag_0035,Tag_General_1035,Stun,,0
+1036,1,ui_icon_hero_tag_0036,Tag_General_1036,Silence,,0
+1037,1,ui_icon_hero_tag_0037,Tag_General_1037,Action Bar Knockback,,0
+1038,1,ui_icon_hero_tag_0038,Tag_General_1038,Ricochet,,0
+1039,1,ui_icon_hero_tag_0039,Tag_General_1039,Dodge,,0
+1040,1,ui_icon_hero_tag_0040,Tag_General_1040,Dmg Reduction,,0
+1041,1,ui_icon_hero_tag_0041,Tag_General_1041,Redirect,,0
+1042,1,ui_icon_hero_tag_0042,Tag_General_1042,Haste,,0
+2035,2,ui_icon_special_tag_0036,Tag_Special_2035,Counter: Crit,,0
+2036,2,ui_icon_special_tag_0035,Tag_Special_2036,Target: Low Health,,0
+18,3,ui_icon_hero_camp_18,Camp_18,Amazonians,Tag_Description_Camp_18,0
+19,3,ui_icon_hero_camp_10,Camp_19,Spotlight Characters,Tag_Description_Camp_19,1
+1043,1,ui_icon_hero_tag_0007,Tag_General_1043,Shock,Tag_Description_General_1043,0
+1044,1,ui_icon_hero_tag_0044,Tag_General_1044,Shatter,Tag_Description_General_1044,0
+110,3,ui_icon_hero_camp_19,Camp_110,s10 Supergirl DCU,Tag_Description_Camp_110,1
+108,3,ui_icon_hero_2,Camp_108,s8 Gotham Insanity,Tag_Description_Camp_108,1
+109,3,ui_icon_hero_camp_18,Camp_109,s9 Amazonians,Tag_Description_Camp_109,1
+111,3,ui_icon_hero_camp_20,Camp_111,Absolute Universe,Tag_Description_Camp_111,0

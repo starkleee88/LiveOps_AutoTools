@@ -1,0 +1,6 @@
+﻿ID,Icon,ModelID
+Encounter metadata ID,Boss icon reference,Preview character model ID
+index,string,int
+1,,20000
+2,,20001
+3,,20002

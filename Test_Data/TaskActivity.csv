@@ -1,0 +1,1368 @@
+﻿ID,ActivityID,O
+Task ID,Associated activity ID in the Activity table,Note
+index,int,O
+4001001,1001,1.0.0_bingo_Goddess
+4001002,1001,1.0.0_bingo_Goddess
+4001003,1001,1.0.0_bingo_Goddess
+4001004,1001,1.0.0_bingo_Goddess
+4001005,1001,1.0.0_bingo_Goddess
+4001006,1001,1.0.0_bingo_Goddess
+4001007,1001,1.0.0_bingo_Goddess
+4001008,1001,1.0.0_bingo_Goddess
+4001009,1001,1.0.0_bingo_Goddess
+4002001,1002,Bingo - Pandora - D - Spend 8 Infinity Pistols
+4002002,1002,Bingo - Pandora - D - Challenge a Convergence stage 1 time
+4002003,1002,Bingo - Pandora - D - Challenge any Evil Falls enemy 1 time
+4002004,1002,Bingo - Pandora - D - Participate in the Arena 3 times
+4002005,1002,Bingo - Pandora - D - Use Quick Collect 2 times
+4002006,1002,Bingo - Pandora - D - Level up a Character 5 times
+4002007,1002,Bingo - Pandora - D - Upgrade a Reinforcement 5 times
+4002008,1002,Bingo - Pandora - D - Upgrade Equipment 5 times
+4002009,1002,Bingo - Pandora - D - Recruit 1 time in Limited Characters
+4002010,1002,Bingo - Pandora - D - Recruit 10 times in Limited Characters
+4002011,1002,Bingo - Pandora - S - Spend 40 Infinity Pistols
+4002012,1002,Bingo - Pandora - S - Challenge Convergence stages 10 times
+4002013,1002,Bingo - Pandora - S - Clear Elseworld 5 times
+4002014,1002,Bingo - Pandora - S - Participate in the Arena 20 times
+4002015,1002,Bingo - Pandora - S - Collect Squad Dispatch rewards 20 times
+4002016,1002,Bingo - Pandora - S - Recruit 100 times in Limited Characters
+4002017,1002,Bingo - Pandora - S - Rank up Pandora to Rank 4
+4002018,1002,Bingo - Pandora - S - Rank up Pandora to Rank 5
+4002019,1002,Bingo - Pandora - S - Rank up Pandora to Rank 6
+4002020,1002,Bingo - Pandora - S - Rank up Pandora to Rank 7
+4003001,1003,1.2.0_bingo_Doctor_Fate
+4003002,1003,1.2.0_bingo_Doctor_Fate
+4003003,1003,1.2.0_bingo_Doctor_Fate
+4003004,1003,1.2.0_bingo_Doctor_Fate
+4003005,1003,1.2.0_bingo_Doctor_Fate
+4003006,1003,1.2.0_bingo_Doctor_Fate
+4003007,1003,1.2.0_bingo_Doctor_Fate
+4003008,1003,1.2.0_bingo_Doctor_Fate
+4003009,1003,1.2.0_bingo_Doctor_Fate
+4003010,1003,1.2.0_bingo_Doctor_Fate
+4003011,1003,1.2.0_bingo_Doctor_Fate
+4004001,1004,1.3.0_bingo_Two-Face
+4004002,1004,1.3.0_bingo_Two-Face
+4004003,1004,1.3.0_bingo_Two-Face
+4004004,1004,1.3.0_bingo_Two-Face
+4004005,1004,1.3.0_bingo_Two-Face
+4004006,1004,1.3.0_bingo_Two-Face
+4004007,1004,1.3.0_bingo_Two-Face
+4004008,1004,1.3.0_bingo_Two-Face
+4004009,1004,1.3.0_bingo_Two-Face
+4004010,1004,1.3.0_bingo_Two-Face
+4004011,1004,1.3.0_bingo_Two-Face
+4005001,1004,1.3.0_bingo_Two-Face
+4005002,1004,2.1.0_bingo_Frost_Killer
+4005003,1004,2.1.0_bingo_Frost_Killer
+4005004,1004,2.1.0_bingo_Frost_Killer
+4005005,1004,2.1.0_bingo_Frost_Killer
+4005006,1004,2.1.0_bingo_Frost_Killer
+4005007,1004,2.1.0_bingo_Frost_Killer
+4005008,1004,2.1.0_bingo_Frost_Killer
+4005009,1004,2.1.0_bingo_Frost_Killer
+4005010,1004,2.1.0_bingo_Frost_Killer
+4005011,1004,2.1.0_bingo_Frost_Killer
+5001001,10003,Cyborg_Event-Task
+5001002,10003,Cyborg_Event-Task
+5001003,10003,Cyborg_Event-Task
+5001004,10003,Cyborg_Event-Task
+5001005,10003,Cyborg_Event-Task
+5001006,10003,Cyborg_Event-Task
+5001007,10003,Cyborg_Event-Task
+5001008,10003,Cyborg_Event-Task
+5001009,10003,Cyborg_Event-Task
+5001010,10003,Cyborg_Event-Task
+5001011,10003,Cyborg_Event-Task
+5001012,10003,Cyborg_Event-Task
+5001013,10003,Cyborg_Event-Task
+5001014,10003,Cyborg_Event-Task
+5002001,10103,Daily-Deathstroke_Event-Task
+5002002,10103,Daily-Deathstroke_Event-Task
+5002003,10103,Daily-Deathstroke_Event-Task
+5002004,10103,Daily-Deathstroke_Event-Task
+5002005,10103,Daily-Deathstroke_Event-Task
+5002006,10103,Current-Deathstroke_Event-Task
+5002007,10103,Current-Deathstroke_Event-Task
+5002008,10103,Current-Deathstroke_Event-Task
+5002009,10103,Current-Deathstroke_Event-Task
+5002010,10103,Current-Deathstroke_Event-Task
+5002011,10103,Current-Deathstroke_Event-Task
+5002012,10103,Current-Deathstroke_Event-Task
+5002013,10103,Current-Deathstroke_Event-Task
+5003001,10203,Daily-Sinestro_Event-Task
+5003002,10203,Daily-Sinestro_Event-Task
+5003003,10203,Daily-Sinestro_Event-Task
+5003004,10203,Daily-Sinestro_Event-Task
+5003005,10203,Daily-Sinestro_Event-Task
+5003006,10203,Current-Sinestro_Event-Task
+5003007,10203,Current-Sinestro_Event-Task
+5003008,10203,Current-Sinestro_Event-Task
+5003009,10203,Current-Sinestro_Event-Task
+5003010,10203,Current-Sinestro_Event-Task
+5003011,10203,Current-Sinestro_Event-Task
+5003012,10203,Current-Sinestro_Event-Task
+5003013,10203,Current-Sinestro_Event-Task
+5004001,10303,Daily-Martian_Manhunter_Event-Task
+5004002,10303,Daily-Martian_Manhunter_Event-Task
+5004003,10303,Daily-Martian_Manhunter_Event-Task
+5004004,10303,Daily-Martian_Manhunter_Event-Task
+5004005,10303,Daily-Martian_Manhunter_Event-Task
+5004006,10303,Current-Martian_Manhunter_Event-Task
+5004007,10303,Current-Martian_Manhunter_Event-Task
+5004008,10303,Current-Martian_Manhunter_Event-Task
+5004009,10303,Current-Martian_Manhunter_Event-Task
+5004010,10303,Current-Martian_Manhunter_Event-Task
+5004011,10303,Current-Martian_Manhunter_Event-Task
+5004012,10303,Current-Martian_Manhunter_Event-Task
+5004013,10303,Current-Martian_Manhunter_Event-Task
+5006001,10503,Daily-Hal_Jordan-Task
+5006002,10503,Daily-Hal_Jordan-Task
+5006003,10503,Daily-Hal_Jordan-Task
+5006004,10503,Daily-Hal_Jordan-Task
+5006005,10503,Daily-Hal_Jordan-Task
+5006006,10503,Current-Hal_Jordan-Task
+5006007,10503,Current-Hal_Jordan-Task
+5006008,10503,Current-Hal_Jordan-Task
+5006009,10503,Current-Hal_Jordan-Task
+5006010,10503,Current-Hal_Jordan-Task
+5006011,10503,Current-Hal_Jordan-Task
+5006012,10503,Current-Hal_Jordan-Task
+5006013,10503,Current-Hal_Jordan-Task
+5007001,10603,Legendary Event - White Lantern - Kyle - D - Complete 1 Daily Login
+5007002,10603,Legendary Event - White Lantern - Kyle - D - Challenge Kyle Rayner once
+5007003,10603,Legendary Event - White Lantern - Kyle - D - Recruit 1 Time in Featured Recruitment
+5007004,10603,Legendary Event - White Lantern - Kyle - D - Win 1 Time in the Arena
+5007005,10603,Legendary Event - White Lantern - Kyle - D - Challenge any Evil Falls enemy 1 time
+5007006,10603,Legendary Event - White Lantern - Kyle - D - Recruit 5 times in Featured Recruitment
+5007007,10603,Legendary Event - White Lantern - Kyle - D - Upgrade Equipment 1 time
+5007008,10603,Legendary Event - White Lantern - Kyle - D - Level up a Character 5 times
+5007009,10603,Legendary Event - White Lantern - Kyle - S - Log in for 12 Days in total
+5007010,10603,Legendary Event - White Lantern - Kyle - S - Spend a total of 300 Life Tokens
+5007011,10603,Legendary Event - White Lantern - Kyle - S - Spend a total of 200 Creation Coins
+5007012,10603,Legendary Event - White Lantern - Kyle - S - Clear Elseworld 8 times
+5007013,10603,Legendary Event - White Lantern - Kyle - S - Collect Squad Dispatch rewards 40 times
+5007014,10603,Legendary Event - White Lantern - Kyle - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5007015,10603,Legendary Event - White Lantern - Kyle - S - Clear the 3 areas in Stabilizing the Spectrum
+5007016,10603,Legendary Event - White Lantern - Kyle - S - Gain 24 stars once during a single Crisis Watch theme
+5007017,10603,Legendary Event - White Lantern - Kyle - S - Obtain Kyle Rayner
+5007018,10603,Legendary Event - White Lantern - Kyle - S - Recruit 20 times in Featured Recruitment
+5007019,10603,Legendary Event - White Lantern - Kyle - S - Rank up Kyle Rayner to Rank 6
+5007020,10603,Legendary Event - White Lantern - Kyle - S - Rank up Kyle Rayner to Rank 8
+5007021,10603,Legendary Event - White Lantern - Kyle - S - Rank up Kyle Rayner to Rank 10
+5008001,10703,Daily-Sinestro_Event-Task
+5008002,10703,Daily-Sinestro_Event-Task
+5008003,10703,Daily-Sinestro_Event-Task
+5008004,10703,Daily-Sinestro_Event-Task
+5008005,10703,Daily-Sinestro_Event-Task
+5008006,10703,Current-Sinestro_Event-Task
+5008007,10703,Current-Sinestro_Event-Task
+5008008,10703,Current-Sinestro_Event-Task
+5008009,10703,Current-Sinestro_Event-Task
+5008010,10703,Current-Sinestro_Event-Task
+5008011,10703,Current-Sinestro_Event-Task
+5008012,10703,Current-Sinestro_Event-Task
+5008013,10703,Current-Sinestro_Event-Task
+5009001,10803,Daily Sinestro Missions
+5009002,10803,Daily Sinestro Missions
+5009003,10803,Daily Sinestro Missions
+5009004,10803,Daily Sinestro Missions
+5009005,10803,Daily Sinestro Missions
+5009006,10803,Season Sinestro Missions
+5009007,10803,Season Sinestro Missions
+5009008,10803,Season Sinestro Missions
+5009009,10803,Season Sinestro Missions
+5009010,10803,Season Sinestro Missions
+5009011,10803,Season Sinestro Missions
+5009012,10803,Season Sinestro Missions
+5009013,10803,Season Sinestro Missions
+5009014,10803,Daily Sinestro Missions
+5009015,10803,Daily Sinestro Missions
+5009016,10803,Daily Sinestro Missions
+5009017,10803,Season Sinestro Missions
+5009018,10803,Season Sinestro Missions
+5009019,10803,Season Sinestro Missions
+5009020,10803,Season Sinestro Missions
+5011001,10903,Legendary Event Doctor Fate Daily Missions
+5011002,10903,Legendary Event Doctor Fate Daily Missions
+5011003,10903,Legendary Event Doctor Fate Daily Missions
+5011004,10903,Legendary Event Doctor Fate Daily Missions
+5011005,10903,Legendary Event Doctor Fate Daily Missions
+5011006,10903,Legendary Event Doctor Fate Season Missions
+5011007,10903,Legendary Event Doctor Fate Season Missions
+5011008,10903,Legendary Event Doctor Fate Season Missions
+5011009,10903,Legendary Event Doctor Fate Season Missions
+5011010,10903,Legendary Event Doctor Fate Season Missions
+5011011,10903,Legendary Event Doctor Fate Season Missions
+5011012,10903,Legendary Event Doctor Fate Season Missions
+5011013,10903,Legendary Event Doctor Fate Season Missions
+5011014,10903,Legendary Event Doctor Fate Daily Missions
+5011015,10903,Legendary Event Doctor Fate Daily Missions
+5011016,10903,Legendary Event Doctor Fate Daily Missions
+5011017,10903,Legendary Event Doctor Fate Season Missions
+5011018,10903,Legendary Event Doctor Fate Season Missions
+5011019,10903,Legendary Event Doctor Fate Season Missions
+5011020,10903,Legendary Event Doctor Fate Season Missions
+5012001,11003,Legendary Event - The Bride - D - Complete 1 Daily Login
+5012002,11003,Legendary Event - The Bride - D - Challenge The Bride Once
+5012003,11003,Legendary Event - The Bride - D - Recruit 1 Time in Featured Recruitment
+5012004,11003,Legendary Event - The Bride - D - Win 1 Time in the Arena
+5012005,11003,Legendary Event - The Bride - D - Challenge any Evil Falls enemy 1 time
+5012006,11003,Legendary Event - The Bride - D - Recruit 5 times in Featured Recruitment
+5012007,11003,Legendary Event - The Bride - D - Upgrade Equipment 1 time
+5012008,11003,Legendary Event - The Bride - D - Level up a Character 5 times
+5012009,11003,Legendary Event - The Bride - S - Log in for 12 Days in total
+5012010,11003,Legendary Event - The Bride - S - Spend a total of 300 Event Currency 1
+5012011,11003,Legendary Event - The Bride - S - Spend a total of 200 Event Currency 2
+5012012,11003,Legendary Event - The Bride - S - Clear Elseworld 8 times
+5012013,11003,Legendary Event - The Bride - S - Collect Squad Dispatch rewards 40 times
+5012014,11003,Legendary Event - The Bride - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5012015,11003,Legendary Event - The Bride - S - Clear the 3 areas in event tower mode
+5012016,11003,Legendary Event - The Bride - S - Gain 24 stars once during a single Crisis Watch theme
+5012017,11003,Legendary Event - The Bride - S - Obtain The Bride
+5012018,11003,Legendary Event - The Bride - S - Recruit 20 times in Featured Recruitment
+5012019,11003,Legendary Event - The Bride - S - Rank up The Bride to Rank 6
+5012020,11003,Legendary Event - The Bride - S - Activate 1 Character Badge
+5013001,11103,Legendary Event - Superman DCU - D - Complete 1 Daily Login
+5013002,11103,Legendary Event - Superman DCU - D - Challenge Superman DCU Once
+5013003,11103,Legendary Event - Superman DCU - D - Recruit 1 Time in Featured Recruitment
+5013004,11103,Legendary Event - Superman DCU - D - Win 1 Time in the Arena
+5013005,11103,Legendary Event - Superman DCU - D - Challenge any Evil Falls enemy 1 time
+5013006,11103,Legendary Event - Superman DCU - D - Recruit 5 times in Featured Recruitment
+5013007,11103,Legendary Event - Superman DCU - D - Upgrade Equipment 1 time
+5013008,11103,Legendary Event - Superman DCU - D - Level up a Character 5 times
+5013009,11103,Legendary Event - Superman DCU - S - Log in for 12 Days in total
+5013010,11103,Legendary Event - Superman DCU - S - Spend a total of 300 Event Currency 1
+5013011,11103,Legendary Event - Superman DCU - S - Spend a total of 200 Event Currency 2
+5013012,11103,Legendary Event - Superman DCU - S - Clear Elseworld 8 times
+5013013,11103,Legendary Event - Superman DCU - S - Collect Squad Dispatch rewards 40 times
+5013014,11103,Legendary Event - Superman DCU - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5013015,11103,Legendary Event - Superman DCU - S - Clear the 3 areas in event tower mode
+5013016,11103,Legendary Event - Superman DCU - S - Gain 24 stars once during a single Crisis Watch theme
+5013017,11103,Legendary Event - Superman DCU - S - Obtain Superman DCU
+5013018,11103,Legendary Event - Superman DCU - S - Recruit 20 times in Featured Recruitment
+5013019,11103,Legendary Event - Superman DCU - S - Rank up Superman DCU  to Rank 6
+5013020,11103,Legendary Event - Superman DCU - S - Activate 1 Character Badge
+5014001,11203,Legendary Event - Peacemaker - D - Complete 1 Daily Login
+5014002,11203,Legendary Event - Peacemaker - D - Challenge Peacemaker Once
+5014003,11203,Legendary Event - Peacemaker - D - Recruit 1 Time in Featured Recruitment
+5014004,11203,Legendary Event - Peacemaker - D - Win 1 Time in the Arena
+5014005,11203,Legendary Event - Peacemaker - D - Challenge any Evil Falls enemy 1 time
+5014006,11203,Legendary Event - Peacemaker - D - Recruit 5 times in Featured Recruitment
+5014007,11203,Legendary Event - Peacemaker - D - Upgrade Equipment 1 time
+5014008,11203,Legendary Event - Peacemaker - D - Level up a Character 5 times
+5014009,11203,Legendary Event - Peacemaker - S - Log in for 12 Days in total
+5014010,11203,Legendary Event - Peacemaker - S - Spend a total of 300 Event Currency 1
+5014011,11203,Legendary Event - Peacemaker - S - Spend a total of 200 Event Currency 2
+5014012,11203,Legendary Event - Peacemaker - S - Clear Elseworld 8 times
+5014013,11203,Legendary Event - Peacemaker - S - Collect Squad Dispatch rewards 40 times
+5014014,11203,Legendary Event - Peacemaker - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5014015,11203,Legendary Event - Peacemaker - S - Clear the 3 areas in event tower mode
+5014016,11203,Legendary Event - Peacemaker - S - Gain 24 stars once during a single Crisis Watch theme
+5014017,11203,Legendary Event - Peacemaker - S - Obtain Peacemaker
+5014018,11203,Legendary Event - Peacemaker - S - Recruit 20 times in Featured Recruitment
+5014019,11203,Legendary Event - Peacemaker - S - Rank up Peacemaker  to Rank 6
+5014020,11203,Legendary Event - Peacemaker - S - Activate 1 Character Badge
+5015001,11303,Legendary Event - Swamp Thing - D - Complete 1 Daily Login
+5015002,11303,Legendary Event - Swamp Thing - D - Challenge Swamp Thing Once
+5015003,11303,Legendary Event - Swamp Thing - D - Recruit 1 Time in Featured Recruitment
+5015004,11303,Legendary Event - Swamp Thing - D - Win 1 Time in the Arena
+5015005,11303,Legendary Event - Swamp Thing - D - Challenge any Evil Falls enemy 1 time
+5015006,11303,Legendary Event - Swamp Thing - D - Recruit 5 times in Featured Recruitment
+5015007,11303,Legendary Event - Swamp Thing - D - Upgrade Equipment 1 time
+5015008,11303,Legendary Event - Swamp Thing - D - Level up a Character 5 times
+5015009,11303,Legendary Event - Swamp Thing - S - Log in for 12 Days in total
+5015010,11303,Legendary Event - Swamp Thing - S - Spend a total of 300 Event Currency 1
+5015011,11303,Legendary Event - Swamp Thing - S - Spend a total of 200 Event Currency 2
+5015012,11303,Legendary Event - Swamp Thing - S - Clear Elseworld 8 times
+5015013,11303,Legendary Event - Swamp Thing - S - Collect Squad Dispatch rewards 40 times
+5015014,11303,Legendary Event - Swamp Thing - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5015015,11303,Legendary Event - Swamp Thing - S - Clear the 3 areas in event tower mode
+5015016,11303,Legendary Event - Swamp Thing - S - Gain 24 stars once during a single Crisis Watch theme
+5015017,11303,Legendary Event - Swamp Thing - S - Obtain Swamp Thing
+5015018,11303,Legendary Event - Swamp Thing - S - Recruit 20 times in Featured Recruitment
+5015019,11303,Legendary Event - Swamp Thing - S - Rank up Swamp Thing  to Rank 6
+5015020,11303,Legendary Event - Swamp Thing - S - Rank up Swamp Thing  to Rank 8
+5015021,11303,Legendary Event - Swamp Thing - S - Rank up Swamp Thing  to Rank 10
+4006001,1006,2.3_bingo_Jessica
+4006002,1006,2.3_bingo_Jessica
+4006003,1006,2.3_bingo_Jessica
+4006004,1006,2.3_bingo_Jessica
+4006005,1006,2.3_bingo_Jessica
+4006006,1006,2.3_bingo_Jessica
+4006007,1006,2.3_bingo_Jessica
+4006008,1006,2.3_bingo_Jessica
+4006009,1006,2.3_bingo_Jessica
+4006010,1006,2.3_bingo_Jessica
+8001001,8001,Collection_Event-Plane_Login_Game
+8001002,8001,Collection_Event-Plane_Obtain_100_Daily_Activity_Points
+8001003,8001,Collection_Event-Plane_Obtain_140_Daily_Activity_Points
+8001004,8001,Collection_Event-Plane_Obtain_100_Daily_Activity_Points
+8001101,8001,Collection_Event-Plane_Perform_1_Draw
+8001102,8001,Collection_Event-Plane_Perform_5_Draws
+8001103,8001,Collection_Event-Plane_Perform_15_Draws
+8001104,8001,Collection_Event-Plane_Perform_20_Draws
+8001105,8001,Collection_Event-Plane_Perform_25_Draws
+8001106,8001,Collection_Event-Plane_Perform_35_Draws
+8001107,8001,Collection_Event-Plane_Upgrade_Ally_Stars_2_Times
+8001108,8001,Collection_Event-Plane_Upgrade_Collection_5_Times
+8002001,8003,Collection_Event-Fixed_RMB-Login_Game
+8002002,8003,Collection_Event-Fixed_RMB-Obtain_100_Daily_Activity_Points
+8002003,8003,Collection_Event-Fixed_RMB-Obtain_140_Daily_Activity_Points
+8003101,8003,Collection_Event-Fixed_RMB-Perform_1_Draw
+8003102,8003,Collection_Event-Fixed_RMB-Perform_10_Draws
+8003103,8003,Collection_Event-Fixed_RMB-Perform_15_Draws
+8003104,8003,Collection_Event-Fixed_RMB-Perform_20_Draws
+8003105,8003,Collection_Event-Fixed_RMB-Perform_25_Draws
+8003106,8003,Collection_Event-Fixed_RMB-Perform_35_Draws
+8004001,8004,4.1-Collection_Event-Fixed_RMB-Login_Game
+8004002,8004,4.1-Collection_Event-Fixed_RMB-Obtain_100_Daily_Activity_Points
+8004003,8004,4.1-Collection_Event-Fixed_RMB-Obtain_140_Daily_Activity_Points
+8004101,8004,4.1-Collection_Event-Fixed_RMB-Perform_1_Draw
+8004102,8004,4.1-Collection_Event-Fixed_RMB-Perform_10_Draws
+8004103,8004,4.1-Collection_Event-Fixed_RMB-Perform_15_Draws
+8004104,8004,4.1-Collection_Event-Fixed_RMB-Perform_20_Draws
+8004105,8004,4.1-Collection_Event-Fixed_RMB-Perform_25_Draws
+8004106,8004,4.1-Collection_Event-Fixed_RMB-Perform_35_Draws
+8006001,8006,Collection_Event-HauntedTank_Login_Game
+8006002,8006,Collection_Event-HauntedTank_Obtain_100_Daily_Activity_Points
+8006003,8006,Collection_Event-HauntedTank_Obtain_140_Daily_Activity_Points
+8006101,8006,Collection_Event-HauntedTank_Perform_1_Draw
+8006102,8006,Collection_Event-HauntedTank_Perform_10_Draws
+8006103,8006,Collection_Event-HauntedTank_Perform_15_Draws
+8006104,8006,Collection_Event-HauntedTank_Perform_20_Draws
+8006105,8006,Collection_Event-HauntedTank_Perform_25_Draws
+8006106,8006,Collection_Event-HauntedTank_Perform_35_Draws
+8007001,8007,Collection_Event-KryptoTheSuperdog_Login_Game
+8007002,8007,Collection_Event-KryptoTheSuperdog_Obtain_100_Daily_Activity_Points
+8007003,8007,Collection_Event-KryptoTheSuperdog_Obtain_140_Daily_Activity_Points
+8007101,8007,Collection_Event-KryptoTheSuperdog_Perform_1_Draw
+8007102,8007,Collection_Event-KryptoTheSuperdog_Perform_10_Draws
+8007103,8007,Collection_Event-KryptoTheSuperdog_Perform_15_Draws
+8007104,8007,Collection_Event-KryptoTheSuperdog_Perform_20_Draws
+8007105,8007,Collection_Event-KryptoTheSuperdog_Perform_25_Draws
+8007106,8007,Collection_Event-KryptoTheSuperdog_Perform_35_Draws
+8008001,8008,Collection_Event-EnergyDisruptor_Login_Game
+8008002,8008,Collection_Event-EnergyDisruptor_Obtain_100_Daily_Activity_Points
+8008003,8008,Collection_Event-EnergyDisruptor_Obtain_140_Daily_Activity_Points
+8008101,8008,Collection_Event-EnergyDisruptor_Perform_1_Draw
+8008102,8008,Collection_Event-EnergyDisruptor_Perform_10_Draws
+8008103,8008,Collection_Event-EnergyDisruptor_Perform_15_Draws
+8008104,8008,Collection_Event-EnergyDisruptor_Perform_20_Draws
+8008105,8008,Collection_Event-EnergyDisruptor_Perform_25_Draws
+8008106,8008,Collection_Event-EnergyDisruptor_Perform_35_Draws
+8009001,8009,Collection_Event-Sethe_Login_Game
+8009002,8009,Collection_Event-Sethe_Obtain_100_Daily_Activity_Points
+8009003,8009,Collection_Event-Sethe_Obtain_140_Daily_Activity_Points
+8009101,8009,Collection_Event-Sethe_Perform_1_Draw
+8009102,8009,Collection_Event-Sethe_Perform_10_Draws
+8009103,8009,Collection_Event-Sethe_Perform_15_Draws
+8009104,8009,Collection_Event-Sethe_Perform_20_Draws
+8009105,8009,Collection_Event-Sethe_Perform_25_Draws
+8009106,8009,Collection_Event-Sethe_Perform_35_Draws
+8010001,8010,Collection_Event-Parallax (rerun)_Login_Game
+8010002,8010,Collection_Event-Parallax (rerun)_Obtain_100_Daily_Activity_Points
+8010003,8010,Collection_Event-Parallax (rerun)_Obtain_140_Daily_Activity_Points
+8010101,8010,Collection_Event-Parallax (rerun)_Perform_1_Draw
+8010102,8010,Collection_Event-Parallax (rerun)_Perform_10_Draws
+8010103,8010,Collection_Event-Parallax (rerun)_Perform_15_Draws
+8010104,8010,Collection_Event-Parallax (rerun)_Perform_20_Draws
+8010105,8010,Collection_Event-Parallax (rerun)_Perform_25_Draws
+8010106,8010,Collection_Event-Parallax (rerun)_Perform_35_Draws
+4007001,1007,3.1_bingo_Raven
+4007002,1007,3.1_bingo_Raven
+4007003,1007,3.1_bingo_Raven
+4007004,1007,3.1_bingo_Raven
+4007005,1007,3.1_bingo_Raven
+4007006,1007,3.1_bingo_Raven
+4007007,1007,3.1_bingo_Raven
+4007008,1007,3.1_bingo_Raven
+4007009,1007,3.1_bingo_Raven
+4007010,1007,3.1_bingo_Raven
+4007011,1007,Bingo - Raven -Draw Daily
+4007012,1007,Bingo - Raven - Equip Exp Daily
+4007013,1007,Bingo - Raven - Level Daily
+4007014,1007,Bingo - Raven - Draw event total
+4007015,1007,Bingo - Raven - Consume event tokens
+4007016,1007,Bingo - Raven - Level Raven
+4007017,1007,Bingo - Raven - Rank Raven
+4007018,1007,Bingo - Raven - Activate a Badge
+130001,13003,15_Day_Ally_Score_Ranking
+130002,13003,15_Day_Ally_Score_Ranking
+130003,13003,15_Day_Ally_Score_Ranking
+130004,13003,15_Day_Ally_Score_Ranking
+130005,13003,15_Day_Ally_Score_Ranking
+130006,13003,15_Day_Ally_Score_Ranking
+130007,13003,15_Day_Ally_Score_Ranking
+130008,13003,15_Day_Ally_Score_Ranking
+130009,13003,15_Day_Ally_Score_Ranking
+130010,13003,15_Day_Ally_Score_Ranking
+130011,13003,15_Day_Ally_Score_Ranking
+130012,13003,15_Day_Ally_Score_Ranking
+130013,13003,15_Day_Ally_Score_Ranking
+5005001,10403,Daily-Sinestro_Restart-Task
+5005002,10403,Daily-Sinestro_Restart-Task
+5005003,10403,Daily-Sinestro_Restart-Task
+5005004,10403,Daily-Sinestro_Restart-Task
+5005005,10403,Daily-Sinestro_Restart-Task
+5005006,10403,Current-Sinestro_Restart-Task
+5005007,10403,Current-Sinestro_Restart-Task
+5005008,10403,Current-Sinestro_Restart-Task
+5005009,10403,Current-Sinestro_Restart-Task
+5005010,10403,Current-Sinestro_Restart-Task
+5005011,10403,Current-Sinestro_Restart-Task
+5005012,10403,Current-Sinestro_Restart-Task
+5005013,10403,Current-Sinestro_Restart-Task
+4008001,1008,3.3_bingo_Star_Sapphire
+4008002,1008,3.3_bingo_Star_Sapphire
+4008003,1008,3.3_bingo_Star_Sapphire
+4008004,1008,3.3_bingo_Star_Sapphire
+4008005,1008,3.3_bingo_Star_Sapphire
+4008006,1008,3.3_bingo_Star_Sapphire
+4008007,1008,3.3_bingo_Star_Sapphire
+4008008,1008,3.3_bingo_Star_Sapphire
+4008009,1008,3.3_bingo_Star_Sapphire
+4008010,1008,3.3_bingo_Star_Sapphire
+4009001,1009,4.1_bingo_John
+4009002,1009,4.1_bingo_John
+4009003,1009,4.1_bingo_John
+4009004,1009,4.1_bingo_John
+4009005,1009,4.1_bingo_John
+4009006,1009,4.1_bingo_John
+4009007,1009,4.1_bingo_John
+4009008,1009,4.1_bingo_John
+4009009,1009,4.1_bingo_John
+4009010,1009,4.1_bingo_John
+4009011,1009,Bingo - GL - John -Draw Daily
+4009012,1009,Bingo - GL - John - Upgrade Equip Daily
+4009013,1009,Bingo - GL - John - Level Daily
+4009014,1009,Bingo - GL - John - Draw event total
+4009015,1009,Bingo - GL - John - Consume event tokens
+4009016,1009,Bingo - GL - John - Level GL - John
+4009017,1009,Bingo - GL - John - Rank GL - John
+4009018,1009,Bingo - GL - John - Activate a Badge
+4010001,1010,Bingo - Mera - D - Spend 8 Coins of Xebel
+4010002,1010,Bingo - Mera - D - Challenge a Convergence stage 1 time
+4010003,1010,Bingo - Mera - D - Challenge any Evil Falls enemy 1 time
+4010004,1010,Bingo - Mera - D - Participate in the Arena 3 times
+4010005,1010,Bingo - Mera - D - Use Quick Collect 2 times
+4010006,1010,Bingo - Mera - D - Level up a Character 5 times
+4010007,1010,Bingo - Mera - D - Upgrade a Reinforcement 5 times
+4010008,1010,Bingo - Mera - D - Upgrade Equipment 5 times
+4010009,1010,Bingo - Mera - D - Recruit 1 time in Limited Characters
+4010010,1010,Bingo - Mera - D - Recruit 10 times in Limited Characters
+4010011,1010,Bingo - Mera - D - Spend 40 Coins of Xebel
+4010012,1010,Bingo - Mera - S - Challenge Convergence stages 10 times
+4010013,1010,Bingo - Mera - S - Clear Elseworld 5 times
+4010014,1010,Bingo - Mera - S - Participate in the Arena 20 times
+4010015,1010,Bingo - Mera - S - Collect Squad Dispatch rewards 20 times
+4010016,1010,Bingo - Mera - S - Recruit 100 times in Limited Characters
+4010017,1010,Bingo - Mera - S - Rank up Mera to Rank 4
+4010018,1010,Bingo - Mera - S - Rank up Mera to Rank 5
+4010019,1010,Bingo - Mera - S - Rank up Mera to Rank 6
+4010020,1010,Bingo - Mera - S - Rank up Mera to Rank 7
+4020001,1011,Bingo - Dr. Phosphorus - D - Spend 8 Slightly Irradiated Skulls
+4020002,1011,Bingo - Dr. Phosphorus - D - Challenge a Convergence stage 1 time
+4020003,1011,Bingo - Dr. Phosphorus - D - Challenge any Evil Falls enemy 1 time
+4020004,1011,Bingo - Dr. Phosphorus - D - Participate in the Arena 3 times
+4020005,1011,Bingo - Dr. Phosphorus - D - Use Quick Collect 2 times
+4020006,1011,Bingo - Dr. Phosphorus - D - Level up a Character 5 times
+4020007,1011,Bingo - Dr. Phosphorus - D - Upgrade a Reinforcement 5 times
+4020008,1011,Bingo - Dr. Phosphorus - D - Upgrade Equipment 5 Times
+4020009,1011,Bingo - Dr. Phosphorus - D - Recruit 1 Time in Limited Characters
+4020010,1011,Bingo - Dr. Phosphorus - D - Recruit 10 Times in Limited Characters
+4020011,1011,Bingo - Dr. Phosphorus - S - Spend 40 Slightly Irradiated Skulls
+4020012,1011,Bingo - Dr. Phosphorus - S - Challenge Convergence stages 10 times
+4020013,1011,Bingo - Dr. Phosphorus - S - Clear Elseworld 5 times
+4020014,1011,Bingo - Dr. Phosphorus - S - Participate in the Arena 20 times
+4020015,1011,Bingo - Dr. Phosphorus - S - Collect Squad Dispatch rewards 20 times
+4020016,1011,Bingo - Dr. Phosphorus - S - Recruit 100 Times in Limited Characters
+4020017,1011,Bingo - Dr. Phosphorus - S - Rank up Dr. Phosphorus to Rank 4
+4020018,1011,Bingo - Dr. Phosphorus - S - Rank up Dr. Phosphorus to Rank 5
+4020019,1011,Bingo - Dr. Phosphorus - S - Rank up Dr. Phosphorus to Rank 6
+4020020,1011,Bingo - Dr. Phosphorus - S - Rank up Dr. Phosphorus to Rank 7
+4030001,1012,Bingo - Weasel - D - Spend 10 Glistening Fangs
+4030002,1012,Bingo - Weasel - D - Challenge a Convergence stage 1 time
+4030003,1012,Bingo - Weasel - D - Challenge any Evil Falls enemy 1 time
+4030004,1012,Bingo - Weasel - D - Participate in the Arena 3 times
+4030005,1012,Bingo - Weasel - D - Use Quick Collect 2 times
+4030006,1012,Bingo - Weasel - D - Level up a Character 5 times
+4030007,1012,Bingo - Weasel - D - Upgrade a Reinforcement 3 times
+4030008,1012,Bingo - Weasel - D - Upgrade Equipment 5 Times
+4030009,1012,Bingo - Weasel - D - Recruit 1 Time in Limited Recruitment
+4030010,1012,Bingo - Weasel - D - Recruit 10 Times in Limited Recruitment
+4030011,1012,Bingo - Weasel - S - Spend 50 Glistening Fangs
+4030012,1012,Bingo - Weasel - S - Challenge Convergence stages 10 times
+4030013,1012,Bingo - Weasel - S - Clear Elseworld 5 times
+4030014,1012,Bingo - Weasel - S - Participate in the Arena 20 times
+4030015,1012,Bingo - Weasel - S - Collect Squad Dispatch rewards 20 times
+4030016,1012,Bingo - Weasel - S - Recruit 100 Times in Limited Recruitment
+4030017,1012,Bingo - Weasel - S - Rank up Weasel to Rank 4
+4030018,1012,Bingo - Weasel - S - Rank up Weasel to Rank 5
+4030019,1012,Bingo - Weasel - S - Rank up Weasel to Rank 6
+4030020,1012,Bingo - Weasel - S - Rank up Weasel to Rank 7
+4030021,1012,Bingo - Weasel - S - Rank up Weasel to Rank 8
+4040001,1013,Bingo - Guy Gardner - D - Spend 8 Depleted Power Rings
+4040002,1013,Bingo - Guy Gardner - D - Challenge a Convergence stage 1 time
+4040003,1013,Bingo - Guy Gardner - D - Challenge any Evil Falls enemy 1 time
+4040004,1013,Bingo - Guy Gardner - D - Participate in the Arena 3 times
+4040005,1013,Bingo - Guy Gardner - D - Use Quick Collect 2 times
+4040006,1013,Bingo - Guy Gardner - D - Level up a Character 5 times
+4040007,1013,Bingo - Guy Gardner - D - Upgrade a Reinforcement 5 times
+4040008,1013,Bingo - Guy Gardner - D - Upgrade Equipment 5 Times
+4040009,1013,Bingo - Guy Gardner - D - Recruit 1 Time in Limited Recruitment
+4040010,1013,Bingo - Guy Gardner - D - Recruit 10 Times in Limited Recruitment
+4040011,1013,Bingo - Guy Gardner - S - Spend 40 Depleted Power Rings
+4040012,1013,Bingo - Guy Gardner - S - Challenge Convergence stages 10 times
+4040013,1013,Bingo - Guy Gardner - S - Clear Elseworld 5 times
+4040014,1013,Bingo - Guy Gardner - S - Participate in the Arena 20 times
+4040015,1013,Bingo - Guy Gardner - S - Collect Squad Dispatch rewards 20 times
+4040016,1013,Bingo - Guy Gardner - S - Recruit 100 Times in Limited Recruitment
+4040017,1013,Bingo - Guy Gardner - S - Rank up Guy Gardner to Rank 4
+4040018,1013,Bingo - Guy Gardner - S - Rank up Guy Gardner to Rank 5
+4040019,1013,Bingo - Guy Gardner - S - Rank up Guy Gardner to Rank 6
+4040020,1013,Bingo - Guy Gardner - S - Rank up Guy Gardner to Rank 7
+4050001,1014,Bingo - Mr. Terrific - D - Spend 8 T-Spheres
+4050002,1014,Bingo - Mr. Terrific - D - Challenge a Convergence stage 1 time
+4050003,1014,Bingo - Mr. Terrific - D - Challenge any Evil Falls enemy 1 time
+4050004,1014,Bingo - Mr. Terrific - D - Participate in the Arena 3 times
+4050005,1014,Bingo - Mr. Terrific - D - Use Quick Collect 2 times
+4050006,1014,Bingo - Mr. Terrific - D - Level up a Character 5 times
+4050007,1014,Bingo - Mr. Terrific - D - Upgrade a Reinforcement 5 times
+4050008,1014,Bingo - Mr. Terrific - D - Upgrade Equipment 5 Times
+4050009,1014,Bingo - Mr. Terrific - D - Recruit 1 Time in Limited Characters
+4050010,1014,Bingo - Mr. Terrific - D - Recruit 10 Times in Limited Characters
+4050011,1014,Bingo - Mr. Terrific - S - Spend 40 T-Spheres
+4050012,1014,Bingo - Mr. Terrific - S - Challenge Convergence stages 10 times
+4050013,1014,Bingo - Mr. Terrific - S - Clear Elseworld 5 times
+4050014,1014,Bingo - Mr. Terrific - S - Participate in the Arena 20 times
+4050015,1014,Bingo - Mr. Terrific - S - Collect Squad Dispatch rewards 20 times
+4050016,1014,Bingo - Mr. Terrific - S - Recruit 100 Times in Limited Characters
+4050017,1014,Bingo - Mr. Terrific - S - Rank up Mr. Terrific to Rank 4
+4050018,1014,Bingo - Mr. Terrific - S - Rank up Mr. Terrific to Rank 5
+4050019,1014,Bingo - Mr. Terrific - S - Rank up Mr. Terrific to Rank 6
+4050020,1014,Bingo - Mr. Terrific - S - Rank up Mr. Terrific to Rank 7
+4060001,1015,Bingo - Judomaster - D - Spend 8 Dragon Emblems
+4060002,1015,Bingo - Judomaster - D - Challenge a Convergence stage 1 time
+4060003,1015,Bingo - Judomaster - D - Challenge any Evil Falls enemy 1 time
+4060004,1015,Bingo - Judomaster - D - Participate in the Arena 3 times
+4060005,1015,Bingo - Judomaster - D - Use Quick Collect 2 times
+4060006,1015,Bingo - Judomaster - D - Level up a Character 5 times
+4060007,1015,Bingo - Judomaster - D - Upgrade a Reinforcement 5 times
+4060008,1015,Bingo - Judomaster - D - Upgrade Equipment 5 Times
+4060009,1015,Bingo - Judomaster - D - Recruit 1 Time in Limited Recruitment
+4060010,1015,Bingo - Judomaster - D - Recruit 10 Times in Limited Recruitment
+4060011,1015,Bingo - Judomaster - S - Spend 40 Dragon Emblems
+4060012,1015,Bingo - Judomaster - S - Challenge Convergence stages 10 times
+4060013,1015,Bingo - Judomaster - S - Clear Elseworld 5 times
+4060014,1015,Bingo - Judomaster - S - Participate in the Arena 20 times
+4060015,1015,Bingo - Judomaster - S - Collect Squad Dispatch rewards 20 times
+4060016,1015,Bingo - Judomaster - S - Recruit 100 Times in Limited Recruitment
+4060017,1015,Bingo - Judomaster - S - Rank up Judomaster to Rank 4
+4060018,1015,Bingo - Judomaster - S - Rank up Judomaster to Rank 5
+4060019,1015,Bingo - Judomaster - S - Rank up Judomaster to Rank 6
+4060020,1015,Bingo - Judomaster - S - Rank up Judomaster to Rank 7
+4070001,1016,Bingo - Vigilante - D - Spend 8 Grenades
+4070002,1016,Bingo - Vigilante - D - Challenge a Convergence stage 1 time
+4070003,1016,Bingo - Vigilante - D - Challenge any Evil Falls enemy 1 time
+4070004,1016,Bingo - Vigilante - D - Participate in the Arena 3 times
+4070005,1016,Bingo - Vigilante - D - Use Quick Collect 2 times
+4070006,1016,Bingo - Vigilante - D - Level up a Character 5 times
+4070007,1016,Bingo - Vigilante - D - Upgrade a Reinforcement 5 times
+4070008,1016,Bingo - Vigilante - D - Upgrade Equipment 5 Times
+4070009,1016,Bingo - Vigilante - D - Recruit 1 Time in Limited Recruitment
+4070010,1016,Bingo - Vigilante - D - Recruit 10 Times in Limited Recruitment
+4070011,1016,Bingo - Vigilante - S - Spend 40 Grenades
+4070012,1016,Bingo - Vigilante - S - Challenge Convergence stages 10 times
+4070013,1016,Bingo - Vigilante - S - Clear Elseworld 5 times
+4070014,1016,Bingo - Vigilante - S - Participate in the Arena 20 times
+4070015,1016,Bingo - Vigilante - S - Collect Squad Dispatch rewards 20 times
+4070016,1016,Bingo - Vigilante - S - Recruit 100 Times in Limited Recruitment
+4070017,1016,Bingo - Vigilante - S - Rank up Vigilante to Rank 4
+4070018,1016,Bingo - Vigilante - S - Rank up Vigilante to Rank 5
+4070019,1016,Bingo - Vigilante - S - Rank up Vigilante to Rank 6
+4070020,1016,Bingo - Vigilante - S - Rank up Vigilante to Rank 7
+4080001,1017,Bingo - Cheshire - D - Spend 8 Striped Masks
+4080002,1017,Bingo - Cheshire - D - Challenge a Convergence stage 1 time
+4080003,1017,Bingo - Cheshire - D - Challenge any Evil Falls enemy 1 time
+4080004,1017,Bingo - Cheshire - D - Participate in the Arena 3 times
+4080005,1017,Bingo - Cheshire - D - Use Quick Collect 2 times
+4080006,1017,Bingo - Cheshire - D - Level up a Character 5 times
+4080007,1017,Bingo - Cheshire - D - Upgrade a Reinforcement 5 times
+4080008,1017,Bingo - Cheshire - D - Upgrade Equipment 5 Times
+4080009,1017,Bingo - Cheshire - D - Recruit 1 Time in Limited Characters
+4080010,1017,Bingo - Cheshire - D - Recruit 10 Times in Limited Characters
+4080011,1017,Bingo - Cheshire - S - Spend 40 Striped Masks
+4080012,1017,Bingo - Cheshire - S - Challenge Convergence stages 10 times
+4080013,1017,Bingo - Cheshire - S - Clear Elseworld 5 times
+4080014,1017,Bingo - Cheshire - S - Participate in the Arena 20 times
+4080015,1017,Bingo - Cheshire - S - Collect Squad Dispatch rewards 20 times
+4080016,1017,Bingo - Cheshire - S - Recruit 100 Times in Limited Characters
+4080017,1017,Bingo - Cheshire - S - Rank up Cheshire to Rank 4
+4080018,1017,Bingo - Cheshire - S - Rank up Cheshire to Rank 5
+4080019,1017,Bingo - Cheshire - S - Rank up Cheshire to Rank 6
+4080020,1017,Bingo - Cheshire - S - Rank up Cheshire to Rank 7
+4090001,1018,Bingo - Doctor Poison - D - Spend 8 Bingo Token 1 (Placeholder)
+4090002,1018,Bingo - Doctor Poison - D - Challenge a Convergence stage 1 time
+4090003,1018,Bingo - Doctor Poison - D - Challenge any Evil Falls enemy 1 time
+4090004,1018,Bingo - Doctor Poison - D - Participate in the Arena 3 times
+4090005,1018,Bingo - Doctor Poison - D - Use Quick Collect 2 times
+4090006,1018,Bingo - Doctor Poison - D - Level up a Character 5 times
+4090007,1018,Bingo - Doctor Poison - D - Upgrade a Reinforcement 5 times
+4090008,1018,Bingo - Doctor Poison - D - Upgrade Equipment 5 Times
+4090009,1018,Bingo - Doctor Poison - D - Recruit 1 Time in Limited Recruitment
+4090010,1018,Bingo - Doctor Poison - D - Recruit 10 Times in Limited Recruitment
+4090011,1018,Bingo - Doctor Poison - S - Spend 40 Bingo Token 1 (Placeholder)
+4090012,1018,Bingo - Doctor Poison - S - Challenge Convergence stages 10 times
+4090013,1018,Bingo - Doctor Poison - S - Clear Elseworld 5 times
+4090014,1018,Bingo - Doctor Poison - S - Participate in the Arena 20 times
+4090015,1018,Bingo - Doctor Poison - S - Collect Squad Dispatch rewards 20 times
+4090016,1018,Bingo - Doctor Poison - S - Recruit 100 Times in Limited Recruitment
+4090017,1018,Bingo - Doctor Poison - S - Rank up Doctor_Poison to Rank 4
+4090018,1018,Bingo - Doctor Poison - S - Rank up Doctor_Poison to Rank 5
+4090019,1018,Bingo - Doctor Poison - S - Rank up Doctor_Poison to Rank 6
+4090020,1018,Bingo - Doctor Poison - S - Rank up Doctor_Poison to Rank 7
+4090021,15001,NECE - Judomaster - D - Spend 8 Dragon Emblems
+4090022,15001,NECE - Judomaster - D - Challenge a Convergence stage 1 time
+4090023,15001,NECE - Judomaster - D - Challenge any Evil Falls enemy 1 time
+4090024,15001,NECE - Judomaster - D - Participate in the Arena 3 times
+4090025,15001,NECE - Judomaster - D - Use Quick Collect 2 times
+4090026,15001,NECE - Judomaster - D - Level up a Character 5 times
+4090027,15001,NECE - Judomaster - D - Upgrade a Reinforcement 5 times
+4090028,15001,NECE - Judomaster - D - Upgrade Equipment 5 Times
+4090029,15001,NECE - Judomaster - D - Recruit 1 Time in Limited Recruitment
+4090030,15001,NECE - Judomaster - D - Recruit 10 Times in Limited Recruitment
+4090031,15001,NECE - Judomaster - S - Spend 40 Dragon Emblems
+4090032,15001,NECE - Judomaster - S - Challenge Convergence stages 10 times
+4090033,15001,NECE - Judomaster - S - Clear Elseworld 5 times
+4090034,15001,NECE - Judomaster - S - Participate in the Arena 20 times
+4090035,15001,NECE - Judomaster - S - Collect Squad Dispatch rewards 20 times
+4090036,15001,NECE - Judomaster - S - Recruit 100 Times in Limited Recruitment
+4090037,15001,NECE - Judomaster - S - Rank up Judomaster to Rank 4
+4090038,15001,NECE - Judomaster - S - Rank up Judomaster to Rank 5
+4090039,15001,NECE - Judomaster - S - Rank up Judomaster to Rank 6
+4090040,15001,NECE - Judomaster - S - Rank up Judomaster to Rank 7
+5016001,11403,Aquaman Legendary Event - D - Complete 1 Daily Login
+5016002,11403,Aquaman Legendary Event - D - Challenge Aquaman once
+5016003,11403,Aquaman Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5016004,11403,Aquaman Legendary Event - D - Win 1 Time in the Arena
+5016005,11403,Aquaman Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5016006,11403,Aquaman Legendary Event - D - Recruit 5 times in Featured Recruitment
+5016007,11403,Aquaman Legendary Event - D - Upgrade Equipment 1 time
+5016008,11403,Aquaman Legendary Event - D - Level up a Character 5 times
+5016009,11403,Aquaman Legendary Event - S - Log in for 12 Days in total
+5016010,11403,Aquaman Legendary Event - S - Spend a total of 300 Silver Crests
+5016011,11403,Aquaman Legendary Event - S - Spend a total of 200 Gold Crests
+5016012,11403,Aquaman Legendary Event - S - Clear Elseworld 8 times
+5016013,11403,Aquaman Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5016014,11403,Aquaman Legendary Event - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5016015,11403,Aquaman Legendary Event - S - Clear the 3 areas in Aquaman Tower Mode
+5016016,11403,Aquaman Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5016017,11403,Aquaman Legendary Event - S - Obtain Aquaman
+5016018,11403,Aquaman Legendary Event - S - Recruit 20 times in Featured Recruitment
+5016019,11403,Aquaman Legendary Event - S - Rank up Aquaman to Rank 6
+5016020,11403,Aquaman Legendary Event - S - Activate 1 Character Badge
+5019001,11703,Legendary Event - Superman DCU - D - Complete 1 Daily Login
+5019002,11703,Legendary Event - Superman DCU - D - Challenge Superman DCU Once
+5019003,11703,Legendary Event - Superman DCU - D - Recruit 1 Time in Featured Recruitment
+5019004,11703,Legendary Event - Superman DCU - D - Win 1 Time in the Arena
+5019005,11703,Legendary Event - Superman DCU - D - Challenge any Evil Falls enemy 1 time
+5019006,11703,Legendary Event - Superman DCU - D - Recruit 5 times in Featured Recruitment
+5019007,11703,Legendary Event - Superman DCU - D - Upgrade Equipment 1 time
+5019008,11703,Legendary Event - Superman DCU - D - Level up a Character 5 times
+5019009,11703,Legendary Event - Superman DCU - S - Log in for 12 Days in total
+5019010,11703,Legendary Event - Superman DCU - S - Spend a total of 300 Event Currency 1
+5019011,11703,Legendary Event - Superman DCU - S - Spend a total of 200 Event Currency 2
+5019012,11703,Legendary Event - Superman DCU - S - Clear Elseworld 8 times
+5019013,11703,Legendary Event - Superman DCU - S - Collect Squad Dispatch rewards 40 times
+5019014,11703,Legendary Event - Superman DCU - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5019015,11703,Legendary Event - Superman DCU - S - Clear the 3 areas in event tower mode
+5019016,11703,Legendary Event - Superman DCU - S - Gain 24 stars once during a single Crisis Watch theme
+5019017,11703,Legendary Event - Superman DCU - S - Obtain Superman DCU
+5019018,11703,Legendary Event - Superman DCU - S - Recruit 20 times in Featured Recruitment
+5019019,11703,Legendary Event - Superman DCU - S - Rank up Superman DCU  to Rank 6
+5019020,11703,Legendary Event - Superman DCU - S - Rank up Superman DCU  to Rank 8
+5018001,11603,General Zod Legendary Event - D - Complete 1 Daily Login
+5018002,11603,General Zod Legendary Event - D - Challenge General Zod once
+5018003,11603,General Zod Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5018004,11603,General Zod Legendary Event - D - Win 1 Time in the Arena
+5018005,11603,General Zod Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5018006,11603,General Zod Legendary Event - D - Recruit 5 times in Featured Recruitment
+5018007,11603,General Zod Legendary Event - D - Upgrade Equipment 1 time
+5018008,11603,General Zod Legendary Event - D - Level up a Character 5 times
+5018009,11603,General Zod Legendary Event - S - Log in for 12 Days in total
+5018010,11603,General Zod Legendary Event - S - Spend a total of 300 Event Currency 1
+5018011,11603,General Zod Legendary Event - S - Spend a total of 200 Event Currency 2
+5018012,11603,General Zod Legendary Event - S - Clear Elseworld 8 times
+5018013,11603,General Zod Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5018014,11603,General Zod Legendary Event - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5018015,11603,General Zod Legendary Event - S - Clear the 3 areas in General Zod Tower Mode
+5018016,11603,General Zod Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5018017,11603,General Zod Legendary Event - S - Obtain General Zod
+5018018,11603,General Zod Legendary Event - S - Recruit 20 times in Featured Recruitment
+5018019,11603,General Zod Legendary Event - S - Rank up General Zod to Rank 6
+5018020,11603,General Zod Legendary Event - S - Rank up General Zod to Rank 8
+5018021,11603,General Zod Legendary Event - S - Rank up General Zod to Rank 10
+4090041,1005,Bingo - Killer Frost - D - Spend 8 Common Tokens
+4090042,1005,Bingo - Killer Frost - D - Challenge a Convergence stage 1 time
+4090043,1005,Bingo - Killer Frost - D - Challenge any Evil Falls enemy 1 time
+4090044,1005,Bingo - Killer Frost - D - Participate in the Arena 3 times
+4090045,1005,Bingo - Killer Frost - D - Get 9 Stars in a single Crisis Watch theme
+4090046,1005,Bingo - Killer Frost - D - Level up a Character 5 times
+4090047,1005,Bingo - Killer Frost - D - Upgrade a Reinforcement 5 times
+4090048,1005,Bingo - Killer Frost - D - Upgrade Equipment 5 Times
+4090049,1005,Bingo - Killer Frost - D - Recruit 1 Time in Limited Characters
+4090050,1005,Bingo - Killer Frost - D - Recruit 10 Times in Limited Characters
+4090051,1005,Bingo - Killer Frost - S - Spend 40 Common Tokens
+4090052,1005,Bingo - Killer Frost - S - Challenge Convergence stages 10 times
+4090053,1005,Bingo - Killer Frost - S - Clear Elseworld 5 times
+4090054,1005,Bingo - Killer Frost - S - Participate in the Arena 20 times
+4090055,1005,Bingo - Killer Frost - S - Collect Squad Dispatch rewards 40 times
+4090056,1005,Bingo - Killer Frost - S - Recruit 100 Times in Limited Characters
+4090057,1005,Bingo - Killer Frost - S - Rank up Killer Frost to Rank 4
+4090058,1005,Bingo - Killer Frost - S - Rank up Killer Frost to Rank 5
+4090059,1005,Bingo - Killer Frost - S - Rank up Killer Frost to Rank 6
+4090060,1005,Bingo - Killer Frost - S - Rank up Killer Frost to Rank 7
+8011001,8011,Collection_Event-GL Power Battery (rerun)_Login_Game
+8011002,8011,Collection_Event-GL Power Battery (rerun)_Obtain_100_Daily_Activity_Points
+8011003,8011,Collection_Event-GL Power Battery (rerun)_Obtain_140_Daily_Activity_Points
+8011101,8011,Collection_Event-GL Power Battery (rerun)_Perform_1_Draw
+8011102,8011,Collection_Event-GL Power Battery (rerun)_Perform_10_Draws
+8011103,8011,Collection_Event-GL Power Battery (rerun)_Perform_15_Draws
+8011104,8011,Collection_Event-GL Power Battery (rerun)_Perform_20_Draws
+8011105,8011,Collection_Event-GL Power Battery (rerun)_Perform_25_Draws
+8011106,8011,Collection_Event-GL Power Battery (rerun)_Perform_35_Draws
+4090061,1019,Bingo - Firestorm - D - Spend 8 TBD Token 1 Name
+4090062,1019,Bingo - Firestorm - D - Challenge a Convergence stage 1 time
+4090063,1019,Bingo - Firestorm - D - Challenge any Evil Falls enemy 1 time
+4090064,1019,Bingo - Firestorm - D - Participate in the Arena 3 times
+4090065,1019,Bingo - Firestorm - D - Use Quick Collect 2 times
+4090066,1019,Bingo - Firestorm - D - Level up a Character 5 times
+4090067,1019,Bingo - Firestorm - D - Upgrade a Reinforcement 5 times
+4090068,1019,Bingo - Firestorm - D - Upgrade Equipment 5 Times
+4090069,1019,Bingo - Firestorm - D - Recruit 1 Time in Limited Characters
+4090070,1019,Bingo - Firestorm - D - Recruit 10 Times in Limited Characters
+4090071,1019,Bingo - Firestorm - S - Spend 40 TBD Token 1 Name
+4090072,1019,Bingo - Firestorm - S - Challenge Convergence stages 10 times
+4090073,1019,Bingo - Firestorm - S - Clear Elseworld 5 times
+4090074,1019,Bingo - Firestorm - S - Participate in the Arena 20 times
+4090075,1019,Bingo - Firestorm - S - Collect Squad Dispatch rewards 20 times
+4090076,1019,Bingo - Firestorm - S - Recruit 100 Times in Limited Characters
+4090077,1019,Bingo - Firestorm - S - Rank up Firestorm to Rank 4
+4090078,1019,Bingo - Firestorm - S - Rank up Firestorm to Rank 5
+4090079,1019,Bingo - Firestorm - S - Rank up Firestorm to Rank 6
+4090080,1019,Bingo - Firestorm - S - Rank up Firestorm to Rank 7
+8012001,8012,Collection_Event-Phantom Zone Projector_Login_Game
+8012002,8012,Collection_Event-Phantom Zone Projector_Obtain_100_Daily_Activity_Points
+8012003,8012,Collection_Event-Phantom Zone Projector_Obtain_140_Daily_Activity_Points
+8012101,8012,Collection_Event-Phantom Zone Projector_Perform_1_Draw
+8012102,8012,Collection_Event-Phantom Zone Projector_Perform_10_Draws
+8012103,8012,Collection_Event-Phantom Zone Projector_Perform_15_Draws
+8012104,8012,Collection_Event-Phantom Zone Projector_Perform_20_Draws
+8012105,8012,Collection_Event-Phantom Zone Projector_Perform_25_Draws
+8012106,8012,Collection_Event-Phantom Zone Projector_Perform_35_Draws
+4090081,1020,Bingo - Punchline - D - Spend 8 Punchline Token 1 Name
+4090082,1020,Bingo - Punchline - D - Challenge a Convergence stage 1 time
+4090083,1020,Bingo - Punchline - D - Challenge any Evil Falls enemy 1 time
+4090084,1020,Bingo - Punchline - D - Participate in the Arena 3 times
+4090085,1020,Bingo - Punchline - D - Use Quick Collect 2 times
+4090086,1020,Bingo - Punchline - D - Level up a Character 5 times
+4090087,1020,Bingo - Punchline - D - Upgrade a Reinforcement 5 times
+4090088,1020,Bingo - Punchline - D - Upgrade Equipment 5 Times
+4090089,1020,Bingo - Punchline - D - Recruit 1 Time in Limited Characters
+4090090,1020,Bingo - Punchline - D - Recruit 10 Times in Limited Characters
+4090091,1020,Bingo - Punchline - S - Spend 40 Punchline Token 1 Name
+4090092,1020,Bingo - Punchline - S - Challenge Convergence stages 10 times
+4090093,1020,Bingo - Punchline - S - Clear Elseworld 5 times
+4090094,1020,Bingo - Punchline - S - Participate in the Arena 20 times
+4090095,1020,Bingo - Punchline - S - Collect Squad Dispatch rewards 20 times
+4090096,1020,Bingo - Punchline - S - Recruit 100 Times in Limited Characters
+4090097,1020,Bingo - Punchline - S - Rank up Punchline to Rank 4
+4090098,1020,Bingo - Punchline - S - Rank up Punchline to Rank 5
+4090099,1020,Bingo - Punchline - S - Rank up Punchline to Rank 6
+4090100,1020,Bingo - Punchline - S - Rank up Punchline to Rank 7
+4090101,1021,Bingo - Hugo Strange - D - Spend 8 Hugo Strange Token 1 Name
+4090102,1021,Bingo - Hugo Strange - D - Challenge a Convergence stage 1 time
+4090103,1021,Bingo - Hugo Strange - D - Challenge any Evil Falls enemy 1 time
+4090104,1021,Bingo - Hugo Strange - D - Participate in the Arena 3 times
+4090105,1021,Bingo - Hugo Strange - D - Use Quick Collect 2 times
+4090106,1021,Bingo - Hugo Strange - D - Level up a Character 5 times
+4090107,1021,Bingo - Hugo Strange - D - Upgrade a Reinforcement 5 times
+4090108,1021,Bingo - Hugo Strange - D - Upgrade Equipment 5 Times
+4090109,1021,Bingo - Hugo Strange - D - Recruit 1 Time in Limited Characters
+4090110,1021,Bingo - Hugo Strange - D - Recruit 10 Times in Limited Characters
+4090111,1021,Bingo - Hugo Strange - S - Spend 40 Hugo Strange Token 1 Name
+4090112,1021,Bingo - Hugo Strange - S - Challenge Convergence stages 10 times
+4090113,1021,Bingo - Hugo Strange - S - Clear Elseworld 5 times
+4090114,1021,Bingo - Hugo Strange - S - Participate in the Arena 20 times
+4090115,1021,Bingo - Hugo Strange - S - Collect Squad Dispatch rewards 20 times
+4090116,1021,Bingo - Hugo Strange - S - Recruit 100 Times in Limited Characters
+4090117,1021,Bingo - Hugo Strange - S - Rank up Hugo Strange to Rank 4
+4090118,1021,Bingo - Hugo Strange - S - Rank up Hugo Strange to Rank 5
+4090119,1021,Bingo - Hugo Strange - S - Rank up Hugo Strange to Rank 6
+4090120,1021,Bingo - Hugo Strange - S - Rank up Hugo Strange to Rank 7
+5020001,11803,The Joker Legendary Event - D - Complete 1 Daily Login
+5020002,11803,The Joker Legendary Event - D - Challenge The Joker once
+5020003,11803,The Joker Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5020004,11803,The Joker Legendary Event - D - Win 1 Time in the Arena
+5020005,11803,The Joker Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5020006,11803,The Joker Legendary Event - D - Recruit 5 times in Featured Recruitment
+5020007,11803,The Joker Legendary Event - D - Upgrade Equipment 1 time
+5020008,11803,The Joker Legendary Event - D - Level up a Character 5 times
+5020009,11803,The Joker Legendary Event - S - Log in for 12 Days in total
+5020010,11803,The Joker Legendary Event - S - Spend a total of 300 Event Currency 1
+5020011,11803,The Joker Legendary Event - S - Spend a total of 200 Event Currency 2
+5020012,11803,The Joker Legendary Event - S - Clear Elseworld 8 times
+5020013,11803,The Joker Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5020014,11803,The Joker Legendary Event - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5020015,11803,The Joker Legendary Event - S - Clear the 3 areas in The Joker Tower Mode
+5020016,11803,The Joker Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5020017,11803,The Joker Legendary Event - S - Obtain The Joker
+5020018,11803,The Joker Legendary Event - S - Recruit 20 times in Featured Recruitment
+5020019,11803,The Joker Legendary Event - S - Rank up The Joker to Rank 6
+5020020,11803,The Joker Legendary Event - S - Rank up The Joker to Rank 8
+5020021,11803,The Joker Legendary Event - S - Rank up The Joker to Rank 10
+8013001,8013,Collection_Event-Lex Armor (rerun)_Login_Game
+8013002,8013,Collection_Event-Lex Armor (rerun)_Obtain_100_Daily_Activity_Points
+8013003,8013,Collection_Event-Lex Armor (rerun)_Obtain_140_Daily_Activity_Points
+8013101,8013,Collection_Event-Lex Armor (rerun)_Perform_1_Draw
+8013102,8013,Collection_Event-Lex Armor (rerun)_Perform_10_Draws
+8013103,8013,Collection_Event-Lex Armor (rerun)_Perform_15_Draws
+8013104,8013,Collection_Event-Lex Armor (rerun)_Perform_20_Draws
+8013105,8013,Collection_Event-Lex Armor (rerun)_Perform_25_Draws
+8013106,8013,Collection_Event-Lex Armor (rerun)_Perform_35_Draws
+5030001,11903,Sinestro Legendary Event - D - Complete 1 Daily Login
+5030002,11903,Sinestro Legendary Event - D - Challenge Sinestro once
+5030003,11903,Sinestro Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5030004,11903,Sinestro Legendary Event - D - Win 1 Time in the Arena
+5030005,11903,Sinestro Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5030006,11903,Sinestro Legendary Event - D - Recruit 5 times in Featured Recruitment
+5030007,11903,Sinestro Legendary Event - D - Upgrade Equipment 1 time
+5030008,11903,Sinestro Legendary Event - D - Level up a Character 5 times
+5030009,11903,Sinestro Legendary Event - S - Log in for 12 Days in total
+5030010,11903,Sinestro Legendary Event - S - Spend a total of 300 Event Currency 1
+5030011,11903,Sinestro Legendary Event - S - Spend a total of 200 Event Currency 2
+5030012,11903,Sinestro Legendary Event - S - Clear Elseworld 8 times
+5030013,11903,Sinestro Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5030014,11903,Sinestro Legendary Event - S - Hire League Mercenaries to Clear Any Stage 5 Times
+5030015,11903,Sinestro Legendary Event - S - Clear the 3 areas in Sinestro Tower Mode
+5030016,11903,Sinestro Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5030017,11903,Sinestro Legendary Event - S - Obtain Sinestro
+5030018,11903,Sinestro Legendary Event - S - Recruit 20 times in Featured Recruitment
+5030019,11903,Sinestro Legendary Event - S - Rank up Sinestro to Rank 6
+5030020,11903,Sinestro Legendary Event - S - Rank up Sinestro to Rank 8
+5030021,11903,Sinestro Legendary Event - S - Rank up Sinestro to Rank 10
+8014001,8014,Collection_Event-Jerry the Winged Horse_Login_Game
+8014002,8014,Collection_Event-Jerry the Winged Horse_Obtain_100_Daily_Activity_Points
+8014003,8014,Collection_Event-Jerry the Winged Horse_Obtain_140_Daily_Activity_Points
+8014101,8014,Collection_Event-Jerry the Winged Horse_Perform_1_Draw
+8014102,8014,Collection_Event-Jerry the Winged Horse_Perform_10_Draws
+8014103,8014,Collection_Event-Jerry the Winged Horse_Perform_15_Draws
+8014104,8014,Collection_Event-Jerry the Winged Horse_Perform_20_Draws
+8014105,8014,Collection_Event-Jerry the Winged Horse_Perform_25_Draws
+8014106,8014,Collection_Event-Jerry the Winged Horse_Perform_35_Draws
+5040001,12003,Nubia Legendary Event - D - Complete 1 Daily Login
+5040002,12003,Nubia Legendary Event - D - Challenge Nubia once
+5040003,12003,Nubia Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5040004,12003,Nubia Legendary Event - D - Win 1 Time in the Arena
+5040005,12003,Nubia Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5040006,12003,Nubia Legendary Event - D - Recruit 5 times in Featured Recruitment
+5040007,12003,Nubia Legendary Event - D - Upgrade Equipment 1 time
+5040008,12003,Nubia Legendary Event - D - Level up a Character 5 times
+5040009,12003,Nubia Legendary Event - S - Log in for 7 Days in total
+5040010,12003,Nubia Legendary Event - S - Spend a total of 200 Event Currency 1
+5040011,12003,Nubia Legendary Event - S - Spend a total of 100 Event Currency 2
+5040012,12003,Nubia Legendary Event - S - Clear Elseworld 5 times
+5040013,12003,Nubia Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5040014,12003,Nubia Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5040015,12003,Nubia Legendary Event - S - Clear the 3 areas in Nubia Tower Mode
+5040016,12003,Nubia Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5040017,12003,Nubia Legendary Event - S - Obtain Nubia
+5040018,12003,Nubia Legendary Event - S - Recruit 20 times in Featured Recruitment
+5040019,12003,Nubia Legendary Event - S - Rank up Nubia to Rank 6
+5040020,12003,Nubia Legendary Event - S - Rank up Nubia to Rank 8
+5040021,12003,Nubia Legendary Event - S - Rank up Nubia to Rank 10
+4090121,1022,Bingo - Yara Flor - D - Spend 8 Yara Flor Token 1 Name
+4090122,1022,Bingo - Yara Flor - D - Challenge a Convergence stage 1 time
+4090123,1022,Bingo - Yara Flor - D - Challenge any Evil Falls enemy 1 time
+4090124,1022,Bingo - Yara Flor - D - Participate in the Arena 3 times
+4090125,1022,Bingo - Yara Flor - D - Use Quick Collect 2 times
+4090126,1022,Bingo - Yara Flor - D - Level up a Character 5 times
+4090127,1022,Bingo - Yara Flor - D - Upgrade a Reinforcement 5 times
+4090128,1022,Bingo - Yara Flor - D - Upgrade Equipment 5 Times
+4090129,1022,Bingo - Yara Flor - D - Recruit 1 Time in Limited Characters
+4090130,1022,Bingo - Yara Flor - D - Recruit 10 Times in Limited Characters
+4090131,1022,Bingo - Yara Flor - S - Spend 40 Yara Flor Token 1 Name
+4090132,1022,Bingo - Yara Flor - S - Challenge Convergence stages 10 times
+4090133,1022,Bingo - Yara Flor - S - Clear Elseworld 4 times
+4090134,1022,Bingo - Yara Flor - S - Participate in the Arena 20 times
+4090135,1022,Bingo - Yara Flor - S - Collect Squad Dispatch rewards 20 times
+4090136,1022,Bingo - Yara Flor - S - Recruit 100 Times in Limited Characters
+4090137,1022,Bingo - Yara Flor - S - Rank up Yara Flor to Rank 4
+4090138,1022,Bingo - Yara Flor - S - Rank up Yara Flor to Rank 5
+4090139,1022,Bingo - Yara Flor - S - Rank up Yara Flor to Rank 6
+4090140,1022,Bingo - Yara Flor - S - Rank up Yara Flor to Rank 7
+5050001,12103,Black Adam Legendary Event - D - Complete 1 Daily Login
+5050002,12103,Black Adam Legendary Event - D - Challenge Black Adam once
+5050003,12103,Black Adam Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5050004,12103,Black Adam Legendary Event - D - Win 1 Time in the Arena
+5050005,12103,Black Adam Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5050006,12103,Black Adam Legendary Event - D - Recruit 5 times in Featured Recruitment
+5050007,12103,Black Adam Legendary Event - D - Upgrade Equipment 1 time
+5050008,12103,Black Adam Legendary Event - D - Level up a Character 5 times
+5050009,12103,Black Adam Legendary Event - S - Log in for 7 Days in total
+5050010,12103,Black Adam Legendary Event - S - Spend a total of 200 Event Currency 1
+5050011,12103,Black Adam Legendary Event - S - Spend a total of 100 Event Currency 2
+5050012,12103,Black Adam Legendary Event - S - Clear Elseworld 5 times
+5050013,12103,Black Adam Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5050014,12103,Black Adam Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5050015,12103,Black Adam Legendary Event - S - Clear the 3 areas in Black Adam Tower Mode
+5050016,12103,Black Adam Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5050017,12103,Black Adam Legendary Event - S - Obtain Black Adam
+5050018,12103,Black Adam Legendary Event - S - Recruit 20 times in Featured Recruitment
+5050019,12103,Black Adam Legendary Event - S - Rank up Black Adam to Rank 6
+5050020,12103,Black Adam Legendary Event - S - Rank up Black Adam to Rank 8
+5050021,12103,Black Adam Legendary Event - S - Rank up Black Adam to Rank 10
+4090141,1023,Bingo - Artemis - D - Spend 8 Artemis Token 1 Name
+4090142,1023,Bingo - Artemis - D - Challenge a Convergence stage 1 time
+4090143,1023,Bingo - Artemis - D - Challenge any Evil Falls enemy 1 time
+4090144,1023,Bingo - Artemis - D - Participate in the Arena 3 times
+4090145,1023,Bingo - Artemis - D - Use Quick Collect 2 times
+4090146,1023,Bingo - Artemis - D - Level up a Character 5 times
+4090147,1023,Bingo - Artemis - D - Upgrade a Reinforcement 5 times
+4090148,1023,Bingo - Artemis - D - Upgrade Equipment 5 Times
+4090149,1023,Bingo - Artemis - D - Recruit 1 Time in Limited Characters
+4090150,1023,Bingo - Artemis - D - Recruit 10 Times in Limited Characters
+4090151,1023,Bingo - Artemis - S - Spend 40 Artemis Token 1 Name
+4090152,1023,Bingo - Artemis - S - Challenge Convergence stages 10 times
+4090153,1023,Bingo - Artemis - S - Clear Elseworld 5 times
+4090154,1023,Bingo - Artemis - S - Participate in the Arena 20 times
+4090155,1023,Bingo - Artemis - S - Collect Squad Dispatch rewards 20 times
+4090156,1023,Bingo - Artemis - S - Recruit 100 Times in Limited Characters
+4090157,1023,Bingo - Artemis - S - Rank up Artemis to Rank 4
+4090158,1023,Bingo - Artemis - S - Rank up Artemis to Rank 5
+4090159,1023,Bingo - Artemis - S - Rank up Artemis to Rank 6
+4090160,1023,Bingo - Artemis - S - Rank up Artemis to Rank 7
+5026001,12203,Aquaman Legendary Event - D - Complete 1 Daily Login
+5026002,12203,Aquaman Legendary Event - D - Challenge Aquaman once
+5026003,12203,Aquaman Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5026004,12203,Aquaman Legendary Event - D - Win 1 Time in the Arena
+5026005,12203,Aquaman Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5026006,12203,Aquaman Legendary Event - D - Recruit 5 times in Featured Recruitment
+5026007,12203,Aquaman Legendary Event - D - Upgrade Equipment 1 time
+5026008,12203,Aquaman Legendary Event - D - Level up a Character 5 times
+5026009,12203,Aquaman Legendary Event - S - Log in for 5 Days in total
+5026010,12203,Aquaman Legendary Event - S - Spend a total of 200 Silver Crests
+5026011,12203,Aquaman Legendary Event - S - Spend a total of 100 Gold Crests
+5026012,12203,Aquaman Legendary Event - S - Clear Elseworld 3 times
+5026013,12203,Aquaman Legendary Event - S - Collect Squad Dispatch rewards 30 times
+5026014,12203,Aquaman Legendary Event - S - Hire League Mercenaries to Clear Any Stage 2 Times
+5026015,12203,Aquaman Legendary Event - S - Clear the 3 areas in Aquaman Tower Mode
+5026016,12203,Aquaman Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5026017,12203,Aquaman Legendary Event - S - Obtain Aquaman
+5026018,12203,Aquaman Legendary Event - S - Recruit 20 times in Featured Recruitment
+5026019,11903,Aquaman Legendary Event - S - Rank up Aquaman to Rank 6
+5026020,11903,Aquaman Legendary Event - S - Rank up Aquaman to Rank 8
+5026021,12203,Aquaman Legendary Event - S - Rank up Aquaman to Rank 10
+14090081,11020,Bingo - Punchline - D - Spend 8 Punchline Token 1 Name
+14090082,11020,Bingo - Punchline - D - Challenge a Convergence stage 1 time
+14090083,11020,Bingo - Punchline - D - Challenge any Evil Falls enemy 1 time
+14090084,11020,Bingo - Punchline - D - Participate in the Arena 3 times
+14090085,11020,Bingo - Punchline - D - Use Quick Collect 2 times
+14090086,11020,Bingo - Punchline - D - Level up a Character 5 times
+14090087,11020,Bingo - Punchline - D - Upgrade a Reinforcement 5 times
+14090088,11020,Bingo - Punchline - D - Upgrade Equipment 5 Times
+14090089,11020,Bingo - Punchline - D - Recruit 1 Time in Limited Characters
+14090090,11020,Bingo - Punchline - D - Recruit 10 Times in Limited Characters
+14090091,11020,Bingo - Punchline - S - Spend 40 Punchline Token 1 Name
+14090092,11020,Bingo - Punchline - S - Challenge Convergence stages 10 times
+14090093,11020,Bingo - Punchline - S - Clear Elseworld 5 times
+14090094,11020,Bingo - Punchline - S - Participate in the Arena 20 times
+14090095,11020,Bingo - Punchline - S - Collect Squad Dispatch rewards 20 times
+14090096,11020,Bingo - Punchline - S - Recruit 100 Times in Limited Characters
+14090097,11020,Bingo - Punchline - S - Elite Arena Victory 20 Times
+14090101,11021,Bingo - Hugo Strange - D - Spend 8 Hugo Strange Token 1 Name
+14090102,11021,Bingo - Hugo Strange - D - Challenge a Convergence stage 1 time
+14090103,11021,Bingo - Hugo Strange - D - Challenge any Evil Falls enemy 1 time
+14090104,11021,Bingo - Hugo Strange - D - Participate in the Arena 3 times
+14090105,11021,Bingo - Hugo Strange - D - Use Quick Collect 2 times
+14090106,11021,Bingo - Hugo Strange - D - Level up a Character 5 times
+14090107,11021,Bingo - Hugo Strange - D - Upgrade a Reinforcement 5 times
+14090108,11021,Bingo - Hugo Strange - D - Upgrade Equipment 5 Times
+14090109,11021,Bingo - Hugo Strange - D - Recruit 1 Time in Limited Characters
+14090110,11021,Bingo - Hugo Strange - D - Recruit 10 Times in Limited Characters
+14090111,11021,Bingo - Hugo Strange - S - Spend 40 Hugo Strange Token 1 Name
+14090112,11021,Bingo - Hugo Strange - S - Challenge Convergence stages 10 times
+14090113,11021,Bingo - Hugo Strange - S - Clear Elseworld 5 times
+14090114,11021,Bingo - Hugo Strange - S - Participate in the Arena 20 times
+14090115,11021,Bingo - Hugo Strange - S - Collect Squad Dispatch rewards 20 times
+14090116,11021,Bingo - Hugo Strange - S - Recruit 100 Times in Limited Characters
+14090117,11021,Bingo - Hugo Strange - S - Elite Arena Victory 20 Times
+5060001,12303,Nubia Legendary Event - D - Complete 1 Daily Login
+5060002,12303,Nubia Legendary Event - D - Challenge Nubia once
+5060003,12303,Nubia Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5060004,12303,Nubia Legendary Event - D - Win 1 Time in the Arena
+5060005,12303,Nubia Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5060006,12303,Nubia Legendary Event - D - Recruit 5 times in Featured Recruitment
+5060007,12303,Nubia Legendary Event - D - Upgrade Equipment 1 time
+5060008,12303,Nubia Legendary Event - D - Level up a Character 5 times
+5060009,12303,Nubia Legendary Event - S - Log in for 5 Days in total
+5060010,12303,Nubia Legendary Event - S - Spend a total of 200 Event Currency 1
+5060011,12303,Nubia Legendary Event - S - Spend a total of 100 Event Currency 2
+5060012,12303,Nubia Legendary Event - S - Clear Elseworld 3 times
+5060013,12303,Nubia Legendary Event - S - Collect Squad Dispatch rewards 21 times
+5060014,12303,Nubia Legendary Event - S - Hire League Mercenaries to Clear Any Stage 2 Times
+5060015,12303,Nubia Legendary Event - S - Clear the 3 areas in Nubia Tower Mode
+5060016,12303,Nubia Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5060017,12303,Nubia Legendary Event - S - Obtain Nubia
+5060018,12303,Nubia Legendary Event - S - Recruit 20 times in Featured Recruitment
+5060021,12303,Nubia Legendary Event - S - Rank up Nubia to Rank 10
+5070001,12403,Artemis Legendary Event - D - Complete 1 Daily Login
+5070002,12403,Artemis Legendary Event - D - Challenge Artemis once
+5070003,12403,Artemis Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5070004,12403,Artemis Legendary Event - D - Win 1 Time in the Arena
+5070005,12403,Artemis Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5070006,12403,Artemis Legendary Event - D - Recruit 5 times in Featured Recruitment
+5070007,12403,Artemis Legendary Event - D - Upgrade Equipment 1 time
+5070008,12403,Artemis Legendary Event - D - Level up a Character 5 times
+5070009,12403,Artemis Legendary Event - S - Log in for 7 Days in total
+5070010,12403,Artemis Legendary Event - S - Spend a total of 200 Warrior Seal
+5070011,12403,Artemis Legendary Event - S - Spend a total of 100 Champion Seal
+5070012,12403,Artemis Legendary Event - S - Clear Elseworld 5 times
+5070013,12403,Artemis Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5070014,12403,Artemis Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5070015,12403,Artemis Legendary Event - S - Clear the 3 areas in Artemis Tower Mode
+5070016,12403,Artemis Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5070017,12403,Artemis Legendary Event - S - Obtain Artemis
+5070018,12403,Artemis Legendary Event - S - Recruit 20 times in Featured Recruitment
+5070019,12403,Artemis Legendary Event - S - Rank up Artemis to Rank 6
+5070020,12403,Artemis Legendary Event - S - Rank up Artemisto Rank 8
+5070021,12403,Artemis Legendary Event - S - Rank up Artemis to Rank 10
+5080001,12503,Black Adam Legendary Event - D - Complete 1 Daily Login
+5080002,12503,Black Adam Legendary Event - D - Challenge Black Adam once
+5080003,12503,Black Adam Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5080004,12503,Black Adam Legendary Event - D - Win 1 Time in the Arena
+5080005,12503,Black Adam Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5080006,12503,Black Adam Legendary Event - D - Recruit 5 times in Featured Recruitment
+5080007,12503,Black Adam Legendary Event - D - Upgrade Equipment 1 time
+5080008,12503,Black Adam Legendary Event - D - Level up a Character 5 times
+5080009,12503,Black Adam Legendary Event - S - Log in for 5 Days in total
+5080010,12503,Black Adam Legendary Event - S - Spend a total of 200 Event Currency 1
+5080011,12503,Black Adam Legendary Event - S - Spend a total of 100 Event Currency 2
+5080012,12503,Black Adam Legendary Event - S - Clear Elseworld 3 times
+5080013,12503,Black Adam Legendary Event - S - Collect Squad Dispatch rewards 21 times
+5080014,11903,Black Adam Legendary Event - S - Hire League Mercenaries to Clear Any Stage 2 Times
+5080015,12503,Black Adam Legendary Event - S - Clear the 3 areas in Black Adam Tower Mode
+5080016,12503,Black Adam Legendary Event - S - Obtain 10 victories in the Elite Arena
+5080017,12503,Black Adam Legendary Event - S - Obtain Black Adam
+5080018,12503,Black Adam Legendary Event - S - Recruit 20 times in Featured Recruitment
+5080021,12503,Black Adam Legendary Event - S - Rank up Black Adam to Rank 10
+14060001,11015,Bingo - Judomaster Rerun - D - Spend 8 Dragon Emblems
+14060002,11015,Bingo - Judomaster Rerun - D - Challenge a Convergence stage 1 time
+14060003,11015,Bingo - Judomaster Rerun - D - Challenge any Evil Falls enemy 1 time
+14060004,11015,Bingo - Judomaster Rerun - D - Participate in the Arena 3 times
+14060005,11015,Bingo - Judomaster Rerun - D - Use Quick Collect 2 times
+14060006,11015,Bingo - Judomaster Rerun - D - Level up a Character 5 times
+14060007,11015,Bingo - Judomaster Rerun - D - Upgrade a Reinforcement 5 times
+14060008,11015,Bingo - Judomaster Rerun - D - Upgrade Equipment 5 Times
+14060009,11015,Bingo - Judomaster Rerun - D - Recruit 2 Times in Limited Recruitment
+14060010,11015,Bingo - Judomaster Rerun - D - Recruit 10 Times in Limited Recruitment
+14060011,11015,Bingo - Judomaster Rerun - S - Spend 20 Dragon Emblems
+14060012,11015,Bingo - Judomaster Rerun - S - Challenge Convergence stages 5 times
+14060013,11015,Bingo - Judomaster Rerun - S - Clear Elseworld 3 times
+14060014,11015,Bingo - Judomaster Rerun - S - Participate in the Arena 10 times
+14060015,11015,Bingo - Judomaster Rerun - S - Collect Squad Dispatch rewards 20 times
+14060016,11015,Bingo - Judomaster Rerun - S - Recruit 100 Times in Limited Recruitment
+14060017,11015,Bingo - Judomaster Rerun - S - Elite Arena Victory 8 Times
+14070001,11016,Bingo - Vigilante Rerun - D - Spend 8 Grenades
+14070002,11016,Bingo - Vigilante Rerun - D - Challenge a Convergence stage 1 time
+14070003,11016,Bingo - Vigilante Rerun - D - Challenge any Evil Falls enemy 1 time
+14070004,11016,Bingo - Vigilante Rerun - D - Participate in the Arena 3 times
+14070005,11016,Bingo - Vigilante Rerun - D - Use Quick Collect 2 times
+14070006,11016,Bingo - Vigilante Rerun - D - Level up a Character 5 times
+14070007,11016,Bingo - Vigilante Rerun - D - Upgrade a Reinforcement 5 times
+14070008,11016,Bingo - Vigilante Rerun - D - Upgrade Equipment 5 Times
+14070009,11016,Bingo - Vigilante Rerun - D - Recruit 2 Times in Limited Recruitment
+14070010,11016,Bingo - Vigilante Rerun - D - Recruit 10 Times in Limited Recruitment
+14070011,11016,Bingo - Vigilante Rerun - S - Spend 20 Grenades
+14070012,11016,Bingo - Vigilante Rerun - S - Challenge Convergence stages 5 times
+14070013,11016,Bingo - Vigilante Rerun - S - Clear Elseworld 3 times
+14070014,11016,Bingo - Vigilante Rerun - S - Participate in the Arena 10 times
+14070015,11016,Bingo - Vigilante Rerun - S - Collect Squad Dispatch rewards 20 times
+14070016,11016,Bingo - Vigilante Rerun - S - Recruit 100 Times in Limited Recruitment
+14070017,11016,Bingo - Vigilante Rerun - S - Elite Arena Victory 8 Times
+14020001,11011,Bingo - Dr. Phosphorus Rerun - D - Spend 8 Slightly Irradiated Skulls
+14020002,11011,Bingo - Dr. Phosphorus Rerun - D - Challenge a Convergence stage 1 time
+14020003,11011,Bingo - Dr. Phosphorus Rerun - D - Challenge any Evil Falls enemy 1 time
+14020004,11011,Bingo - Dr. Phosphorus Rerun - D - Participate in the Arena 3 times
+14020005,11011,Bingo - Dr. Phosphorus Rerun - D - Use Quick Collect 2 times
+14020006,11011,Bingo - Dr. Phosphorus Rerun - D - Level up a Character 5 times
+14020007,11011,Bingo - Dr. Phosphorus Rerun - D - Upgrade a Reinforcement 5 times
+14020008,11011,Bingo - Dr. Phosphorus Rerun - D - Upgrade Equipment 5 Times
+14020009,11011,Bingo - Dr. Phosphorus Rerun - D - Recruit 2 Times in Limited Recruitment
+14020010,11011,Bingo - Dr. Phosphorus Rerun - D - Recruit 10 Times in Limited Characters
+14020011,11011,Bingo - Dr. Phosphorus Rerun - S - Spend 20 Slightly Irradiated Skulls
+14020012,11011,Bingo - Dr. Phosphorus Rerun - S - Challenge Convergence stages 5 times
+14020013,11011,Bingo - Dr. Phosphorus Rerun - S - Clear Elseworld 3 times
+14020014,11011,Bingo - Dr. Phosphorus Rerun - S - Participate in the Arena 10 times
+14020015,11011,Bingo - Dr. Phosphorus Rerun - S - Collect Squad Dispatch rewards 15 times
+14020016,11011,Bingo - Dr. Phosphorus Rerun - S - Recruit 100 Times in Limited Characters
+14020017,11011,Bingo - Dr. Phosphorus Rerun - S - Elite Arena Victory 8 Times
+14030001,11012,Bingo - Weasel Rerun - D - Spend 10 Glistening Fangs
+14030002,11012,Bingo - Weasel Rerun - D - Challenge a Convergence stage 1 time
+14030003,11012,Bingo - Weasel Rerun - D - Challenge any Evil Falls enemy 1 time
+14030004,11012,Bingo - Weasel Rerun - D - Participate in the Arena 3 times
+14030005,11012,Bingo - Weasel Rerun - D - Use Quick Collect 2 times
+14030006,11012,Bingo - Weasel Rerun - D - Level up a Character 5 times
+14030007,11012,Bingo - Weasel Rerun - D - Upgrade a Reinforcement 3 times
+14030008,11012,Bingo - Weasel Rerun - D - Upgrade Equipment 5 Times
+14030009,11012,Bingo - Weasel Rerun - D - Recruit 2 Times in Limited Recruitment
+14030010,11012,Bingo - Weasel Rerun - D - Recruit 10 Times in Limited Recruitment
+14030011,11012,Bingo - Weasel Rerun - S - Spend 20 Glistening Fangs
+14030012,11012,Bingo - Weasel Rerun - S - Challenge Convergence stages 5 times
+14030013,11012,Bingo - Weasel Rerun - S - Clear Elseworld 3 times
+14030014,11012,Bingo - Weasel Rerun - S - Participate in the Arena 10 times
+14030015,11012,Bingo - Weasel Rerun - S - Collect Squad Dispatch rewards 15 times
+14030016,11012,Bingo - Weasel Rerun - S - Recruit 100 Times in Limited Recruitment
+14030017,11012,Bingo - Weasel Rerun - S - Elite Arena Victory 8 Times
+14090121,11022,Bingo - Yara Flor Rerun - D - Spend 8 Yara Flor Token 1 Name
+14090122,11022,Bingo - Yara Flor Rerun - D - Challenge a Convergence stage 1 time
+14090123,11022,Bingo - Yara Flor Rerun - D - Challenge any Evil Falls enemy 1 time
+14090124,11022,Bingo - Yara Flor Rerun - D - Participate in the Arena 3 times
+14090125,11022,Bingo - Yara Flor Rerun - D - Use Quick Collect 2 times
+14090126,11022,Bingo - Yara Flor Rerun - D - Level up a Character 5 times
+14090127,11022,Bingo - Yara Flor Rerun - D - Upgrade a Reinforcement 5 times
+14090128,11022,Bingo - Yara Flor Rerun - D - Upgrade Equipment 5 Times
+14090129,11022,Bingo - Yara Flor Rerun - D - Recruit 1 Time in Limited Characters
+14090130,11022,Bingo - Yara Flor Rerun - D - Recruit 10 Times in Limited Characters
+14090131,11022,Bingo - Yara Flor Rerun - S - Spend 25 Yara Flor Token 1 Name
+14090132,11022,Bingo - Yara Flor Rerun - S - Challenge Convergence stages 6 times
+14090133,11022,Bingo - Yara Flor Rerun - S - Clear Elseworld 3 times
+14090134,11022,Bingo - Yara Flor Rerun - S - Participate in the Arena 12 times
+14090135,11022,Bingo - Yara Flor Rerun - S - Collect Squad Dispatch rewards 20 times
+14090136,11022,Bingo - Yara Flor Rerun - S - Recruit 100 Times in Limited Characters
+14090137,11022,Bingo - Yara Flor Rerun - S - Elite Arena Victory 10 Times
+5090001,12603,Artemis Legendary Event - D - Complete 1 Daily Login
+5090002,12603,Artemis Legendary Event - D - Challenge Artemis once
+5090003,12603,Artemis Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5090004,12603,Artemis Legendary Event - D - Win 1 Time in the Arena
+5090005,12603,Artemis Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5090006,12603,Artemis Legendary Event - D - Recruit 5 times in Featured Recruitment
+5090007,12603,Artemis Legendary Event - D - Upgrade Equipment 1 time
+5090008,12603,Artemis Legendary Event - D - Level up a Character 5 times
+5090009,12603,Artemis Legendary Event - S - Log in for 5 Days in total
+5090010,12603,Artemis Legendary Event - S - Spend a total of 200 Warrior Seal
+5090011,12603,Artemis Legendary Event - S - Spend a total of 100 Champion Seal
+5090012,12603,Artemis Legendary Event - S - Clear Elseworld 3 times
+5090013,12603,Artemis Legendary Event - S - Collect Squad Dispatch rewards 21 times
+5090014,12603,Artemis Legendary Event - S - Hire League Mercenaries to Clear Any Stage 2 Times
+5090015,12603,Artemis Legendary Event - S - Clear the 3 areas in Artemis Tower Mode
+5090016,12603,Artemis Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5090017,12603,Artemis Legendary Event - S - Obtain Artemis
+5090018,12603,Artemis Legendary Event - S - Recruit 20 times in Featured Recruitment
+5090021,12603,Artemis Legendary Event - S - Rank up Artemis to Rank 10
+18007001,18007,Collection_Event-Krypto the Superdog rerun_Login_Game
+18007002,18007,Collection_Event-Krypto the Superdog rerun_Obtain_100_Daily_Activity_Points
+18007003,18007,Collection_Event-Krypto the Superdog rerun_Obtain_140_Daily_Activity_Points
+18007004,18007,Collection_Event-Krypto the Superdog rerun_Perform_1_Draw
+18007005,18007,Collection_Event-Krypto the Superdog rerun_Perform_10_Draws
+18007006,18007,Collection_Event-Krypto the Superdog rerun_Perform_15_Draws
+18007007,18007,Collection_Event-Krypto the Superdog rerun_Perform_20_Draws
+18007008,18007,Collection_Event-Krypto the Superdog rerun_Perform_25_Draws
+18007009,18007,Collection_Event-Krypto the Superdog rerun_Perform_35_Draws
+4090171,1024,Bingo - Ruthye - D - Spend 6 Ruthye Token 1 Name
+4090172,1024,Bingo - Ruthye - D - Challenge a Convergence stage 1 time
+4090173,1024,Bingo - Ruthye - D - Challenge any Evil Falls enemy 1 time
+4090174,1024,Bingo - Ruthye - D - Win 15 Times in The Arena
+4090175,1024,Bingo - Ruthye - D - Use Quick Collect 2 times
+4090176,1024,Bingo - Ruthye - D - Level up a Character 5 times
+4090177,1024,Bingo - Ruthye - D - Upgrade a Reinforcement 5 times
+4090178,1024,Bingo - Ruthye - D - Upgrade Equipment 5 Times
+4090179,1024,Bingo - Ruthye - D - Recruit 1 Time in Limited Characters
+4090180,1024,Bingo - Ruthye - D - Recruit 10 Times in Limited Characters
+4090181,1024,Bingo - Ruthye - S - Spend 40 Ruthye Token 1 Name
+4090182,1024,Bingo - Ruthye - S - Challenge Convergence stages 10 times
+4090183,1024,Bingo - Ruthye - S - Clear Elseworld 4 times
+4090184,1024,Bingo - Ruthye - S - Win 15 Times in The Arena
+4090185,1024,Bingo - Ruthye - S - Collect Squad Dispatch rewards 20 times
+4090186,1024,Bingo - Ruthye - S - Recruit 100 Times in Limited Characters
+4090187,1024,Bingo - Ruthye - S - Rank up Ruthye to Rank 4
+4090188,1024,Bingo - Ruthye - S - Rank up Ruthye to Rank 5
+4090189,1024,Bingo - Ruthye - S - Rank up Ruthye to Rank 6
+4090190,1024,Bingo - Ruthye - S - Rank up Ruthye to Rank 7
+5100001,12703,Lobo Legendary Event - D - Complete 1 Daily Login
+5100002,12703,Lobo Legendary Event - D - Challenge Lobo once
+5100003,12703,Lobo Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5100004,12703,Lobo Legendary Event - D - Win 1 Time in the Arena
+5100005,12703,Lobo Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5100006,12703,Lobo Legendary Event - D - Recruit 5 times in Featured Recruitment
+5100007,12703,Lobo Legendary Event - D - Upgrade Equipment 1 time
+5100008,12703,Lobo Legendary Event - D - Level up a Character 5 times
+5100009,12703,Lobo Legendary Event - S - Log in for 7 Days in total
+5100010,12703,Lobo Legendary Event - S - Spend a total of 200 Iron Hooks
+5100011,12703,Lobo Legendary Event - S - Spend a total of 100 Gilded Hook
+5100012,12703,Lobo Legendary Event - S - Clear Elseworld 5 times
+5100013,12703,Lobo Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5100014,12703,Lobo Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5100015,12703,Lobo Legendary Event - S - Clear the 3 areas in Lobo Tower Mode
+5100016,12703,Lobo Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5100017,12703,Lobo Legendary Event - S - Obtain Lobo
+5100018,12703,Lobo Legendary Event - S - Recruit 20 times in Featured Recruitment
+5100019,12703,Lobo Legendary Event - S - Rank up Lobo to Rank 6
+5100020,12703,Lobo Legendary Event - S - Rank up Lobo to Rank 8
+5100021,12703,Lobo Legendary Event - S - Rank up Lobo to Rank 10
+5110001,12803,BlackLightning Legendary Event - D - Complete 1 Daily Login
+5110002,12803,BlackLightning Legendary Event - D - Challenge BlackLightning once
+5110003,12803,BlackLightning Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5110004,12803,BlackLightning Legendary Event - D - Win 1 Time in the Arena
+5110005,12803,BlackLightning Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5110006,12803,BlackLightning Legendary Event - D - Recruit 5 times in Featured Recruitment
+5110007,12803,BlackLightning Legendary Event - D - Upgrade Equipment 1 time
+5110008,12803,BlackLightning Legendary Event - D - Level up a Character 5 times
+5110009,12803,BlackLightning Legendary Event - S - Log in for 7 Days in total
+5110010,12803,BlackLightning Legendary Event - S - Spend a total of 200 Event Currency 1
+5110011,12803,BlackLightning Legendary Event - S - Spend a total of 100 Event Currency 2
+5110012,12803,BlackLightning Legendary Event - S - Clear Elseworld 5 times
+5110013,12803,BlackLightning Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5110014,12803,BlackLightning Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5110015,12803,BlackLightning Legendary Event - S - Clear the 3 areas in BlackLightning Tower Mode
+5110016,12803,BlackLightning Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5110017,12803,BlackLightning Legendary Event - S - Obtain BlackLightning
+5110018,12803,BlackLightning Legendary Event - S - Recruit 20 times in Featured Recruitment
+5110019,12803,BlackLightning Legendary Event - S - Rank up BlackLightning to Rank 6
+5110020,12803,BlackLightning Legendary Event - S - Rank up BlackLightning to Rank 8
+5110021,12803,BlackLightning Legendary Event - S - Rank up BlackLightning to Rank 10
+5120001,12903,Supergirl DCU Legendary Event - D - Complete 1 Daily Login
+5120002,12903,Supergirl DCU Legendary Event - D - Challenge Supergirl DCU once
+5120003,12903,Supergirl DCU Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5120004,12903,Supergirl DCU Legendary Event - D - Win 1 Time in the Arena
+5120005,12903,Supergirl DCU Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5120006,12903,Supergirl DCU Legendary Event - D - Recruit 5 times in Featured Recruitment
+5120007,12903,Supergirl DCU Legendary Event - D - Upgrade Equipment 1 time
+5120008,12903,Supergirl DCU Legendary Event - D - Level up a Character 5 times
+5120009,12903,Supergirl DCU Legendary Event - S - Log in for 7 Days in total
+5120010,12903,Supergirl DCU Legendary Event - S - Spend a total of 200 Iron Hooks
+5120011,12903,Supergirl DCU Legendary Event - S - Spend a total of 100 Gilded Hook
+5120012,12903,Supergirl DCU Legendary Event - S - Clear Elseworld 5 times
+5120013,12903,Supergirl DCU Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5120014,12903,Supergirl DCU Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5120015,12903,Supergirl DCU Legendary Event - S - Clear the 3 areas in Supergirl DCU Tower Mode
+5120016,12903,Supergirl DCU Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5120017,12903,Supergirl DCU Legendary Event - S - Obtain Supergirl DCU
+5120018,12903,Supergirl DCU Legendary Event - S - Recruit 20 times in Featured Recruitment
+5120019,12903,Supergirl DCU Legendary Event - S - Rank up Supergirl DCU to Rank 6
+5120020,12903,Supergirl DCU Legendary Event - S - Rank up Supergirl DCU to Rank 8
+5120021,12903,Supergirl DCU Legendary Event - S - Rank up Supergirl DCU to Rank 10
+5130001,13003,WhiteLantern Legendary Event - D - Complete 1 Daily Login
+5130002,13003,WhiteLantern Legendary Event - D - Challenge WhiteLantern once
+5130003,13003,WhiteLantern Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5130004,13003,WhiteLantern Legendary Event - D - Win 1 Time in the Arena
+5130005,13003,WhiteLantern Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5130006,13003,WhiteLantern Legendary Event - D - Recruit 5 times in Featured Recruitment
+5130007,13003,WhiteLantern Legendary Event - D - Upgrade Equipment 1 time
+5130008,13003,WhiteLantern Legendary Event - D - Level up a Character 5 times
+5130009,13003,WhiteLantern Legendary Event - S - Log in for 7 Days in total
+5130010,13003,WhiteLantern Legendary Event - S - Spend a total of 200 Event Currency 1
+5130011,13003,WhiteLantern Legendary Event - S - Spend a total of 100 Event Currency 2
+5130012,13003,WhiteLantern Legendary Event - S - Clear Elseworld 5 times
+5130013,13003,WhiteLantern Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5130014,13003,WhiteLantern Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5130015,13003,WhiteLantern Legendary Event - S - Clear the 3 areas in WhiteLantern Tower Mode
+5130016,13003,WhiteLantern Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5130017,13003,WhiteLantern Legendary Event - S - Obtain WhiteLantern
+5130018,13003,WhiteLantern Legendary Event - S - Recruit 20 times in Featured Recruitment
+5130021,13003,WhiteLantern Legendary Event - S - Rank up WhiteLantern to Rank 10
+18012001,18012,Collection_Event-Phantom Projector rerun_Login_Game
+18012002,18012,Collection_Event-Phantom Projector rerun_Obtain_100_Daily_Activity_Points
+18012003,18012,Collection_Event-Phantom Projector rerun_Obtain_140_Daily_Activity_Points
+18012004,18012,Collection_Event-Phantom Projector rerun_Perform_1_Draw
+18012005,18012,Collection_Event-Phantom Projector rerun_Perform_10_Draws
+18012006,18012,Collection_Event-Phantom Projector rerun_Perform_15_Draws
+18012007,18012,Collection_Event-Phantom Projector rerun_Perform_20_Draws
+18012008,18012,Collection_Event-Phantom Projector rerun_Perform_25_Draws
+18012009,18012,Collection_Event-Phantom Projector rerun_Perform_35_Draws
+18015001,8015,Collection_Event-Spacehog_Login_Game
+18015002,8015,Collection_Event-Spacehog_Obtain_100_Daily_Activity_Points
+18015003,8015,Collection_Event-Spacehog_Obtain_140_Daily_Activity_Points
+18015004,8015,Collection_Event-Spacehog_Perform_1_Draw
+18015005,8015,Collection_Event-Spacehog_Perform_10_Draws
+18015006,8015,Collection_Event-Spacehog_Perform_15_Draws
+18015007,8015,Collection_Event-Spacehog_Perform_20_Draws
+18015008,8015,Collection_Event-SpacehogPerform_25_Draws
+18015009,8015,Collection_Event-Spacehog_Perform_35_Draws
+5140001,13103,BlackLightning_Rerun Legendary Event - D - Complete 1 Daily Login
+5140002,13103,BlackLightning_Rerun Legendary Event - D - Challenge BlackLightning_Rerun once
+5140003,13103,BlackLightning_Rerun Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5140004,13103,BlackLightning_Rerun Legendary Event - D - Win 1 Time in the Arena
+5140005,13103,BlackLightning_Rerun Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5140006,13103,BlackLightning_Rerun Legendary Event - D - Recruit 5 times in Featured Recruitment
+5140007,13103,BlackLightning_Rerun Legendary Event - D - Upgrade Equipment 1 time
+5140008,13103,BlackLightning_Rerun Legendary Event - D - Level up a Character 5 times
+5140009,13103,BlackLightning_Rerun Legendary Event - S - Log in for 7 Days in total
+5140010,13103,BlackLightning_Rerun Legendary Event - S - Spend a total of 200 Event Currency 1
+5140011,13103,BlackLightning_Rerun Legendary Event - S - Spend a total of 100 Event Currency 2
+5140012,13103,BlackLightning_Rerun Legendary Event - S - Clear Elseworld 5 times
+5140013,13103,BlackLightning_Rerun Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5140014,13103,BlackLightning_Rerun Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5140015,13103,BlackLightning_Rerun Legendary Event - S - Clear the 3 areas in BlackLightning_Rerun Tower Mode
+5140016,13103,BlackLightning_Rerun Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5140017,13103,BlackLightning_Rerun Legendary Event - S - Obtain BlackLightning_Rerun
+5140018,13103,BlackLightning_Rerun Legendary Event - S - Recruit 20 times in Featured Recruitment
+5140019,13103,BlackLightning_Rerun Legendary Event - S - Rank up BlackLightning_Rerun to Rank 10
+5150001,13203,SupergirlDCU Legendary Event - D - Complete 1 Daily Login
+5150002,13203,SupergirlDCU Legendary Event - D - Challenge SupergirlDCU once
+5150003,13203,SupergirlDCU Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5150004,13203,SupergirlDCU Legendary Event - D - Win 1 Time in the Arena
+5150005,13203,SupergirlDCU Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5150006,13203,SupergirlDCU Legendary Event - D - Recruit 5 times in Featured Recruitment
+5150007,13203,SupergirlDCU Legendary Event - D - Upgrade Equipment 1 time
+5150008,13203,SupergirlDCU Legendary Event - D - Level up a Character 5 times
+5150009,13203,SupergirlDCU Legendary Event - S - Log in for 5 Days in total
+5150010,13203,SupergirlDCU Legendary Event - S - Spend a total of 200 Event Currency 1
+5150011,13203,SupergirlDCU Legendary Event - S - Spend a total of 100 Event Currency 2
+5150012,13203,SupergirlDCU Legendary Event - S - Clear Elseworld 3 times
+5150013,13203,SupergirlDCU Legendary Event - S - Collect Squad Dispatch rewards 21 times
+5150014,13203,SupergirlDCU Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5150015,13203,SupergirlDCU Legendary Event - S - Clear the 3 areas in SupergirlDCU Tower Mode
+5150016,13203,SupergirlDCU Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5150017,13203,SupergirlDCU Legendary Event - S - Obtain SupergirlDCU
+5150018,13203,SupergirlDCU Legendary Event - S - Recruit 20 times in Featured Recruitment
+5150019,13203,SupergirlDCU Legendary Event - S - Rank up SupergirlDCU to Rank 10
+14090171,11024,Bingo - Ruthye Rerun - D - Spend 4 Ruthye Token 1 Name
+14090172,11024,Bingo - Ruthye Rerun - D - Challenge a Convergence stage 1 time
+14090173,11024,Bingo - Ruthye Rerun - D - Challenge any Evil Falls enemy 1 time
+14090174,11024,Bingo - Ruthye Rerun - D - Participate in the Arena 3 times
+14090175,11024,Bingo - Ruthye Rerun - D - Use Quick Collect 2 times
+14090176,11024,Bingo - Ruthye Rerun - D - Level up a Character 5 times
+14090177,11024,Bingo - Ruthye Rerun - D - Upgrade a Reinforcement 3 times
+14090178,11024,Bingo - Ruthye Rerun - D - Upgrade Equipment 5 Times
+14090179,11024,Bingo - Ruthye Rerun - D - Recruit 2 Time in Limited Characters
+14090180,11024,Bingo - Ruthye Rerun - D - Recruit 10 Times in Limited Characters
+14090181,11024,Bingo - Ruthye Rerun - S - Spend 20 Ruthye Token 1 Name
+14090182,11024,Bingo - Ruthye Rerun - S - Challenge Convergence stages 5 times
+14090183,11024,Bingo - Ruthye Rerun - S - Clear Elseworld 3 times
+14090184,11024,Bingo - Ruthye Rerun - S - Participate in the Arena 10 times
+14090185,11024,Bingo - Ruthye Rerun - S - Collect Squad Dispatch rewards 15 times
+14090186,11024,Bingo - Ruthye Rerun - S - Recruit 100 Times in Limited Characters
+14090187,11024,Bingo - Ruthye Rerun - S - Elite Arena Victory 8 Times
+5160001,13303,Lobo Rerun Legendary Event - D - Complete 1 Daily Login
+5160002,13303,Lobo Rerun Legendary Event - D - Challenge Lobo Rerun once
+5160003,13303,Lobo Rerun Legendary Event - D - Recruit 1 Time in Featured Recruitment
+5160004,13303,Lobo Rerun Legendary Event - D - Win 1 Time in the Arena
+5160005,13303,Lobo Rerun Legendary Event - D - Challenge any Evil Falls enemy 1 time
+5160006,13303,Lobo Rerun Legendary Event - D - Recruit 5 times in Featured Recruitment
+5160007,13303,Lobo Rerun Legendary Event - D - Upgrade Equipment 1 time
+5160008,13303,Lobo Rerun Legendary Event - D - Level up a Character 5 times
+5160009,13303,Lobo Rerun Legendary Event - S - Log in for 7 Days in total
+5160010,13303,Lobo Rerun Legendary Event - S - Spend a total of 200 Event Currency 1
+5160011,13303,Lobo Rerun Legendary Event - S - Spend a total of 100 Event Currency 2
+5160012,13303,Lobo Rerun Legendary Event - S - Clear Elseworld 5 times
+5160013,13303,Lobo Rerun Legendary Event - S - Collect Squad Dispatch rewards 40 times
+5160014,13303,Lobo Rerun Legendary Event - S - Hire League Mercenaries to Clear Any Stage 3 Times
+5160015,13303,Lobo Rerun Legendary Event - S - Clear the 3 areas in Lobo Rerun Tower Mode
+5160016,13303,Lobo Rerun Legendary Event - S - Gain 24 stars once during a single Crisis Watch theme
+5160017,13303,Lobo Rerun Legendary Event - S - Obtain Lobo Rerun
+5160018,13303,Lobo Rerun Legendary Event - S - Recruit 20 times in Featured Recruitment
+5160019,13303,Lobo Rerun Legendary Event - S - Rank up Lobo Rerun to Rank 6
+5160020,13303,Lobo Rerun Legendary Event - S - Rank up Lobo Rerun to Rank 8
+5160021,13303,Lobo Rerun Legendary Event - S - Rank up Lobo Rerun to Rank 10

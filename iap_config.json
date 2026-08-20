@@ -1,0 +1,33 @@
+{
+    "TargetDir": "C:/Users/gear/Perforce/x.son.lengoc_Config_Dev/excel",
+    "SourceCSV": "C:/Users/gear/Downloads/DCWC Pack Creator - Event Packs (New) (3).csv",
+    "Mode": "Mode 1: Normal Event Pack",
+    "SaleType": "Legendary Event",
+    "FilterKeyword": "Fatal",
+    "EventName": "Standalone 1 Event season 12",
+    "BannerSuffix": "13221",
+    "CharacterClass": "C",
+    "PopUpID": "19748",
+    "JumpID": "19748",
+    "BP_ID": "9978",
+    "BP_Hero": "The Riddler",
+    "BP_Ally": "13221",
+    "BP_Start": "20261023_000000",
+    "BP_End": "20261222_000000",
+    "BP_RewardCSV": "C:/Users/gear/Perforce/x.son.lengoc_Config_Dev/excel/Rewards/Reward_TheRiddler.csv",
+    "GenerateText": false,
+    "MainStoreText": "Vital Heart Sale",
+    "PopupTitleText": "The Vital Heart!",
+    "PopupSubtitleText": "Power up your core! Lead your team with unstoppable energy and vital hero bundles.",
+    "PopupDescText": "Feel the beat! Claim your exclusive event deals before the pulse fades!",
+    "IsExtraSale": false,
+    "ExtraSaleType": "Extra Deal",
+    "Substores": [
+        {
+            "type": "Special",
+            "pack_name": "Heart Deals!",
+            "substore_name": "Heart Deals!",
+            "substore_desc": "Heart Deals!"
+        }
+    ]
+}

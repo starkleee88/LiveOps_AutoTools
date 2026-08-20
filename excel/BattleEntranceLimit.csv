@@ -1,0 +1,76 @@
+﻿ID,LimitType,LimitParam,O,O
+ID,"Restriction Type - 
+0: No limit
+1: Gender corrresponds to allyinfo-Sex
+2: Organization & region corresponding to allyinfo-Camp
+3: Whether it is a hero corresponds to allyinfo-IsHero
+4: Traits correspond to allyinfo-Faction
+5: Quality corresponds to allyinfo-BaseQuality
+6: Occupation corresponds to allyinfo-Class
+","Limit Parameters - 
+Sex
+1: Male
+2: Female
+Camp
+1: Metropolis
+2: Gotham
+3: Central City
+4: Justice League
+5: Bat family
+6: Birds of Prey
+7: Teen Titans
+8: Legion of Doom
+9: The Secret Society of Super Villians
+10: Suicide Squad
+11: Original Sin Three Body
+12: Rogue Gang
+13: Justice League Dark
+IsHero
+1: Hero
+0: Villain
+Faction
+1: Power
+2: Agility
+3: Wisdom
+BaseQuality
+1D
+2C
+3B
+4A
+5S
+Class
+1: Tank
+2: DPS
+3: Support
+",O,O
+index,int,int,,
+0,0,0,,no limit
+101,1,1,gender,1: male
+102,1,2,gender,2: women
+201,2,1,Camp & Region,1: Metropolis
+202,2,2,Camp & Region,2: Gotham
+203,2,3,Camp & Region,3: Central City
+204,2,4,Camp & Region,4: Justice League
+205,2,5,Camp & Region,5: Bat family
+206,2,6,Camp & Region,6: Birds of Prey
+207,2,7,Camp & Region,7: Teen Titans
+208,2,8,Camp & Region,8: Legion of Doom
+209,2,9,Camp & Region,9: The Secret Society of Super Villians
+210,2,10,Camp & Region,10: Suicide Squad
+211,2,11,Camp & Region,11: Original Sin Three Body
+212,2,12,Camp & Region,12: Rogue Gang
+213,2,13,Camp & Region,13: Justice League Dark
+219,2,19,Camp & Region,19: Spotlight Characters
+301,3,1,hero or villain,1: Hero
+300,3,0,hero or villain,0: Villain
+401,4,1,Traits,1: Power
+402,4,2,Traits,2: Agility
+403,4,3,Traits,3: Wisdom
+501,5,1,quality,   1 D 
+502,5,2,quality,   2 C
+503,5,3,quality,   3 B
+504,5,4,quality,   4 A
+505,5,5,quality,   5 S
+601,6,1,Profession,1: Tank
+602,6,2,Profession,2: DPS
+603,6,3,Profession,3: Support

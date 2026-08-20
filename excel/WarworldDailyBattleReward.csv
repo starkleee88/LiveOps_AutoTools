@@ -1,0 +1,9 @@
+﻿ID,BattleWinCountMin,BattleWinCountMax,BattleWinReward
+ID,Minimum number of daily wins,Maximum number of daily wins,Win rewards
+index,int,int,int
+1,1,1,19074001
+2,2,2,19074002
+3,3,3,19074003
+4,4,4,19074004
+5,5,5,19074005
+6,6,9999,19074006

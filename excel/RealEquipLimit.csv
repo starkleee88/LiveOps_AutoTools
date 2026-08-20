@@ -1,0 +1,13 @@
+﻿Quality,Class,SecAttr,SecAttr,SecAttr,SecAttr,EnhanceMax,BreakDownReward,RewardID,BreakDownCount,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown,BreakDown
+Quality,Rank,1-Entry Tier,2-Entry Tier,3-Entry Tier,4-Entry Tier,Maximum Enhancement Level,Recycle Type,Recycle Item ID,Recycle Quantity,Existing Enhancement Progress Consumption Loss Rate (Ten-Thousandths) Enhancement +1,Enhancement +2,Enhancement +3,Enhancement +4,Enhancement +5,Enhancement +6,Enhancement +7,Enhancement +8,Enhancement +9,Enhancement +10,Enhancement +11,Enhancement +12,Enhancement +13,Enhancement +14,Enhancement +15,Enhancement +16,Enhancement +17,Enhancement +18,Enhancement +19,Enhancement +20,Enhancement +21,Enhancement +22,Enhancement +23,Enhancement +24,Enhancement +25,Enhancement +26,Enhancement +27,Enhancement +28,Enhancement +29,Enhancement +30
+index,index,int,int,int,int,int,int,,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int
+1,0,1,2,3,4,0,1,0,0,10000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,0,1,2,3,4,6,1,0,0,10000,10000,10000,10000,10000,10000,,,,,,,,,,,,,,,,,,,,,,,,
+3,0,1,2,3,4,9,1,0,0,10000,10000,10000,10000,10000,10000,10000,10000,10000,,,,,,,,,,,,,,,,,,,,,
+4,0,1,2,3,4,12,1,0,0,10000,10000,10000,10000,10000,10000,10000,10000,10000,9000,9000,9000,,,,,,,,,,,,,,,,,,
+4,1,1,2,3,4,12,1,0,0,10000,10000,10000,10000,10000,10000,10000,10000,10000,9000,9000,9000,,,,,,,,,,,,,,,,,,
+5,0,1,2,3,4,15,1,0,0,10000,10000,10000,10000,10000,10000,10000,10000,10000,9000,9000,9000,9000,9000,9000,,,,,,,,,,,,,,,
+5,1,1,2,3,4,20,1,0,0,10000,10000,10000,10000,10000,10000,10000,10000,10000,9000,9000,9000,9000,9000,9000,9000,9000,9000,9000,9000,,,,,,,,,,
+5,2,1,2,3,4,25,1,0,0,10000,10000,10000,10000,10000,10000,10000,10000,10000,9000,9000,9000,9000,9000,9000,9000,9000,9000,9000,9000,8000,8000,8000,8000,8000,,,,,
+5,3,1,2,3,4,30,1,0,0,10000,10000,10000,10000,10000,10000,10000,10000,10000,9000,9000,9000,9000,9000,9000,9000,9000,9000,9000,9000,8000,8000,8000,8000,8000,8000,8000,8000,8000,8000
+6,0,1,2,3,4,30,1,0,0,10000,10000,10000,10000,10000,10000,10000,10000,10000,9000,9000,9000,9000,9000,9000,9000,9000,9000,9000,9000,8000,8000,8000,8000,8000,8000,8000,8000,8000,8000

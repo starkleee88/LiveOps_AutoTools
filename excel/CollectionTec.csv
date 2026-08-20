@@ -1,0 +1,15 @@
+﻿Id,,Type,Location,PreId,PreLevel,Icon,Des
+Node ID,Note,"Node Type - 
+1: Normal node, smaller display, explicit level
+2: Key node, larger display, level not shown",Node Position,Preorder Node ID,Preorder Node Level Required For Upgrade,Icon,Node Name
+index,O,int,int,int,int,int,int
+1,Full attribute amplification component,1,1,0,0,ui_collection_icon10,Collection_Tec_1
+2,Improved offensive mode,1,2,1,6,ui_collection_icon06,Collection_Tec_2
+3,Life increasing component,1,3,7,1,ui_collection_icon05,Collection_Tec_3
+4,Attack amplification component,1,4,7,1,ui_collection_icon07,Collection_Tec_4
+5,Defense Amplification Component,1,5,4,6,ui_collection_icon08,Collection_Tec_5
+6,Protection mode improvements,1,6,8,1,ui_collection_icon09,Collection_Tec_6
+7,Position opening technology -1,2,7,1,6,ui_collection_icon01,Collection_Tec_7
+8,Advanced positioning technology-1,2,8,2,10,ui_collection_icon03,Collection_Tec_8
+9,Position opening technology-2,2,9,3,6,ui_collection_icon02,Collection_Tec_9
+10,Advanced positioning technology-2,2,10,6,10,ui_collection_icon04,Collection_Tec_10

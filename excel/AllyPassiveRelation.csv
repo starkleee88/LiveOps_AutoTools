@@ -1,0 +1,291 @@
+﻿ID,O,AllyNeedCondition,AllyNeedCondition,AllyNeedCondition,AllyNeedCondition,ConditionDescribe,EffectDescribe,AttributeType,AttributeValue,AttributeType,AttributeValue,AttributeType,AttributeValue,O
+ID,Note,Required Hero 1,Required Hero 2,Required Hero 3,Required Hero 4,Binding condition text description,Bond effect text description,Bonus Type 1,Bonus Value 1,Bonus Type 2,Bonus Value 2,Bonus Type 3,Bonus Value 3,Note
+index,,int,int,int,int,String,String,int,int,int,int,int,int,
+131011,Superman,13110,0,0,0,Relation_ConDes,Relation_EffDes_131011,7,300,11,600,0,0,
+131012,Superman,13135,0,0,0,Relation_ConDes,Relation_EffDes_131012,7,300,3,600,0,0,
+131013,Superman,13104,13102,0,0,Relation_ConDes,Relation_EffDes_131013,3,600,11,600,0,0,
+131021,Batman,13101,0,0,0,Relation_ConDes,Relation_EffDes_131021,7,250,3,250,11,250,
+131022,Batman,13118,0,0,0,Relation_ConDes,Relation_EffDes_131022,7,750,0,0,0,0,Firestorm
+131023,Batman,13120,13109,0,0,Relation_ConDes,Relation_EffDes_131023,7,250,3,500,11,250,
+131031,Wonder Woman,13121,0,0,0,Relation_ConDes,Relation_EffDes_131031,3,600,11,300,0,0,
+131032,Wonder Woman,13127,0,0,0,Relation_ConDes,Relation_EffDes_131032,7,600,11,300,0,0,
+131033,Wonder Woman,13101,13118,0,0,Relation_ConDes,Relation_EffDes_131033,7,900,3,300,0,0,Firestorm
+131041,The Flash,13113,0,0,0,Relation_ConDes,Relation_EffDes_131041,7,300,3,600,0,0,
+131042,The Flash,13140,0,0,0,Relation_ConDes,Relation_EffDes_131042,7,300,11,600,0,0,
+131043,The Flash,13137,13147,0,0,Relation_ConDes,Relation_EffDes_131043,7,900,3,300,0,0,
+131061,Martian Manhunter,13126,0,0,0,Relation_ConDes,Relation_EffDes_131061,7,300,3,600,0,0,
+131062,Martian Manhunter,13105,0,0,0,Relation_ConDes,Relation_EffDes_131062,7,300,11,600,0,0,Aquaman
+131063,Martian Manhunter,13102,13109,0,0,Relation_ConDes,Relation_EffDes_131063,3,600,11,600,0,0,
+131081,Dorctor Fate,13103,0,0,0,Relation_ConDes,Relation_EffDes_131081,7,900,,,,,
+131082,Dorctor Fate,13114,0,0,0,Relation_ConDes,Relation_EffDes_131082,3,300,11,600,,,
+131083,Dorctor Fate,13121,13185,0,0,Relation_ConDes,Relation_EffDes_131083,7,600,3,600,,,
+131091,Nightwing,13153,0,0,0,Relation_ConDes,Relation_EffDes_131091,3,500,11,250,0,0,
+131092,Nightwing,13112,0,0,0,Relation_ConDes,Relation_EffDes_131092,7,250,3,250,11,250,
+131093,Nightwing,13120,13128,0,0,Relation_ConDes,Relation_EffDes_131093,7,250,3,250,11,500,
+131101,Superboy,13101,0,0,0,Relation_ConDes,Relation_EffDes_131101,7,250,3,500,0,0,
+131102,Superboy,13122,0,0,0,Relation_ConDes,Relation_EffDes_131102,7,500,11,250,0,0,
+131103,Superboy,13111,13120,0,0,Relation_ConDes,Relation_EffDes_131103,7,500,3,250,11,250,
+131111,Kid Flash,13104,0,0,0,Relation_ConDes,Relation_EffDes_131111,7,750,0,0,0,0,
+131112,Kid Flash,13151,0,0,0,Relation_ConDes,Relation_EffDes_131112,11,750,0,0,0,0,
+131113,Kid Flash,13110,13120,0,0,Relation_ConDes,Relation_EffDes_131113,3,1000,0,0,0,0,
+131121,Red Robin,13120,0,0,0,Relation_ConDes,Relation_EffDes_131121,3,400,11,200,0,0,
+131122,Red Robin,13115,0,0,0,Relation_ConDes,Relation_EffDes_131122,3,400,11,200,0,0,
+131123,Red Robin,13102,13119,0,0,Relation_ConDes,Relation_EffDes_131123,7,600,11,200,0,0,
+131131,Cyborg,13122,0,0,0,Relation_ConDes,Relation_EffDes_131131,7,300,3,600,0,0,
+131132,Cyborg,13103,0,0,0,Relation_ConDes,Relation_EffDes_131132,3,600,11,300,0,0,
+131133,Cyborg,13111,13110,0,0,Relation_ConDes,Relation_EffDes_131133,7,600,3,600,0,0,
+131141,Constantine,13184,0,0,0,Relation_ConDes,Relation_EffDes_131141,7,500,3,250,0,0,
+131142,Constantine,13185,0,0,0,Relation_ConDes,Relation_EffDes_131142,7,500,11,250,0,0,
+131143,Constantine,13108,13187,0,0,Relation_ConDes,Relation_EffDes_131143,7,250,3,500,11,250,Pandora
+131151,Red Hood,13139,0,0,0,Relation_ConDes,Relation_EffDes_131151,7,250,3,250,11,250,
+131152,Red Hood,13135,0,0,0,Relation_ConDes,Relation_EffDes_131152,7,250,3,500,0,0,
+131153,Red Hood,13112,13109,0,0,Relation_ConDes,Relation_EffDes_131153,7,750,11,250,0,0,
+131171,Catwoman,13130,0,0,0,Relation_ConDes,Relation_EffDes_131171,7,250,3,250,0,0,
+131172,Catwoman,13102,0,0,0,Relation_ConDes,Relation_EffDes_131172,7,500,0,0,0,0,
+131173,Catwoman,13126,0,0,0,Relation_ConDes,Relation_EffDes_131173,3,250,11,250,0,0,
+131181,Firestorm,13141,0,0,0,Relation_ConDes,Relation_EffDes_131181,7,500,3,250,0,0,Killer Frost
+131182,Firestorm,13122,0,0,0,Relation_ConDes,Relation_EffDes_131182,7,500,3,250,0,0,
+131183,Firestorm,13113,13102,0,0,Relation_ConDes,Relation_EffDes_131183,7,250,3,250,11,500,
+131191,Green Arrow,13151,0,0,0,Relation_ConDes,Relation_EffDes_131191,7,750,0,0,0,0,
+131192,Green Arrow,13186,0,0,0,Relation_ConDes,Relation_EffDes_131192,7,250,3,250,11,250,
+131193,Green Arrow,13103,13102,0,0,Relation_ConDes,Relation_EffDes_131193,7,250,3,250,11,500,
+131201,Robin,13115,0,0,0,Relation_ConDes,Relation_EffDes_131201,7,500,11,250,0,0,
+131202,Robin,13122,0,0,0,Relation_ConDes,Relation_EffDes_131202,7,500,3,250,0,0,
+131203,Robin,13173,13145,0,0,Relation_ConDes,Relation_EffDes_131203,7,250,3,500,11,250,
+131211,Zatanna,13187,0,0,0,Relation_ConDes,Relation_EffDes_131211,3,250,11,500,0,0,Pandora
+131212,Zatanna,13126,0,0,0,Relation_ConDes,Relation_EffDes_131212,3,500,11,250,0,0,
+131213,Zatanna,13108,13114,0,0,Relation_ConDes,Relation_EffDes_131213,7,750,3,250,0,0,
+131221,Starfire,13111,0,0,0,Relation_ConDes,Relation_EffDes_131221,7,250,3,250,11,250,
+131222,Starfire,13109,0,0,0,Relation_ConDes,Relation_EffDes_131222,3,500,11,250,0,0,
+131223,Starfire,13153,13129,0,0,Relation_ConDes,Relation_EffDes_131223,7,1000,0,0,0,0,
+131261,Black Canary,13119,0,0,0,Relation_ConDes,Relation_EffDes_131261,7,600,0,0,0,0,
+131262,Black Canary,13207,0,0,0,Relation_ConDes,Relation_EffDes_131262,11,600,0,0,0,0,
+131263,Black Canary,13128,13117,0,0,Relation_ConDes,Relation_EffDes_131263,3,800,0,0,0,0,
+131271,Cheetah,13143,0,0,0,Relation_ConDes,Relation_EffDes_131271,7,600,0,0,0,0,
+131272,Cheetah,13140,0,0,0,Relation_ConDes,Relation_EffDes_131272,7,200,3,400,0,0,
+131273,Cheetah,13144,13186,0,0,Relation_ConDes,Relation_EffDes_131273,7,200,3,200,11,400,
+131281,Huntress,13117,0,0,0,Relation_ConDes,Relation_EffDes_131281,7,400,3,200,0,0,
+131282,Huntress,13109,0,0,0,Relation_ConDes,Relation_EffDes_131282,3,400,11,200,0,0,
+131283,Huntress,13138,13130,0,0,Relation_ConDes,Relation_EffDes_131283,7,600,11,200,0,0,
+131291,King Shark,13145,0,0,0,Relation_ConDes,Relation_EffDes_131291,11,500,0,0,0,0,
+131292,King Shark,13117,0,0,0,Relation_ConDes,Relation_EffDes_131292,3,250,11,250,0,0,
+131293,King Shark,13142,0,0,0,Relation_ConDes,Relation_EffDes_131293,3,500,0,0,0,0,
+131301,Batgirl,13117,0,0,0,Relation_ConDes,Relation_EffDes_131301,7,500,0,0,0,0,
+131302,Batgirl,13148,0,0,0,Relation_ConDes,Relation_EffDes_131302,7,250,3,250,0,0,
+131303,Batgirl,13173,0,0,0,Relation_ConDes,Relation_EffDes_131303,3,250,11,250,0,0,
+131311,Lex Luthor,13101,0,0,0,Relation_ConDes,Relation_EffDes_131311,3,900,0,0,0,0,
+131312,Lex Luthor,13143,0,0,0,Relation_ConDes,Relation_EffDes_131312,7,600,3,300,0,0,
+131313,Lex Luthor,13140,13127,0,0,Relation_ConDes,Relation_EffDes_131313,11,1200,0,0,0,0,
+131331,Sinestro,13145,0,0,0,Relation_ConDes,,7,600,3,300,0,0,
+131332,Sinestro,13195,0,0,0,Relation_ConDes,,7,750,0,0,0,0,
+131333,Sinestro,13131,13127,0,0,Relation_ConDes,,11,1200,0,0,0,0,
+131341,Black Adam,13135,0,0,0,Relation_ConDes,Relation_EffDes_131341,3,250,11,500,0,0,
+131342,Black Adam,13131,0,0,0,Relation_ConDes,Relation_EffDes_131342,7,500,11,250,0,0,
+131343,Black Adam,13184,13171,0,0,Relation_ConDes,Relation_EffDes_131343,3,750,11,250,0,0,
+131351,Bizarro,13115,0,0,0,Relation_ConDes,Relation_EffDes_131351,3,750,0,0,0,0,
+131352,Bizarro,13131,0,0,0,Relation_ConDes,Relation_EffDes_131352,7,500,3,250,0,0,
+131353,Bizarro,13143,13137,0,0,Relation_ConDes,Relation_EffDes_131353,11,1000,0,0,0,0,
+131361,Raven,13122,0,0,0,Relation_ConDes,Relation_EffDes_131361,7,250,3,500,0,0,
+131362,Raven,13195,99999,0,0,Relation_ConDes,Relation_EffDes_131362,7,500,11,250,0,0,Beast Boy
+131363,Raven,13113,13109,0,0,Relation_ConDes,Relation_EffDes_131363,7,500,3,250,11,250,
+131371,Captain Cold,13153,0,0,0,Relation_ConDes,Relation_EffDes_131371,3,400,11,200,0,0,
+131372,Captain Cold,13144,0,0,0,Relation_ConDes,Relation_EffDes_131372,7,400,11,200,0,0,
+131373,Captain Cold,13140,13147,0,0,Relation_ConDes,Relation_EffDes_131373,3,400,11,400,0,0,
+131381,Poison Ivy,13112,0,0,0,Relation_ConDes,Relation_EffDes_131381,3,500,11,250,0,0,
+131382,Poison Ivy,13128,0,0,0,Relation_ConDes,Relation_EffDes_131382,7,250,3,250,11,250,
+131383,Poison Ivy,13142,13117,0,0,Relation_ConDes,Relation_EffDes_131383,7,1000,0,0,0,0,
+131391,Bane,13169,0,0,0,Relation_ConDes,Relation_EffDes_131391,7,250,11,500,0,0,
+131392,Bane,13171,0,0,0,Relation_ConDes,Relation_EffDes_131392,7,250,3,500,0,0,
+131393,Bane,13148,13173,0,0,Relation_ConDes,Relation_EffDes_131393,3,500,11,500,0,0,
+131401,Gorilla Grodd,13104,0,0,0,Relation_ConDes,Relation_EffDes_131401,7,500,3,250,0,0,
+131402,Gorilla Grodd,13141,0,0,0,Relation_ConDes,Relation_EffDes_131402,3,250,11,500,0,0,Killer Frost
+131403,Gorilla Grodd,13137,13147,0,0,Relation_ConDes,Relation_EffDes_131403,3,500,11,500,0,0,
+131411,Killer Frost,13118,0,0,0,Relation_ConDes,Relation_EffDes_131411,7,500,11,250,0,0,Firestorm
+131412,Killer Frost,13126,0,0,0,Relation_ConDes,Relation_EffDes_131412,7,250,3,250,11,250,
+131413,Killer Frost,13150,13144,0,0,Relation_ConDes,Relation_EffDes_131413,7,500,3,500,0,0,
+131421,Harley Quinn,13148,0,0,0,Relation_ConDes,Relation_EffDes_131421,3,200,11,400,0,0,
+131422,Harley Quinn,13139,0,0,0,Relation_ConDes,Relation_EffDes_131422,7,200,3,200,11,200,
+131423,Harley Quinn,13169,13150,0,0,Relation_ConDes,Relation_EffDes_131423,7,400,3,400,0,0,
+131431,Black Manta,13142,0,0,0,Relation_ConDes,Relation_EffDes_131431,7,200,11,400,0,0,
+131432,Black Manta,13202,0,0,0,Relation_ConDes,Relation_EffDes_131432,3,600,0,0,0,0,
+131433,Black Manta,13150,13129,0,0,Relation_ConDes,Relation_EffDes_131433,7,800,0,0,0,0,
+131441,Captain Boomerang,13147,0,0,0,Relation_ConDes,Relation_EffDes_131441,3,250,11,250,0,0,
+131442,Captain Boomerang,13169,0,0,0,Relation_ConDes,Relation_EffDes_131442,7,250,11,250,0,0,
+131443,Captain Boomerang,13150,0,0,0,Relation_ConDes,Relation_EffDes_131443,7,250,3,250,0,0,
+131451,Scarecrow,13173,0,0,0,Relation_ConDes,Relation_EffDes_131451,7,400,3,200,0,0,
+131452,Scarecrow,13102,0,0,0,Relation_ConDes,Relation_EffDes_131452,7,200,11,400,0,0,
+131453,Scarecrow,13126,13130,0,0,Relation_ConDes,Relation_EffDes_131453,7,400,3,400,0,0,
+131471,Mirror Master,13185,0,0,0,Relation_ConDes,Relation_EffDes_131471,7,400,11,200,0,0,
+131472,Mirror Master,13140,0,0,0,Relation_ConDes,Relation_EffDes_131472,7,400,11,200,0,0,
+131473,Mirror Master,13137,13144,0,0,Relation_ConDes,Relation_EffDes_131473,7,200,3,600,0,0,
+131481,Penguin,13173,0,0,0,Relation_ConDes,Relation_EffDes_131481,3,500,11,250,0,0,
+131482,Penguin,13139,0,0,0,Relation_ConDes,Relation_EffDes_131482,3,250,11,500,0,0,
+131483,Penguin,13142,13130,0,0,Relation_ConDes,Relation_EffDes_131483,7,500,3,250,11,250,
+131501,Deadshot,13143,0,0,0,Relation_ConDes,Relation_EffDes_131501,7,400,3,200,0,0,
+131502,Deadshot,13151,0,0,0,Relation_ConDes,Relation_EffDes_131502,11,600,0,0,0,0,
+131503,Deadshot,13142,13129,0,0,Relation_ConDes,Relation_EffDes_131503,7,200,3,600,0,0,
+131511,Deathstroke,13109,0,0,0,Relation_ConDes,Relation_EffDes_131511,7,250,3,250,11,250,
+131512,Deathstroke,13119,0,0,0,Relation_ConDes,Relation_EffDes_131512,7,750,0,0,0,0,
+131513,Deathstroke,13142,13186,0,0,Relation_ConDes,Relation_EffDes_131513,7,250,3,500,11,250,
+131521,Green Lantern - Hal Jordan,13196,0,0,0,Relation_ConDes,Relation_EffDes_131521,7,300,3,600,0,0,
+131522,Green Lantern - Hal Jordan,13104,0,0,0,Relation_ConDes,Relation_EffDes_131522,7,300,11,600,0,0,
+131523,Green Lantern - Hal Jordan,13195,13133,0,0,Relation_ConDes,Relation_EffDes_131523,7,900,3,300,0,0,
+131531,Mr. Freeze,13115,0,0,0,Relation_ConDes,Relation_EffDes_131531,7,200,3,200,11,200,
+131532,Mr. Freeze,13148,0,0,0,Relation_ConDes,Relation_EffDes_131532,3,200,11,400,0,0,
+131533,Mr. Freeze,13138,13130,0,0,Relation_ConDes,Relation_EffDes_131533,7,200,3,400,11,200,
+131691,Killer Croc,13184,0,0,0,Relation_ConDes,Relation_EffDes_131691,3,400,11,200,0,0,
+131692,Killer Croc,13139,0,0,0,Relation_ConDes,Relation_EffDes_131692,7,400,3,200,0,0,
+131693,Killer Croc,13171,13145,0,0,Relation_ConDes,Relation_EffDes_131693,7,600,11,200,0,0,
+131701,Green Lantern - Jessica Cruz,13104,0,0,0,Relation_ConDes,,3,500,11,250,0,0,
+131702,Green Lantern - Jessica Cruz,13152,0,0,0,Relation_ConDes,,7,250,3,250,11,250,
+131703,Green Lantern - Jessica Cruz,13196,13195,0,0,Relation_ConDes,,7,1000,0,0,0,0,
+131711,Two Face,13153,0,0,0,Relation_ConDes,Relation_EffDes_131711,3,250,11,500,0,0,
+131712,Two Face,13138,0,0,0,Relation_ConDes,Relation_EffDes_131711,7,500,3,250,0,0,
+131713,Two Face,13112,13128,0,0,Relation_ConDes,Relation_EffDes_131711,7,250,3,500,11,250,
+131731,Clayface,13145,0,0,0,Relation_ConDes,Relation_EffDes_131731,3,400,11,200,0,0,
+131732,Clayface,13117,0,0,0,Relation_ConDes,Relation_EffDes_131732,11,600,0,0,0,0,
+131733,Clayface,13171,13153,0,0,Relation_ConDes,Relation_EffDes_131733,7,400,3,400,0,0,
+131841,Frankenstein,13169,0,0,0,Relation_ConDes,Relation_EffDes_131841,7,400,11,200,0,0,
+131842,Frankenstein,13129,0,0,0,Relation_ConDes,Relation_EffDes_131842,3,600,0,0,0,0,
+131843,Frankenstein,13121,13114,0,0,Relation_ConDes,Relation_EffDes_131843,3,200,11,600,0,0,
+131851,Phantom Stranger,13121,0,0,0,Relation_ConDes,Relation_EffDes_131851,7,200,3,200,11,200,
+131852,Phantom Stranger,13114,0,0,0,Relation_ConDes,Relation_EffDes_131852,3,400,11,200,0,0,
+131853,Phantom Stranger,13108,13186,0,0,Relation_ConDes,Relation_EffDes_131853,7,200,3,200,11,400,
+131861,The Question,13184,0,0,0,Relation_ConDes,Relation_EffDes_131861,11,500,0,0,0,0,
+131862,The Question,13127,0,0,0,Relation_ConDes,Relation_EffDes_131862,7,500,0,0,0,0,
+131863,The Question,13121,0,0,0,Relation_ConDes,Relation_EffDes_131863,3,500,0,0,0,0,
+131871,Pandora,13186,0,0,0,Relation_ConDes,Relation_EffDes_131871,7,250,3,500,0,0,
+131872,Pandora,13185,0,0,0,Relation_ConDes,Relation_EffDes_131872,7,500,11,250,0,0,
+131873,Pandora,13108,13114,0,0,Relation_ConDes,Relation_EffDes_131873,3,500,11,500,0,0,
+131941,White Lantern - Kyle Raynor,13195,0,0,0,Relation_ConDes,,3,600,11,300,0,0,
+131942,White Lantern - Kyle Raynor,13170,0,0,0,Relation_ConDes,,7,600,11,300,0,0,
+131943,White Lantern - Kyle Raynor,13152,13196,0,0,Relation_ConDes,,7,900,3,300,0,0,
+131951,Green Lantern - John,13152,0,0,0,Relation_ConDes,,3,500,11,250,0,0,
+131952,Green Lantern - John,13133,0,0,0,Relation_ConDes,,7,250,3,250,11,250,
+131953,Green Lantern - John,13170,13207,0,0,Relation_ConDes,,7,250,3,250,11,500,
+131961,Star Sapphire - Carol Ferris,13152,0,0,0,Relation_ConDes,,3,500,11,250,0,0,
+131962,Star Sapphire - Carol Ferris,13133,0,0,0,Relation_ConDes,,7,250,3,250,11,250,
+131963,Star Sapphire - Carol Ferris,13103,13170,0,0,Relation_ConDes,,7,1000,0,0,0,0,
+132001,Jason,13117,0,0,0,Relation_ConDes,Relation_EffDes_131301,7,500,0,0,0,0,
+132002,Jason,13148,0,0,0,Relation_ConDes,Relation_EffDes_131302,7,250,3,250,0,0,
+132003,Jason,13173,0,0,0,Relation_ConDes,Relation_EffDes_131303,3,250,11,250,0,0,
+132011,Blue Beetle,13111,0,0,0,Relation_ConDes,Relation_EffDes_131011,3,900,0,0,0,0,
+132012,Blue Beetle,13122,0,0,0,Relation_ConDes,Relation_EffDes_131012,3,900,0,0,0,0,
+132013,Blue Beetle,13120,13170,0,0,Relation_ConDes,Relation_EffDes_131013,11,1200,0,0,0,0,
+132021,Mera,13115,0,0,0,Relation_ConDes,Relation_EffDes_131011,7,300,11,600,0,0,
+132022,Mera,13103,0,0,0,Relation_ConDes,Relation_EffDes_131012,7,300,3,600,0,0,
+132023,Mera,13108,13187,0,0,Relation_ConDes,Relation_EffDes_131013,3,600,11,600,0,0,Pandora
+131051,Aquaman,13202,0,0,0,Relation_ConDes,Relation_EffDes_131051,3,900,0,0,0,0,Mera
+131052,Aquaman,13143,0,0,0,Relation_ConDes,Relation_EffDes_131052,7,300,11,600,0,0,
+131053,Aquaman,13103,13114,0,0,Relation_ConDes,Relation_EffDes_131053,3,600,7,600,0,0,
+131071,Shazam,13108,0,0,0,Relation_ConDes,Relation_EffDes_131011,7,300,11,600,0,0,
+131072,Shazam,13121,0,0,0,Relation_ConDes,Relation_EffDes_131012,7,300,3,600,0,0,
+131073,Shazam,13101,13102,0,0,Relation_ConDes,Relation_EffDes_131013,3,600,11,600,0,0,
+131491,Ocean Master,13131,0,0,0,Relation_ConDes,Relation_EffDes_131051,3,1000,0,0,0,0,
+131492,Ocean Master,13143,13202,0,0,Relation_ConDes,Relation_EffDes_131052,7,1000,0,0,0,0,
+131493,Ocean Master,13105,0,0,0,Relation_ConDes,Relation_EffDes_131053,11,600,0,0,0,0,Aquaman
+132061,Supergirl,13110,0,0,0,Relation_ConDes,Relation_EffDes_131051,7,900,0,0,0,0,
+132062,Supergirl,13130,0,0,0,Relation_ConDes,Relation_EffDes_131052,11,600,7,300,0,0,
+132063,Supergirl,13101,13103,0,0,Relation_ConDes,Relation_EffDes_131053,11,300,3,900,0,0,
+132071,Vixen,13119,,,,Relation_ConDes,Relation_EffDes_131051,3,500,11,250,0,0,
+132072,Vixen,13195,,,,Relation_ConDes,Relation_EffDes_131052,7,250,3,250,11,250,
+132073,Vixen,13138,13142,,,Relation_ConDes,Relation_EffDes_131053,7,250,3,250,11,500,
+132091,General Zod,13110,0,0,0,Relation_ConDes,Relation_EffDes_131021,3,250,7,250,0,0,
+132092,General Zod,13206,0,0,0,Relation_ConDes,Relation_EffDes_131022,11,500,3,750,0,0,
+132093,General Zod,13101,0,0,0,Relation_ConDes,Relation_EffDes_131023,7,250,11,500,0,0,
+131321,Joker,13138,0,0,0,Relation_ConDes,Relation_EffDes_131021,11,900,0,0,0,0,
+131322,Joker,13217,13142,0,0,Relation_ConDes,Relation_EffDes_131022,7,900,0,0,0,0,
+131323,Joker,13102,13115,0,0,Relation_ConDes,Relation_EffDes_131023,7,600,11,600,0,0,
+132141,Hugo Strange,13145,0,0,0,Relation_ConDes,Relation_EffDes_132141,7,600,3,300,0,0,
+132142,Hugo Strange,99999,0,0,0,Relation_ConDes,Relation_EffDes_132142,11,900,0,0,0,0,Riddler
+132143,Hugo Strange,13102,13109,0,0,Relation_ConDes,Relation_EffDes_132143,3,900,7,300,0,0,
+132171,Punchline,13109,0,0,0,Relation_ConDes,Relation_EffDes_132171,7,900,0,0,0,0,
+132172,Punchline,13117,13142,0,0,Relation_ConDes,Relation_EffDes_131022,7,900,0,0,0,0,
+132173,Punchline,13132,0,0,0,Relation_ConDes,Relation_EffDes_131023,7,600,3,600,0,0,
+132101,Cheshire,13151,0,0,0,Relation_ConDes,Relation_EffDes_132101,7,600,11,300,0,0,
+132102,Cheshire,13117,0,0,0,Relation_ConDes,Relation_EffDes_132102,3,300,7,600,0,0,
+132103,Cheshire,13119,13126,0,0,Relation_ConDes,Relation_EffDes_132103,11,600,3,600,0,0,
+132081,Bloodsport,13131,0,0,0,Relation_ConDes,Relation_EffDes_132081,3,750,0,0,0,0,
+132082,Bloodsport,13129,0,0,0,Relation_ConDes,Relation_EffDes_132082,7,750,0,0,0,0,
+132083,Bloodsport,13142,13101,0,0,Relation_ConDes,Relation_EffDes_132083,11,1000,0,0,0,0,
+132181,The Bride,13219,,,,Relation_ConDes,Relation_EffDes_132181,3,900,,,,,
+132182,The Bride,13220,,,,Relation_ConDes,Relation_EffDes_132182,3,900,,,,,
+132183,The Bride,13184,13101,0,0,Relation_ConDes,Relation_EffDes_132183,7,600,11,600,0,0,
+132191,Dr. Phosphorus,13220,0,0,0,Relation_ConDes,Relation_EffDes_132191,7,750,0,0,0,0,
+132192,Dr. Phosphorus,13218,0,0,0,Relation_ConDes,Relation_EffDes_132192,7,750,0,0,0,0,
+132193,Dr. Phosphorus,13102,13120,0,0,Relation_ConDes,Relation_EffDes_132193,7,500,11,500,0,0,
+132201,Weasel,13208,0,0,0,Relation_ConDes,Relation_EffDes_132201,7,750,0,0,0,0,
+132202,Weasel,13219,0,0,0,Relation_ConDes,Relation_EffDes_132202,7,750,0,0,0,0,Dr. Phosphorus
+132203,Weasel,13218,0,0,0,Relation_ConDes,Relation_EffDes_132203,7,500,3,500,0,0,The Bride
+132271,Peacemaker,13226,0,0,0,Relation_ConDes,Relation_EffDes_132271,3,900,0,0,0,0,
+132272,Peacemaker,13234,0,0,0,Relation_ConDes,Relation_EffDes_132272,3,900,0,0,0,0,
+132273,Peacemaker,13208,,,,Relation_ConDes,Relation_EffDes_132273,7,1200,,,,,
+132261,Vigilante,13234,,,,Relation_ConDes,Relation_EffDes_131011,7,750,,,,,
+132262,Vigilante,13109,,,,Relation_ConDes,Relation_EffDes_131012,7,750,,,,,
+132263,Vigilante,13227,,,,Relation_ConDes,Relation_EffDes_131013,11,1000,,,,,
+132341,Judomaster,13226,0,0,0,Relation_ConDes,Relation_EffDes_132341,7,750,0,0,0,0,0
+132342,Judomaster,13201,13186,0,0,Relation_ConDes,Relation_EffDes_132342,7,750,0,0,0,0,0
+132343,Judomaster,13227,0,0,0,Relation_ConDes,Relation_EffDes_132343,7,1000,0,0,0,0,0
+132311,Nubia,13233,,,,Relation_ConDes,Relation_EffDes_132311,3,900,,,,,Artemis 13233
+132312,Nubia,13232,,,,Relation_ConDes,Relation_EffDes_132312,11,900,,,,,Yara Flor
+132313,Nubia,13103,,,,Relation_ConDes,Relation_EffDes_132313,7,1200,,,,,Wonder Woman
+132321,Yara Flor,13231,,,,Relation_ConDes,Relation_EffDes_132321,3,750,,,,,102
+132322,Yara Flor,13110,,,,Relation_ConDes,Relation_EffDes_132322,11,750,,,,,102
+132323,Yara Flor,13103,,,,Relation_ConDes,Relation_EffDes_132323,11,500,7,500,,250,102
+132131,Guy Gardner,13195,,,,Relation_ConDes,Relation_EffDes_131021,7,750,0,0,0,0,102
+132132,Guy Gardner,13236,99999,,,Relation_ConDes,Relation_EffDes_131022,7,750,0,0,0,0,Superman (DCU) and Steel
+132133,Guy Gardner,13152,,,,Relation_ConDes,Relation_EffDes_131023,7,1000,0,0,0,0,102
+132161,Mister Terrific (DCU),13236,13213,,,Relation_ConDes,Relation_EffDes_131021,3,750,,,,,
+132162,Mister Terrific (DCU),13119,,,,Relation_ConDes,Relation_EffDes_131022,7,750,,,,,102
+132163,Mister Terrific (DCU),13102,13131,,,Relation_ConDes,Relation_EffDes_131023,11,1000,,,,,102
+132121,Swamp Thing,13114,,,,Relation_ConDes,Relation_EffDes_131021,11,600,3,300,,,102
+132122,Swamp Thing,13118,,,,Relation_ConDes,Relation_EffDes_131022,11,600,3,300,,,Firestorm 13118
+132123,Swamp Thing,13105,13106,,,Relation_ConDes,Relation_EffDes_131023,11,1200,,,,,Aquaman 13105
+132361,Superman (DCU),13213,,,,Relation_ConDes,Relation_EffDes_131021,3,900,,,,,Guy Gardner
+132362,Superman (DCU),13216,,,,Relation_ConDes,Relation_EffDes_131022,7,900,,,,,Mister Terrific 13216
+132363,Superman (DCU),13131,,,,Relation_ConDes,Relation_EffDes_131023,11,1200,,,,,Lex Luthor
+132351,Harley Quinn - Criminal Jester,13101,,,,Relation_ConDes,Relation_EffDes_131021,7,250,3,250,11,250,
+132352,Harley Quinn - Criminal Jester,13118,,,,Relation_ConDes,Relation_EffDes_131022,7,750,,,,,
+132353,Harley Quinn - Criminal Jester,13120,13109,,,Relation_ConDes,Relation_EffDes_131023,7,250,3,500,11,250,
+132301,Batman Beyond,13101,,,,Relation_ConDes,Relation_EffDes_131021,7,250,3,250,11,250,
+132302,Batman Beyond,13118,,,,Relation_ConDes,Relation_EffDes_131022,7,750,,,,,
+132303,Batman Beyond,13120,13109,,,Relation_ConDes,Relation_EffDes_131023,7,250,3,500,11,250,
+132291,Batwoman,13101,,,,Relation_ConDes,Relation_EffDes_131021,7,250,3,250,11,250,
+132292,Batwoman,13118,,,,Relation_ConDes,Relation_EffDes_131022,7,750,,,,,
+132293,Batwoman,13120,13109,,,Relation_ConDes,Relation_EffDes_131023,7,250,3,500,11,250,
+132531,Cassandra Cain,13117,,,,Relation_ConDes,Relation_EffDes_131301,7,500,,,,,
+132532,Cassandra Cain,13148,,,,Relation_ConDes,Relation_EffDes_131302,7,250,3,250,,,
+132533,Cassandra Cain,13173,,,,Relation_ConDes,Relation_EffDes_131303,3,250,11,250,,,
+132501,Silver Banshee,13101,,,,Relation_ConDes,Relation_EffDes_131021,7,250,3,250,11,250,
+132502,Silver Banshee,13118,,,,Relation_ConDes,Relation_EffDes_131022,7,750,,,,,
+132503,Silver Banshee,13120,13109,,,Relation_ConDes,Relation_EffDes_131023,7,250,3,500,11,250,
+132111,Doctor Poison,13103,,,,Relation_ConDes,Relation_EffDes_131011,3,600,11,300,,,Wonder Woman - +HP/+DEF
+132112,Doctor Poison,13127,,,,Relation_ConDes,Relation_EffDes_131012,3,600,11,300,,,The Cheetah - +HP/+DEF
+132113,Doctor Poison,13138,13131,,,Relation_ConDes,Relation_EffDes_131013,7,1200,,,,,Poison Ivy / Lex Luthor - +ATK
+132281,Booster Gold,13101,,,,Relation_ConDes,Relation_EffDes_131021,7,250,3,250,11,250,
+132282,Booster Gold,13118,,,,Relation_ConDes,Relation_EffDes_131022,7,750,,,,,
+132283,Booster Gold,13120,13109,,,Relation_ConDes,Relation_EffDes_131023,7,250,3,500,11,250,
+132331,Artemis,13115,,,,Relation_ConDes,Relation_EffDes_131021,3,750,,,,,
+132332,Artemis,13135,,,,Relation_ConDes,Relation_EffDes_131022,7,750,,,,,
+132333,Artemis,13103,,,,Relation_ConDes,Relation_EffDes_131023,7,1000,,,,,
+132671,Lobo,13101,,,,Relation_ConDes,Relation_EffDes_132311,7,900,,,,,Superman
+132672,Lobo,13105,,,,Relation_ConDes,Relation_EffDes_132312,7,900,,,,,Aquaman
+132673,Lobo,13206,,,,Relation_ConDes,Relation_EffDes_132313,3,1200,,,,,Supergirl
+132681,Ruthye (DCU),13236,,,,Relation_ConDes,Relation_EffDes_131021,,,3,750,,,
+132682,Ruthye (DCU),13266,,,,Relation_ConDes,Relation_EffDes_131022,11,750,,,,,Supergirl (DCU)
+132683,Ruthye (DCU),13267,,,,Relation_ConDes,Relation_EffDes_131023,11,300,7,700,,,Lobo (DCU)
+132661,Supergirl (DCU),13236,,,,Relation_ConDes,Relation_EffDes_131021,7,900,,,,,Superman DCU
+132662,Supergirl (DCU),13268,,,,Relation_ConDes,Relation_EffDes_131022,11,900,,,,,Ruthye (DCU)
+132663,Supergirl (DCU),13267,,,,Relation_ConDes,Relation_EffDes_131023,3,1200,,,,,Lobo
+132691,Black Lightning,13102,13109,,,Relation_ConDes,Relation_EffDes_131021,3,300,7,600,0,0,
+132692,Black Lightning,99999,,,,Relation_ConDes,Relation_EffDes_131022,11,900,0,0,0,0,Booster Gold
+132693,Black Lightning,13119,,,,Relation_ConDes,Relation_EffDes_131023,3,900,11,300,0,0,
+132371,Absolute Wonder Woman,13239,,,,Relation_ConDes,Relation_EffDes_131021,7,600,3,500,,,Absolute Superman
+132372,Absolute Wonder Woman,13238,,,,Relation_ConDes,Relation_EffDes_131022,7,900,11,750,,,Absolute Batman (13238)
+132373,Absolute Wonder Woman,13103,,,,Relation_ConDes,Relation_EffDes_131023,3,600,11,250,,,Wonder Woman
+132381,Absolute Batman,13237,,,,Relation_ConDes,Relation_EffDes_131021,11,600,3,500,,,Absolute Wonder Woman
+132382,Absolute Batman,13239,,,,Relation_ConDes,Relation_EffDes_131022,7,900,11,750,,,Absolute Superman
+132383,Absolute Batman,13101,13102,,,Relation_ConDes,Relation_EffDes_131023,7,600,3,250,,,Superman + Batman
+132391,Absolute Superman,13237,,,,Relation_ConDes,Relation_EffDes_131021,7,600,3,500,,,Absolute Wonder Woman
+132392,Absolute Superman,99999,,,,Relation_ConDes,Relation_EffDes_131022,7,900,11,750,,,Absolute Batman (13238)
+132393,Absolute Superman,13101,13236,,,Relation_ConDes,Relation_EffDes_131023,3,600,11,250,,,Superman+Superman(DCU)

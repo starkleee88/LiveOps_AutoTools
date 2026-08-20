@@ -1,0 +1,12 @@
+﻿Key,SequenceNum,O,Reward
+Ranking number,Desired rank (less than or equal to this value),Ranking,Historical ranking rewards
+index,int,,int
+1,1,1st place,19073001
+2,2,Top 2,19073002
+3,3,Top 3,19073003
+4,5,Top 5,19073004
+5,10,Top 10,19073005
+6,50,Top 50,19073006
+7,100,Top 100,19073007
+8,200,Top 200,19073008
+9,500,Top 500,19073009

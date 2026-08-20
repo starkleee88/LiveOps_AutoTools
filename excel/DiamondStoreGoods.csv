@@ -1,0 +1,40 @@
+﻿GoodsID,O,ShopID,Order,Goods,GoodsNum,CostID,OriginalPrice,DiscountPrice,Discount,Unlock,Condition,Buyable,Tag,DiscountTag,RestrictType,RestrictNum
+Product ID,Note,"Shop ID - 
+Corresponds to ShopSub","Sort Order - 
+(Ascending)",Item ID,Item Quantity,Cost ID,Original Price,Discounted Price,"The discount is displayed on the front end by hand, counting in 10,000. If you fill in 9,000, it will be a 10% discount/20,000 will be a 200% value, and it will be displayed with the discount label.","Product unlocking conditions:
+Left blank = no conditions
+1: Character level
+2: Level chapters
+3: The payment amount is greater than or equal to the parameter, unit cents",Unlock Parameters,"Available for Purchase?
+0: Not Available
+1: Available","Product Tag - 
+1: Recommended
+2: New
+3: Popular","Discount Tag - 
+1: Great Value
+2: Discount","Purchase Restriction - 
+0: No Limit
+1: Daily
+2: Weekly",Purchase Limit
+int,O,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int
+91000001,Normal Draw 1,9100,1,1120032,1,111202,200,,,,,1,,,0,
+91000002,Normal Draw 10,9100,2,1120015,10,111202,2000,,,,,1,3,,0,
+91000003,100K Gold Coins,9100,22,111201,100000,111202,100,,,,,1,,,0,
+91000004,500K Gold Coins,9100,23,111201,500000,111202,500,,,,,1,,,0,
+91000005,Gold Coin Box 2h,9100,20,1112103,1,111202,60,,,2,530,1,2,,0,
+91000006,Gold Coin Box 8h,9100,21,1112104,1,111202,240,,,2,530,1,2,,0,
+91000007,Equipment XP,9100,7,111207,1000,111202,100,,,,,1,,,1,3
+91000008,Silicone Fragments,9100,6,1114000,10,111202,100,,,2,730,1,2,,1,1
+91000009,8th Metal,9100,3,1113000,1,111202,200,,,,,1,3,,2,2
+91000010,Nth metal,9100,4,1113001,1,111202,400,,,,,1,3,,2,1
+91000011,1 Crystal Key,9100,5,1120025,1,111202,30,,,2,412,1,2,,1,20
+91000012,Elite Equipment Chest - Attack,9100,14,1118203,1,111202,450,,,2,1330,1,2,,1,2
+91000013,Elite Equipment Chest - Crit,9100,15,1118204,1,111202,450,,,2,1330,1,2,,1,2
+91000014,Elite Equipment Chest - HP,9100,16,1118205,1,111202,450,,,2,1330,1,2,,1,2
+91000015,Elite Equipment Chest - Healing,9100,17,1118206,1,111202,450,,,2,1330,1,2,,1,2
+91000016,Elite Equipment Chest - Speed,9100,18,1118207,1,111202,450,,,2,1330,1,2,,1,2
+91000017,Elite Equipment Chest - Block,9100,19,1118208,1,111202,450,,,2,1330,1,2,,1,2
+91000018,Random Epic Equipment Chest,9100,13,1118209,1,111202,300,,,2,1730,1,2,,2,5
+91000020,Titanium x 400,9100,10,1113003,400,111202,300,,,2,421,1,2,,1,1
+91000022,Titanium x 1000,9100,12,1113003,1000,111202,800,,,2,730,1,2,,2,3
+91000023,Adrenaline Shot,9100,8,1120027,1,111202,100,,,2,418,1,2,,1,2

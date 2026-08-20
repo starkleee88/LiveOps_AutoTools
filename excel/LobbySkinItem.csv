@@ -1,0 +1,40 @@
+﻿Id,ThemeId,Name,O,Quality,Part,Desc,DressPoints,Prefab,ConvertRes,ConvertNum
+Skin ID,Associated Theme ID,Skin Name,Name Notes,"Quality
+Ke Yang - Li Keyang:
+1 - White
+2 - Green
+3 - Blue
+4 - Purple
+5 - Orange","Corresponding Part
+Ke Yang - Li Keyang:
+1 - Sofa
+2 - Floor
+3 - Multiverse Table
+4 - Ally Lounge Door
+5 - Hall of Justice Portal
+6 - Handrail",Skin Description,Decoration Bonus Value,Skin Resource Name,Duplicate Conversion Resource,Duplicate Conversion Resource Quantity
+index,int,string,O,int,int,string,int,string,int,int
+231001,1,LobbySkin_ItemName_231001,Sofa - Default,3,1,LobbySkin_ItemDesc_231001,0,S_MSL_Skin_Default_Sofa,0,0
+231002,1,LobbySkin_ItemName_231002,Floor - Default,3,2,LobbySkin_ItemDesc_231002,0,S_MSL_Skin_Default_Floor,0,0
+231003,1,LobbySkin_ItemName_231003,Multiverse Table - Default,3,3,LobbySkin_ItemDesc_231003,0,S_MSL_Skin_Default_Console,0,0
+231004,1,LobbySkin_ItemName_231004,Ally Lounge Door - Default,3,4,LobbySkin_ItemDesc_231004,0,S_MSL_Skin_Default_Entrance,0,0
+231005,1,LobbySkin_ItemName_231005,Hall of Justice Portal - Default,3,5,LobbySkin_ItemDesc_231005,0,S_MSL_Skin_Default_UnionHall,0,0
+231006,1,LobbySkin_ItemName_231006,Handrail - Default,3,6,LobbySkin_ItemDesc_231006,0,S_MSL_Skin_Default_Guardrail,0,0
+231007,1,LobbySkin_ItemName_231007,Archive - Default,3,7,LobbySkin_ItemDesc_231007,0,S_MSL_Skin_Default_Archives,0,0
+231008,1,LobbySkin_ItemName_231008,Boarding Gate - Default,3,8,LobbySkin_ItemDesc_231008,0,S_MSL_Skin_Default_Airplane,0,0
+232001,2,LobbySkin_ItemName_232001,Sofa - Color Variant 1,4,1,LobbySkin_ItemDesc_232001,30,S_MSL_Skin_01_Sofa,111202,500
+232002,2,LobbySkin_ItemName_232002,Floor - Color Variant 1,4,2,LobbySkin_ItemDesc_232002,20,S_MSL_Skin_01_Floor,111202,750
+232003,2,LobbySkin_ItemName_232003,Multiverse Table - Color Variant 1,4,3,LobbySkin_ItemDesc_232003,10,S_MSL_Skin_01_Console,111202,250
+232004,2,LobbySkin_ItemName_232004,Ally Lounge Door - Color Variant 1,4,4,LobbySkin_ItemDesc_232004,20,S_MSL_Skin_01_Entrance,111202,500
+232005,2,LobbySkin_ItemName_232005,Hall of Justice Portal - Color Variant 1,4,5,LobbySkin_ItemDesc_232005,30,S_MSL_Skin_01_UnionHall,111202,750
+232006,2,LobbySkin_ItemName_232006,Handrail - Color Variant 1,4,6,LobbySkin_ItemDesc_232006,10,S_MSL_Skin_01_Guardrail,111202,250
+232007,2,LobbySkin_ItemName_232007,Archive - Color Variant 1,4,7,LobbySkin_ItemDesc_232007,10,S_MSL_Skin_01_Archives,111202,250
+232008,2,LobbySkin_ItemName_232008,Boarding Gate - Color Variant 1,4,8,LobbySkin_ItemDesc_232008,20,S_MSL_Skin_01_Airplane,111202,500
+233001,3,LobbySkin_ItemName_233001,Sofa - Color Variant 2,4,1,LobbySkin_ItemDesc_233001,30,S_MSL_Skin_02_Sofa,111202,500
+233002,3,LobbySkin_ItemName_233002,Floor - Color Variant 2,4,2,LobbySkin_ItemDesc_233002,20,S_MSL_Skin_02_Floor,111202,750
+233003,3,LobbySkin_ItemName_233003,Multiverse Table - Color Variant 2,4,3,LobbySkin_ItemDesc_233003,10,S_MSL_Skin_02_Console,111202,250
+233004,3,LobbySkin_ItemName_233004,Ally Lounge Door - Color Variant 2,4,4,LobbySkin_ItemDesc_233004,20,S_MSL_Skin_02_Entrance,111202,500
+233005,3,LobbySkin_ItemName_233005,Hall of Justice Portal - Color Variant 2,4,5,LobbySkin_ItemDesc_233005,30,S_MSL_Skin_02_UnionHall,111202,750
+233006,3,LobbySkin_ItemName_233006,Handrail - Color Variant 2,4,6,LobbySkin_ItemDesc_233006,10,S_MSL_Skin_02_Guardrail,111202,250
+233007,3,LobbySkin_ItemName_233007,Archive - Color Variant 2,4,7,LobbySkin_ItemDesc_233007,10,S_MSL_Skin_02_Archives,111202,250
+233008,3,LobbySkin_ItemName_233008,Boarding Gate - Color Variant 2,4,8,LobbySkin_ItemDesc_233008,20,S_MSL_Skin_02_Airplane,111202,500

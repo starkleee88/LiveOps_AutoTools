@@ -1,0 +1,39 @@
+﻿ID,FrontID,ChapterName,ChapterDesc,ChapterIcon,ChapterUnlockStageId,ChestNum,InitialCost,InitialCoin,AllShow,HPReducePerCost,HPReduceLimit,ChapterSkillID,ChapterSkillIcon,ChapterDialog,Collection,Version,Model,LimitID,LimitDesc,LevelType,Camera,DisableFullSkip
+Chapter ID,Pre Chapter ID,Chapter Name,Chapter Description,Chapter Icon,Chapter Unlock,# of Chests,"Initial Movement Cost (Algorithmic Power) - 
+9999: infinite, does not display",Initial Gold Coins,Whether the map is fully open initially,"When Initial Movement Cost is exhausted, this array-int shows the attribute and quantity deducted each node",Max quantity Limit for Column K,Chapter Skill ID,Chapter Skill Icon,Chapter Dialogue,CollectionInfo ID,"Start from 1
+The version number of level changes is incremented, it only increases but does not decrease.",Display Model,Limit ID,Limit Description,"Level Type - 
+1: Original Digital Universe Chapter
+2: Active Digital Universe Chapter","Camera - 
+1: Regular Lens
+2: Zoomed Out (for large maps)","Disable full skip for all battles in chapter
+1 - true
+0 - false"
+index,int,int,string,string,int,int,int,int,int,array-int,array-int,array-int,array-string,int,int,int,int,int,string,int,int,bool
+1,,DigitalUniverseChapterName1,DigitalUniverseChapterDesc1,ui_digital_icon_level1,415,1,9999,0,1,34|1000,34|5000,,,30101,101,1,13102,,,1,1,0
+2,1,DigitalUniverseChapterName2,DigitalUniverseChapterDesc2,ui_digital_icon_level2,415,4,9999,0,1,34|1000,34|5000,,,,,2,13102,,,1,1,0
+3,2,DigitalUniverseChapterName3,DigitalUniverseChapterDesc3,ui_digital_icon_level3,615,7,9999,0,1,34|1000,34|5000,,,,,2,13102,,,1,1,0
+4,3,DigitalUniverseChapterName4,DigitalUniverseChapterDesc4,ui_digital_icon_level4,815,8,9999,0,1,34|1000,34|5000,,,,,2,13102,,,1,1,0
+5,4,DigitalUniverseChapterName5,DigitalUniverseChapterDesc5,ui_digital_icon_level5,1015,9,9999,0,1,34|1000,34|5000,,,,,1,13102,,,1,1,0
+6,5,DigitalUniverseChapterName6,DigitalUniverseChapterDesc6,ui_digital_icon_level6,1215,10,9999,0,1,34|1000,34|5000,,,,102,1,13102,,,1,1,0
+7,6,DigitalUniverseChapterName7,DigitalUniverseChapterDesc7,ui_digital_icon_level7,1415,11,9,0,0,34|1000,34|5000,141019901,,30701,,1,13102,,,1,1,0
+8,7,DigitalUniverseChapterName8,DigitalUniverseChapterDesc8,ui_digital_icon_level8,1615,15,2,2,0,34|1000,34|5000,,,,,1,13102,,,1,1,0
+9,8,DigitalUniverseChapterName9,DigitalUniverseChapterDesc9,ui_digital_icon_level9,1715,9,9999,0,0,34|1000,34|5000,,,,,1,13102,,,1,1,0
+10,9,DigitalUniverseChapterName10,DigitalUniverseChapterDesc10,ui_digital_icon_level10,1815,11,9999,2,1,34|1000,34|5000,,,,103,1,13102,,,1,1,1
+11,10,DigitalUniverseChapterName11,DigitalUniverseChapterDesc11,ui_digital_icon_level11,1915,8,9999,0,1,34|1000,34|5000,,,,,1,13102,,,1,1,0
+12,11,DigitalUniverseChapterName12,DigitalUniverseChapterDesc12,ui_digital_icon_level12,2015,11,20,0,1,34|1000,34|5000,,,,,1,13102,,,1,1,0
+13,12,DigitalUniverseChapterName13,DigitalUniverseChapterDesc13,ui_digital_icon_level13,2115,10,9999,0,0,34|1000,34|5000,,,31301,104,1,13102,,,1,1,0
+14,13,DigitalUniverseChapterName14,DigitalUniverseChapterDesc14,ui_digital_icon_level14,2215,8,9999,0,0,34|1000,34|5000,,,,,1,13102,,,1,1,0
+15,14,DigitalUniverseChapterName15,DigitalUniverseChapterDesc15,ui_digital_icon_level15,2315,14,9999,0,0,34|1000,34|5000,,,,,1,13102,,,1,1,0
+16,15,DigitalUniverseChapterName16,DigitalUniverseChapterDesc16,ui_digital_icon_level16,2415,8,9999,0,0,34|1000,34|5000,,,,,1,13102,,,1,1,0
+17,16,DigitalUniverseChapterName17,DigitalUniverseChapterDesc17,ui_digital_icon_level17,2515,11,9999,0,1,34|1000,34|5000,,,31701,,1,13102,,,1,1,0
+18,17,DigitalUniverseChapterName18,DigitalUniverseChapterDesc18,ui_digital_icon_level18,2615,11,9999,0,1,34|1000,34|5000,,,,,1,13130,102,,1,1,0
+10021,0,DigitalUniverseChapterName10021,DigitalUniverseChapterDesc10021,ui_digital_icon_level10021,715,9,9999,0,1,34|1000,34|5000,,,32101,,1,13102,,,2,1,0
+10022,0,DigitalUniverseChapterName10022,DigitalUniverseChapterDesc10022,ui_digital_icon_level10022,715,9,9999,0,1,34|1000,34|5000,,,32201,,1,13131,,,2,1,0
+10023,0,DigitalUniverseChapterName10023,DigitalUniverseChapterDesc10023,ui_digital_icon_level10023,715,9,9999,0,1,34|1000,34|5000,,,,,1,13131,,,2,2,0
+10024,0,DigitalUniverseChapterName10024,DigitalUniverseChapterDesc10024,ui_digital_icon_level10024,715,9,9999,0,1,34|1000,34|5000,,,32401,,1,13170,,,2,2,0
+10025,0,DigitalUniverseChapterName10025,DigitalUniverseChapterDesc10025,ui_digital_icon_level10025,715,9,9999,0,0,34|1000,34|5000,,,,,1,13102,,,2,1,0
+10026,0,DigitalUniverseChapterName10026,DigitalUniverseChapterDesc10026,ui_digital_icon_level10026,715,9,9999,0,1,34|1000,34|5000,,,32601,,1,13152,,,2,1,0
+10027,0,DigitalUniverseChapterName10027,DigitalUniverseChapterDesc10027,ui_digital_icon_level10027,715,9,9999,0,1,34|1000,34|5000,,,32701,,1,13195,,,2,1,0
+10028,0,DigitalUniverseChapterName10028,DigitalUniverseChapterDesc10028,ui_digital_icon_level10028,715,9,9999,0,1,34|1000,34|5000,,,32801,,1,13109,,,2,1,0
+10030,0,DigitalUniverseChapterName10021,DigitalUniverseChapterDesc10021,ui_digital_icon_level10021,715,9,9999,0,1,34|1000,34|5000,,,33001,,1,13114,,,2,1,1
+10031,0,DigitalUniverseChapterName10021,DigitalUniverseChapterDesc10021,ui_digital_icon_level10021,715,9,9999,0,1,34|1000,34|5000,,,33001,,1,13114,219,,2,1,1

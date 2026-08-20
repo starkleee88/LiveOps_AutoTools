@@ -1,0 +1,1465 @@
+﻿TowerID,O,Level,LevelType,EnemyGroup,RewardID,BuffID,BuffID,BuffID,PlayerBattleEnergyRule,EnemyBattleEnergyRule,Scene
+Tower ID,Note,Level,Type,Enemy Group,Reward ID,Buff,Buff,Buff,Player Energy Rules,Enemy Energy Rules,Battle Scene
+int,O,int,int,int,int,int,int,int,int,int,string
+1020601,Sinestro Tower 1,1,1,6133101,19160167,,,,33,2,Battle_Hephaestus_1
+1020601,Sinestro Tower 1,2,1,6133102,19160167,,,,33,2,Battle_Hephaestus_1
+1020601,Sinestro Tower 1,3,1,6133103,19160189,,,,33,2,Battle_Hephaestus_1
+1020601,Sinestro Tower 1,4,2,,,220010101,220010102,220010103,,,
+1020601,Sinestro Tower 1,5,1,6133105,19160167,,,,33,2,Battle_Hephaestus_1
+1020601,Sinestro Tower 1,6,1,6133106,19160167,,,,33,2,Battle_Hephaestus_1
+1020601,Sinestro Tower 1,7,1,6133107,19160189,,,,33,2,Battle_Hephaestus_1
+1020601,Sinestro Tower 1,8,2,,,220010201,220010202,220010203,,,
+1020601,Sinestro Tower 1,9,1,6133109,19160167,,,,33,2,Battle_Hephaestus_1
+1020601,Sinestro Tower 1,10,1,6133110,19160167,,,,33,2,Battle_Hephaestus_1
+1020601,Sinestro Tower 1,11,1,6133111,19160189,,,,33,2,Battle_Hephaestus_1
+1020601,Sinestro Tower 1,12,2,,,220010301,220010302,220010303,,,
+1020601,Sinestro Tower 1,13,1,6133113,19160190,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,1,1,6133201,19160167,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,2,1,6133202,19160167,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,3,1,6133203,19160189,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,4,2,,,220020101,220020102,220020103,,,
+1020602,Sinestro Tower 2,5,1,6133205,19160167,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,6,1,6133206,19160167,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,7,1,6133207,19160189,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,8,2,,,220020201,220020202,220020203,,,
+1020602,Sinestro Tower 2,9,1,6133209,19160167,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,10,1,6133210,19160167,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,11,1,6133211,19160189,,,,33,2,Battle_Hephaestus_1
+1020602,Sinestro Tower 2,12,2,,,220020301,220020302,220020303,,,
+1020602,Sinestro Tower 2,13,1,6133213,19160190,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,1,1,6133301,19160167,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,2,1,6133302,19160167,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,3,1,6133303,19160189,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,4,2,,,220030101,220030102,220030103,,,
+1020603,Sinestro Tower 3,5,1,6133305,19160167,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,6,1,6133306,19160167,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,7,1,6133307,19160189,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,8,2,,,220030201,220030202,220030203,,,
+1020603,Sinestro Tower 3,9,1,6133309,19160167,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,10,1,6133310,19160167,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,11,1,6133311,19160189,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,12,2,,,220030301,220030302,,,,
+1020603,Sinestro Tower 3,13,1,6133313,19160167,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,14,1,6133314,19160167,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,15,1,6133315,19160189,,,,33,2,Battle_Hephaestus_1
+1020603,Sinestro Tower 3,16,2,,,220030401,,,,,
+1020603,Sinestro Tower 3,17,1,6133317,19160191,,,,33,2,Battle_Hephaestus_1
+1050601,Hal Jordan Tower 1,1,1,6152101,19160233,,,,2,2,EN_Gotham_01
+1050601,Hal Jordan Tower 1,2,1,6152102,19160233,,,,2,2,EN_Gotham_01
+1050601,Hal Jordan Tower 1,3,1,6152103,19160234,,,,2,2,EN_Gotham_01
+1050601,Hal Jordan Tower 1,4,2,,,220110101,220110102,220110103,,,
+1050601,Hal Jordan Tower 1,5,1,6152105,19160233,,,,2,2,EN_Gotham_01
+1050601,Hal Jordan Tower 1,6,1,6152106,19160233,,,,2,2,EN_Gotham_01
+1050601,Hal Jordan Tower 1,7,1,6152107,19160234,,,,2,2,EN_Gotham_01
+1050601,Hal Jordan Tower 1,8,2,,,220110201,220110202,220110203,,,
+1050601,Hal Jordan Tower 1,9,1,6152109,19160233,,,,2,2,EN_Gotham_01
+1050601,Hal Jordan Tower 1,10,1,6152110,19160233,,,,2,2,EN_Gotham_01
+1050601,Hal Jordan Tower 1,11,1,6152111,19160234,,,,2,2,EN_Gotham_01
+1050601,Hal Jordan Tower 1,12,2,,,220110301,220110302,220110303,,,
+1050601,Hal Jordan Tower 1,13,1,6152113,19160235,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,1,1,6152201,19160233,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,2,1,6152202,19160233,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,3,1,6152203,19160234,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,4,2,,,220120101,220120102,220120103,,,
+1050602,Hal Jordan Tower 2,5,1,6152205,19160233,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,6,1,6152206,19160233,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,7,1,6152207,19160234,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,8,2,,,220120201,220120202,220120203,,,
+1050602,Hal Jordan Tower 2,9,1,6152209,19160233,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,10,1,6152210,19160233,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,11,1,6152211,19160234,,,,2,2,EN_Gotham_01
+1050602,Hal Jordan Tower 2,12,2,,,220120301,220120302,220120303,,,
+1050602,Hal Jordan Tower 2,13,1,6152213,19160235,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,1,1,6152301,19160233,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,2,1,6152302,19160233,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,3,1,6152303,19160234,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,4,2,,,220130101,220130102,,,,
+1050603,Hal Jordan Tower 3,5,1,6152305,19160233,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,6,1,6152306,19160233,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,7,1,6152307,19160234,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,8,2,,,220130201,,,,,
+1050603,Hal Jordan Tower 3,9,1,6152309,19160233,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,10,1,6152310,19160233,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,11,1,6152311,19160234,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,12,2,,,220130301,220130302,220130303,,,
+1050603,Hal Jordan Tower 3,13,1,6152313,19160233,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,14,1,6152314,19160233,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,15,1,6152315,19160234,,,,2,2,EN_Gotham_01
+1050603,Hal Jordan Tower 3,16,2,,,220130401,,,,,
+1050603,Hal Jordan Tower 3,17,1,6152317,19160235,,,,2,2,EN_Gotham_01
+1060601,Kyle Reina Tower 1,1,1,6194101,191319449,,,,2,2,Battle_Hephaestus_1
+1060601,Kyle Reina Tower 1,2,1,6194102,191319449,,,,2,2,Battle_Hephaestus_1
+1060601,Kyle Reina Tower 1,3,1,6194103,191319450,,,,2,2,Battle_Hephaestus_1
+1060601,Kyle Reina Tower 1,4,2,,,220210101,220210102,220210103,,,
+1060601,Kyle Reina Tower 1,5,1,6194105,191319449,,,,2,2,Battle_Hephaestus_1
+1060601,Kyle Reina Tower 1,6,1,6194106,191319449,,,,2,2,Battle_Hephaestus_1
+1060601,Kyle Reina Tower 1,7,1,6194107,191319450,,,,2,2,Battle_Hephaestus_1
+1060601,Kyle Reina Tower 1,8,2,,,220210201,220210202,220210203,,,
+1060601,Kyle Reina Tower 1,9,1,6194109,191319449,,,,2,2,Battle_Hephaestus_1
+1060601,Kyle Reina Tower 1,10,1,6194110,191319449,,,,2,2,Battle_Hephaestus_1
+1060601,Kyle Reina Tower 1,11,1,6194111,191319450,,,,2,2,Battle_Hephaestus_1
+1060601,Kyle Reina Tower 1,12,2,,,220210301,220210302,220210303,,,
+1060601,Kyle Reina Tower 1,13,1,6194113,191319451,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,1,1,6194201,191319449,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,2,1,6194202,191319449,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,3,1,6194203,191319450,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,4,2,,,220220101,220220102,220220103,,,
+1060602,Kyle Reina Tower 2,5,1,6194205,191319449,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,6,1,6194206,191319449,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,7,1,6194207,191319450,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,8,2,,,220220201,220220202,220220203,,,
+1060602,Kyle Reina Tower 2,9,1,6194209,191319449,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,10,1,6194210,191319449,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,11,1,6194211,191319450,,,,2,2,Battle_Hephaestus_1
+1060602,Kyle Reina Tower 2,12,2,,,220220301,220220302,220220303,,,
+1060602,Kyle Reina Tower 2,13,1,6194213,191319451,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,1,1,6194301,191319449,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,2,1,6194302,191319449,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,3,1,6194303,191319450,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,4,2,,,220230101,220230102,220230103,,,
+1060603,Kyle Reina Tower 3,5,1,6194305,191319449,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,6,1,6194306,191319449,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,7,1,6194307,191319450,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,8,2,,,220230201,220230202,,,,
+1060603,Kyle Reina Tower 3,9,1,6194309,191319449,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,10,1,6194310,191319449,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,11,1,6194311,191319450,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,12,2,,,220230301,220230302,220230303,,,
+1060603,Kyle Reina Tower 3,13,1,6194313,191319449,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,14,1,6194314,191319449,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,15,1,6194315,191319450,,,,2,2,Battle_Hephaestus_1
+1060603,Kyle Reina Tower 3,16,2,,,220230401,,,,,
+1060603,Kyle Reina Tower 3,17,1,6194317,191319451,,,,2,2,Battle_Hephaestus_1
+1090601,Doctor Fate Tower 1,1,1,6152101,19160289,,,,2,2,EN_Gotham_01
+1090601,Doctor Fate Tower 1,2,1,6152102,19160289,,,,2,2,EN_Gotham_01
+1090601,Doctor Fate Tower 1,3,1,6152103,19160290,,,,2,2,EN_Gotham_01
+1090601,Doctor Fate Tower 1,4,2,,,220110101,220110102,220110103,,,
+1090601,Doctor Fate Tower 1,5,1,6152105,19160289,,,,2,2,EN_Gotham_01
+1090601,Doctor Fate Tower 1,6,1,6152106,19160289,,,,2,2,EN_Gotham_01
+1090601,Doctor Fate Tower 1,7,1,6152107,19160290,,,,2,2,EN_Gotham_01
+1090601,Doctor Fate Tower 1,8,2,,,220110201,220110202,220110203,,,
+1090601,Doctor Fate Tower 1,9,1,6152109,19160289,,,,2,2,EN_Gotham_01
+1090601,Doctor Fate Tower 1,10,1,6152110,19160289,,,,2,2,EN_Gotham_01
+1090601,Doctor Fate Tower 1,11,1,6152111,19160290,,,,2,2,EN_Gotham_01
+1090601,Doctor Fate Tower 1,12,2,,,220110301,220110302,220110303,,,
+1090601,Doctor Fate Tower 1,13,1,6152113,19160291,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,1,1,6152201,19160289,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,2,1,6152202,19160289,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,3,1,6152203,19160290,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,4,2,,,220120101,220120102,220120103,,,
+1090602,Doctor Fate Tower 2,5,1,6152205,19160289,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,6,1,6152206,19160289,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,7,1,6152207,19160290,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,8,2,,,220120201,220120202,220120203,,,
+1090602,Doctor Fate Tower 2,9,1,6152209,19160289,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,10,1,6152210,19160289,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,11,1,6152211,19160290,,,,2,2,EN_Gotham_01
+1090602,Doctor Fate Tower 2,12,2,,,220120301,220120302,220120303,,,
+1090602,Doctor Fate Tower 2,13,1,6152213,19160291,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,1,1,6152301,19160289,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,2,1,6152302,19160289,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,3,1,6152303,19160290,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,4,2,,,220130101,220130102,,,,
+1090603,Doctor Fate Tower 3,5,1,6152305,19160289,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,6,1,6152306,19160289,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,7,1,6152307,19160290,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,8,2,,,220130201,,,,,
+1090603,Doctor Fate Tower 3,9,1,6152309,19160289,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,10,1,6152310,19160289,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,11,1,6152311,19160290,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,12,2,,,220130301,220130302,220130303,,,
+1090603,Doctor Fate Tower 3,13,1,6152313,19160289,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,14,1,6152314,19160289,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,15,1,6152315,19160290,,,,2,2,EN_Gotham_01
+1090603,Doctor Fate Tower 3,16,2,,,220130401,,,,,
+1090603,Doctor Fate Tower 3,17,1,6152317,19160291,,,,2,2,EN_Gotham_01
+1100601,The Bride Tower 1,1,1,6152101,1940001049,,,,2,2,Battle_Hephaestus_1
+1100601,The Bride Tower 1,2,1,6152102,1940001049,,,,2,2,Battle_Hephaestus_1
+1100601,The Bride Tower 1,3,1,6152103,1940001050,,,,2,2,Battle_Hephaestus_1
+1100601,The Bride Tower 1,4,2,,,220110101,220110102,220110103,,,
+1100601,The Bride Tower 1,5,1,6152105,1940001049,,,,2,2,Battle_Hephaestus_1
+1100601,The Bride Tower 1,6,1,6152106,1940001049,,,,2,2,Battle_Hephaestus_1
+1100601,The Bride Tower 1,7,1,6152107,1940001050,,,,2,2,Battle_Hephaestus_1
+1100601,The Bride Tower 1,8,2,,,220110201,220110202,220110203,,,
+1100601,The Bride Tower 1,9,1,6152109,1940001049,,,,2,2,Battle_Hephaestus_1
+1100601,The Bride Tower 1,10,1,6152110,1940001049,,,,2,2,Battle_Hephaestus_1
+1100601,The Bride Tower 1,11,1,6152111,1940001050,,,,2,2,Battle_Hephaestus_1
+1100601,The Bride Tower 1,12,2,,,220110301,220110302,220110303,,,
+1100601,The Bride Tower 1,13,1,6152113,1940001051,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,1,1,6152201,1940001049,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,2,1,6152202,1940001049,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,3,1,6152203,1940001050,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,4,2,,,220120101,220120102,220120103,,,
+1100602,The Bride Tower 2,5,1,6152205,1940001049,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,6,1,6152206,1940001049,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,7,1,6152207,1940001050,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,8,2,,,220120201,220120202,220120203,,,
+1100602,The Bride Tower 2,9,1,6152209,1940001049,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,10,1,6152210,1940001049,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,11,1,6152211,1940001050,,,,2,2,Battle_Hephaestus_1
+1100602,The Bride Tower 2,12,2,,,220120301,220120302,220120303,,,
+1100602,The Bride Tower 2,13,1,6152213,1940001051,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,1,1,6152301,1940001049,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,2,1,6152302,1940001049,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,3,1,6152303,1940001050,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,4,2,,,220130101,220130102,,,,
+1100603,The Bride Tower 3,5,1,6152305,1940001049,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,6,1,6152306,1940001049,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,7,1,6152307,1940001050,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,8,2,,,220130201,,,,,
+1100603,The Bride Tower 3,9,1,6152309,1940001049,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,10,1,6152310,1940001049,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,11,1,6152311,1940001050,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,12,2,,,220130301,220130302,220130303,,,
+1100603,The Bride Tower 3,13,1,6152313,1940001049,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,14,1,6152314,1940001049,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,15,1,6152315,1940001050,,,,2,2,Battle_Hephaestus_1
+1100603,The Bride Tower 3,16,2,,,220130401,,,,,
+1100603,The Bride Tower 3,17,1,6152317,1940001051,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,1,1,6152101,1950001049,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,2,1,6152102,1950001049,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,3,1,6152103,1950001050,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,4,2,,,220110101,220110102,220110103,,,
+1110601,Superman DCU Tower 1,5,1,6152105,1950001049,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,6,1,6152106,1950001049,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,7,1,6152107,1950001050,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,8,2,,,220110201,220110202,220110203,,,
+1110601,Superman DCU Tower 1,9,1,6152109,1950001049,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,10,1,6152110,1950001049,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,11,1,6152111,1950001050,,,,2,2,Battle_Hephaestus_1
+1110601,Superman DCU Tower 1,12,2,,,220110301,220110302,220110303,,,
+1110601,Superman DCU Tower 1,13,1,6152113,1950001051,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,1,1,6152201,1950001049,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,2,1,6152202,1950001049,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,3,1,6152203,1950001050,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,4,2,,,220120101,220120102,220120103,,,
+1110602,Superman DCU Tower 2,5,1,6152205,1950001049,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,6,1,6152206,1950001049,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,7,1,6152207,1950001050,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,8,2,,,220120201,220120202,220120203,,,
+1110602,Superman DCU Tower 2,9,1,6152209,1950001049,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,10,1,6152210,1950001049,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,11,1,6152211,1950001050,,,,2,2,Battle_Hephaestus_1
+1110602,Superman DCU Tower 2,12,2,,,220120301,220120302,220120303,,,
+1110602,Superman DCU Tower 2,13,1,6152213,1950001051,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,1,1,6152301,1950001049,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,2,1,6152302,1950001049,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,3,1,6152303,1950001050,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,4,2,,,220130101,220130102,,,,
+1110603,Superman DCU Tower 3,5,1,6152305,1950001049,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,6,1,6152306,1950001049,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,7,1,6152307,1950001050,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,8,2,,,220130201,,,,,
+1110603,Superman DCU Tower 3,9,1,6152309,1950001049,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,10,1,6152310,1950001049,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,11,1,6152311,1950001050,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,12,2,,,220130301,220130302,220130303,,,
+1110603,Superman DCU Tower 3,13,1,6152313,1950001049,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,14,1,6152314,1950001049,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,15,1,6152315,1950001050,,,,2,2,Battle_Hephaestus_1
+1110603,Superman DCU Tower 3,16,2,,,220130401,,,,,
+1110603,Superman DCU Tower 3,17,1,6152317,1950001051,,,,2,2,Battle_Hephaestus_1
+1120601,Peacemaker Tower 1,1,1,6152101,1960001049,,,,2,2,Battle_ForeverEvil_1
+1120601,Peacemaker Tower 1,2,1,6152102,1960001049,,,,2,2,Battle_ForeverEvil_1
+1120601,Peacemaker Tower 1,3,1,6152103,1960001050,,,,2,2,Battle_ForeverEvil_1
+1120601,Peacemaker Tower 1,4,2,,,220110101,220110102,220110103,,,
+1120601,Peacemaker Tower 1,5,1,6152105,1960001049,,,,2,2,Battle_ForeverEvil_1
+1120601,Peacemaker Tower 1,6,1,6152106,1960001049,,,,2,2,Battle_ForeverEvil_1
+1120601,Peacemaker Tower 1,7,1,6152107,1960001050,,,,2,2,Battle_ForeverEvil_1
+1120601,Peacemaker Tower 1,8,2,,,220110201,220110202,220110203,,,
+1120601,Peacemaker Tower 1,9,1,6152109,1960001049,,,,2,2,Battle_ForeverEvil_1
+1120601,Peacemaker Tower 1,10,1,6152110,1960001049,,,,2,2,Battle_ForeverEvil_1
+1120601,Peacemaker Tower 1,11,1,6152111,1960001050,,,,2,2,Battle_ForeverEvil_1
+1120601,Peacemaker Tower 1,12,2,,,220110301,220110302,220110303,,,
+1120601,Peacemaker Tower 1,13,1,6152113,1960001051,,,,2,2,Battle_ForeverEvil_1
+1120602,Peacemaker Tower 2,1,1,6152201,1960001049,,,,2,2,Battle_EvilFall_1
+1120602,Peacemaker Tower 2,2,1,6152202,1960001049,,,,2,2,Battle_EvilFall_1
+1120602,Peacemaker Tower 2,3,1,6152203,1960001050,,,,2,2,Battle_EvilFall_1
+1120602,Peacemaker Tower 2,4,2,,,220120101,220120102,220120103,,,
+1120602,Peacemaker Tower 2,5,1,6152205,1960001049,,,,2,2,Battle_EvilFall_1
+1120602,Peacemaker Tower 2,6,1,6152206,1960001049,,,,2,2,Battle_EvilFall_1
+1120602,Peacemaker Tower 2,7,1,6152207,1960001050,,,,2,2,Battle_EvilFall_1
+1120602,Peacemaker Tower 2,8,2,,,220120201,220120202,220120203,,,
+1120602,Peacemaker Tower 2,9,1,6152209,1960001049,,,,2,2,Battle_EvilFall_1
+1120602,Peacemaker Tower 2,10,1,6152210,1960001049,,,,2,2,Battle_EvilFall_1
+1120602,Peacemaker Tower 2,11,1,6152211,1960001050,,,,2,2,Battle_EvilFall_1
+1120602,Peacemaker Tower 2,12,2,,,220120301,220120302,220120303,,,
+1120602,Peacemaker Tower 2,13,1,6152213,1960001051,,,,2,2,Battle_EvilFall_1
+1120603,Peacemaker Tower 3,1,1,6152301,1960001049,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,2,1,6152302,1960001049,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,3,1,6152303,1960001050,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,4,2,,,220130101,220130102,,,,
+1120603,Peacemaker Tower 3,5,1,6152305,1960001049,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,6,1,6152306,1960001049,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,7,1,6152307,1960001050,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,8,2,,,220130201,,,,,
+1120603,Peacemaker Tower 3,9,1,6152309,1960001049,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,10,1,6152310,1960001049,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,11,1,6152311,1960001050,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,12,2,,,220130301,220130302,220130303,,,
+1120603,Peacemaker Tower 3,13,1,6152313,1960001049,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,14,1,6152314,1960001049,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,15,1,6152315,1960001050,,,,2,2,Battle_CentralCity_1
+1120603,Peacemaker Tower 3,16,2,,,220130401,,,,,
+1120603,Peacemaker Tower 3,17,1,6152317,1960001051,,,,2,2,Battle_CentralCity_1
+1130601,Swamp Thing Tower 1,1,1,6152101,1970001049,,,,2,2,Battle_Hephaestus_1
+1130601,Swamp Thing Tower 1,2,1,6152102,1970001049,,,,2,2,Battle_Hephaestus_1
+1130601,Swamp Thing Tower 1,3,1,6152103,1970001050,,,,2,2,Battle_Hephaestus_1
+1130601,Swamp Thing Tower 1,4,2,,,220110101,220110102,220110103,,,
+1130601,Swamp Thing Tower 1,5,1,6152105,1970001049,,,,2,2,Battle_Hephaestus_1
+1130601,Swamp Thing Tower 1,6,1,6152106,1970001049,,,,2,2,Battle_Hephaestus_1
+1130601,Swamp Thing Tower 1,7,1,6152107,1970001050,,,,2,2,Battle_Hephaestus_1
+1130601,Swamp Thing Tower 1,8,2,,,220110201,220110202,220110203,,,
+1130601,Swamp Thing Tower 1,9,1,6152109,1970001049,,,,2,2,Battle_Hephaestus_1
+1130601,Swamp Thing Tower 1,10,1,6152110,1970001049,,,,2,2,Battle_Hephaestus_1
+1130601,Swamp Thing Tower 1,11,1,6152113,1970001050,,,,2,2,Battle_Hephaestus_1
+1130601,Swamp Thing Tower 1,12,2,,,220110301,220110302,220110303,,,
+1130601,Swamp Thing Tower 1,13,1,6152113,1970001051,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,1,1,6152201,1970001049,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,2,1,6152202,1970001049,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,3,1,6152203,1970001050,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,4,2,,,220120101,220120102,220120103,,,
+1130602,Swamp Thing Tower 2,5,1,6152205,1970001049,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,6,1,6152206,1970001049,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,7,1,6152207,1970001050,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,8,2,,,220120201,220120202,220120203,,,
+1130602,Swamp Thing Tower 2,9,1,6152209,1970001049,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,10,1,6152210,1970001049,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,11,1,6152211,1970001050,,,,2,2,Battle_Hephaestus_1
+1130602,Swamp Thing Tower 2,12,2,,,220120301,220120302,220120303,,,
+1130602,Swamp Thing Tower 2,13,1,6152213,1970001051,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,1,1,6152301,1970001049,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,2,1,6152302,1970001049,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,3,1,6152303,1970001050,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,4,2,,,220130101,220130102,,,,
+1130603,Swamp Thing Tower 3,5,1,6152305,1970001049,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,6,1,6152306,1970001049,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,7,1,6152307,1970001050,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,8,2,,,220130201,,,,,
+1130603,Swamp Thing Tower 3,9,1,6152309,1970001049,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,10,1,6152310,1970001049,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,11,1,6152311,1970001050,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,12,2,,,220130301,220130302,220130303,,,
+1130603,Swamp Thing Tower 3,13,1,6152313,1970001049,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,14,1,6152314,1970001049,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,15,1,6152315,1970001050,,,,2,2,Battle_Hephaestus_1
+1130603,Swamp Thing Tower 3,16,2,,,220130401,,,,,
+1130603,Swamp Thing Tower 3,17,1,6152317,1970001051,,,,2,2,Battle_Hephaestus_1
+1140601,Aquaman Tower 1,1,1,6152101,1971310542,,,,2,2,Battle_Atlantis_1
+1140601,Aquaman Tower 1,2,1,6152102,1971310542,,,,2,2,Battle_Atlantis_1
+1140601,Aquaman Tower 1,3,1,6152103,1971310543,,,,2,2,Battle_Atlantis_1
+1140601,Aquaman Tower 1,4,2,,,220110101,220110102,220110103,,,
+1140601,Aquaman Tower 1,5,1,6152105,1971310542,,,,2,2,Battle_Atlantis_1
+1140601,Aquaman Tower 1,6,1,6152106,1971310542,,,,2,2,Battle_Atlantis_1
+1140601,Aquaman Tower 1,7,1,6152107,1971310543,,,,2,2,Battle_Atlantis_1
+1140601,Aquaman Tower 1,8,2,,,220110201,220110202,220110203,,,
+1140601,Aquaman Tower 1,9,1,6152109,1971310542,,,,2,2,Battle_Atlantis_1
+1140601,Aquaman Tower 1,10,1,6152110,1971310542,,,,2,2,Battle_Atlantis_1
+1140601,Aquaman Tower 1,11,1,6152111,1971310543,,,,2,2,Battle_Atlantis_1
+1140601,Aquaman Tower 1,12,2,,,220110301,220110302,220110303,,,
+1140601,Aquaman Tower 1,13,1,6152113,1971310544,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,1,1,6152201,1971310542,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,2,1,6152202,1971310542,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,3,1,6152203,1971310543,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,4,2,,,220120101,220120102,220120103,,,
+1140602,Aquaman Tower 2,5,1,6152205,1971310542,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,6,1,6152206,1971310542,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,7,1,6152207,1971310543,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,8,2,,,220120201,220120202,220120203,,,
+1140602,Aquaman Tower 2,9,1,6152209,1971310542,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,10,1,6152210,1971310542,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,11,1,6152211,1971310543,,,,2,2,Battle_Atlantis_1
+1140602,Aquaman Tower 2,12,2,,,220120301,220120302,220120303,,,
+1140602,Aquaman Tower 2,13,1,6152213,1971310544,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,1,1,6152301,1971310542,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,2,1,6152302,1971310542,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,3,1,6152303,1971310543,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,4,2,,,220130101,220130102,,,,
+1140603,Aquaman Tower 3,5,1,6152305,1971310542,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,6,1,6152306,1971310542,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,7,1,6152307,1971310543,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,8,2,,,220130201,,,,,
+1140603,Aquaman Tower 3,9,1,6152309,1971310542,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,10,1,6152310,1971310542,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,11,1,6152311,1971310543,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,12,2,,,220130301,220130302,220130303,,,
+1140603,Aquaman Tower 3,13,1,6152313,1971310542,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,14,1,6152314,1971310542,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,15,1,6152315,1971310543,,,,2,2,Battle_Atlantis_1
+1140603,Aquaman Tower 3,16,2,,,220130401,,,,,
+1140603,Aquaman Tower 3,17,1,6152317,1971310544,,,,2,2,Battle_Atlantis_1
+1150601,Sinestro Re-Run Tower 1,1,1,6133101,1913133049,,,,33,2,Battle_Hephaestus_1
+1150601,Sinestro Re-Run Tower 1,2,1,6133102,1913133049,,,,33,2,Battle_Hephaestus_1
+1150601,Sinestro Re-Run Tower 1,3,1,6133103,1913133050,,,,33,2,Battle_Hephaestus_1
+1150601,Sinestro Re-Run Tower 1,4,2,,,220010101,220010102,220010103,,,
+1150601,Sinestro Re-Run Tower 1,5,1,6133105,1913133049,,,,33,2,Battle_Hephaestus_1
+1150601,Sinestro Re-Run Tower 1,6,1,6133106,1913133049,,,,33,2,Battle_Hephaestus_1
+1150601,Sinestro Re-Run Tower 1,7,1,6133107,1913133050,,,,33,2,Battle_Hephaestus_1
+1150601,Sinestro Re-Run Tower 1,8,2,,,220010201,220010202,220010203,,,
+1150601,Sinestro Re-Run Tower 1,9,1,6133109,1913133049,,,,33,2,Battle_Hephaestus_1
+1150601,Sinestro Re-Run Tower 1,10,1,6133110,1913133049,,,,33,2,Battle_Hephaestus_1
+1150601,Sinestro Re-Run Tower 1,11,1,6133111,1913133050,,,,33,2,Battle_Hephaestus_1
+1150601,Sinestro Re-Run Tower 1,12,2,,,220010301,220010302,220010303,,,
+1150601,Sinestro Re-Run Tower 1,13,1,6133113,1913133051,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,1,1,6133201,1913133049,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,2,1,6133202,1913133049,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,3,1,6133203,1913133050,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,4,2,,,220020101,220020102,220020103,,,
+1150602,Sinestro Re-Run Tower 2,5,1,6133205,1913133049,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,6,1,6133206,1913133049,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,7,1,6133207,1913133050,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,8,2,,,220020201,220020202,220020203,,,
+1150602,Sinestro Re-Run Tower 2,9,1,6133209,1913133049,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,10,1,6133210,1913133049,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,11,1,6133211,1913133050,,,,33,2,Battle_Hephaestus_1
+1150602,Sinestro Re-Run Tower 2,12,2,,,220020301,220020302,220020303,,,
+1150602,Sinestro Re-Run Tower 2,13,1,6133213,1913133051,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,1,1,6133301,1913133049,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,2,1,6133302,1913133049,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,3,1,6133303,1913133050,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,4,2,,,220030101,220030102,220030103,,,
+1150603,Sinestro Re-Run Tower 3,5,1,6133305,1913133049,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,6,1,6133306,1913133049,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,7,1,6133307,1913133050,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,8,2,,,220030201,220030202,220030203,,,
+1150603,Sinestro Re-Run Tower 3,9,1,6133309,1913133049,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,10,1,6133310,1913133049,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,11,1,6133311,1913133050,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,12,2,,,220030301,220030302,,,,
+1150603,Sinestro Re-Run Tower 3,13,1,6133313,1913133049,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,14,1,6133314,1913133049,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,15,1,6133315,1913133050,,,,33,2,Battle_Hephaestus_1
+1150603,Sinestro Re-Run Tower 3,16,2,,,220030401,,,,,
+1150603,Sinestro Re-Run Tower 3,17,1,6133317,1913133052,,,,33,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,1,1,6152101,1980002049,,,,2,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,2,1,6152102,1980002049,,,,2,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,3,1,6152103,1980002050,,,,2,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,4,2,,,220110101,220110102,220110103,,,
+1170601,Superman DCU Tower 1,5,1,6152105,1980002049,,,,2,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,6,1,6152106,1980002049,,,,2,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,7,1,6152107,1980002050,,,,2,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,8,2,,,220110201,220110202,220110203,,,
+1170601,Superman DCU Tower 1,9,1,6152109,1980002049,,,,2,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,10,1,6152110,1980002049,,,,2,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,11,1,6152111,1980002050,,,,2,2,Battle_Hephaestus_1
+1170601,Superman DCU Tower 1,12,2,,,220110301,220110302,220110303,,,
+1170601,Superman DCU Tower 1,13,1,6152113,1980002051,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,1,1,6152201,1980002049,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,2,1,6152202,1980002049,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,3,1,6152203,1980002050,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,4,2,,,220120101,220120102,220120103,,,
+1170602,Superman DCU Tower 2,5,1,6152205,1980002049,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,6,1,6152206,1980002049,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,7,1,6152207,1980002050,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,8,2,,,220120201,220120202,220120203,,,
+1170602,Superman DCU Tower 2,9,1,6152209,1980002049,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,10,1,6152210,1980002049,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,11,1,6152211,1980002050,,,,2,2,Battle_Hephaestus_1
+1170602,Superman DCU Tower 2,12,2,,,220120301,220120302,220120303,,,
+1170602,Superman DCU Tower 2,13,1,6152213,1980002051,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,1,1,6152301,1980002049,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,2,1,6152302,1980002049,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,3,1,6152303,1980002050,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,4,2,,,220130101,220130102,,,,
+1170603,Superman DCU Tower 3,5,1,6152305,1980002049,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,6,1,6152306,1980002049,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,7,1,6152307,1980002050,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,8,2,,,220130201,,,,,
+1170603,Superman DCU Tower 3,9,1,6152309,1980002049,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,10,1,6152310,1980002049,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,11,1,6152311,1980002050,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,12,2,,,220130301,220130302,220130303,,,
+1170603,Superman DCU Tower 3,13,1,6152313,1980002049,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,14,1,6152314,1980002049,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,15,1,6152315,1980002050,,,,2,2,Battle_Hephaestus_1
+1170603,Superman DCU Tower 3,16,2,,,220130401,,,,,
+1170603,Superman DCU Tower 3,17,1,6152317,1980002051,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,1,1,6152101,1980001050,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,2,1,6152102,1980001050,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,3,1,6152103,1980001051,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,4,2,,,220110101,220110102,220110103,,,
+1160601,General Zod Tower 1,5,1,6152105,1980001050,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,6,1,6152106,1980001050,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,7,1,6152107,1980001051,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,8,2,,,220110201,220110202,220110203,,,
+1160601,General Zod Tower 1,9,1,6152109,1980001050,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,10,1,6152110,1980001050,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,11,1,6152113,1980001051,,,,2,2,Battle_Hephaestus_1
+1160601,General Zod Tower 1,12,2,,,220110301,220110302,220110303,,,
+1160601,General Zod Tower 1,13,1,6152113,1980001052,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,1,1,6152201,1980001050,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,2,1,6152202,1980001050,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,3,1,6152203,1980001051,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,4,2,,,220120101,220120102,220120103,,,
+1160602,General Zod Tower 2,5,1,6152205,1980001050,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,6,1,6152206,1980001050,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,7,1,6152207,1980001051,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,8,2,,,220120201,220120202,220120203,,,
+1160602,General Zod Tower 2,9,1,6152209,1980001050,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,10,1,6152210,1980001050,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,11,1,6152211,1980001051,,,,2,2,Battle_Hephaestus_1
+1160602,General Zod Tower 2,12,2,,,220120301,220120302,220120303,,,
+1160602,General Zod Tower 2,13,1,6152213,1980001052,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,1,1,6152301,1980001050,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,2,1,6152302,1980001050,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,3,1,6152303,1980001051,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,4,2,,,220130101,220130102,,,,
+1160603,General Zod Tower 3,5,1,6152305,1980001050,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,6,1,6152306,1980001050,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,7,1,6152307,1980001051,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,8,2,,,220130201,,,,,
+1160603,General Zod Tower 3,9,1,6152309,1980001050,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,10,1,6152310,1980001050,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,11,1,6152311,1980001051,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,12,2,,,220130301,220130302,220130303,,,
+1160603,General Zod Tower 3,13,1,6152313,1980001050,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,14,1,6152314,1980001050,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,15,1,6152315,1980001051,,,,2,2,Battle_Hephaestus_1
+1160603,General Zod Tower 3,16,2,,,220130401,,,,,
+1160603,General Zod Tower 3,17,1,6152317,1980001052,,,,2,2,Battle_Hephaestus_1
+1180601,The Joker Tower 1,1,1,6152101,1980003050,,,,2,2,EN_Gotham_01
+1180601,The Joker Tower 1,2,1,6152102,1980003050,,,,2,2,EN_Gotham_01
+1180601,The Joker Tower 1,3,1,6152103,1980003051,,,,2,2,EN_Gotham_01
+1180601,The Joker Tower 1,4,2,,,220110101,220110102,220110103,,,
+1180601,The Joker Tower 1,5,1,6152105,1980003050,,,,2,2,EN_Gotham_01
+1180601,The Joker Tower 1,6,1,6152106,1980003050,,,,2,2,EN_Gotham_01
+1180601,The Joker Tower 1,7,1,6152107,1980003051,,,,2,2,EN_Gotham_01
+1180601,The Joker Tower 1,8,2,,,220110201,220110202,220110203,,,
+1180601,The Joker Tower 1,9,1,6152109,1980003050,,,,2,2,EN_Gotham_01
+1180601,The Joker Tower 1,10,1,6152110,1980003050,,,,2,2,EN_Gotham_01
+1180601,The Joker Tower 1,11,1,6152113,1980003051,,,,2,2,EN_Gotham_01
+1180601,The Joker Tower 1,12,2,,,220110301,220110302,220110303,,,
+1180601,The Joker Tower 1,13,1,6152113,1980003052,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,1,1,6152201,1980003050,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,2,1,6152202,1980003050,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,3,1,6152203,1980003051,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,4,2,,,220120101,220120102,220120103,,,
+1180602,The Joker Tower 2,5,1,6152205,1980003050,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,6,1,6152206,1980003050,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,7,1,6152207,1980003051,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,8,2,,,220120201,220120202,220120203,,,
+1180602,The Joker Tower 2,9,1,6152209,1980003050,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,10,1,6152210,1980003050,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,11,1,6152211,1980003051,,,,2,2,EN_Gotham_01
+1180602,The Joker Tower 2,12,2,,,220120301,220120302,220120303,,,
+1180602,The Joker Tower 2,13,1,6152213,1980003052,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,1,1,6152301,1980003050,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,2,1,6152302,1980003050,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,3,1,6152303,1980003051,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,4,2,,,220130101,220130102,,,,
+1180603,The Joker Tower 3,5,1,6152305,1980003050,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,6,1,6152306,1980003050,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,7,1,6152307,1980003051,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,8,2,,,220130201,,,,,
+1180603,The Joker Tower 3,9,1,6152309,1980003050,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,10,1,6152310,1980003050,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,11,1,6152311,1980003051,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,12,2,,,220130301,220130302,220130303,,,
+1180603,The Joker Tower 3,13,1,6152313,1980003050,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,14,1,6152314,1980003050,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,15,1,6152315,1980003051,,,,2,2,EN_Gotham_01
+1180603,The Joker Tower 3,16,2,,,220130401,,,,,
+1180603,The Joker Tower 3,17,1,6152317,1980003052,,,,2,2,EN_Gotham_01
+1190601,Sinestro Tower 1,1,1,6133101,1990003050,,,,33,2,Battle_Hephaestus_1
+1190601,Sinestro Tower 1,2,1,6133102,1990003050,,,,33,2,Battle_Hephaestus_1
+1190601,Sinestro Tower 1,3,1,6133103,1990003051,,,,33,2,Battle_Hephaestus_1
+1190601,Sinestro Tower 1,4,2,,,220110101,220110102,220110103,,,
+1190601,Sinestro Tower 1,5,1,6133105,1990003050,,,,33,2,Battle_Hephaestus_1
+1190601,Sinestro Tower 1,6,1,6133106,1990003050,,,,33,2,Battle_Hephaestus_1
+1190601,Sinestro Tower 1,7,1,6133107,1990003051,,,,33,2,Battle_Hephaestus_1
+1190601,Sinestro Tower 1,8,2,,,220110201,220110202,220110203,,,
+1190601,Sinestro Tower 1,9,1,6133109,1990003050,,,,33,2,Battle_Hephaestus_1
+1190601,Sinestro Tower 1,10,1,6133110,1990003050,,,,33,2,Battle_Hephaestus_1
+1190601,Sinestro Tower 1,11,1,6133111,1990003051,,,,33,2,Battle_Hephaestus_1
+1190601,Sinestro Tower 1,12,2,,,220110301,220110302,220110303,,,
+1190601,Sinestro Tower 1,13,1,6133113,1990003052,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,1,1,6133201,1990003050,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,2,1,6133202,1990003050,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,3,1,6133203,1990003051,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,4,2,,,220120101,220120102,220120103,,,
+1190602,Sinestro Tower 2,5,1,6133205,1990003050,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,6,1,6133206,1990003050,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,7,1,6133207,1990003051,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,8,2,,,220120201,220120202,220120203,,,
+1190602,Sinestro Tower 2,9,1,6133209,1990003050,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,10,1,6133210,1990003050,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,11,1,6133211,1990003051,,,,33,2,Battle_Hephaestus_1
+1190602,Sinestro Tower 2,12,2,,,220120301,220120302,220120303,,,
+1190602,Sinestro Tower 2,13,1,6133213,1990003052,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,1,1,6133301,1990003050,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,2,1,6133302,1990003050,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,3,1,6133303,1990003051,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,4,2,,,220130101,220130102,,,,
+1190603,Sinestro Tower 3,5,1,6133305,1990003050,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,6,1,6133306,1990003050,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,7,1,6133307,1990003051,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,8,2,,,220130201,,,,,
+1190603,Sinestro Tower 3,9,1,6133309,1990003050,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,10,1,6133310,1990003050,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,11,1,6133311,1990003051,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,12,2,,,220130301,220130302,220130303,,,
+1190603,Sinestro Tower 3,13,1,6133313,1990003050,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,14,1,6133314,1990003050,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,15,1,6133315,1990003051,,,,33,2,Battle_Hephaestus_1
+1190603,Sinestro Tower 3,16,2,,,220130401,,,,,
+1190603,Sinestro Tower 3,17,1,6133317,1990003052,,,,33,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,1,1,6152101,1991003050,,,,2,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,2,1,6152102,1991003050,,,,2,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,3,1,6152103,1991003051,,,,2,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,4,2,,,220110101,220110102,220110103,,,
+1200601,Nubia Tower 1,5,1,6152105,1991003050,,,,2,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,6,1,6152106,1991003050,,,,2,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,7,1,6152107,1991003051,,,,2,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,8,2,,,220110201,220110202,220110203,,,
+1200601,Nubia Tower 1,9,1,6152109,1991003050,,,,2,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,10,1,6152110,1991003050,,,,2,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,11,1,6152113,1991003051,,,,2,2,Battle_Hephaestus_1
+1200601,Nubia Tower 1,12,2,,,220110301,220110302,220110303,,,
+1200601,Nubia Tower 1,13,1,6152113,1991003052,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,1,1,6152201,1991003050,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,2,1,6152202,1991003050,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,3,1,6152203,1991003051,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,4,2,,,220120101,220120102,220120103,,,
+1200602,Nubia Tower 2,5,1,6152205,1991003050,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,6,1,6152206,1991003050,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,7,1,6152207,1991003051,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,8,2,,,220120201,220120202,220120203,,,
+1200602,Nubia Tower 2,9,1,6152209,1991003050,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,10,1,6152210,1991003050,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,11,1,6152211,1991003051,,,,2,2,Battle_Hephaestus_1
+1200602,Nubia Tower 2,12,2,,,220120301,220120302,220120303,,,
+1200602,Nubia Tower 2,13,1,6152213,1991003052,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,1,1,6152301,1991003050,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,2,1,6152302,1991003050,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,3,1,6152303,1991003051,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,4,2,,,220130101,220130102,,,,
+1200603,Nubia Tower 3,5,1,6152305,1991003050,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,6,1,6152306,1991003050,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,7,1,6152307,1991003051,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,8,2,,,220130201,,,,,
+1200603,Nubia Tower 3,9,1,6152309,1991003050,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,10,1,6152310,1991003050,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,11,1,6152311,1991003051,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,12,2,,,220130301,220130302,220130303,,,
+1200603,Nubia Tower 3,13,1,6152313,1991003050,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,14,1,6152314,1991003050,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,15,1,6152315,1991003051,,,,2,2,Battle_Hephaestus_1
+1200603,Nubia Tower 3,16,2,,,220130401,,,,,
+1200603,Nubia Tower 3,17,1,6152317,1991003052,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,1,1,6152101,1992003050,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,2,1,6152102,1992003050,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,3,1,6152103,1992003051,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,4,2,,,220110101,220110102,220110103,,,
+1210601,Black Adam Tower 1,5,1,6152105,1992003050,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,6,1,6152106,1992003050,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,7,1,6152107,1992003051,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,8,2,,,220110201,220110202,220110203,,,
+1210601,Black Adam Tower 1,9,1,6152109,1992003050,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,10,1,6152110,1992003050,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,11,1,6152113,1992003051,,,,2,2,Battle_Hephaestus_1
+1210601,Black Adam Tower 1,12,2,,,220110301,220110302,220110303,,,
+1210601,Black Adam Tower 1,13,1,6152113,1992003052,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,1,1,6152201,1992003050,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,2,1,6152202,1992003050,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,3,1,6152203,1992003051,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,4,2,,,220120101,220120102,220120103,,,
+1210602,Black Adam Tower 2,5,1,6152205,1992003050,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,6,1,6152206,1992003050,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,7,1,6152207,1992003051,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,8,2,,,220120201,220120202,220120203,,,
+1210602,Black Adam Tower 2,9,1,6152209,1992003050,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,10,1,6152210,1992003050,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,11,1,6152211,1992003051,,,,2,2,Battle_Hephaestus_1
+1210602,Black Adam Tower 2,12,2,,,220120301,220120302,220120303,,,
+1210602,Black Adam Tower 2,13,1,6152213,1992003052,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,1,1,6152301,1992003050,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,2,1,6152302,1992003050,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,3,1,6152303,1992003051,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,4,2,,,220130101,220130102,,,,
+1210603,Black Adam Tower 3,5,1,6152305,1992003050,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,6,1,6152306,1992003050,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,7,1,6152307,1992003051,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,8,2,,,220130201,,,,,
+1210603,Black Adam Tower 3,9,1,6152309,1992003050,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,10,1,6152310,1992003050,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,11,1,6152311,1992003051,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,12,2,,,220130301,220130302,220130303,,,
+1210603,Black Adam Tower 3,13,1,6152313,1992003050,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,14,1,6152314,1992003050,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,15,1,6152315,1992003051,,,,2,2,Battle_Hephaestus_1
+1210603,Black Adam Tower 3,16,2,,,220130401,,,,,
+1210603,Black Adam Tower 3,17,1,6152317,1992003052,,,,2,2,Battle_Hephaestus_1
+1220601,Aquaman Tower 1,1,1,6152101,1971310542,,,,2,2,Battle_Atlantis_1
+1220601,Aquaman Tower 1,2,1,6152102,1971310542,,,,2,2,Battle_Atlantis_1
+1220601,Aquaman Tower 1,3,1,6152103,1971310543,,,,2,2,Battle_Atlantis_1
+1220601,Aquaman Tower 1,4,2,,,220110101,220110102,220110103,,,
+1220601,Aquaman Tower 1,5,1,6152105,1971310542,,,,2,2,Battle_Atlantis_1
+1220601,Aquaman Tower 1,6,1,6152106,1971310542,,,,2,2,Battle_Atlantis_1
+1220601,Aquaman Tower 1,7,1,6152107,1971310543,,,,2,2,Battle_Atlantis_1
+1220601,Aquaman Tower 1,8,2,,,220110201,220110202,220110203,,,
+1220601,Aquaman Tower 1,9,1,6152109,1971310542,,,,2,2,Battle_Atlantis_1
+1220601,Aquaman Tower 1,10,1,6152110,1971310542,,,,2,2,Battle_Atlantis_1
+1220601,Aquaman Tower 1,11,1,6152111,1971310543,,,,2,2,Battle_Atlantis_1
+1220601,Aquaman Tower 1,12,2,,,220110301,220110302,220110303,,,
+1220601,Aquaman Tower 1,13,1,6152113,1971310544,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,1,1,6152201,1971310542,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,2,1,6152202,1971310542,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,3,1,6152203,1971310543,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,4,2,,,220120101,220120102,220120103,,,
+1220602,Aquaman Tower 2,5,1,6152205,1971310542,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,6,1,6152206,1971310542,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,7,1,6152207,1971310543,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,8,2,,,220120201,220120202,220120203,,,
+1220602,Aquaman Tower 2,9,1,6152209,1971310542,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,10,1,6152210,1971310542,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,11,1,6152211,1971310543,,,,2,2,Battle_Atlantis_1
+1220602,Aquaman Tower 2,12,2,,,220120301,220120302,220120303,,,
+1220602,Aquaman Tower 2,13,1,6152213,1971310544,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,1,1,6152301,1971310542,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,2,1,6152302,1971310542,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,3,1,6152303,1971310543,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,4,2,,,220130101,220130102,,,,
+1220603,Aquaman Tower 3,5,1,6152305,1971310542,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,6,1,6152306,1971310542,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,7,1,6152307,1971310543,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,8,2,,,220130201,,,,,
+1220603,Aquaman Tower 3,9,1,6152309,1971310542,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,10,1,6152310,1971310542,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,11,1,6152311,1971310543,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,12,2,,,220130301,220130302,220130303,,,
+1220603,Aquaman Tower 3,13,1,6152313,1971310542,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,14,1,6152314,1971310542,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,15,1,6152315,1971310543,,,,2,2,Battle_Atlantis_1
+1220603,Aquaman Tower 3,16,2,,,220130401,,,,,
+1220603,Aquaman Tower 3,17,1,6152317,1971310544,,,,2,2,Battle_Atlantis_1
+1230601,Nubia Tower 1,1,1,6152101,1991003050,,,,2,2,Battle_Hephaestus_1
+1230601,Nubia Tower 1,2,1,6152102,1991003050,,,,2,2,Battle_Hephaestus_1
+1230601,Nubia Tower 1,3,1,6152103,1991003051,,,,2,2,Battle_Hephaestus_1
+1230601,Nubia Tower 1,4,2,,,220110101,220110102,220110103,,,
+1230601,Nubia Tower 1,5,1,6152105,1991003050,,,,2,2,Battle_Hephaestus_1
+1230601,Nubia Tower 1,6,1,6152106,1991003050,,,,2,2,Battle_Hephaestus_1
+1230601,Nubia Tower 1,7,1,6152107,1991003051,,,,2,2,Battle_Hephaestus_1
+1230601,Nubia Tower 1,8,2,,,220110201,220110202,220110203,,,
+1230601,Nubia Tower 1,9,1,6152109,1991003050,,,,2,2,Battle_Hephaestus_1
+1230601,Nubia Tower 1,10,1,6152110,1991003050,,,,2,2,Battle_Hephaestus_1
+1230601,Nubia Tower 1,11,1,6152113,1991003051,,,,2,2,Battle_Hephaestus_1
+1230601,Nubia Tower 1,12,2,,,220110301,220110302,220110303,,,
+1230601,Nubia Tower 1,13,1,6152113,1991003052,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,1,1,6152201,1991003050,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,2,1,6152202,1991003050,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,3,1,6152203,1991003051,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,4,2,,,220120101,220120102,220120103,,,
+1230602,Nubia Tower 2,5,1,6152205,1991003050,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,6,1,6152206,1991003050,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,7,1,6152207,1991003051,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,8,2,,,220120201,220120202,220120203,,,
+1230602,Nubia Tower 2,9,1,6152209,1991003050,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,10,1,6152210,1991003050,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,11,1,6152211,1991003051,,,,2,2,Battle_Hephaestus_1
+1230602,Nubia Tower 2,12,2,,,220120301,220120302,220120303,,,
+1230602,Nubia Tower 2,13,1,6152213,1991003052,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,1,1,6152301,1991003050,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,2,1,6152302,1991003050,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,3,1,6152303,1991003051,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,4,2,,,220130101,220130102,,,,
+1230603,Nubia Tower 3,5,1,6152305,1991003050,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,6,1,6152306,1991003050,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,7,1,6152307,1991003051,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,8,2,,,220130201,,,,,
+1230603,Nubia Tower 3,9,1,6152309,1991003050,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,10,1,6152310,1991003050,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,11,1,6152311,1991003051,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,12,2,,,220130301,220130302,220130303,,,
+1230603,Nubia Tower 3,13,1,6152313,1991003050,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,14,1,6152314,1991003050,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,15,1,6152315,1991003051,,,,2,2,Battle_Hephaestus_1
+1230603,Nubia Tower 3,16,2,,,220130401,,,,,
+1230603,Nubia Tower 3,17,1,6152317,1991003052,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,1,1,6152101,1993003050,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,2,1,6152102,1993003050,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,3,1,6152103,1993003051,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,4,2,,,220110101,220110102,220110103,,,
+1240601,Artemis Tower 1,5,1,6152105,1993003050,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,6,1,6152106,1993003050,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,7,1,6152107,1993003051,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,8,2,,,220110201,220110202,220110203,,,
+1240601,Artemis Tower 1,9,1,6152109,1993003050,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,10,1,6152110,1993003050,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,11,1,6152113,1993003051,,,,2,2,Battle_Hephaestus_1
+1240601,Artemis Tower 1,12,2,,,220110301,220110302,220110303,,,
+1240601,Artemis Tower 1,13,1,6152113,1993003052,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,1,1,6152201,1993003050,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,2,1,6152202,1993003050,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,3,1,6152203,1993003051,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,4,2,,,220120101,220120102,220120103,,,
+1240602,Artemis Tower 2,5,1,6152205,1993003050,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,6,1,6152206,1993003050,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,7,1,6152207,1993003051,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,8,2,,,220120201,220120202,220120203,,,
+1240602,Artemis Tower 2,9,1,6152209,1993003050,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,10,1,6152210,1993003050,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,11,1,6152211,1993003051,,,,2,2,Battle_Hephaestus_1
+1240602,Artemis Tower 2,12,2,,,220120301,220120302,220120303,,,
+1240602,Artemis Tower 2,13,1,6152213,1993003052,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,1,1,6152301,1993003050,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,2,1,6152302,1993003050,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,3,1,6152303,1993003051,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,4,2,,,220130101,220130102,,,,
+1240603,Artemis Tower 3,5,1,6152305,1993003050,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,6,1,6152306,1993003050,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,7,1,6152307,1993003051,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,8,2,,,220130201,,,,,
+1240603,Artemis Tower 3,9,1,6152309,1993003050,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,10,1,6152310,1993003050,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,11,1,6152311,1993003051,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,12,2,,,220130301,220130302,220130303,,,
+1240603,Artemis Tower 3,13,1,6152313,1993003050,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,14,1,6152314,1993003050,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,15,1,6152315,1993003051,,,,2,2,Battle_Hephaestus_1
+1240603,Artemis Tower 3,16,2,,,220130401,,,,,
+1240603,Artemis Tower 3,17,1,6152317,1993003052,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,1,1,6152101,1994003050,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,2,1,6152102,1994003050,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,3,1,6152103,1994003051,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,4,2,,,220110101,220110102,220110103,,,
+1250601,Black Adam Tower 1,5,1,6152105,1994003050,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,6,1,6152106,1994003050,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,7,1,6152107,1994003051,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,8,2,,,220110201,220110202,220110203,,,
+1250601,Black Adam Tower 1,9,1,6152109,1994003050,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,10,1,6152110,1994003050,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,11,1,6152113,1994003051,,,,2,2,Battle_Hephaestus_1
+1250601,Black Adam Tower 1,12,2,,,220110301,220110302,220110303,,,
+1250601,Black Adam Tower 1,13,1,6152113,1994003052,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,1,1,6152201,1994003050,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,2,1,6152202,1994003050,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,3,1,6152203,1994003051,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,4,2,,,220120101,220120102,220120103,,,
+1250602,Black Adam Tower 2,5,1,6152205,1994003050,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,6,1,6152206,1994003050,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,7,1,6152207,1994003051,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,8,2,,,220120201,220120202,220120203,,,
+1250602,Black Adam Tower 2,9,1,6152209,1994003050,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,10,1,6152210,1994003050,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,11,1,6152211,1994003051,,,,2,2,Battle_Hephaestus_1
+1250602,Black Adam Tower 2,12,2,,,220120301,220120302,220120303,,,
+1250602,Black Adam Tower 2,13,1,6152213,1994003052,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,1,1,6152301,1994003050,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,2,1,6152302,1994003050,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,3,1,6152303,1994003051,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,4,2,,,220130101,220130102,,,,
+1250603,Black Adam Tower 3,5,1,6152305,1994003050,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,6,1,6152306,1994003050,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,7,1,6152307,1994003051,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,8,2,,,220130201,,,,,
+1250603,Black Adam Tower 3,9,1,6152309,1994003050,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,10,1,6152310,1994003050,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,11,1,6152311,1994003051,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,12,2,,,220130301,220130302,220130303,,,
+1250603,Black Adam Tower 3,13,1,6152313,1994003050,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,14,1,6152314,1994003050,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,15,1,6152315,1994003051,,,,2,2,Battle_Hephaestus_1
+1250603,Black Adam Tower 3,16,2,,,220130401,,,,,
+1250603,Black Adam Tower 3,17,1,6152317,1994003052,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,1,1,6152101,1995003050,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,2,1,6152102,1995003050,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,3,1,6152103,1995003051,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,4,2,,,220110101,220110102,220110103,,,
+1260601,Artemis Tower 1,5,1,6152105,1995003050,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,6,1,6152106,1995003050,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,7,1,6152107,1995003051,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,8,2,,,220110201,220110202,220110203,,,
+1260601,Artemis Tower 1,9,1,6152109,1995003050,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,10,1,6152110,1995003050,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,11,1,6152113,1995003051,,,,2,2,Battle_Hephaestus_1
+1260601,Artemis Tower 1,12,2,,,220110301,220110302,220110303,,,
+1260601,Artemis Tower 1,13,1,6152113,1995003052,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,1,1,6152201,1995003050,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,2,1,6152202,1995003050,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,3,1,6152203,1995003051,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,4,2,,,220120101,220120102,220120103,,,
+1260602,Artemis Tower 2,5,1,6152205,1995003050,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,6,1,6152206,1995003050,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,7,1,6152207,1995003051,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,8,2,,,220120201,220120202,220120203,,,
+1260602,Artemis Tower 2,9,1,6152209,1995003050,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,10,1,6152210,1995003050,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,11,1,6152211,1995003051,,,,2,2,Battle_Hephaestus_1
+1260602,Artemis Tower 2,12,2,,,220120301,220120302,220120303,,,
+1260602,Artemis Tower 2,13,1,6152213,1995003052,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,1,1,6152301,1995003050,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,2,1,6152302,1995003050,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,3,1,6152303,1995003051,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,4,2,,,220130101,220130102,,,,
+1260603,Artemis Tower 3,5,1,6152305,1995003050,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,6,1,6152306,1995003050,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,7,1,6152307,1995003051,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,8,2,,,220130201,,,,,
+1260603,Artemis Tower 3,9,1,6152309,1995003050,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,10,1,6152310,1995003050,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,11,1,6152311,1995003051,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,12,2,,,220130301,220130302,220130303,,,
+1260603,Artemis Tower 3,13,1,6152313,1995003050,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,14,1,6152314,1995003050,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,15,1,6152315,1995003051,,,,2,2,Battle_Hephaestus_1
+1260603,Artemis Tower 3,16,2,,,220130401,,,,,
+1260603,Artemis Tower 3,17,1,6152317,1995003052,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,1,1,6153101,1996003050,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,2,1,6153102,1996003050,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,3,1,6153103,1996003051,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,4,2,,,220110101,220110102,220110103,,,
+1270601,Lobo Tower 1,5,1,6153105,1996003050,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,6,1,6153106,1996003050,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,7,1,6153107,1996003051,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,8,2,,,220110201,220110202,220110203,,,
+1270601,Lobo Tower 1,9,1,6153109,1996003050,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,10,1,6153110,1996003050,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,11,1,6153113,1996003051,,,,2,2,Battle_Hephaestus_1
+1270601,Lobo Tower 1,12,2,,,220110301,220110302,220110303,,,
+1270601,Lobo Tower 1,13,1,6153113,1996003052,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,1,1,6153201,1996003050,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,2,1,6153202,1996003050,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,3,1,6153203,1996003051,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,4,2,,,220120101,220120102,220120103,,,
+1270602,Lobo Tower 2,5,1,6153205,1996003050,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,6,1,6153206,1996003050,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,7,1,6153207,1996003051,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,8,2,,,220120201,220120202,220120203,,,
+1270602,Lobo Tower 2,9,1,6153209,1996003050,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,10,1,6153210,1996003050,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,11,1,6153211,1996003051,,,,2,2,Battle_Hephaestus_1
+1270602,Lobo Tower 2,12,2,,,220120301,220120302,220120303,,,
+1270602,Lobo Tower 2,13,1,6153213,1996003052,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,1,1,6153301,1996003050,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,2,1,6153302,1996003050,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,3,1,6153303,1996003051,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,4,2,,,220130101,220130102,,,,
+1270603,Lobo Tower 3,5,1,6153305,1996003050,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,6,1,6153306,1996003050,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,7,1,6153307,1996003051,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,8,2,,,220130201,,,,,
+1270603,Lobo Tower 3,9,1,6153309,1996003050,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,10,1,6153310,1996003050,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,11,1,6153311,1996003051,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,12,2,,,220130301,220130302,220130303,,,
+1270603,Lobo Tower 3,13,1,6153313,1996003050,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,14,1,6153314,1996003050,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,15,1,6153315,1996003051,,,,2,2,Battle_Hephaestus_1
+1270603,Lobo Tower 3,16,2,,,220130401,,,,,
+1270603,Lobo Tower 3,17,1,6153317,1996003052,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,1,1,6153101,1996703050,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,2,1,6153102,1996703050,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,3,1,6153103,1996703051,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,4,2,,,220110101,220110102,220110103,,,
+1280601,BlackLightning Tower 1,5,1,6153105,1996703050,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,6,1,6153106,1996703050,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,7,1,6153107,1996703051,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,8,2,,,220110201,220110202,220110203,,,
+1280601,BlackLightning Tower 1,9,1,6153109,1996703050,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,10,1,6153110,1996703050,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,11,1,6153111,1996703051,,,,2,2,Battle_Hephaestus_1
+1280601,BlackLightning Tower 1,12,2,,,220110301,220110302,220110303,,,
+1280601,BlackLightning Tower 1,13,1,6153113,1996703052,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,1,1,6153201,1996703050,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,2,1,6153202,1996703050,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,3,1,6153203,1996703051,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,4,2,,,220120101,220120102,220120103,,,
+1280602,BlackLightning Tower 2,5,1,6153205,1996703050,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,6,1,6153206,1996703050,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,7,1,6153207,1996703051,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,8,2,,,220120201,220120202,220120203,,,
+1280602,BlackLightning Tower 2,9,1,6153209,1996703050,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,10,1,6153210,1996703050,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,11,1,6153211,1996703051,,,,2,2,Battle_Hephaestus_1
+1280602,BlackLightning Tower 2,12,2,,,220120301,220120302,220120303,,,
+1280602,BlackLightning Tower 2,13,1,6153213,1996703052,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,1,1,6153301,1996703050,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,2,1,6153302,1996703050,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,3,1,6153303,1996703051,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,4,2,,,220130101,220130102,,,,
+1280603,BlackLightning Tower 3,5,1,6153305,1996703050,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,6,1,6153306,1996703050,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,7,1,6153307,1996703051,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,8,2,,,220130201,,,,,
+1280603,BlackLightning Tower 3,9,1,6153309,1996703050,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,10,1,6153310,1996703050,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,11,1,6153311,1996703051,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,12,2,,,220130301,220130302,220130303,,,
+1280603,BlackLightning Tower 3,13,1,6153313,1996703050,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,14,1,6153314,1996703050,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,15,1,6153315,1996703051,,,,2,2,Battle_Hephaestus_1
+1280603,BlackLightning Tower 3,16,2,,,220130401,,,,,
+1280603,BlackLightning Tower 3,17,1,6153317,1996703052,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,1,1,6153101,1998003050,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,2,1,6153102,1998003050,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,3,1,6153103,1998003051,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,4,2,,,220110101,220110102,220110103,,,
+1290601,Supergirl DCU Tower 1,5,1,6153105,1998003050,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,6,1,6153106,1998003050,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,7,1,6153107,1998003051,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,8,2,,,220110201,220110202,220110203,,,
+1290601,Supergirl DCU Tower 1,9,1,6153109,1998003050,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,10,1,6153110,1998003050,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,11,1,6153111,1998003051,,,,2,2,Battle_Hephaestus_1
+1290601,Supergirl DCU Tower 1,12,2,,,220110301,220110302,220110303,,,
+1290601,Supergirl DCU Tower 1,13,1,6153113,1998003052,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,1,1,6153201,1998003050,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,2,1,6153202,1998003050,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,3,1,6153203,1998003051,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,4,2,,,220120101,220120102,220120103,,,
+1290602,Supergirl DCU Tower 2,5,1,6153205,1998003050,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,6,1,6153206,1998003050,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,7,1,6153207,1998003051,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,8,2,,,220120201,220120202,220120203,,,
+1290602,Supergirl DCU Tower 2,9,1,6153209,1998003050,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,10,1,6153210,1998003050,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,11,1,6153211,1998003051,,,,2,2,Battle_Hephaestus_1
+1290602,Supergirl DCU Tower 2,12,2,,,220120301,220120302,220120303,,,
+1290602,Supergirl DCU Tower 2,13,1,6153213,1998003052,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,1,1,6153301,1998003050,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,2,1,6153302,1998003050,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,3,1,6153303,1998003051,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,4,2,,,220130101,220130102,,,,
+1290603,Supergirl DCU Tower 3,5,1,6153305,1998003050,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,6,1,6153306,1998003050,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,7,1,6153307,1998003051,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,8,2,,,220130201,,,,,
+1290603,Supergirl DCU Tower 3,9,1,6153309,1998003050,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,10,1,6153310,1998003050,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,11,1,6153311,1998003051,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,12,2,,,220130301,220130302,220130303,,,
+1290603,Supergirl DCU Tower 3,13,1,6153313,1998003050,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,14,1,6153314,1998003050,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,15,1,6153315,1998003051,,,,2,2,Battle_Hephaestus_1
+1290603,Supergirl DCU Tower 3,16,2,,,220130401,,,,,
+1290603,Supergirl DCU Tower 3,17,1,6153317,1998003052,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,1,1,6152101,1996903050,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,2,1,6152102,1996903050,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,3,1,6152103,1996903051,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,4,2,,,220110101,220110102,220110103,,,
+1300601,WhiteLantern Tower 1,5,1,6152105,1996903050,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,6,1,6152106,1996903050,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,7,1,6152107,1996903051,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,8,2,,,220110201,220110202,220110203,,,
+1300601,WhiteLantern Tower 1,9,1,6152109,1996903050,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,10,1,6152110,1996903050,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,11,1,6152111,1996903051,,,,2,2,Battle_Hephaestus_1
+1300601,WhiteLantern Tower 1,12,2,,,220110301,220110302,220110303,,,
+1300601,WhiteLantern Tower 1,13,1,6152113,1996903052,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,1,1,6152201,1996903050,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,2,1,6152202,1996903050,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,3,1,6152203,1996903051,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,4,2,,,220120101,220120102,220120103,,,
+1300602,WhiteLantern Tower 2,5,1,6152205,1996903050,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,6,1,6152206,1996903050,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,7,1,6152207,1996903051,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,8,2,,,220120201,220120202,220120203,,,
+1300602,WhiteLantern Tower 2,9,1,6152209,1996903050,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,10,1,6152210,1996903050,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,11,1,6152211,1996903051,,,,2,2,Battle_Hephaestus_1
+1300602,WhiteLantern Tower 2,12,2,,,220120301,220120302,220120303,,,
+1300602,WhiteLantern Tower 2,13,1,6152213,1996903052,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,1,1,6152301,1996903050,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,2,1,6152302,1996903050,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,3,1,6152303,1996903051,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,4,2,,,220130101,220130102,,,,
+1300603,WhiteLantern Tower 3,5,1,6152305,1996903050,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,6,1,6152306,1996903050,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,7,1,6152307,1996903051,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,8,2,,,220130201,,,,,
+1300603,WhiteLantern Tower 3,9,1,6152309,1996903050,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,10,1,6152310,1996903050,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,11,1,6152311,1996903051,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,12,2,,,220130301,220130302,220130303,,,
+1300603,WhiteLantern Tower 3,13,1,6152313,1996903050,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,14,1,6152314,1996903050,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,15,1,6152315,1996903051,,,,2,2,Battle_Hephaestus_1
+1300603,WhiteLantern Tower 3,16,2,,,220130401,,,,,
+1300603,WhiteLantern Tower 3,17,1,6152317,1996903052,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,1,1,6153101,1996803050,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,2,1,6153102,1996803050,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,3,1,6153103,1996803051,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,4,2,,,220110101,220110102,220110103,,,
+1310601,BlackLightning_Rerun Tower 1,5,1,6153105,1996803050,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,6,1,6153106,1996803050,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,7,1,6153107,1996803051,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,8,2,,,220110201,220110202,220110203,,,
+1310601,BlackLightning_Rerun Tower 1,9,1,6153109,1996803050,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,10,1,6153110,1996803050,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,11,1,6153111,1996803051,,,,2,2,Battle_Hephaestus_1
+1310601,BlackLightning_Rerun Tower 1,12,2,,,220110301,220110302,220110303,,,
+1310601,BlackLightning_Rerun Tower 1,13,1,6153113,1996803052,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,1,1,6153201,1996803050,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,2,1,6153202,1996803050,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,3,1,6153203,1996803051,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,4,2,,,220120101,220120102,220120103,,,
+1310602,BlackLightning_Rerun Tower 2,5,1,6153205,1996803050,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,6,1,6153206,1996803050,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,7,1,6153207,1996803051,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,8,2,,,220120201,220120202,220120203,,,
+1310602,BlackLightning_Rerun Tower 2,9,1,6153209,1996803050,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,10,1,6153210,1996803050,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,11,1,6153211,1996803051,,,,2,2,Battle_Hephaestus_1
+1310602,BlackLightning_Rerun Tower 2,12,2,,,220120301,220120302,220120303,,,
+1310602,BlackLightning_Rerun Tower 2,13,1,6153213,1996803052,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,1,1,6153301,1996803050,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,2,1,6153302,1996803050,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,3,1,6153303,1996803051,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,4,2,,,220130101,220130102,,,,
+1310603,BlackLightning_Rerun Tower 3,5,1,6153305,1996803050,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,6,1,6153306,1996803050,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,7,1,6153307,1996803051,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,8,2,,,220130201,,,,,
+1310603,BlackLightning_Rerun Tower 3,9,1,6153309,1996803050,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,10,1,6153310,1996803050,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,11,1,6153311,1996803051,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,12,2,,,220130301,220130302,220130303,,,
+1310603,BlackLightning_Rerun Tower 3,13,1,6153313,1996803050,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,14,1,6153314,1996803050,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,15,1,6153315,1996803051,,,,2,2,Battle_Hephaestus_1
+1310603,BlackLightning_Rerun Tower 3,16,2,,,220130401,,,,,
+1310603,BlackLightning_Rerun Tower 3,17,1,6153317,1996803052,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,1,1,6152101,1999003050,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,2,1,6152102,1999003050,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,3,1,6152103,1999003051,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,4,2,,,220110101,220110102,220110103,,,
+1320601,SupergirlDCU Tower 1,5,1,6152105,1999003050,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,6,1,6152106,1999003050,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,7,1,6152107,1999003051,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,8,2,,,220110201,220110202,220110203,,,
+1320601,SupergirlDCU Tower 1,9,1,6152109,1999003050,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,10,1,6152110,1999003050,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,11,1,6152111,1999003051,,,,2,2,Battle_Hephaestus_1
+1320601,SupergirlDCU Tower 1,12,2,,,220110301,220110302,220110303,,,
+1320601,SupergirlDCU Tower 1,13,1,6152113,1999003052,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,1,1,6152201,1999003050,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,2,1,6152202,1999003050,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,3,1,6152203,1999003051,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,4,2,,,220120101,220120102,220120103,,,
+1320602,SupergirlDCU Tower 2,5,1,6152205,1999003050,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,6,1,6152206,1999003050,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,7,1,6152207,1999003051,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,8,2,,,220120201,220120202,220120203,,,
+1320602,SupergirlDCU Tower 2,9,1,6152209,1999003050,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,10,1,6152210,1999003050,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,11,1,6152211,1999003051,,,,2,2,Battle_Hephaestus_1
+1320602,SupergirlDCU Tower 2,12,2,,,220120301,220120302,220120303,,,
+1320602,SupergirlDCU Tower 2,13,1,6152213,1999003052,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,1,1,6152301,1999003050,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,2,1,6152302,1999003050,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,3,1,6152303,1999003051,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,4,2,,,220130101,220130102,,,,
+1320603,SupergirlDCU Tower 3,5,1,6152305,1999003050,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,6,1,6152306,1999003050,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,7,1,6152307,1999003051,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,8,2,,,220130201,,,,,
+1320603,SupergirlDCU Tower 3,9,1,6152309,1999003050,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,10,1,6152310,1999003050,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,11,1,6152311,1999003051,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,12,2,,,220130301,220130302,220130303,,,
+1320603,SupergirlDCU Tower 3,13,1,6152313,1999003050,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,14,1,6152314,1999003050,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,15,1,6152315,1999003051,,,,2,2,Battle_Hephaestus_1
+1320603,SupergirlDCU Tower 3,16,2,,,220130401,,,,,
+1320603,SupergirlDCU Tower 3,17,1,6152317,1999003052,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,1,1,6153101,1970003050,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,2,1,6153102,1970003050,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,3,1,6153103,1970003051,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,4,2,,,220110101,220110102,220110103,,,
+1330601,Lobo Rerun Tower 1,5,1,6153105,1970003050,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,6,1,6153106,1970003050,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,7,1,6153107,1970003051,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,8,2,,,220110201,220110202,220110203,,,
+1330601,Lobo Rerun Tower 1,9,1,6153109,1970003050,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,10,1,6153110,1970003050,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,11,1,6153111,1970003051,,,,2,2,Battle_Hephaestus_1
+1330601,Lobo Rerun Tower 1,12,2,,,220110301,220110302,220110303,,,
+1330601,Lobo Rerun Tower 1,13,1,6153113,1970003052,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,1,1,6153201,1970003050,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,2,1,6153202,1970003050,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,3,1,6153203,1970003051,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,4,2,,,220120101,220120102,220120103,,,
+1330602,Lobo Rerun Tower 2,5,1,6153205,1970003050,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,6,1,6153206,1970003050,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,7,1,6153207,1970003051,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,8,2,,,220120201,220120202,220120203,,,
+1330602,Lobo Rerun Tower 2,9,1,6153209,1970003050,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,10,1,6153210,1970003050,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,11,1,6153211,1970003051,,,,2,2,Battle_Hephaestus_1
+1330602,Lobo Rerun Tower 2,12,2,,,220120301,220120302,220120303,,,
+1330602,Lobo Rerun Tower 2,13,1,6153213,1970003052,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,1,1,6153301,1970003050,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,2,1,6153302,1970003050,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,3,1,6153303,1970003051,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,4,2,,,220130101,220130102,,,,
+1330603,Lobo Rerun Tower 3,5,1,6153305,1970003050,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,6,1,6153306,1970003050,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,7,1,6153307,1970003051,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,8,2,,,220130201,,,,,
+1330603,Lobo Rerun Tower 3,9,1,6153309,1970003050,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,10,1,6153310,1970003050,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,11,1,6153311,1970003051,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,12,2,,,220130301,220130302,220130303,,,
+1330603,Lobo Rerun Tower 3,13,1,6153313,1970003050,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,14,1,6153314,1970003050,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,15,1,6153315,1970003051,,,,2,2,Battle_Hephaestus_1
+1330603,Lobo Rerun Tower 3,16,2,,,220130401,,,,,
+1330603,Lobo Rerun Tower 3,17,1,6153317,1970003052,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,1,1,6153101,1100003050,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,2,1,6153102,1100003050,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,3,1,6153103,1100003051,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,4,2,,,220110101,220110102,220110103,,,
+1340601,Absolute Wonder Woman Tower 1,5,1,6153105,1100003050,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,6,1,6153106,1100003050,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,7,1,6153107,1100003051,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,8,2,,,220110201,220110202,220110203,,,
+1340601,Absolute Wonder Woman Tower 1,9,1,6153109,1100003050,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,10,1,6153110,1100003050,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,11,1,6153111,1100003051,,,,2,2,Battle_Hephaestus_1
+1340601,Absolute Wonder Woman Tower 1,12,2,,,220110301,220110302,220110303,,,
+1340601,Absolute Wonder Woman Tower 1,13,1,6153113,1100003052,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,1,1,6153201,1100003050,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,2,1,6153202,1100003050,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,3,1,6153203,1100003051,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,4,2,,,220120101,220120102,220120103,,,
+1340602,Absolute Wonder Woman Tower 2,5,1,6153205,1100003050,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,6,1,6153206,1100003050,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,7,1,6153207,1100003051,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,8,2,,,220120201,220120202,220120203,,,
+1340602,Absolute Wonder Woman Tower 2,9,1,6153209,1100003050,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,10,1,6153210,1100003050,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,11,1,6153211,1100003051,,,,2,2,Battle_Hephaestus_1
+1340602,Absolute Wonder Woman Tower 2,12,2,,,220120301,220120302,220120303,,,
+1340602,Absolute Wonder Woman Tower 2,13,1,6153213,1100003052,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,1,1,6153301,1100003050,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,2,1,6153302,1100003050,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,3,1,6153303,1100003051,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,4,2,,,220130101,220130102,,,,
+1340603,Absolute Wonder Woman Tower 3,5,1,6153305,1100003050,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,6,1,6153306,1100003050,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,7,1,6153307,1100003051,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,8,2,,,220130201,,,,,
+1340603,Absolute Wonder Woman Tower 3,9,1,6153309,1100003050,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,10,1,6153310,1100003050,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,11,1,6153311,1100003051,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,12,2,,,220130301,220130302,220130303,,,
+1340603,Absolute Wonder Woman Tower 3,13,1,6153313,1100003050,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,14,1,6153314,1100003050,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,15,1,6153315,1100003051,,,,2,2,Battle_Hephaestus_1
+1340603,Absolute Wonder Woman Tower 3,16,2,,,220130401,,,,,
+1340603,Absolute Wonder Woman Tower 3,17,1,6153317,1100003053,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,1,1,6153101,1110003050,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,2,1,6153102,1110003050,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,3,1,6153103,1110003051,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,4,2,,,220110101,220110102,220110103,,,
+1350601,Absolute Superman Tower 1,5,1,6153105,1110003050,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,6,1,6153106,1110003050,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,7,1,6153107,1110003051,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,8,2,,,220110201,220110202,220110203,,,
+1350601,Absolute Superman Tower 1,9,1,6153109,1110003050,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,10,1,6153110,1110003050,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,11,1,6153111,1110003051,,,,2,2,Battle_Hephaestus_1
+1350601,Absolute Superman Tower 1,12,2,,,220110301,220110302,220110303,,,
+1350601,Absolute Superman Tower 1,13,1,6153113,1110003052,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,1,1,6153201,1110003050,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,2,1,6153202,1110003050,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,3,1,6153203,1110003051,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,4,2,,,220120101,220120102,220120103,,,
+1350602,Absolute Superman Tower 2,5,1,6153205,1110003050,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,6,1,6153206,1110003050,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,7,1,6153207,1110003051,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,8,2,,,220120201,220120202,220120203,,,
+1350602,Absolute Superman Tower 2,9,1,6153209,1110003050,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,10,1,6153210,1110003050,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,11,1,6153211,1110003051,,,,2,2,Battle_Hephaestus_1
+1350602,Absolute Superman Tower 2,12,2,,,220120301,220120302,220120303,,,
+1350602,Absolute Superman Tower 2,13,1,6153213,1110003052,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,1,1,6153301,1110003050,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,2,1,6153302,1110003050,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,3,1,6153303,1110003051,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,4,2,,,220130101,220130102,,,,
+1350603,Absolute Superman Tower 3,5,1,6153305,1110003050,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,6,1,6153306,1110003050,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,7,1,6153307,1110003051,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,8,2,,,220130201,,,,,
+1350603,Absolute Superman Tower 3,9,1,6153309,1110003050,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,10,1,6153310,1110003050,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,11,1,6153311,1110003051,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,12,2,,,220130301,220130302,220130303,,,
+1350603,Absolute Superman Tower 3,13,1,6153313,1110003050,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,14,1,6153314,1110003050,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,15,1,6153315,1110003051,,,,2,2,Battle_Hephaestus_1
+1350603,Absolute Superman Tower 3,16,2,,,220130401,,,,,
+1350603,Absolute Superman Tower 3,17,1,6153317,1110003053,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,1,1,6153101,1120003050,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,2,1,6153102,1120003050,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,3,1,6153103,1120003051,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,4,2,,,220110101,220110102,220110103,,,
+1370601,Absolute Batman Tower 1,5,1,6153105,1120003050,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,6,1,6153106,1120003050,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,7,1,6153107,1120003051,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,8,2,,,220110201,220110202,220110203,,,
+1370601,Absolute Batman Tower 1,9,1,6153109,1120003050,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,10,1,6153110,1120003050,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,11,1,6153111,1120003051,,,,2,2,Battle_Hephaestus_1
+1370601,Absolute Batman Tower 1,12,2,,,220110301,220110302,220110303,,,
+1370601,Absolute Batman Tower 1,13,1,6153113,1120003052,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,1,1,6153201,1120003050,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,2,1,6153202,1120003050,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,3,1,6153203,1120003051,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,4,2,,,220120101,220120102,220120103,,,
+1370602,Absolute Batman Tower 2,5,1,6153205,1120003050,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,6,1,6153206,1120003050,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,7,1,6153207,1120003051,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,8,2,,,220120201,220120202,220120203,,,
+1370602,Absolute Batman Tower 2,9,1,6153209,1120003050,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,10,1,6153210,1120003050,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,11,1,6153211,1120003051,,,,2,2,Battle_Hephaestus_1
+1370602,Absolute Batman Tower 2,12,2,,,220120301,220120302,220120303,,,
+1370602,Absolute Batman Tower 2,13,1,6153213,1120003052,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,1,1,6153301,1120003050,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,2,1,6153302,1120003050,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,3,1,6153303,1120003051,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,4,2,,,220130101,220130102,,,,
+1370603,Absolute Batman Tower 3,5,1,6153305,1120003050,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,6,1,6153306,1120003050,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,7,1,6153307,1120003051,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,8,2,,,220130201,,,,,
+1370603,Absolute Batman Tower 3,9,1,6153309,1120003050,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,10,1,6153310,1120003050,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,11,1,6153311,1120003051,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,12,2,,,220130301,220130302,220130303,,,
+1370603,Absolute Batman Tower 3,13,1,6153313,1120003050,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,14,1,6153314,1120003050,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,15,1,6153315,1120003051,,,,2,2,Battle_Hephaestus_1
+1370603,Absolute Batman Tower 3,16,2,,,220130401,,,,,
+1370603,Absolute Batman Tower 3,17,1,6153317,1120003053,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,1,1,6153101,1300003050,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,2,1,6153102,1300003050,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,3,1,6153103,1300003051,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,4,2,,,220110101,220110102,220110103,,,
+1380601,Booster Gold Tower 1,5,1,6153105,1300003050,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,6,1,6153106,1300003050,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,7,1,6153107,1300003051,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,8,2,,,220110201,220110202,220110203,,,
+1380601,Booster Gold Tower 1,9,1,6153109,1300003050,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,10,1,6153110,1300003050,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,11,1,6153111,1300003051,,,,2,2,Battle_Hephaestus_1
+1380601,Booster Gold Tower 1,12,2,,,220110301,220110302,220110303,,,
+1380601,Booster Gold Tower 1,13,1,6153113,1300003052,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,1,1,6153201,1300003050,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,2,1,6153202,1300003050,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,3,1,6153203,1300003051,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,4,2,,,220120101,220120102,220120103,,,
+1380602,Booster Gold Tower 2,5,1,6153205,1300003050,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,6,1,6153206,1300003050,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,7,1,6153207,1300003051,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,8,2,,,220120201,220120202,220120203,,,
+1380602,Booster Gold Tower 2,9,1,6153209,1300003050,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,10,1,6153210,1300003050,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,11,1,6153211,1300003051,,,,2,2,Battle_Hephaestus_1
+1380602,Booster Gold Tower 2,12,2,,,220120301,220120302,220120303,,,
+1380602,Booster Gold Tower 2,13,1,6153213,1300003052,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,1,1,6153301,1300003050,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,2,1,6153302,1300003050,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,3,1,6153303,1300003051,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,4,2,,,220130101,220130102,,,,
+1380603,Booster Gold Tower 3,5,1,6153305,1300003050,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,6,1,6153306,1300003050,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,7,1,6153307,1300003051,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,8,2,,,220130201,,,,,
+1380603,Booster Gold Tower 3,9,1,6153309,1300003050,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,10,1,6153310,1300003050,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,11,1,6153311,1300003051,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,12,2,,,220130301,220130302,220130303,,,
+1380603,Booster Gold Tower 3,13,1,6153313,1300003050,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,14,1,6153314,1300003050,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,15,1,6153315,1300003051,,,,2,2,Battle_Hephaestus_1
+1380603,Booster Gold Tower 3,16,2,,,220130401,,,,,
+1380603,Booster Gold Tower 3,17,1,6153317,1300003053,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,1,1,6153101,1310003050,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,2,1,6153102,1310003050,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,3,1,6153103,1310003051,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,4,2,,,220110101,220110102,220110103,,,
+1390601,Black Lightning Tower 1,5,1,6153105,1310003050,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,6,1,6153106,1310003050,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,7,1,6153107,1310003051,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,8,2,,,220110201,220110202,220110203,,,
+1390601,Black Lightning Tower 1,9,1,6153109,1310003050,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,10,1,6153110,1310003050,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,11,1,6153111,1310003051,,,,2,2,Battle_Hephaestus_1
+1390601,Black Lightning Tower 1,12,2,,,220110301,220110302,220110303,,,
+1390601,Black Lightning Tower 1,13,1,6153113,1310003052,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,1,1,6153201,1310003050,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,2,1,6153202,1310003050,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,3,1,6153203,1310003051,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,4,2,,,220120101,220120102,220120103,,,
+1390602,Black Lightning Tower 2,5,1,6153205,1310003050,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,6,1,6153206,1310003050,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,7,1,6153207,1310003051,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,8,2,,,220120201,220120202,220120203,,,
+1390602,Black Lightning Tower 2,9,1,6153209,1310003050,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,10,1,6153210,1310003050,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,11,1,6153211,1310003051,,,,2,2,Battle_Hephaestus_1
+1390602,Black Lightning Tower 2,12,2,,,220120301,220120302,220120303,,,
+1390602,Black Lightning Tower 2,13,1,6153213,1310003052,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,1,1,6153301,1310003050,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,2,1,6153302,1310003050,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,3,1,6153303,1310003051,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,4,2,,,220130101,220130102,,,,
+1390603,Black Lightning Tower 3,5,1,6153305,1310003050,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,6,1,6153306,1310003050,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,7,1,6153307,1310003051,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,8,2,,,220130201,,,,,
+1390603,Black Lightning Tower 3,9,1,6153309,1310003050,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,10,1,6153310,1310003050,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,11,1,6153311,1310003051,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,12,2,,,220130301,220130302,220130303,,,
+1390603,Black Lightning Tower 3,13,1,6153313,1310003050,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,14,1,6153314,1310003050,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,15,1,6153315,1310003051,,,,2,2,Battle_Hephaestus_1
+1390603,Black Lightning Tower 3,16,2,,,220130401,,,,,
+1390603,Black Lightning Tower 3,17,1,6153317,1310003053,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,1,1,6153101,1991403050,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,2,1,6153102,1991403050,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,3,1,6153103,1991403051,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,4,2,,,220110101,220110102,220110103,,,
+1400601,Black Adam Tower 1,5,1,6153105,1991403050,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,6,1,6153106,1991403050,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,7,1,6153107,1991403051,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,8,2,,,220110201,220110202,220110203,,,
+1400601,Black Adam Tower 1,9,1,6153109,1991403050,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,10,1,6153110,1991403050,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,11,1,6153111,1991403051,,,,2,2,Battle_Hephaestus_1
+1400601,Black Adam Tower 1,12,2,,,220110301,220110302,220110303,,,
+1400601,Black Adam Tower 1,13,1,6153113,1991403052,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,1,1,6153201,1991403050,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,2,1,6153202,1991403050,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,3,1,6153203,1991403051,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,4,2,,,220120101,220120102,220120103,,,
+1400602,Black Adam Tower 2,5,1,6153205,1991403050,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,6,1,6153206,1991403050,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,7,1,6153207,1991403051,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,8,2,,,220120201,220120202,220120203,,,
+1400602,Black Adam Tower 2,9,1,6153209,1991403050,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,10,1,6153210,1991403050,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,11,1,6153211,1991403051,,,,2,2,Battle_Hephaestus_1
+1400602,Black Adam Tower 2,12,2,,,220120301,220120302,220120303,,,
+1400602,Black Adam Tower 2,13,1,6153213,1991403052,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,1,1,6153301,1991403050,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,2,1,6153302,1991403050,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,3,1,6153303,1991403051,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,4,2,,,220130101,220130102,,,,
+1400603,Black Adam Tower 3,5,1,6153305,1991403050,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,6,1,6153306,1991403050,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,7,1,6153307,1991403051,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,8,2,,,220130201,,,,,
+1400603,Black Adam Tower 3,9,1,6153309,1991403050,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,10,1,6153310,1991403050,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,11,1,6153311,1991403051,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,12,2,,,220130301,220130302,220130303,,,
+1400603,Black Adam Tower 3,13,1,6153313,1991403050,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,14,1,6153314,1991403050,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,15,1,6153315,1991403051,,,,2,2,Battle_Hephaestus_1
+1400603,Black Adam Tower 3,16,2,,,220130401,,,,,
+1400603,Black Adam Tower 3,17,1,6153317,1991403053,,,,2,2,Battle_Hephaestus_1

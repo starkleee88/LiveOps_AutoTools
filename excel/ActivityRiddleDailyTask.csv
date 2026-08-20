@@ -1,0 +1,17 @@
+﻿ActivityID,Day,BatmanTalk,BatmanTalk,BatmanTalk
+Activity ID,Day,Batman Text,Batman Text,Batman Text
+int,string,string,string,string
+101,1,RiddleBubble_101_401,RiddleBubble_101_408,RiddleBubble_101_409
+101,2,RiddleBubble_101_402,RiddleBubble_101_409,RiddleBubble_101_410
+101,3,RiddleBubble_101_403,RiddleBubble_101_410,RiddleBubble_101_408
+101,4,RiddleBubble_101_404,RiddleBubble_101_408,RiddleBubble_101_409
+101,5,RiddleBubble_101_405,RiddleBubble_101_409,RiddleBubble_101_410
+101,6,RiddleBubble_101_406,RiddleBubble_101_410,RiddleBubble_101_408
+101,7,RiddleBubble_101_407,RiddleBubble_101_408,RiddleBubble_101_409
+102,1,RiddleBubble_101_401,RiddleBubble_101_408,RiddleBubble_101_409
+102,2,RiddleBubble_101_402,RiddleBubble_101_409,RiddleBubble_101_410
+102,3,RiddleBubble_101_403,RiddleBubble_101_410,RiddleBubble_101_408
+102,4,RiddleBubble_101_404,RiddleBubble_101_408,RiddleBubble_101_409
+102,5,RiddleBubble_101_405,RiddleBubble_101_409,RiddleBubble_101_410
+102,6,RiddleBubble_101_406,RiddleBubble_101_410,RiddleBubble_101_408
+102,7,RiddleBubble_101_407,RiddleBubble_101_408,RiddleBubble_101_409

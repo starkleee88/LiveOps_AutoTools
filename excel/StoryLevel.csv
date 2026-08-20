@@ -1,0 +1,24 @@
+﻿ID,ChapterId,LevelOrder,NotOpen,DelayTime,Reward,LocalizationName,LocalizationDesc,ConfigID,ModelName,ModelAngle,CameraPosZ,CameraPosX,DefaultShow,Animator,AnimationGroup,AnimationShowPath,BGM
+Level ID = chapter number * 1000 + number of level X,chapter,Level Number,Is it not enabled yet?,"Delayed opening time
+After clearing the previous level, the next level can be unlocked after +n days (UTC time)",Level Rewards,Level Name,Level Description,"Configuration ID
+Corresponds to the last 1/2 digits of the script file name
+For example: StoryMode01 --- 1",Character model name,Display Angle,Camera Z axis = Camera_Position_Z * 100,Camera X axis = Camera_Position_Z * 100,"Default action
+State name in Hero_common_Show_Animator state machine",The name of the state machine,Animation Group,"Click to play action
+The state name in the Hero_common_Show_Animator state machine (indirectly read from the AllyCharacter table)","BGM
+State name in Hero_common_Show_Animator state machine (read indirectly from AllyCharacter table)"
+index,int,int,int,int,int,string,string,int,string,int,int,int,string,string,int,string,string
+1001,1,1,,1,19050107,Story_01_Level_01,Story_01_Level_01_Des,1,Hero_S_903_Story,342,1273,-95,Relax,Story_Common_Animator,1,StandRelax,BGM_Zone_GA_01
+1002,1,2,,1,19050102,Story_01_Level_02,Story_01_Level_02_Des,2,Hero_S_903_Story,310,1273,-95,StandTalk,Story_Common_Animator,1,StandTalk,BGM_Zone_GA_02
+1003,1,3,,1,19050103,Story_01_Level_03,Story_01_Level_03_Des,3,Hero_S_904,342,1273,-95,StandTalk,Story_Common_Animator,1,StandTalk,BGM_Zone_GA_03
+1004,1,4,,1,19050104,Story_01_Level_04,Story_01_Level_04_Des,4,Hero_S_119S,342,1273,-95,Relax,Story_Common_Animator,1,StandRelax,BGM_Zone_GA_04
+1005,1,5,,1,19050105,Story_01_Level_05,Story_01_Level_05_Des,5,Hero_S_119S,342,1273,-95,StandTalk,Story_Common_Animator,1,StandTalk,BGM_Zone_GA_05
+1006,1,6,,1,19050106,Story_01_Level_06,Story_01_Level_06_Des,6,Hero_S_119S,260,1273,-95,IdleLoop,Story_Common_Animator,2,StandIdle,BGM_Zone_GA_06
+3001,3,1,,1,19060101,Story_03_Level_01,Story_03_Level_01_Des,7,Hero_S_15103005,352,1273,-77,Relax,Story_Common_Animator,3,StandRelax,BGM_Zone_WW_01
+3002,3,2,,1,19060102,Story_03_Level_02,Story_03_Level_02_Des,8,Hero_S_15103005,348,1273,-77,IdleLoop,Story_Common_Animator,4,StandIdle,BGM_Zone_WW_01
+3003,3,3,,1,19060103,Story_03_Level_03,Story_03_Level_03_Des,9,Hero_S_15103005,352,1273,-77,StandTalk,Story_Common_Animator,5,StandTalk,BGM_Zone_WW_01
+3004,3,4,,1,19060104,Story_03_Level_04,Story_03_Level_04_Des,10,Hero_S_15103005,352,1273,-77,AlertTalkShow,Story_Common_Animator,6,StandTalk,BGM_Zone_WW_02
+3005,3,5,,1,19060105,Story_03_Level_05,Story_03_Level_05_Des,11,Hero_S_15103005,352,1273,-77,Relax,Story_Common_Animator,3,StandRelax,BGM_Zone_WW_02
+4001,4,1,,1,19060107,Story_04_Level_01,Story_04_Level_01_Des,12,Npc_S_1511351,6,1273,-93,StandTalk,Story_Common_Animator,7,StandTalk,BGM_Zone_Cyborg_01
+4002,4,2,,1,19060108,Story_04_Level_02,Story_04_Level_02_Des,13,Npc_S_1511351,6,1273,-93,StandTalk,Story_Common_Animator,7,StandTalk,BGM_Zone_Cyborg_02
+4003,4,3,,1,19060109,Story_04_Level_03,Story_04_Level_03_Des,14,Hero_S_113,6,1273,-93,StandTalk,Story_Common_Animator,8,StandTalk,BGM_Zone_Cyborg_01
+4004,4,4,,1,19060110,Story_04_Level_04,Story_04_Level_04_Des,15,Hero_S_113,6,1273,-93,StandRelax,Story_Common_Animator,8,StandRelax,BGM_Zone_Cyborg_01

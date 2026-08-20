@@ -1,0 +1,8 @@
+﻿ID,ShopId,Open,GainItem,GeneralGain,PayNum,O,Pic,SkuId
+ID,Store ID,Recharge Switch,Obtain Item,Regular Quantity Obtained,Actual Tier,Tier Remarks,Tier Image,SKU ID from RechargeSKU.csv
+index,int,int,int,int,int,O,string,string
+1,10001,1,111231,60,100099,6,Recharge_LobbySkin_2,decoration1
+2,10001,1,111231,120,100199,12,Recharge_LobbySkin_3,decoration2
+3,10001,1,111231,300,100499,30,Recharge_LobbySkin_4,decoration5
+4,10001,1,111231,680,100999,68,Recharge_LobbySkin_5,decoration10
+5,10001,1,111231,1980,102999,198,Recharge_LobbySkin_6,decoration30

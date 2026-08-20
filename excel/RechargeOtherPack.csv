@@ -1,0 +1,14 @@
+﻿ID,O,O,Number,PriceType,PayNum,RewardID,LocalKey,LocalKey2,SkuId
+"Product ID  
+Tianxing:  
+ID configuration uses store sub-tab + 1XXX configuration, be careful not to use duplicate IDs",Remarks,Remarks,"Purchase Limit  
+Tianxing:  
+Number of times the item can be purchased. Enter -1 or leave blank for no limit.","Price Unit  
+Tianxing:  
+1 indicates the actual payment currency unit, with the price displayed according to the configured PayID; 2 indicates diamonds; 3 indicates a free gift pack.","PayNum  
+User:  
+Keep consistent with the RechargeSDK table, read the payNum field; for diamonds, directly write the number of diamonds.","Reward ID  
+Tianxing:  
+Mapped to the RechargePackReward table.",Gift Pack Title,Gift Pack Icon,SKU ID from RechargeSKU.csv
+index,O,O,int,int,int,int,string,string,string
+1800101,Upgrade BP Event Gift Pack,198 CNY,5,1,101999,1800101,AllyActivity_PackDes,ui__libao_UpA004,characterupgrade20

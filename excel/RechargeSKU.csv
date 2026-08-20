@@ -1,0 +1,234 @@
+﻿SkuId,O,PricePoint,O,SkuGoogle,SkuApple
+"Unique cross-platform SKU name. Reference this value from individual IAP elements in their respective features.
+
+Typically the type of SKU without the package name attached","Dollar Value, for reference only.","Price Point ID from RechargePricePoint.csv, determines the cost to the player in our UI. NOT in the native stores.","Store Display / Email Description (For Release Submission, must be manually entered in the Publishing worksheets) | 商店内的名称\邮件描述(发行提交用)","Google Play Product SKU ID.
+MUST start with com.wb.goog.dc.dcwc.","Apple Product SKU ID.
+MUST start with com.wb.dc.dcwc"
+string,O,int,O,string,string
+newplayer1,$0.99 ,100099,Mini New Player Pack,com.wb.goog.dc.dcwc.newplayer1,com.wb.dc.dcwc.newplayer1
+newplayer2,$1.99 ,100199,Small New Player Pack,com.wb.goog.dc.dcwc.newplayer2,com.wb.dc.dcwc.newplayer2
+newplayer3,$2.99 ,100299,Little New Player Pack,com.wb.goog.dc.dcwc.newplayer3,com.wb.dc.dcwc.newplayer3
+newplayer4,$3.99 ,100399,Basic New Player Pack,com.wb.goog.dc.dcwc.newplayer4,com.wb.dc.dcwc.newplayer4
+newplayer5,$4.99 ,100499,Medium New Player Pack,com.wb.goog.dc.dcwc.newplayer5,com.wb.dc.dcwc.newplayer5
+newplayer8,$7.99 ,100799,Light New Player Pack,com.wb.goog.dc.dcwc.newplayer8,com.wb.dc.dcwc.newplayer8
+newplayer10,$9.99 ,100999,Large New Player Pack,com.wb.goog.dc.dcwc.newplayer10,com.wb.dc.dcwc.newplayer10
+newplayer15,$14.99 ,101499,Big New Player Pack,com.wb.goog.dc.dcwc.newplayer15,com.wb.dc.dcwc.newplayer15
+newplayer20,$19.99 ,101999,Mega New Player Pack,com.wb.goog.dc.dcwc.newplayer20,com.wb.dc.dcwc.newplayer20
+newplayer25,$24.99 ,102499,Solid New Player Pack,com.wb.goog.dc.dcwc.newplayer25,com.wb.dc.dcwc.newplayer25
+newplayer30,$29.99 ,102999,Hefty New Player Pack,com.wb.goog.dc.dcwc.newplayer30,com.wb.dc.dcwc.newplayer30
+newplayer35,$34.99 ,103499,Huge New Player Pack,com.wb.goog.dc.dcwc.newplayer35,com.wb.dc.dcwc.newplayer35
+newplayer40,$39.99 ,103999,Ultra New Player Pack,com.wb.goog.dc.dcwc.newplayer40,com.wb.dc.dcwc.newplayer40
+newplayer45,$44.99 ,104499,Grand New Player Pack,com.wb.goog.dc.dcwc.newplayer45,com.wb.dc.dcwc.newplayer45
+newplayer50,$49.99 ,104999,Super New Player Pack,com.wb.goog.dc.dcwc.newplayer50,com.wb.dc.dcwc.newplayer50
+newplayer60,$59.99 ,105999,Hyper New Player Pack,com.wb.goog.dc.dcwc.newplayer60,com.wb.dc.dcwc.newplayer60
+newplayer70,$69.99 ,106999,Giant New Player Pack,com.wb.goog.dc.dcwc.newplayer70,com.wb.dc.dcwc.newplayer70
+newplayer80,$79.99 ,107999,Extreme New Player Pack,com.wb.goog.dc.dcwc.newplayer80,com.wb.dc.dcwc.newplayer80
+newplayer90,$89.99 ,108999,Mighty New Player Pack,com.wb.goog.dc.dcwc.newplayer90,com.wb.dc.dcwc.newplayer90
+newplayer100,$99.99 ,109999,Massive New Player Pack,com.wb.goog.dc.dcwc.newplayer100,com.wb.dc.dcwc.newplayer100
+newplayer200,$199.99 ,119999,Titan New Player Pack,com.wb.goog.dc.dcwc.newplayer200,com.wb.dc.dcwc.newplayer200
+progress1,$0.99 ,100099,Mini Progression Pack,com.wb.goog.dc.dcwc.progress1,com.wb.dc.dcwc.progress1
+progress2,$1.99 ,100199,Small Progression Pack,com.wb.goog.dc.dcwc.progress2,com.wb.dc.dcwc.progress2
+progress3,$2.99 ,100299,Little Progression Pack,com.wb.goog.dc.dcwc.progress3,com.wb.dc.dcwc.progress3
+progress4,$3.99 ,100399,Basic Progression Pack,com.wb.goog.dc.dcwc.progress4,com.wb.dc.dcwc.progress4
+progress5,$4.99 ,100499,Medium Progression Pack,com.wb.goog.dc.dcwc.progress5,com.wb.dc.dcwc.progress5
+progress8,$7.99 ,100799,Light Progression Pack,com.wb.goog.dc.dcwc.progress8,com.wb.dc.dcwc.progress8
+progress10,$9.99 ,100999,Large Progression Pack,com.wb.goog.dc.dcwc.progress10,com.wb.dc.dcwc.progress10
+progress15,$14.99 ,101499,Big Progression Pack,com.wb.goog.dc.dcwc.progress15,com.wb.dc.dcwc.progress15
+progress20,$19.99 ,101999,Mega Progression Pack,com.wb.goog.dc.dcwc.progress20,com.wb.dc.dcwc.progress20
+progress25,$24.99 ,102499,Solid Progression Pack,com.wb.goog.dc.dcwc.progress25,com.wb.dc.dcwc.progress25
+progress30,$29.99 ,102999,Hefty Progression Pack,com.wb.goog.dc.dcwc.progress30,com.wb.dc.dcwc.progress30
+progress35,$34.99 ,103499,Huge Progression Pack,com.wb.goog.dc.dcwc.progress35,com.wb.dc.dcwc.progress35
+progress40,$39.99 ,103999,Ultra Progression Pack,com.wb.goog.dc.dcwc.progress40,com.wb.dc.dcwc.progress40
+progress45,$44.99 ,104499,Grand Progression Pack,com.wb.goog.dc.dcwc.progress45,com.wb.dc.dcwc.progress45
+progress50,$49.99 ,104999,Super Progression Pack,com.wb.goog.dc.dcwc.progress50,com.wb.dc.dcwc.progress50
+progress60,$59.99 ,105999,Hyper Progress Pack,com.wb.goog.dc.dcwc.progress60,com.wb.dc.dcwc.progress60
+progress70,$69.99 ,106999,Giant Progress Pack,com.wb.goog.dc.dcwc.progress70,com.wb.dc.dcwc.progress70
+progress80,$79.99 ,107999,Extreme Progress Pack,com.wb.goog.dc.dcwc.progress80,com.wb.dc.dcwc.progress80
+progress90,$89.99 ,108999,Mighty Progress Pack,com.wb.goog.dc.dcwc.progress90,com.wb.dc.dcwc.progress90
+progress100,$99.99 ,109999,Massive Progression Pack,com.wb.goog.dc.dcwc.progress100,com.wb.dc.dcwc.progress100
+progress200,$199.99 ,119999,Titan Progression Pack,com.wb.goog.dc.dcwc.progress200,com.wb.dc.dcwc.progress200
+badge1,$0.99 ,100099,Mini Badge Pack,com.wb.goog.dc.dcwc.badge1,com.wb.dc.dcwc.badge1
+badge2,$1.99 ,100199,Small Badge Pack,com.wb.goog.dc.dcwc.badge2,com.wb.dc.dcwc.badge2
+badge3,$2.99 ,100299,Little Badge Pack,com.wb.goog.dc.dcwc.badge3,com.wb.dc.dcwc.badge3
+badge5,$4.99 ,100499,Medium Badge Pack,com.wb.goog.dc.dcwc.badge5,com.wb.dc.dcwc.badge5
+badge8,$7.99 ,100799,Light Badge Pack,com.wb.goog.dc.dcwc.badge8,com.wb.dc.dcwc.badge8
+badge10,$9.99 ,100999,Large Badge Pack,com.wb.goog.dc.dcwc.badge10,com.wb.dc.dcwc.badge10
+badge15,$14.99 ,101499,Big Badge Pack,com.wb.goog.dc.dcwc.badge15,com.wb.dc.dcwc.badge15
+badge20,$19.99 ,101999,Mega Badge Pack,com.wb.goog.dc.dcwc.badge20,com.wb.dc.dcwc.badge20
+badge25,$24.99 ,102499,Solid Badge Pack,com.wb.goog.dc.dcwc.badge25,com.wb.dc.dcwc.badge25
+badge50,$49.99 ,104999,Super Badge Pack,com.wb.goog.dc.dcwc.badge50,com.wb.dc.dcwc.badge50
+badge60,$59.99 ,105999,Hyper Badge Pack,com.wb.goog.dc.dcwc.badge60,com.wb.dc.dcwc.badge60
+badge70,$69.99 ,106999,Giant Badge Pack,com.wb.goog.dc.dcwc.badge70,com.wb.dc.dcwc.badge70
+badge80,$79.99 ,107999,Extreme Badge Pack,com.wb.goog.dc.dcwc.badge80,com.wb.dc.dcwc.badge80
+badge90,$89.99 ,108999,Mighty Badge Pack,com.wb.goog.dc.dcwc.badge90,com.wb.dc.dcwc.badge90
+badge100,$99.99 ,109999,Massive Badge Pack,com.wb.goog.dc.dcwc.badge100,com.wb.dc.dcwc.badge100
+badge200,$199.99 ,119999,Titan Badge Pack,com.wb.goog.dc.dcwc.badge200,com.wb.dc.dcwc.badge200
+artifact1,$0.99 ,100099,Mini Artifact Pack,com.wb.goog.dc.dcwc.artifact1,com.wb.dc.dcwc.artifact1
+artifact2,$1.99 ,100199,Small Artifact Pack,com.wb.goog.dc.dcwc.artifact2,com.wb.dc.dcwc.artifact2
+artifact3,$2.99 ,100299,Little Artifact Pack,com.wb.goog.dc.dcwc.artifact3,com.wb.dc.dcwc.artifact3
+artifact5,$4.99 ,100499,Medium Artifact Pack,com.wb.goog.dc.dcwc.artifact5,com.wb.dc.dcwc.artifact5
+artifact8,$7.99 ,100799,Light Artifact Pack,com.wb.goog.dc.dcwc.artifact8,com.wb.dc.dcwc.artifact8
+artifact10,$9.99 ,100999,Large Artifact Pack,com.wb.goog.dc.dcwc.artifact10,com.wb.dc.dcwc.artifact10
+artifact15,$14.99 ,101499,Big Artifact Pack,com.wb.goog.dc.dcwc.artifact15,com.wb.dc.dcwc.artifact15
+artifact20,$19.99 ,101999,Mega Artifact Pack,com.wb.goog.dc.dcwc.artifact20,com.wb.dc.dcwc.artifact20
+artifact25,$24.99 ,102499,Solid Artifact Pack,com.wb.goog.dc.dcwc.artifact25,com.wb.dc.dcwc.artifact25
+artifact50,$49.99 ,104999,Super Artifact Pack,com.wb.goog.dc.dcwc.artifact50,com.wb.dc.dcwc.artifact50
+artifact60,$59.99 ,105999,Hyper Artifact Pack,com.wb.goog.dc.dcwc.artifact60,com.wb.dc.dcwc.artifact60
+artifact70,$69.99 ,106999,Giant Artifact Pack,com.wb.goog.dc.dcwc.artifact70,com.wb.dc.dcwc.artifact70
+artifact80,$79.99 ,107999,Extreme Artifact Pack,com.wb.goog.dc.dcwc.artifact80,com.wb.dc.dcwc.artifact80
+artifact90,$89.99 ,108999,Mighty Artifact Pack,com.wb.goog.dc.dcwc.artifact90,com.wb.dc.dcwc.artifact90
+artifact100,$99.99 ,109999,Massive Artifact Pack,com.wb.goog.dc.dcwc.artifact100,com.wb.dc.dcwc.artifact100
+artifact200,$199.99 ,119999,Titan Artifact Pack,com.wb.goog.dc.dcwc.artifact200,com.wb.dc.dcwc.artifact200
+motherbox1,$0.99 ,100099,Mini Motherbox Pack,com.wb.goog.dc.dcwc.motherbox1,com.wb.dc.dcwc.motherbox1
+motherbox2,$1.99 ,100199,Small Motherbox Pack,com.wb.goog.dc.dcwc.motherbox2,com.wb.dc.dcwc.motherbox2
+motherbox3,$2.99 ,100299,Little Motherbox Pack,com.wb.goog.dc.dcwc.motherbox3,com.wb.dc.dcwc.motherbox3
+motherbox5,$4.99 ,100499,Medium Motherbox Pack,com.wb.goog.dc.dcwc.motherbox5,com.wb.dc.dcwc.motherbox5
+motherbox8,$7.99 ,100799,Light Motherbox Pack,com.wb.goog.dc.dcwc.motherbox8,com.wb.dc.dcwc.motherbox8
+motherbox10,$9.99 ,100999,Large Motherbox Pack,com.wb.goog.dc.dcwc.motherbox10,com.wb.dc.dcwc.motherbox10
+motherbox15,$14.99 ,101499,Big Motherbox Pack,com.wb.goog.dc.dcwc.motherbox15,com.wb.dc.dcwc.motherbox15
+motherbox20,$19.99 ,101999,Mega Motherbox Pack,com.wb.goog.dc.dcwc.motherbox20,com.wb.dc.dcwc.motherbox20
+motherbox25,$24.99 ,102499,Solid Motherbox Pack,com.wb.goog.dc.dcwc.motherbox25,com.wb.dc.dcwc.motherbox25
+motherbox50,$49.99 ,104999,Super Motherbox Pack,com.wb.goog.dc.dcwc.motherbox50,com.wb.dc.dcwc.motherbox50
+motherbox60,$59.99 ,105999,Hyper Motherbox Pack,com.wb.goog.dc.dcwc.motherbox60,com.wb.dc.dcwc.motherbox60
+motherbox70,$69.99 ,106999,Giant Motherbox Pack,com.wb.goog.dc.dcwc.motherbox70,com.wb.dc.dcwc.motherbox70
+motherbox80,$79.99 ,107999,Extreme Motherbox Pack,com.wb.goog.dc.dcwc.motherbox80,com.wb.dc.dcwc.motherbox80
+motherbox90,$89.99 ,108999,Mighty Motherbox Pack,com.wb.goog.dc.dcwc.motherbox90,com.wb.dc.dcwc.motherbox90
+motherbox100,$99.99 ,109999,Massive Motherbox Pack,com.wb.goog.dc.dcwc.motherbox100,com.wb.dc.dcwc.motherbox100
+motherbox200,$199.99 ,119999,Titan Motherbox Pack,com.wb.goog.dc.dcwc.motherbox200,com.wb.dc.dcwc.motherbox200
+equipment1,$0.99 ,100099,Mini Equipment Pack,com.wb.goog.dc.dcwc.equipment1,com.wb.dc.dcwc.equipment1
+equipment2,$1.99 ,100199,Small Equipment Pack,com.wb.goog.dc.dcwc.equipment2,com.wb.dc.dcwc.equipment2
+equipment3,$2.99 ,100299,Little Equipment Pack,com.wb.goog.dc.dcwc.equipment3,com.wb.dc.dcwc.equipment3
+equipment5,$4.99 ,100499,Medium Equipment Pack,com.wb.goog.dc.dcwc.equipment5,com.wb.dc.dcwc.equipment5
+equipment8,$7.99 ,100799,Light Equipment Pack,com.wb.goog.dc.dcwc.equipment8,com.wb.dc.dcwc.equipment8
+equipment10,$9.99 ,100999,Large Equipment Pack,com.wb.goog.dc.dcwc.equipment10,com.wb.dc.dcwc.equipment10
+equipment15,$14.99 ,101499,Big Equipment Pack,com.wb.goog.dc.dcwc.equipment15,com.wb.dc.dcwc.equipment15
+equipment20,$19.99 ,101999,Mega Equipment Pack,com.wb.goog.dc.dcwc.equipment20,com.wb.dc.dcwc.equipment20
+equipment25,$24.99 ,102499,Solid Equipment Pack,com.wb.goog.dc.dcwc.equipment25,com.wb.dc.dcwc.equipment25
+equipment50,$49.99 ,104999,Super Equipment Pack,com.wb.goog.dc.dcwc.equipment50,com.wb.dc.dcwc.equipment50
+equipment60,$59.99 ,105999,Hyper Equipment Pack,com.wb.goog.dc.dcwc.equipment60,com.wb.dc.dcwc.equipment60
+equipment70,$69.99 ,106999,Giant Equipment Pack,com.wb.goog.dc.dcwc.equipment70,com.wb.dc.dcwc.equipment70
+equipment80,$79.99 ,107999,Extreme Equipment Pack,com.wb.goog.dc.dcwc.equipment80,com.wb.dc.dcwc.equipment80
+equipment90,$89.99 ,108999,Mighty Equipment Pack,com.wb.goog.dc.dcwc.equipment90,com.wb.dc.dcwc.equipment90
+equipment100,$99.99 ,109999,Massive Equipment Pack,com.wb.goog.dc.dcwc.equipment100,com.wb.dc.dcwc.equipment100
+equipment200,$199.99 ,119999,Titan Equipment Pack,com.wb.goog.dc.dcwc.equipment200,com.wb.dc.dcwc.equipment200
+battleassist1,$0.99 ,100099,Mini Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist1,com.wb.dc.dcwc.battleassist1
+battleassist2,$1.99 ,100199,Small Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist2,com.wb.dc.dcwc.battleassist2
+battleassist3,$2.99 ,100299,Little Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist3,com.wb.dc.dcwc.battleassist3
+battleassist5,$4.99 ,100499,Medium Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist5,com.wb.dc.dcwc.battleassist5
+battleassist8,$7.99 ,100799,Light Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist8,com.wb.dc.dcwc.battleassist8
+battleassist10,$9.99 ,100999,Large Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist10,com.wb.dc.dcwc.battleassist10
+battleassist15,$14.99 ,101499,Big Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist15,com.wb.dc.dcwc.battleassist15
+battleassist20,$19.99 ,101999,Mega Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist20,com.wb.dc.dcwc.battleassist20
+battleassist25,$24.99 ,102499,Solid Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist25,com.wb.dc.dcwc.battleassist25
+battleassist50,$49.99 ,104999,Super Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist50,com.wb.dc.dcwc.battleassist50
+battleassist60,$59.99 ,105999,Hyper Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist60,com.wb.dc.dcwc.battleassist60
+battleassist70,$69.99 ,106999,Giant Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist70,com.wb.dc.dcwc.battleassist70
+battleassist80,$79.99 ,107999,Extreme Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist80,com.wb.dc.dcwc.battleassist80
+battleassist90,$89.99 ,108999,Mighty Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist90,com.wb.dc.dcwc.battleassist90
+battleassist100,$99.99 ,109999,Massive Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist100,com.wb.dc.dcwc.battleassist100
+battleassist200,$199.99 ,119999,Titan Battle Assist Pack,com.wb.goog.dc.dcwc.battleassist200,com.wb.dc.dcwc.battleassist200
+reinforcement1,$0.99 ,100099,Mini Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement1,com.wb.dc.dcwc.reinforcement1
+reinforcement2,$1.99 ,100199,Small Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement2,com.wb.dc.dcwc.reinforcement2
+reinforcement3,$2.99 ,100299,Little Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement3,com.wb.dc.dcwc.reinforcement3
+reinforcement5,$4.99 ,100499,Medium Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement5,com.wb.dc.dcwc.reinforcement5
+reinforcement8,$7.99 ,100799,Light Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement8,com.wb.dc.dcwc.reinforcement8
+reinforcement10,$9.99 ,100999,Large Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement10,com.wb.dc.dcwc.reinforcement10
+reinforcement15,$14.99 ,101499,Big Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement15,com.wb.dc.dcwc.reinforcement15
+reinforcement20,$19.99 ,101999,Mega Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement20,com.wb.dc.dcwc.reinforcement20
+reinforcement25,$24.99 ,102499,Solid Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement25,com.wb.dc.dcwc.reinforcement25
+reinforcement50,$49.99 ,104999,Super Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement50,com.wb.dc.dcwc.reinforcement50
+reinforcement60,$59.99 ,105999,Hyper Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement60,com.wb.dc.dcwc.reinforcement60
+reinforcement70,$69.99 ,106999,Giant Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement70,com.wb.dc.dcwc.reinforcement70
+reinforcement80,$79.99 ,107999,Extreme Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement80,com.wb.dc.dcwc.reinforcement80
+reinforcement90,$89.99 ,108999,Mighty Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement90,com.wb.dc.dcwc.reinforcement90
+reinforcement100,$99.99 ,109999,Massive Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement100,com.wb.dc.dcwc.reinforcement100
+reinforcement200,$199.99 ,119999,Titan Reinforcement Pack,com.wb.goog.dc.dcwc.reinforcement200,com.wb.dc.dcwc.reinforcement200
+characterupgrade1,$0.99 ,100099,Mini Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade1,com.wb.dc.dcwc.characterupgrade1
+characterupgrade2,$1.99 ,100199,Small Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade2,com.wb.dc.dcwc.characterupgrade2
+characterupgrade3,$2.99 ,100299,Little Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade3,com.wb.dc.dcwc.characterupgrade3
+characterupgrade4,$3.99 ,100399,Basic Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade4,com.wb.dc.dcwc.characterupgrade4
+characterupgrade5,$4.99 ,100499,Medium Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade5,com.wb.dc.dcwc.characterupgrade5
+characterupgrade8,$7.99 ,100799,Light Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade8,com.wb.dc.dcwc.characterupgrade8
+characterupgrade10,$9.99 ,100999,Large Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade10,com.wb.dc.dcwc.characterupgrade10
+characterupgrade15,$14.99 ,101499,Big Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade15,com.wb.dc.dcwc.characterupgrade15
+characterupgrade20,$19.99 ,101999,Mega Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade20,com.wb.dc.dcwc.characterupgrade20
+characterupgrade25,$24.99 ,102499,Solid Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade25,com.wb.dc.dcwc.characterupgrade25
+characterupgrade30,$29.99 ,102999,Hefty Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade30,com.wb.dc.dcwc.characterupgrade30
+characterupgrade35,$34.99 ,103499,Huge Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade35,com.wb.dc.dcwc.characterupgrade35
+characterupgrade40,$39.99 ,103999,Ultra Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade40,com.wb.dc.dcwc.characterupgrade40
+characterupgrade45,$44.99 ,104499,Grand Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade45,com.wb.dc.dcwc.characterupgrade45
+characterupgrade50,$49.99 ,104999,Super Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade50,com.wb.dc.dcwc.characterupgrade50
+characterupgrade60,$59.99 ,105999,Hyper Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade60,com.wb.dc.dcwc.characterupgrade60
+characterupgrade70,$69.99 ,106999,Giant Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade70,com.wb.dc.dcwc.characterupgrade70
+characterupgrade80,$79.99 ,107999,Extreme Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade80,com.wb.dc.dcwc.characterupgrade80
+characterupgrade90,$89.99 ,108999,Mighty Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade90,com.wb.dc.dcwc.characterupgrade90
+characterupgrade100,$99.99 ,109999,Massive Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade100,com.wb.dc.dcwc.characterupgrade100
+characterupgrade200,$199.99 ,119999,Titan Character Upgrade Pack,com.wb.goog.dc.dcwc.characterupgrade200,com.wb.dc.dcwc.characterupgrade200
+diamond1,$0.99 ,100099,Mini Diamond Pack,com.wb.goog.dc.dcwc.diamond1,com.wb.dc.dcwc.diamond1
+diamond2,$1.99 ,100199,Small Diamond Pack,com.wb.goog.dc.dcwc.diamond2,com.wb.dc.dcwc.diamond2
+diamond3,$2.99 ,100299,Little Diamond Pack,com.wb.goog.dc.dcwc.diamond3,com.wb.dc.dcwc.diamond3
+diamond5,$4.99 ,100499,Medium Diamond Pack,com.wb.goog.dc.dcwc.diamond5,com.wb.dc.dcwc.diamond5
+diamond8,$7.99 ,100799,Light Diamond Pack,com.wb.goog.dc.dcwc.diamond8,com.wb.dc.dcwc.diamond8
+diamond10,$9.99 ,100999,Large Diamond Pack,com.wb.goog.dc.dcwc.diamond10,com.wb.dc.dcwc.diamond10
+diamond15,$14.99 ,101499,Big Diamond Pack,com.wb.goog.dc.dcwc.diamond15,com.wb.dc.dcwc.diamond15
+diamond20,$19.99 ,101999,Mega Diamond Pack,com.wb.goog.dc.dcwc.diamond20,com.wb.dc.dcwc.diamond20
+diamond25,$24.99 ,102499,Solid Diamond Pack,com.wb.goog.dc.dcwc.diamond25,com.wb.dc.dcwc.diamond25
+diamond50,$49.99 ,104999,Super Diamond Pack,com.wb.goog.dc.dcwc.diamond50,com.wb.dc.dcwc.diamond50
+diamond60,$59.99 ,105999,Hyper Diamond Pack,com.wb.goog.dc.dcwc.diamond60,com.wb.dc.dcwc.diamond60
+diamond70,$69.99 ,106999,Giant Diamond Pack,com.wb.goog.dc.dcwc.diamond70,com.wb.dc.dcwc.diamond70
+diamond80,$79.99 ,107999,Extreme Diamond Pack,com.wb.goog.dc.dcwc.diamond80,com.wb.dc.dcwc.diamond80
+diamond90,$89.99 ,108999,Mighty Diamond Pack,com.wb.goog.dc.dcwc.diamond90,com.wb.dc.dcwc.diamond90
+diamond100,$99.99 ,109999,Massive Diamond Pack,com.wb.goog.dc.dcwc.diamond100,com.wb.dc.dcwc.diamond100
+diamond200,$199.99 ,119999,Titan Diamond Pack,com.wb.goog.dc.dcwc.diamond200,com.wb.dc.dcwc.diamond200
+diamondcombo1,$0.99 ,100099,Mini Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo1,com.wb.dc.dcwc.diamondcombo1
+diamondcombo2,$1.99 ,100199,Small Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo2,com.wb.dc.dcwc.diamondcombo2
+diamondcombo3,$2.99 ,100299,Little Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo3,com.wb.dc.dcwc.diamondcombo3
+diamondcombo4,$3.99 ,100399,Basic Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo4,com.wb.dc.dcwc.diamondcombo4
+diamondcombo5,$4.99 ,100499,Medium Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo5,com.wb.dc.dcwc.diamondcombo5
+diamondcombo8,$7.99 ,100799,Light Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo8,com.wb.dc.dcwc.diamondcombo8
+diamondcombo10,$9.99 ,100999,Large Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo10,com.wb.dc.dcwc.diamondcombo10
+diamondcombo15,$14.99 ,101499,Big Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo15,com.wb.dc.dcwc.diamondcombo15
+diamondcombo20,$19.99 ,101999,Mega Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo20,com.wb.dc.dcwc.diamondcombo20
+diamondcombo25,$24.99 ,102499,Solid Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo25,com.wb.dc.dcwc.diamondcombo25
+diamondcombo30,$29.99 ,102999,Hefty Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo30,com.wb.dc.dcwc.diamondcombo30
+diamondcombo35,$34.99 ,103499,Huge Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo35,com.wb.dc.dcwc.diamondcombo35
+diamondcombo40,$39.99 ,103999,Ultra Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo40,com.wb.dc.dcwc.diamondcombo40
+diamondcombo45,$44.99 ,104499,Grand Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo45,com.wb.dc.dcwc.diamondcombo45
+diamondcombo50,$49.99 ,104999,Super Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo50,com.wb.dc.dcwc.diamondcombo50
+diamondcombo60,$59.99 ,105999,Hyper Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo60,com.wb.dc.dcwc.diamondcombo60
+diamondcombo70,$69.99 ,106999,Giant Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo70,com.wb.dc.dcwc.diamondcombo70
+diamondcombo80,$79.99 ,107999,Extreme Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo80,com.wb.dc.dcwc.diamondcombo80
+diamondcombo90,$89.99 ,108999,Mighty Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo90,com.wb.dc.dcwc.diamondcombo90
+diamondcombo100,$99.99 ,109999,Massive Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo100,com.wb.dc.dcwc.diamondcombo100
+diamondcombo200,$199.99 ,119999,Titan Diamond & Upgrade Pack,com.wb.goog.dc.dcwc.diamondcombo200,com.wb.dc.dcwc.diamondcombo200
+decoration1,$0.99 ,100099,Mini Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration1,com.wb.dc.dcwc.decoration1
+decoration2,$1.99 ,100199,Small Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration2,com.wb.dc.dcwc.decoration2
+decoration3,$2.99 ,100299,Little Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration3,com.wb.dc.dcwc.decoration3
+decoration4,$3.99 ,100399,Basic Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration4,com.wb.dc.dcwc.decoration4
+decoration5,$4.99 ,100499,Medium Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration5,com.wb.dc.dcwc.decoration5
+decoration8,$7.99 ,100799,Light Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration8,com.wb.dc.dcwc.decoration8
+decoration10,$9.99 ,100999,Large Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration10,com.wb.dc.dcwc.decoration10
+decoration15,$14.99 ,101499,Big Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration15,com.wb.dc.dcwc.decoration15
+decoration20,$19.99 ,101999,Mega Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration20,com.wb.dc.dcwc.decoration20
+decoration25,$24.99 ,102499,Solid Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration25,com.wb.dc.dcwc.decoration25
+decoration30,$29.99 ,102999,Hefty Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration30,com.wb.dc.dcwc.decoration30
+decoration35,$34.99 ,103499,Huge Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration35,com.wb.dc.dcwc.decoration35
+decoration40,$39.99 ,103999,Ultra Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration40,com.wb.dc.dcwc.decoration40
+decoration45,$44.99 ,104499,Grand Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration45,com.wb.dc.dcwc.decoration45
+decoration50,$49.99 ,104999,Super Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration50,com.wb.dc.dcwc.decoration50
+decoration60,$59.99 ,105999,Hyper Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration60,com.wb.dc.dcwc.decoration60
+decoration70,$69.99 ,106999,Giant Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration70,com.wb.dc.dcwc.decoration70
+decoration80,$79.99 ,107999,Extreme Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration80,com.wb.dc.dcwc.decoration80
+decoration90,$89.99 ,108999,Mighty Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration90,com.wb.dc.dcwc.decoration90
+decoration100,$99.99 ,109999,Massive Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration100,com.wb.dc.dcwc.decoration100
+decoration200,$199.99 ,119999,Titan Decoration Voucher Pack,com.wb.goog.dc.dcwc.decoration200,com.wb.dc.dcwc.decoration200
+growthfund10,$9.99 ,100999,Large Growth Fund,com.wb.goog.dc.dcwc.growthfund10,com.wb.dc.dcwc.growthfund10
+diamonddaily5,$4.99 ,100499,Monthly Drone,com.wb.goog.dc.dcwc.diamonddaily5,com.wb.dc.dcwc.diamonddaily5
+superdiamonddaily20,$19.99 ,101999,Super Monthly Card,com.wb.goog.dc.dcwc.superdiamonddaily20,com.wb.dc.dcwc.superdiamonddaily20
+monthlyupgrade10,$9.99 ,100999,Large Monthly Upgrade Items Pack,com.wb.goog.dc.dcwc.monthlyupgrade10,com.wb.dc.dcwc.monthlyupgrade10
+monthlyupgrade20,$19.99 ,101999,Mega Monthly Upgrade Items Pack,com.wb.goog.dc.dcwc.monthlyupgrade20,com.wb.dc.dcwc.monthlyupgrade20
+battlepass5,$4.99 ,100499,Battlepass Upgrade,com.wb.goog.dc.dcwc.battlepass5,com.wb.dc.dcwc.battlepass5
+battlepass15,$14.99 ,101499,Battlepass Purchase,com.wb.goog.dc.dcwc.battlepass15,com.wb.dc.dcwc.battlepass15
+battlepass20,$19.99 ,101999,Super Battlepass Purchase,com.wb.goog.dc.dcwc.battlepass20,com.wb.dc.dcwc.battlepass20
+superfan20,$19.99 ,101999,DC Superfan Pack - Epic,com.wb.goog.dc.dcwc.superfan20,com.wb.dc.dcwc.superfan20
+superfan30,$29.99 ,102999,DC Superfan Pack - Legendary,com.wb.goog.dc.dcwc.superfan30,com.wb.dc.dcwc.superfan30

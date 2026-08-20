@@ -1,0 +1,4 @@
+﻿AllyID,O,IsShow,IsCollect,WishAvailable,RelationShowLock
+Character ID,Name,Whether to display,Collectible,Can add wish,Whether to display in the bond category requirement list
+index,,int,int,int,int
+

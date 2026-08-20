@@ -1,0 +1,508 @@
+﻿JumpID,JumpType,O,Param,Param,Param,Param,Param,ReturnOrNot,O,JumpDesc,JumpBlockDesc,JumpTrigger
+ID,Jump type,Remark,Jump parameter 1,Jump parameter 2,Jump parameter 3,Jump parameter 4,Jump parameter 5,Whether to jump back to the original interface,Remark,Jump to description,Jump interception description,Is the jump effective?
+index,int,,int,int,int,int,int,int,,string,string,int
+101,1,Jump to the current main level level interface,,,,,,1,,Func_maoxiandiqiu,,1
+99101,1,Jump to the current main level level interface,,,,,,0,,Func_maoxiandiqiu,,1
+99003,1,[For prop source display] Limited time event,,,,,,0,,Func_xianshihuodong,,0
+103,2,Jump to the main interface of allies,,,,,,1,,Func_yingxiong,,1
+104,2,Jump to the interface of the first ally,,,,,,1,,Func_yingxiong,,1
+105,3,Jump to another world interface,,,,,,1,,Func_elseworld,,1
+99105,3,Jump to another world interface,,,,,,0,,Func_elseworld,,1
+106,4,Jump to resonance crystal interface,,,,,,1,,Func_gongmingshuijing,,1
+107,5,Jump to the arena interface,,,,,,1,,Func_warworld,,1
+99107,5,Jump to the arena interface,,,,,,0,,Func_warworld,,1
+108,6,[Shop]-Basic Shop,1,,,,,1,,Func_shangdian,,1
+99108,6,[Shop]-Basic Shop,1,,,,,0,,Func_shangdian,,1
+1601,6,[Shop]- Basic[Shop](4-21),1,1102,,,,1,,Func_shangdian,Func_unopen1,1
+991601,6,[Shop]- Basic[Shop](4-21),1,1102,,,,0,,Func_shangdian,Func_unopen1,1
+991607,6,[Shop]- Basic[Shop](4-21),1,1102,,,,0,,Func_shangdian,Func_unopen1,1
+991608,6,[Shop]- Basic[Shop](6-30),1,1103,,,,0,,Func_shangdian,Func_unopen1,1
+991609,6,[Shop]- Basic[Shop](9-30),1,1104,,,,0,,Func_shangdian,Func_unopen1,1
+991610,6,[Shop]- Basic[Shop](9-30),1,1104,,,,0,,Func_shangdian,Func_unopen1,1
+991611,6,[Shop]- Basic[Shop](9-30),1,1104,,,,0,,Func_shangdian,Func_unopen1,1
+991612,6,[Shop]- Basic[Shop](12-30),1,1105,,,,0,,Func_shangdian,Func_unopen1,1
+991615,6,[Shop]- Basic[Shop](17-30),1,1107,,,,0,,Func_shangdian,Func_unopen1,1
+1602,6,[Shop]- Basic[Shop](12-30),1,1105,,,,1,,Func_shangdian,Func_unopen1,1
+991602,6,[Shop]- Basic[Shop](12-30),1,1105,,,,0,,Func_shangdian,Func_unopen1,1
+1401,6,[Shop]- Different World[Shop](5-9),3,1701,,,,1,,shopname1701,Func_unopen1,1
+1606,6,[Shop]- Different World[Shop](5-9),3,1701,,,,1,,Func_yishijieshangdian,Func_unopen1,1
+991606,6,[Shop]- Different World[Shop](5-9),3,1701,,,,0,,Func_yishijieshangdian,Func_unopen1,1
+1605,6,[Shop]- War World[Shop](5-3),4,1801,,,,1,,Func_zhanzhengshijieshangdian,Func_unopen1,1
+1402,6,[Shop]- War World[Shop](5-3),4,1801,,,,1,,shopname1801,Func_unopen1,1
+991605,6,[Shop]- War World[Shop](5-3),4,1801,,,,0,,Func_zhanzhengshijieshangdian,Func_unopen1,1
+1604,6,[Shop]-Evil Comes to[Shop](3-6),5,1901,,,,1,,Func_xieejianglinshangdian,Func_unopen1,1
+1403,6,[Shop]-Evil Comes to[Shop](3-6),5,1901,,,,1,,shopname1901,Func_unopen1,1
+991604,6,[Shop]-Evil Comes to[Shop](3-6),5,1901,,,,0,,Func_xieejianglinshangdian,Func_unopen1,1
+1404,6,[Shop]-Infinite Duel Arena[Shop](11-15),11,4001,,,,1,,Func_juedoushishangdian,Func_unopen1,1
+991404,6,[Shop]-Infinite Duel Arena[Shop](11-15),11,4001,,,,0,,Func_juedoushishangdian,Func_unopen1,1
+1613,6,[Shop]- Guild[Shop](4-9),12,2003,,,,1,,shopname5001,Func_unopen1,1
+2201,6,[Shop]- Guild[Shop](4-9),12,2003,,,,1,,Func_GuildShop,Func_unopen1,1
+991613,6,[Shop]- Guild[Shop](4-9),12,2003,,,,0,,shopname5001,Func_unopen1,1
+991614,6,[Shop]-Lobby Skin[Shop](4-9),9,6001,,,,0,,shopname6001,Func_unopen1,1
+1620,6,[Store] - Collaborative combat store,13,5001,,,,1,,shopname7001,Func_unopen1,1
+1603,6,Jump to the store interface (equipment store),,,,,,1,,Func_zhuangbeishangdian,,1
+991603,6,Jump to the store interface (equipment store),,,,,,0,,Func_zhuangbeishangdian,,1
+109,7,Jump to chat channel,,,,,,1,,Func_liaotian,,1
+110,8,Jump to card drawing interface,,,,,,1,,AllyGachaName11,,1
+99110,8,Jump to card drawing interface,,,,,,0,,AllyGachaName11,,1
+1101,8,Jump to card pool specific tab - Goddess,31,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1102,8,Jump to card pool specific tab - Pandora,34,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1103,8,Jump to card pool specific tab - Doctor Fate,37,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1104,8,Jump to card pool specific tab - Double-faced Man,40,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1105,8,Jump to card pool specific tab - Cyborg,41,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1106,8,Jump to card pool specific tab - Superman,42,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1108,8,Jump to card pool specific tab - Deathstroke,44,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName13,,3
+1109,8,Jump to card pool specific tab - novice card pool,50,1,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName13,,1
+1110,8,Jump to card pool specific tab - Jessica,45,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1111,8,Jump to card pool specific tab - Sinestro,46,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1112,8,Jump to card pool specific tab - Raven,47,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1113,8,Jump to card pool specific tab - Martian Manhunter,48,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1114,8,Jump to card pool specific tab - Sinestro reopens,49,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1115,8,Jump to card pool specific tab - Star Sapphire,80,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1116,8,Jump to card pool specific tab - Hal Jordan,81,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1117,8,Jump to card pool specific tab - John,82,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1118,8,Jump to card pool specific tab - Kyle,83,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1119,8,Skip to Gacha - Mera,84,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1120,8,Skip to Gacha - Dr. Phosphorus,85,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1121,8,Skip to Gacha - Weasel,96,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1122,8,Skip to Gacha - The Bride,97,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1125,8,Skip to Gacha - Superman DCU,98,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111,9,Jump to the character fusion interface,,,,,,1,,AllyGachaExchange_title1,,0
+99111,9,Jump to the character fusion interface,,,,,,0,,AllyGachaExchange_title1,,0
+115,10,Jump to the first recharge interface,,,,,,1,,Func_shouchong,,1
+201,11,Jump to the lobby - central AFK area,,,,,,1,,HangupTips1,,1
+99201,11,Jump to the lobby - central AFK area,,,,,,0,,HangupTips1,,1
+300,12,Jump to tower climbing - main interface,,,,,,1,,Func_pata,,1
+99300,12,Jump to tower climbing - main interface,,,,,,0,,Func_pata,,1
+301,12,Jump to Tower Climb - Gotham 1 Overworld,1,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+302,12,Jump to Climbing Tower - Fawcett 1 Overworld,2,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+303,12,Jump to Climbing Tower - Metropolis 1 Overworld,3,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+304,12,Jump to Climbing Tower - Star City 1 Main World,4,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+305,12,Jump to Climbing Tower - Keystone 1 Overworld,5,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+306,12,Jump to Climbing Tower - Central City 1 Main World,6,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+307,12,Jump to Tower Climb - Gotham 2 Overworld,7,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+308,12,Jump to Tower Climb - Fawcett 2 Overworld,8,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+309,12,Jump to Tower Climb - Metropolis 2 Overworld,9,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+310,12,Jump to Climbing Tower - Star City 2 Main World,10,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+311,12,Jump to Climbing Tower - Keystone 2 Overworld,11,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+312,12,Jump to Tower Climb - Canterlot 2 Overworld,12,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+313,12,Jump to Climbing Tower - Keystone Earth-18,13,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+314,12,Jump to Climbing Tower - Star City Earth-1,14,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+315,12,Jump to Tower Climb - Gotham Earth-12,15,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+316,12,Jump to Tower Climb - Canterlot Earth-21,16,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+317,12,Jump to Tower Climbing - Fawcett Earth-13,17,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+318,12,Jump to Tower Climb - Metropolis Earth-4,18,,,,,1,Param1 corresponds to the Tower table ID,Func_pata,,1
+401,13,Jump to Exploration Dungeon - Freemasonry Interface,,,,,,1,,Func_CityExplore,,1
+99401,13,Jump to Exploration Dungeon - Freemasonry Interface,,,,,,0,,Func_CityExplore,,1
+402,13,Jump to the exploration instance - Gotham Police Department interface,,,,,,1,,Func_CityExplore,,1
+501,14,Jump to plot copy - main interface,,,,,,1,,Func_StoryMode,,1
+502,14,Jump to story instance - Green Arrow,1,,,,,1,Corresponds to StoryChapterID,Func_StoryMode,,1
+99502,14,Jump to story instance - Green Arrow,1,,,,,0,Corresponds to StoryChapterID,Func_StoryMode,,1
+503,14,Jump to plot copy - Wonder Woman,3,,,,,1,Corresponds to StoryChapterID,Func_StoryMode,,1
+504,14,Jump to plot copy - Cyborg,4,,,,,1,Corresponds to StoryChapterID,Func_StoryMode,,1
+112,15,Jump to album interface,,,,,,1,,Album_Name,,1
+99112,15,Jump to album interface,,,,,,0,,Album_Name,,1
+113,16,Jump to collection - main interface,,,,,,1,,Func_Collection,,1
+600,17,Jump to guild - main interface,,,,,,1,,Func_Guild,,1
+601,18,Jump to the corresponding subpage of the activity center,1001,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1000,18,Jump to activity center (default tab),,,,,,1,"If left blank, it will jump to the default first tab.",ActivityCenter,,1
+1001,18,Jump to the corresponding subpage of the activity center,1001,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1002,18,Jump to the corresponding subpage of the activity center,1002,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1003,18,Jump to the corresponding subpage of the activity center,1003,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1004,18,Jump to the corresponding subpage of the activity center,1004,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1005,18,Jump to the corresponding subpage of the activity center,1005,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1006,18,Jump to the corresponding subpage of the activity center,1006,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1007,18,Jump to the corresponding subpage of the activity center,1007,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1008,18,Jump to the corresponding subpage of the activity center,1008,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1009,18,Jump to the corresponding subpage of the activity center,1009,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1010,18,Jump to the corresponding subpage of the activity center,1010,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1011,18,Jump to the corresponding subpage of the activity center,1011,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1012,18,Jump to the corresponding subpage of the activity center,1012,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1013,18,Jump to the corresponding subpage of the activity center,1013,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1014,18,Jump to the corresponding subpage of the activity center,1014,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1015,18,Jump to the corresponding subpage of the activity center,1015,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1016,18,Jump to the corresponding subpage of the activity center,1016,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1017,18,Jump to the corresponding subpage of the activity center,1017,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1018,18,Jump to the corresponding subpage of the activity center,1018,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1019,18,Jump to the corresponding subpage of the activity center,1019,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1020,18,Jump to the corresponding subpage of the activity center,1020,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1021,18,Jump to the corresponding subpage of the activity center,7002,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+2101,18,Jump to the corresponding subpage of the activity center-Batman activity,101,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+602,19,Jump to Guild-Answer Interface,,,,,,1,,Func_Guild,,1
+603,20,Jump to Guild-Mercenary interface,,,,,,1,,GuildTitle3,,1
+604,21,Jump to Guild - Fragment Exchange Interface,,,,,,1,,GuildTitle4,,1
+701,22,Jump to digital space - main interface,,,,,,1,,Func_DigitalUniverse,,1
+99701,22,Jump to digital space - main interface,,,,,,0,,Func_DigitalUniverse,,1
+702,22,Jump to Digital Space - Level 1,,,,,,1,,DigitalUniverseChapterName1,,1
+703,22,Jump to Digital Space - Level 2,,,,,,1,,DigitalUniverseChapterName2,,1
+704,22,Jump to Digital Space - Level 3,,,,,,1,,DigitalUniverseChapterName3,,1
+705,22,Jump to Digital Space - Level 4,,,,,,1,,DigitalUniverseChapterName4,,1
+706,22,Jump to Digital Space - Level 5,,,,,,1,,DigitalUniverseChapterName5,,1
+800,23,Jump to Twisted Dream - Main Interface,,,,,,1,,Func_EvilFall,,1
+99800,23,Jump to Twisted Dream - Main Interface,,,,,,0,,Func_EvilFall,,1
+801,23,Jump to Twisted Dream - Boss1,1,,,,,1,BossId corresponding to the EvilBoss table,Func_EvilFall,,1
+802,23,Jump to Twisted Dream - Boss2,2,,,,,1,BossId corresponding to the EvilBoss table,Func_EvilFall,,1
+803,23,Jump to Twisted Dream - Boss3,3,,,,,1,BossId corresponding to the EvilBoss table,Func_EvilFall,,1
+900,24,Jump to trial book - main interface,,,,,,1,,Func_Trial,,1
+99900,24,Jump to trial book - main interface,,,,,,0,,Func_Trial,,1
+1201,25,[Mall]-Special Gift Pack-Goddess Gift Pack,4,9401,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1302,25,[Mall]-Special Gift Pack-Pandora,4,9402,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1303,25,[Mall]-Special Gift Pack-Dr. Destiny,4,9404,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1304,25,[Mall]-Special Gift Pack-Two-faced Man,4,9405,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1305,25,[Mall] - Special Gift Pack - Cyborg,4,9406,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1306,25,[Mall]-Special Gift Pack-Superman,4,9407,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1308,25,[Mall]-Special Gift Pack-Death Knell,4,9409,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1309,25,[Mall]-Special Gift Pack-Jessica,4,9410,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1310,25,[Mall]-Special Gift Pack-Sinestro,4,9411,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1311,25,[Mall]-Special Gift Pack-Ruiwen,4,9412,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1312,25,[Mall]-Special Gift Pack-Mars Manhunter,4,9413,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1313,25,[Mall]-Special Gift Pack-Sinestro reopens,4,9414,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1314,25,[Mall]-Special Gift Pack-Star Sapphire,4,9415,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1315,25,[Mall]-Special Gift Pack-Hal,4,9416,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1316,25,[Mall]-Special Gift Pack-John,4,9417,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1317,25,[Mall]-Special Gift Pack-Kyle,4,9418,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1318,25,[Shop] - Special Gift Pack - Mera,4,9419,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1319,25,[Shop] - Special Gift Pack - Dr. Phosphorus,4,9420,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1320,25,[Shop] - Special Gift Pack - The Weasel,4,9421,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1321,25,[Shop] - Special Gift Pack - The Bride,4,9422,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1391,25,[Mall]-Special Gift Packs-Christmas Gift Packs,4,9403,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1392,25,[Mall]-Special Gift Pack-Valentine's Day,4,9492,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1202,25,[Mall]-Monthly Card,2,9201,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,Func_unopen1,1
+1203,25,[Mall]-Newbie Gift Pack,1,9101,9601,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,Func_UnOpen,1
+1204,25,[Mall]-Growth Fund,3,9301,,,,1,,Func_fufeishangcheng,Func_UnOpen,1
+12052,25,[Mall]-Daily Gift Pack-Weekly Gift Pack,6,9502,,,,1,Functype corresponding to PayStoreSub table,Func_meizhoulibao,Func_unopen1,1
+9912052,25,[Mall]-Daily Gift Pack-Weekly Gift Pack,6,9502,,,,0,Functype corresponding to PayStoreSub table,Func_meizhoulibao,Func_unopen1,1
+1206,25,[Mall]-Recharge,11,9601,,,,1,,Func_chongzhi,Func_unopen1,1
+991206,25,[Mall]-Recharge,11,9601,,,,0,,Func_chongzhi,Func_unopen1,1
+1207,25,[Mall]-Seven days special offer,5,9701,,,,1,,Func_qiritehui,Func_unopen1,1
+991207,25,[Mall]-Seven days special offer,5,9701,,,,0,,Func_qiritehui,Func_unopen1,1
+80011,25,[Mall]-Special Gift Packs-Aircraft Collection,4,8001,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+80021,25,[Mall]-Special Gift Pack-Lex Armor,4,8002,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+80031,25,[Mall]-Special Gift Packs-General for subsequent use,4,8013,8014,8015,8021,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1211,25,[Mall]-Skin Coupon,12,10001,,,,1,,Func_pifuquan,Func_unopen1,1
+991211,25,[Mall]-Skin Coupon,12,10001,,,,0,,Func_pifuquan,Func_unopen1,1
+8001,18,Jump to the event page - Collection event - Airplane,8001,,,,,0,,ActivityCenter,,1
+8002,18,Jump to event page - Collection event-Lex Armor,8002,,,,,0,,ActivityCenter,,1
+8003,18,Jump to the event page - Collection event - Parallax Monster,8003,,,,,0,,ActivityCenter,,1
+8004,18,Jump to the event page - Collection event - Lamp stove,8010,8011,8012,8013,,0,,ActivityCenter,,1
+8006,18,Reinforcement Event - Haunted Tank,8006,,,,,0,,ActivityCenter,,1
+8008,18,Reinforcement Event - Energy Disruptor,8008,,,,,0,,ActivityCenter,,1
+8009,18,Reinforcement Event - Sethe,8009,,,,,0,,ActivityCenter,,1
+8021,18,Jump to the event page - Collection Event-XX,8021,,,,,0,,ActivityCenter,,1
+8022,18,Jump to the event page - Collection Event-XX,8022,,,,,1,,ActivityCenter,,1
+80211,42,Jump to the diamond purchase window within the event --- (the collection must change the event ID regularly),8021,,,,,0,,ActivityCollectionDiamond,,1
+80212,1,Limited time digital space--plain text,,,,,,0,,Func_xianshishuzikongjian,,0
+80012,40,Jump to the task pop-up window within the event - (collections must change the event ID regularly),8004,20,,,,0,,Func_Mission,,1
+202,26,Jump to the lobby - mini plot sofa area,,,,,,1,,Func_datingxiaceng,,1
+120,27,Jump to Hitchhiker's Guide,,,,,,1,,TaskNewPlayerTitle1,,1
+99120,27,Jump to Hitchhiker's Guide,,,,,,0,,TaskNewPlayerTitle1,,1
+130,30,Jump to the current difficulty book (troubleshooting),,,,,,1,,Func_guzhangpaicha,,1
+99130,30,Jump to the current difficulty book (troubleshooting),,,,,,0,,Func_guzhangpaicha,,1
+1501,31,Jump to security maintenance plan,,,,,,1,,BP1_Title BP,,1
+991501,31,Jump to security maintenance plan,,,,,,0,,BP1_Title BP,,1
+121,31,Jump to the Public Security Maintenance Plan-Daily tab,2,,,,,1,,BP1_Title BP,,1
+99121,31,Jump to the Public Security Maintenance Plan-Daily tab,2,,,,,0,,BP1_Title BP,,1
+135,32,Jump to archives,,,,,,1,,Func_danganguan,,1
+1502,33,Sign in seven days,,,,,,1,,Func_Checkin,,1
+137,34,Jump to the main crisis monitoring page,,,,,,1,,Func_CrisisWatch,,1
+99137,34,Jump to the main crisis monitoring page,,,,,,0,,Func_CrisisWatch,,1
+1701,35,Jump to room list,,,,,,1,,Func_Basement,,1
+991701,35,Jump to room list,,,,,,0,,Func_Basement,,1
+1801,36,Jump to dispatch interface,,,,,,1,,Func_Dispatch,,1
+991801,36,Jump to dispatch interface,,,,,,0,,Func_Dispatch,,1
+203,37,Jump to lobby - online rewards,,,,,,0,,Func_OnlineReward,,1
+991901,38,Jump to Deathstroke room,5,,,,,0,Room ID,Func_Dispatch,,1
+991902,38,Jump to Martian Manhunter room,8,,,,,0,Room ID,Func_Dispatch,,1
+3001,41,[S Combination Event]Boss Interface,5,,,,,1,,,,1
+3002,41,[S Combination Event]Store Interface,2,,,,,1,,,,1
+3003,41,[S Combination Activity]Tower Climbing Interface,6,,,,,1,,,,1
+9923100,43,Open the artifact-Number of diamond purchases,,,,,,1,,Func_zuanshigoumai,,1
+994401,44,Jump to artifact extraction,,,,,,0,,Func_Artifact,,1
+140,45,Jump to the main interface of collaborative operations,,,,,,1,,Func_SocialBoss,,1
+99140,45,Jump to the main interface of collaborative operations,,,,,,0,,Func_SocialBoss,,1
+7001,47,GVE Challenge Hub,,,,,,0,,Func_Gve,,1
+7002,48,GVE Area 1,,,,,,0,,Func_Gve,,1
+7003,49,GVE Area 2,,,,,,0,,Func_Gve,,1
+7004,50,GVE Area 3 (Boss),,,,,,0,,Func_Gve,,1
+1123,8,Skip to Gacha - Guy Gardner,87,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1322,25,[Shop] - Special Gift Pack - Guy Gardner,4,9423,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1124,8,Skip to Gacha - Mr. Terrific,88,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1323,25,[Shop] - Special Gift Pack - Mr. Terrific,4,9424,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1324,25,[Shop] - Special Gift Pack - Superman DCU,4,9425,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19493,25,[Store] - Weasel Special Offer,4,9493,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1126,8,Skip to Gacha - Judomaster,86,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1325,25,[Shop] - Special Gift Pack - Judomaster,4,9426,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1127,8,Skip to Gacha - Vigilante,89,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1326,25,[Shop] - Special Gift Pack - Vigilante,4,9427,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11102,8,Jump to card pool specific tab - Pandora - Rerun,1034,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11112,8,Jump to card pool specific tab - Raven - Rerun,1147,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1128,8,Skip to Gacha - Peacemaker,99,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1327,25,[Shop] - Special Gift Pack - Peacemaker,4,9428,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1328,25,[Store] - Guy Special Offer,4,9429,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1329,25,[Store] - Mr. Terrific Special Offer,4,9430,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1129,8,Skip to Gacha - Cheshire,102,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1330,25,[Shop] - Special Gift Pack - Cheshire,4,9431,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1130,8,Skip to Gacha - Doctor Poison,101,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1331,25,[Shop] - Special Gift Pack - Doctor Poison,4,9432,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1131,8,Skip to Gacha - Swamp Thing,103,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1132,8,Skip to Gacha - Wonder Woman,104,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1332,25,[Shop] - Special Gift Pack - Swamp Thing,4,9433,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1333,25,[Store] - Judomaster Special Offer,4,9434,,,,1,,Func_fufeishangcheng,COMMON_Ended,1
+1334,25,[Store] - Vigilante Special Offer,4,9435,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1335,25,[Store] - Cheshire Special Offer,4,9437,,,,1,,Func_fufeishangcheng,COMMON_Ended,1
+1022,18,Jump to the corresponding subpage of the activity center,7003,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+11114,8,Jump to card pool specific tab - Sinestro - Rerun,1049,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1133,8,Skip to Gacha - Aquaman,105,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1336,25,[Shop] - Special Gift Pack - Aquaman,4,9438,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1337,25,[Store] - Doctor Poison Special Offer,4,9439,,,,1,,Func_fufeishangcheng,COMMON_Ended,1
+11108,8,Skip to Gacha - Deathstroke Rerun,1044,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName13,,1
+11105,8,Skip to Gacha - Cyborg Rerun,1041,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName13,,1
+11318,25,[Store] - Mera Special Offer,4,9440,,,,1,,Func_fufeishangcheng,COMMON_Ended,1
+11305,25,[Store] - Cyborg Re-Run Store,4,9406,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1205,25,[Store]- Motherbox Store,6,9501,,,,1,Functype corresponding to PayStoreSub table,Func_MotherboxStoreJump,Func_unopen1,1
+991205,25,[Store]- Motherbox Store,6,9501,,,,0,Functype corresponding to PayStoreSub table,Func_MotherboxStoreJump,Func_unopen1,1
+1212,25,[Store] - Leveling Store,6,9503,,,,1,Functype corresponding to PayStoreSub table,Func_LevelingStoreJump,Func_unopen1,1
+991212,25,[Store] - Leveling Store,6,9503,,,,0,Functype corresponding to PayStoreSub table,Func_LevelingStoreJump,Func_unopen1,1
+1213,25,[Store] - Badge Store,6,9504,,,,1,Functype corresponding to PayStoreSub table,Func_BadgeStoreJump,Func_unopen1,1
+991213,25,[Store] - Badge Store,6,9504,,,,0,Functype corresponding to PayStoreSub table,Func_BadgeStoreJump,Func_unopen1,1
+1214,25,[Store] - Artifact Store,6,9505,,,,1,Functype corresponding to PayStoreSub table,Func_ArtifactStoreJump,Func_unopen1,1
+991214,25,[Store] - Artifact Store,6,9505,,,,0,Functype corresponding to PayStoreSub table,Func_ArtifactStoreJump,Func_unopen1,1
+1215,25,[Store] - Reinforcement & Gear Store,6,9506,,,,1,Functype corresponding to PayStoreSub table,Func_ReinforcementGearStoreJump,Func_unopen1,1
+991215,25,[Store] - Reinforcement & Gear Store,6,9506,,,,0,Functype corresponding to PayStoreSub table,Func_ReinforcementGearStoreJump,Func_unopen1,1
+11122,8,Skip to Gacha - The Bride Rerun,1097,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11119,8,Skip to Gacha - Mera Rerun,1084,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1338,25,[Store] - Energy Disruptor Special Offer,4,8008,,,,1,,Func_fufeishangcheng,COMMON_Ended,1
+11132,25,[Store] - Wonder Woman Offers,4,9494,,,,1,,Func_fufeishangcheng,COMMON_Ended,1
+1339,25,[Store] - Guy Gardner/Mr. Terrific Special Offer,4,9441,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1134,8,Gacha - Sinestro Legendary Event Re-Run,149,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1340,25,[Shop] - Sinestro Re-Run Event Store,4,9414,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1023,18,Jump to the corresponding subpage of the activity center,8010,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1393,25,[Shop] - Black Friday Deals,4,9495,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11125,8,Gacha - Superman DCU Re-Run,1098,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11324,25,[Shop] - Superman DCU Re-Run Store,4,9498,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1138,8,Skip to Gacha - General Zod,107,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1344,25,[Shop] - Special Gift Pack - General Zod,4,9446,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1107,8,Skip to Gacha - Killer Frost,43,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1307,25,[Shop] - Early Offer – Killer Frost,4,9447,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1341,25,[Store] - Killer Frost Offer,4,9443,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1024,18,Jump to the corresponding subpage of the activity center,8011,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1137,8,Skip to Gacha - Firestorm,106,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1343,25,[Shop] - Special Gift Pack – Firestorm,4,9444,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1342,25,[Store] - Firestorm Early Offer,4,9445,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1025,18,Jump to the corresponding subpage of the activity center Phantom Zone,8012,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1135,8,[Gacha] - Team Lanterns,150,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1136,25,[Store] - Team Lanterns,4,9442,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1394,25,[Shop] - Christmas Sales,4,9510,9514,9512,9513,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1043,8,Skip to Gacha - Supergirl,1043,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName21,,1
+9408,25,[Store] - Supergirl Re-Run Store,4,9408,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1395,25,[Shop] - New Year Offer,4,9523,9524,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1139,8,Skip to Gacha - Punchline,108,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1345,25,[Store] - Punchline Early Offer,4,9449,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1346,25,[Shop] - Special Gift Pack – Punchline,4,9448,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1140,8,Skip to Gacha - Hugo Strange,109,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1349,25,[Store] - Hugo Strange Early Offer,4,9451,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1350,25,[Shop] - Special Gift Pack – Hugo Strange,4,9450,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1045,8,Skip to Gacha - Superman,1045,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName21,,1
+9407,25,[Store] - Superman Re-Run Store,4,9407,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1347,8,Skip to Gacha - The Joker,110,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1348,25,[Shop] - Special Gift Pack - The Joker,4,9499,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1026,18,Jump to the corresponding subpage of the activity center Lex Armor (rerun),8013,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1048,8,Skip to Gacha - Lex Luthor,1048,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName21,,1
+9453,25,[Store] - Lex Luthor Re-Run Store,4,9453,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11351,8,Skip to Gacha - Sinestro Re-Run,1046,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11352,25,[Shop] - Special Gift Pack - Sinestro Re-Run,4,9525,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1049,8,Skip to Gacha - Mr. Terrific Re-Run,1088,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+9454,25,[Store] - Mr. Terrific Re-Run Store,4,9454,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1027,18,Jump to the corresponding subpage of the activity center Jerry the Winged Horse,8014,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1351,8,Skip to Gacha - Nubia,111,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1352,25,[Shop] - Special Gift Pack - Nubia,4,9527,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1141,8,Skip to Gacha - Yara Flor,112,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1353,25,[Shop] - Early Offer – Yara Flor,4,9456,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1354,25,[Store] - Yara Flor Offer,4,9455,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1396,25,[Shop] - Valentine Offers,4,9535,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11139,8,Skip to Gacha - Punchline Rerun,10108,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11346,25,[Shop] - Special Gift Pack – Punchline Rerun,4,109448,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11140,8,Skip to Gacha - Hugo Strange Rerun,10109,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11350,25,[Shop] - Special Gift Pack – Hugo Strange Rerun,4,109450,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1357,8,Skip to Gacha - Black Adam,114,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1358,25,[Shop] - Special Gift Pack - Black Adam,4,9529,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1142,8,Skip to Gacha - Artemis,113,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1355,25,[Store] - Artemis Early Offer,4,9458,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1356,25,[Shop] - Special Gift Pack – Artemis,4,9457,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+111119,8,Skip to Gacha - Mera Rerun,101084,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111318,25,[Shop] - Special Gift Pack – Mera Rerun,4,109419,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11133,8,Skip to Gacha - Aquaman,10105,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11336,25,[Shop] - Special Gift Pack - Aquaman,4,9530,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11347,8,Skip to Gacha - The Joker Rerun,10110,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11348,25,[Shop] - Special Gift Pack - The Joker Rerun,4,9531,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1397,25,[Shop] - St. Patrick's Offers,4,9538,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11103,8,Skip to Gacha - Dr Fate Rerun,1037,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11303,25,[Shop] - Special Gift Pack - Dr Fate Rerun,4,9539,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+111122,8,Skip to Gacha -The Bride Rerun,10097,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11321,25,[Shop] - Special Gift Pack - The Bride Rerun,4,9540,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+111347,8,Skip to Gacha - The Joker Final Chance,11110,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111348,25,[Shop] - Special Gift Pack - The Joker Final Chance,4,9541,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+111351,8,Skip to Gacha - Nubia,11111,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111352,25,[Shop] - Special Gift Pack - Nubia,4,9542,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+111140,8,Skip to Gacha - Hugo Strange Rerun Final Chance,110109,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111350,25,[Shop] - Special Gift Pack – Hugo Strange Rerun Final Chance,4,1109450,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1359,8,Skip to Gacha - Artemis,115,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1360,25,[Shop] - Special Gift Pack - Artemis,4,9543,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1398,25,[Shop] - Easter Sales,4,9545,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11357,8,Skip to Gacha - Black Adam,1114,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11358,25,[Shop] - Special Gift Pack - Black Adam,4,9547,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11126,8,Skip to Gacha - Judomaster Rerun,1086,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11325,25,[Shop] - Special Gift Pack - Judomaster Rerun,4,109426,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11127,8,Skip to Gacha - Vigilante Rerun,1089,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11326,25,[Shop] - Special Gift Pack - Vigilante Rerun,4,109427,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11120,8,Skip to Gacha - Dr. Phosphorus,1085,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11319,25,[Shop] - Special Gift Pack - Dr. Phosphorus,4,109420,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11121,8,Skip to Gacha - Weasel,1096,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11320,25,[Shop] - Special Gift Pack - The Weasel,4,109421,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11141,8,Skip to Gacha - Yara Flor,10112,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11354,25,[Store] - Yara Flor Offer,4,109455,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+11359,8,Skip to Gacha - Artemis,1115,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11360,25,[Shop] - Special Gift Pack - Artemis,4,109543,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+12141,8,Skip to Gacha - Yara Flor,11112,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+12354,25,[Store] - Yara Flor Offer,4,119455,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+111359,8,Skip to Gacha - Artemis,11115,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111360,25,[Shop] - Special Gift Pack - Artemis,4,119543,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1111351,8,Skip to Gacha - Nubia,12111,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1111352,25,[Shop] - Special Gift Pack - Nubia,4,109542,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1399,25,[Shop] - National Pet Day Sales,4,9548,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+18007,18,Jump to the corresponding subpage of the activity center Krypto SL,18007,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+18008,25,[Shop] - Krypto Rerun packs,4,18007,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1143,8,Skip to Gacha - Ruthye,116,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1361,25,[Shop] - Early Offer – Ruthye,4,9460,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1362,25,[Store] - Ruthye Offer,4,9459,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+11138,8,Skip to Gacha - General Zod Off-Season,1107,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11137,8,Skip to Gacha - Firestorm Off-Season,1106,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1400,25,[Shop] - Firefighters Day Sales,4,9553,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1363,8,Skip to Gacha - Lobo,117,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1364,25,[Shop] - Special Gift Pack - Lobo,4,9549,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1405,25,[Shop] - Red Cross Day Sales,4,9556,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19554,8,Skip to Gacha - Superhero Day,119,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+19557,25,[Shop] - Special Gift Pack - Superhero Day,4,9557,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19558,25,[Shop] - Special Gift Pack - Memorial Day,4,19558,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+119558,25,[Shop] - Special Gift Pack - Earth Day,4,9558,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+29559,25,[Shop] - Special Gift Pack - Juneteenth Day,4,29559,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19559,25,[Shop] - Special Gift Pack - Flag Day,4,9559,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19560,25,[Shop] - Special Gift Pack - Family Day,4,9560,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19561,25,[Shop] - Special Gift Pack - Pride Day,4,9561,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19562,25,[Shop] - Special Gift Pack - Summer Solstice,4,9567,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19570,25,[Shop] - Special Gift Pack - Catfish Day,4,9568,9569,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19563,25,[Shop] - Special Gift Pack - Pride Day Pt.2,4,9598,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1406,8,Skip to Gacha - Red Cross Day,118,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11135,8,[Gacha] - Team Lanterns Rerun,1150,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11136,25,[Store] - Team Lanterns Rerun,4,19442,,,,1,Functype corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1365,8,Skip to Gacha - BlackLightning,120,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1366,25,[Shop] - Special Gift Pack - BlackLightning,4,9571,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1367,8,Skip to Gacha - Supergirl DCU,121,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1368,25,[Shop] - Special Gift Pack - Supergirl DCU,4,9575,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11131,8,Skip to Gacha - Swamp Thing 24hr Mother Box,10103,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11130,8,Skip to Gacha - Doctor Poison 24hr Mother Box,10101,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111139,8,Skip to Gacha - Cheshire 24hr Mother Box,11108,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11113,8,Skip to Gacha - Martian Manhunter 24hr Mother Box,1148,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11111,8,Skip to Gacha - Sinestro 24hr Mother Box,1146,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111133,8,Skip to Gacha - Aquaman 24hr Mother Box,1105,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+12119,8,Skip to Gacha - Mera 24hr Mother Box,1101084,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111105,8,Skip to Gacha - Cyborg 24hr Mother Box,11041,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName13,,1
+11116,8,Skip to Gacha - Hal Jordan 24hr Mother Box,181,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+111132,8,Skip to Gacha - Wonder Woman 24hr Mother Box,1104,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1370,8,Skip to Gacha - WhiteLantern,122,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1371,25,[Shop] - Special Gift Pack - WhiteLantern,4,9579,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19571,25,[Shop] - Special Gift Pack - Flash Sale,4,9580,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+18012,18,Jump to the corresponding subpage of the activity center Phantom Projector,18012,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+18013,25,[Shop] - Phantom Projector Rerun packs,4,18012,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+8015,18,Jump to the corresponding subpage of the activity center Spacehog,8015,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+8016,25,[Shop] - Spacehog packs,4,8018,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+12138,8,Skip to Gacha - Zod 24hr Mother Box,1007,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName98,,1
+11363,8,Skip to Gacha - Lobo 24hr Mother Box,1117,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName117,,1
+11365,8,Skip to Gacha - Black Lightning 24hr Mother Box,1120,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName120,,1
+12347,8,Skip to Gacha - Joker 24hr Mother Box,1110,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName110,,1
+12137,8,Skip to Gacha - Firestorm 24hr Mother Box,1206,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName106,,1
+11143,8,Skip to Gacha - Ruthye 24hr Mother Box,1116,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName116,,1
+12140,8,Skip to Gacha - Hugo Strange 24hr Mother Box,11109,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName109,,1
+12139,8,Skip to Gacha - Punchline 24hr Mother Box,1108,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName108,,1
+12365,8,Skip to Gacha - BlackLightning_Rerun,10120,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+11366,25,[Shop] - Special Gift Pack - BlackLightning_Rerun,4,9582,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19572,25,[Shop] - Special Gift Pack - Extra Sale,4,9584,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1372,8,Skip to Gacha - SupergirlDCU,123,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1373,25,[Shop] - Special Gift Pack - SupergirlDCU,4,19575,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1374,8,Skip to Gacha - Ruthye,11116,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1375,25,[Store] - Ruthye Offer,4,19459,,,,0,,Func_fufeishangcheng,COMMON_Ended,1
+1621,25,Holiday Sale - Independence day,4,9585,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+12363,8,Skip to Gacha - Lobo Rerun,1217,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+12364,25,[Shop] - Special Gift Pack - Lobo Rerun,4,19549,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19573,25,Holiday Sale - New Sale,4,9586,9587,9588,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+12351,8,Skip to Gacha - Nubia,1111,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName111,,1
+13141,8,Skip to Gacha - Yara Flor,1112,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName112,,1
+11142,8,Skip to Gacha - Artemis,1113,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName115,,1
+11026,18,Jump to the corresponding subpage of the activity center Lex Armor Suit (rerun),8018,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+11027,25,[Shop] - Lex Armor Suit (rerun) packs,4,80131,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+13401,8,Skip to Gacha - Absolute Wonder Woman,134,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+13402,25,[Shop] - Special Gift Pack - Absolute Wonder Woman,4,9589,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+8017,18,Jump to the corresponding subpage of the activity center Anniversary Event,8017,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+19593,25,Holiday Sale - Extra deals (June 26),4,9593,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+19594,25,Holiday Sale - Extra deals (June 29),4,9594,9595,9596,9597,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+99991,8,Skip to Gacha - Anniversary,11107,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+99992,25,[Shop] - Special Gift Pack - Anniversary,4,99901,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+99993,25,[Shop] - Special Gift Pack - Anniversary - to Deals,4,99906,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11001,8,Skip to Gacha - The Joker,1101,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName110,,1
+11003,8,Skip to Gacha - Hugo Strange,1103,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName109,,1
+11002,8,Skip to Gacha - Punchline,1102,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName108,,1
+13501,8,Skip to Gacha - Absolute Superman,135,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+13502,25,[Shop] - Special Gift Pack - Absolute Superman,4,9610,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1624,25,Holiday Sale - Comic Con,4,9614,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1625,25,[Shop] - Special Gift Pack - Juneteenth Day,4,29600,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,
+13137,8,Skip to Gacha - Firestorm - 24hr Mother Box,1306,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName106,,1
+11107,8,Skip to Gacha - Killer Frost - 24hr Mother Box,1143,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName43,,1
+13138,8,Skip to Gacha - General Zod - 24hr Mother Box,1207,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName98,,1
+12135,8,[Gacha] - Team Lanterns - 24hr Mother Box,11150,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1626,25,Holiday Sale - Cat Day,4,9591,9592,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1627,25,Holiday Sale - Extra deals (July 5),4,9621,9622,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1628,25,Holiday Sale - Extra deals (July 14),4,9623,9624,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1629,25,Holiday Sale - Extra deals (July 18),4,9625,9626,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+13351,8,Skip to Gacha - Nubia,13111,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName111,,1
+12142,8,Skip to Gacha - Artemis,12115,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName115,,1
+14141,8,Skip to Gacha - Yara Flor,12112,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName112,,1
+1630,25,Holiday Sale - Justice Day,4,9627,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+13601,8,Skip to Gacha - Absolute Batman,136,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+13602,25,[Shop] - Special Gift Pack - Absolute Batman,4,9629,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+13801,8,Skip to Gacha - Booster Gold,138,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+13802,25,[Shop] - Special Gift Pack - Booster Gold,4,9631,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+11317,8,Skip to Gacha - Lobo,1317,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName117,,1
+11123,8,Skip to Gacha - Supergirl,1123,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName121,,1
+12116,8,Skip to Gacha - Ruthye,12116,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName116,,1
+1631,25,Holiday Sale - African Descent,4,9633,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1636,25,Holiday Sale - Extra deals (July 20-21),4,9636,9637,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1637,25,Holiday Sale - Extra deals - Step up (July 21),4,9638,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1639,25,Holiday Sale - Extra deals - Step up (July 22),4,9639,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1640,25,Holiday Sale - Extra deals - Step up (July 27),4,9640,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1642,25,Holiday Sale - Extra deals - Step up (July 28),4,9642,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1643,25,Holiday Sale - Extra deals - Step up (July 29),4,9643,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1645,25,Holiday Sale - Extra deals - Step up (July 30),4,9645,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1647,25,Holiday Sale - Extra deals - Step up (July 31),4,9647,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+13901,8,Skip to Gacha - Black Lightning,13901,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+13902,25,[Shop] - Special Gift Pack - Black Lightning,4,9649,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1632,8,Skip to Gacha - Blue Beetle S10 Motherbox,139,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName77,,1
+1633,8,Skip to Gacha - Nightwing S10 Motherbox,140,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName33,,1
+1634,8,Skip to Gacha - Black Adam S10 Motherbox,141,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName114,,1
+8020,18,Jump to the corresponding subpage of the activity center Standalone 1 Event,8020,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1648,25,Holiday Sale - Sisters Day,4,9655,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1649,25,Holiday Sale - Relaxation Day,4,9658,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+14201,8,Skip to Gacha - Black Adam,14201,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+14002,25,[Shop] - Special Gift Pack - Black Adam,4,9652,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1661,25,Holiday Sale - Extra deals - Step up (July 25),4,9661,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1650,18,Jump to the corresponding subpage of the activity center Reanimated Pegasus,8021,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1935,25,Holiday Sale - International Dog Day Packs,4,9634,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+1651,8,Skip to Gacha - 24hr Mother Box - Booster Gold,142,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1652,8,Skip to Gacha - 24hr Mother Box - Absolute Wonder Woman,143,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1653,8,Skip to Gacha - 24hr Mother Box - Absolute Superman,144,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+1654,8,Skip to Gacha - 24hr Mother Box - Absolute Batman,145,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName11,,1
+18019,8,Skip to gacha - Standalone S11 Motherbox,8019,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName8019,,1
+180191,8,Skip to gacha - Standalone S10 Motherbox,80191,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName80191,,1
+180192,8,Skip to gacha - Standalone S9 Motherbox,80192,,,,,1,Corresponds to AllyGachaType table card pool ID,AllyGachaName80192,,1
+19661,25,Skip to IAP - Standalone IAP,4,9661,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1
+8019,18,Jump to the corresponding subpage of the activity center Standalone 1 Event,8019,,,,,1,Corresponding activity table corresponding activity ID,ActivityCenter,,1
+1655,25,Holiday Sale - Friendship Day,4,9669,,,,1,Func Corresponding to PayStoreSub table,Func_fufeishangcheng,COMMON_Ended,1

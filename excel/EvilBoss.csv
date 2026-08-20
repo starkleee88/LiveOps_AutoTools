@@ -1,0 +1,11 @@
+﻿BossId,Boss,O,Desc,IsOpen,SpecialEffectSkills
+Boss ID,"Corresponds to AllyCharacter, gets the model name",Note,Description,"Whether it is open or not
+1-Displayed
+0-Not displayed",Skills to be displayed in the Special Effects section of each Boss Menu
+index,int,O,string,int,array-int
+1,21203,Ultraman,CharacterIntro_13162,1,212000101|212000102|212000201|212099901|212030901
+2,21202,Johnny Quick,CharacterIntro_13160,1,212000101|212000102|212000201|212099901|212020501
+3,21201,Superwoman,CharacterIntro_13159,1,212000101|212000102|212000201|212099901|212010601
+4,21205,Deathstorm,CharacterIntro_13157,1,212000101|212000102|212000201|212099901|212050601
+5,21206,Power Ring,CharacterIntro_13158,1,212000101|212000102|212000201|212099901|212060701
+6,21207,Owlman,CharacterIntro_13163,1,212000101|212000102|212000201|212099901|212070701

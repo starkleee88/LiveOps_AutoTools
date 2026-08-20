@@ -1,0 +1,213 @@
+﻿ActivityID,ActivityMainID,ActivityType,O,StartTime,EndTime,Name,EndTimeShow,Unlock,UnlockParam,LinkParam,O,RootPrefab
+"Sub Activity ID
+XXX-YY
+XXX = is the main event ID
+YY = activity type",Main Activity ID,"Activity Type
+1:Sign in
+2:Shop
+3:Quests
+4:Plot book
+5:Boss
+6:Tower Climbing",Notes,"Event Start
+Different Activity Main cannot overlap time periods",Event End,Loc,Extra Time for UI Availability,"Unlock Type
+1: Main Campaign Progress (ex: 701 = Chapter 7, Level 1)",Param,"Jump code
+Not limited to Jump table. (Ex. Episode Book event)",,"Root prefab to load for this sub activity, default is loaded if null. Activity type 2 and 4 are always generic loaded."
+int,index,int,O,string,string,string,string,int,int,int,,string
+10001,100,1,Cyborg - Check In,20220127_000000,20220205_235959,AllyActivity_10001,,1,530,,,
+10002,100,2,Cyborg - Store,20220127_000000,20220208_235959,AllyActivity_10002,,1,530,3001,Jump ID,
+10003,100,3,Cyborg - Missions,20220127_000000,20220205_235959,AllyActivity_10003,,1,530,,,
+10004,100,4,Cyborg - Episode Book,20220127_000000,20220205_235959,AllyActivity_10004,,1,603,4,Plot book ID,
+10005,100,5,Cyborg - Boss Fight,20220127_000000,20220205_235959,AllyActivity_10005,20220208_235959,1,530,,,
+10101,101,1,Deathstroke - Check In,20220303_000000,20220312_235959,AllyActivity_10101,,1,530,,,
+10102,101,2,Deathstroke - Store,20220303_000000,20220315_235959,AllyActivity_10102,,1,530,3002,,
+10103,101,3,Deathstroke - Missions,20220303_000000,20220312_235959,AllyActivity_10103,,1,530,,,
+10105,101,5,Deathstroke - Boss Fight,20220303_000000,20220312_235959,AllyActivity_10105,20220315_235959,1,530,,,
+10201,102,1,Sinestro - Sign In,20220331_000000,20220409_235959,AllyActivity_10201,,1,530,,,
+10202,102,2,Sinestro - Store,20220331_000000,20220412_235959,AllyActivity_10202,,1,530,3003,,
+10203,102,3,Sinestro - Mission,20220331_000000,20220409_235959,AllyActivity_10003,,1,530,,,
+10205,102,5,Sinestro - Boss Fight,20220331_000000,20220409_235959,AllyActivity_10205,20220412_235959,1,530,,,
+10206,102,6,Sinestro - Tower,20220331_000000,20220409_235959,AllyActivity_10206,,1,530,,,
+10301,103,1,Martain Manhunter - Sign In,20220428_000000,20220507_235959,AllyActivity_SignIn,,1,530,,,
+10302,103,2,Martain Manhunter - Store,20220428_000000,20220510_235959,AllyActivity_10302,,1,530,3005,,
+10303,103,3,Martain Manhunter - Missions,20220428_000000,20220507_235959,AllyActivity_10303,,1,530,,,
+10305,103,5,Martain Manhunter - Boss Fight,20220428_000000,20220507_235959,AllyActivity_10305,20220510_235959,1,530,,,
+10401,104,1,Sinestro - Sign In,20220512_000000,20220521_235959,AllyActivity_SignIn,,1,530,,,
+10402,104,2,Sinestro - Store,20220512_000000,20220524_235959,AllyActivity_10202,,1,530,3007,,
+10403,104,3,Sinestro - Mission,20220512_000000,20220521_235959,AllyActivity_10003,,1,530,,,
+10405,104,5,Sinestro - Boss Fight,20220512_000000,20220521_235959,AllyActivity_10205,20220524_235959,1,530,,,
+10406,104,6,Sinestro - Tower,20220512_000000,20220521_235959,AllyActivity_10206,,1,530,,,
+10501,105,1,Hal Jordan (GL) - Sign In,20240118_000000,20240224_000000,AllyActivity_SignIn,,1,530,,,
+10502,105,2,Hal Jordan (GL) - Store,20240118_000000,20240227_000000,AllyActivity_10502,,1,530,3009,,
+10503,105,3,Hal Jordan (GL) - Missions,20240118_000000,20240224_000000,AllyActivity_10003,,1,530,,,
+10505,105,5,Hal Jordan (GL) - Boss Fight,20240118_000000,20240224_000000,AllyActivity_10505,20240214_000000,1,530,,,
+10506,105,6,Hal Jordan (GL) - Tower,20240118_000000,20240224_000000,AllyActivity_10506,,1,530,,,
+10601,106,1,Kyle Rayner (WL) - Sign In,20251120_000000,20251207_000000,AllyActivity_10601,,1,530,,,ActivityAllySignInPanel_WhiteLanternKyle
+10602,106,2,Kyle Rayner (WL) - Store,20251120_000001,20251207_000000,AllyActivity_10602,,1,530,3011,,
+10603,106,3,Kyle Rayner (WL) - Missions,20251120_000002,20251207_000000,AllyActivity_10603,,1,530,,,ActivityAllyTaskWindow_WhiteLanternKyle
+10605,106,5,Kyle Rayner (WL) - Boss Fight,20251120_000003,20251204_000000,AllyActivity_10605,20251211_000000,1,530,,,ActivityAllyBossWindow_WhiteLanternKyle
+10606,106,6,Kyle Rayner (WL) - Tower,20251120_000004,20251204_000000,AllyActivity_10606,,1,530,,,ActivityAllyTowerMapWindow_WhiteLanternKyle
+10701,107,1,Sinestro - Sign In,20230205_120000,20230403_235959,AllyActivity_10201,,1,530,,,
+10702,107,2,Sinestro - Store,20230205_120000,20230405_235959,AllyActivity_10202,,1,530,3013,,
+10703,107,3,Sinestro - Mission,20230205_120000,20230403_235959,AllyActivity_10003,,1,530,,,
+10705,107,5,Sinestro - Boss Fight,20230205_120000,20230403_235959,AllyActivity_10205,20230405_235959,1,530,,,
+10706,107,6,Sinestro - Tower,20230205_120000,20230403_235959,AllyActivity_10206,,1,530,,,
+10801,108,1,Sinestro - Sign In,20250227_000000,20250316_000000,AllyActivity_10201,,1,530,,,ActivityAllySignInPanel_Sinestro
+10802,108,2,Sinestro - Store,20250227_000000,20250316_000000,AllyActivity_10202,,1,530,3015,,
+10803,108,3,Sinestro - Mission,20250227_000000,20250316_000000,AllyActivity_10003,,1,530,,,ActivityAllyTaskWindow_Sinestro
+10805,108,5,Sinestro - Boss Fight,20250227_000000,20250313_000000,AllyActivity_10205,20250316_000000,1,530,,,ActivityAllyBossWindow_Sinestro
+10806,108,6,Sinestro - Tower,20250227_000000,20250313_000000,AllyActivity_10206,,1,530,,,ActivityAllyTowerMapWindow_Sinestro
+10901,109,1,Dr Fate - Sign In,20250410_000000,20250427_000000,AllyActivity_10901,,1,530,,,ActivityAllySignInPanel_DoctorFate
+10902,109,2,Dr Fate - Store,20250410_000000,20250427_000000,AllyActivity_10902,,1,530,3017,,
+10903,109,3,Dr Fate - Mission,20250410_000000,20250427_000000,AllyActivity_10003,,1,530,,,ActivityAllyTaskWindow_DoctorFate
+10905,109,5,Dr Fate - Boss Fight,20250410_000000,20250424_000000,AllyActivity_10905,20250427_000000,1,530,,,ActivityAllyBossWindow_DoctorFate
+10906,109,6,Dr Fate - Tower,20250410_000000,20250424_000000,AllyActivity_10906,,1,530,,,ActivityAllyTowerMapWindow_DoctorFate
+11001,110,1,The Bride - Sign In,20250522_000000,20250608_000000,AllyActivity_11001,,1,530,,,ActivityAllySignInPanel_TheBride
+11002,110,2,The Bride - Store,20250522_000000,20250608_000000,AllyActivity_11002,,1,530,3019,,
+11003,110,3,The Bride - Mission,20250522_000000,20250608_000000,AllyActivity_11003,,1,530,,,ActivityAllyTaskWindow_TheBride
+11005,110,5,The Bride - Boss Fight,20250522_000000,20250605_000000,AllyActivity_11004,20250604_235959,1,530,,,ActivityAllyBossWindow_TheBride
+11006,110,6,The Bride - Tower,20250522_000000,20250605_000000,AllyActivity_11005,,1,530,,,ActivityAllyTowerMapWindow_TheBride
+11101,111,1,Superman DCU - Sign In,20250710_000000,20250727_000000,AllyActivity_11101,,1,530,,,ActivityAllySignInPanel_SupermanDCU
+11102,111,2,Superman DCU - Store,20250710_000000,20250727_000000,AllyActivity_11102,,1,530,3021,,
+11103,111,3,Superman DCU - Mission,20250710_000000,20250727_000000,AllyActivity_11103,,1,530,,,ActivityAllyTaskWindow_SupermanDCU
+11105,111,5,Superman DCU - Boss Fight,20250710_000000,20250724_000000,AllyActivity_11104,20250731_000000,1,530,,,ActivityAllyBossWindow_SupermanDCU
+11106,111,6,Superman DCU - Tower,20250710_000000,20250724_000000,AllyActivity_11105,,1,530,,,ActivityAllyTowerMapWindow_SupermanDCU
+11201,112,1,Peacemaker - Sign In,20250828_000000,20250914_000000,AllyActivity_11201,,1,530,,,ActivityAllySignInPanel_Peacemaker
+11202,112,2,Peacemaker - Store,20250828_000000,20250914_000000,AllyActivity_11202,,1,530,3022,,
+11203,112,3,Peacemaker - Mission,20250828_000000,20250914_000000,AllyActivity_11203,,1,530,,,ActivityAllyTaskWindow_Peacemaker
+11205,112,5,Peacemaker - Boss Fight,20250828_000000,20250911_000000,AllyActivity_11204,20250918_000000,1,530,,,ActivityAllyBossWindow_Peacemaker
+11206,112,6,Peacemaker - Tower,20250828_000000,20250911_000000,AllyActivity_11205,,1,530,,,ActivityAllyTowerMapWindow_Peacemaker
+11301,113,1,Swamp Thing - Sign In,20251023_000000,20251109_000000,AllyActivity_11301,,1,530,,,ActivityAllySignInPanel_SwampThing
+11302,113,2,Swamp Thing - Store,20251023_000000,20251109_000000,AllyActivity_11302,,1,530,,,
+11303,113,3,Swamp Thing - Mission,20251023_000000,20251109_000000,AllyActivity_11303,,1,530,,,ActivityAllyTaskWindow_SwampThing
+11305,113,5,Swamp Thing - Boss Fight,20251023_000000,20251106_000000,AllyActivity_11304,20251204_000000,1,530,,,ActivityAllyBossWindow_SwampThing
+11306,113,6,Swamp Thing - Tower,20251023_000000,20251106_000000,AllyActivity_11305,,1,530,,,ActivityAllyTowerMapWindow_SwampThing
+11401,114,1,Aquaman - Sign In,20250925_000000,20251012_000000,AllyActivity_11401,,1,530,,,ActivityAllySignInPanel_Aquaman
+11402,114,2,Aquaman - Store,20250925_000001,20251012_000000,AllyActivity_11402,,1,530,3027,,
+11403,114,3,Aquaman - Mission,20250925_000002,20251012_000000,AllyActivity_11403,,1,530,,,ActivityAllyTaskWindow_Aquaman
+11405,114,5,Aquaman - Boss Fight,20250925_000003,20251009_000000,AllyActivity_11404,20251012_000000,1,530,,,ActivityAllyBossWindow_Aquaman
+11406,114,6,Aquaman - Tower,20250925_000004,20251009_000000,AllyActivity_11405,,1,530,,,ActivityAllyTowerMapWindow_Aquaman
+11501,115,1,Sinestro Re-Run - Sign In,20240104_000000,20240121_000000,AllyActivity_11501,,1,530,,,ActivityAllySignInPanel_Sinestro
+11502,115,2,Sinestro Re-Run - Store,20240104_000000,20240121_000000,AllyActivity_10202,,1,530,3029,,
+11503,115,3,Sinestro Re-Run - Mission,20240104_000000,20240121_000000,AllyActivity_10003,,1,530,,,ActivityAllyTaskWindow_Sinestro
+11505,115,5,Sinestro Re-Run - Boss Fight,20240104_000000,20240118_000000,AllyActivity_10205,20251204_000000,1,530,,,ActivityAllyBossWindow_Sinestro
+11506,115,6,Sinestro Re-Run - Tower,20240104_000000,20240118_000000,AllyActivity_10206,,1,530,,,ActivityAllyTowerMapWindow_Sinestro
+11701,117,1,Superman DCU Re-Run - Sign In,20260115_000000,20260201_000000,AllyActivity_11101,,1,530,,,ActivityAllySignInPanel_SupermanDCU
+11702,117,2,Superman DCU Re-Run- Store,20260115_000000,20260201_000000,AllyActivity_11102,,1,530,3033,,
+11703,117,3,Superman DCU Re-Run- Mission,20260115_000000,20260201_000000,AllyActivity_11103,,1,530,,,ActivityAllyTaskWindow_SupermanDCU
+11705,117,5,Superman DCU Re-Run- Boss Fight,20260115_000000,20260129_000000,AllyActivity_11104,20260201_000000,1,530,,,ActivityAllyBossWindow_SupermanDCU
+11706,117,6,Superman DCU Re-Run- Tower,20260115_000000,20260129_000000,AllyActivity_11105,,1,530,,,ActivityAllyTowerMapWindow_SupermanDCU
+11601,116,1,General Zod - Sign In,20251218_000000,20260104_000000,AllyActivity_11601,,1,530,,,ActivityAllySignInPanel_GeneralZod
+11602,116,2,General Zod - Store,20251218_000000,20260104_000000,AllyActivity_11602,,1,530,3031,,
+11603,116,3,General Zod - Mission,20251218_000000,20260104_000000,AllyActivity_11603,,1,530,,,ActivityAllyTaskWindow_GeneralZod
+11605,116,5,General Zod - Boss Fight,20251218_000000,20260101_000000,AllyActivity_11604,20260104_000000,1,530,,,ActivityAllyBossWindow_GeneralZod
+11606,116,6,General Zod - Tower,20251218_000000,20260101_000000,AllyActivity_11605,,1,530,,,ActivityAllyTowerMapWindow_GeneralZod
+11801,118,1,The Joker - Sign In,20260212_000000,20260301_000000,AllyActivity_11801,,1,530,,,ActivityAllySignInPanel_Joker
+11802,118,2,The Joker - Store,20260212_000000,20260301_000000,AllyActivity_11802,,1,530,3035,,
+11803,118,3,The Joker - Mission,20260212_000000,20260301_000000,AllyActivity_11803,,1,530,,,ActivityAllyTaskWindow_Joker
+11805,118,5,The Joker - Boss Fight,20260212_000000,20260226_000000,AllyActivity_11804,20260301_000000,1,530,,,ActivityAllyBossWindow_Joker
+11806,118,6,The Joker - Tower,20260212_000000,20260226_000000,AllyActivity_11805,,1,530,,,ActivityAllyTowerMapWindow_Joker
+11901,119,1,Sinestro - Sign In,20260312_000000,20260329_000000,AllyActivity_10201,,1,530,,,ActivityAllySignInPanel_Sinestro
+11902,119,2,Sinestro - Store,20260312_000000,20260329_000000,AllyActivity_10202,,1,530,3037,,
+11903,119,3,Sinestro - Mission,20260312_000000,20260329_000000,AllyActivity_10003,,1,530,,,ActivityAllyTaskWindow_Sinestro
+11905,119,5,Sinestro - Boss Fight,20260312_000000,20260326_000000,AllyActivity_10205,20260329_000000,1,530,,,ActivityAllyBossWindow_Sinestro
+11906,119,6,Sinestro - Tower,20260312_000000,20260326_000000,AllyActivity_10206,,1,530,,,ActivityAllyTowerMapWindow_Sinestro
+12001,120,1,Nubia - Sign In,20260409_000000,20260418_000000,AllyActivity_12001,,1,530,,,ActivityAllySignInPanel_Nubia
+12002,120,2,Nubia - Store,20260409_000000,20260418_000000,AllyActivity_12002,,1,530,3039,,
+12003,120,3,Nubia - Mission,20260409_000000,20260418_000000,AllyActivity_10003,,1,530,,,ActivityAllyTaskWindow_Nubia
+12005,120,5,Nubia - Boss Fight,20260409_000000,20260417_000000,AllyActivity_12005,20260329_000000,1,530,,,ActivityAllyBossWindow_Nubia
+12006,120,6,Nubia - Tower,20260409_000000,20260417_000000,AllyActivity_12006,,1,530,,,ActivityAllyTowerMapWindow_Nubia
+12101,121,1,BlackAdam - Sign In,20260501_000000,20260510_000000,AllyActivity_12101,,1,530,,,ActivityAllySignInPanel_BlackAdam
+12102,121,2,BlackAdam - Store,20260501_000000,20260510_000000,AllyActivity_12102,,1,530,3041,,
+12103,121,3,BlackAdam - Mission,20260501_000000,20260510_000000,AllyActivity_10003,,1,530,,,ActivityAllyTaskWindow_BlackAdam
+12105,121,5,BlackAdam - Boss Fight,20260501_000000,20260509_000000,AllyActivity_12105,20260524_000000,1,530,,,ActivityAllyBossWindow_BlackAdam
+12106,121,6,BlackAdam - Tower,20260501_000000,20260509_000000,AllyActivity_12106,,1,530,,,ActivityAllyTowerMapWindow_BlackAdam
+12201,122,1,Aquaman - Sign In,20260510_000000,20260515_000000,AllyActivity_11401,,1,530,,,ActivityAllySignInPanel_Aquaman_2
+12202,122,2,Aquaman - Store,20260510_000000,20260515_000000,AllyActivity_11402,,1,530,3043,,
+12203,122,3,Aquaman - Mission,20260510_000000,20260515_000000,AllyActivity_11403,,1,530,,,ActivityAllyTaskWindow_Aquaman
+12205,122,5,Aquaman - Boss Fight,20260510_000000,20260514_000000,AllyActivity_11404,20260514_000000,1,530,,,ActivityAllyBossWindow_Aquaman
+12206,122,6,Aquaman - Tower,20260510_000000,20260514_000000,AllyActivity_11405,,1,530,,,ActivityAllyTowerMapWindow_Aquaman
+12301,123,1,Nubia - Sign In,20260515_000000,20260520_000000,AllyActivity_12001,,1,530,,,ActivityAllySignInPanel_Nubia_2
+12302,123,2,Nubia - Store,20260515_000000,20260520_000000,AllyActivity_12002,,1,530,3045,,
+12303,123,3,Nubia - Mission,20260515_000000,20260520_000000,AllyActivity_10003,,1,530,,,ActivityAllyTaskWindow_Nubia
+12305,123,5,Nubia - Boss Fight,20260515_000000,20260519_000000,AllyActivity_12005,20260522_000000,1,530,,,ActivityAllyBossWindow_Nubia
+12306,123,6,Nubia - Tower,20260515_000000,20260519_000000,AllyActivity_12006,,1,530,,,ActivityAllyTowerMapWindow_Nubia
+12401,124,1,Artemis - Sign In,20260422_000000,20260501_000000,AllyActivity_12401,,1,530,,,ActivityAllySignInPanel_Artemis
+12402,124,2,Artemis - Store,20260422_000000,20260501_000000,AllyActivity_12402,,1,530,3047,,
+12403,124,3,Artemis - Mission,20260422_000000,20260501_000000,AllyActivity_12403,,1,530,,,ActivityAllyTaskWindow_Artemis
+12405,124,5,Artemis - Boss Fight,20260422_000000,20260430_000000,AllyActivity_12405,20260501_000000,1,530,,,ActivityAllyBossWindow_Artemis
+12406,124,6,Artemis - Tower,20260422_000000,20260430_000000,AllyActivity_12406,,1,530,,,ActivityAllyTowerMapWindow_Artemis
+12501,125,1,BlackAdam - Sign In,20260527_000000,20260601_000000,AllyActivity_12101,,1,530,,,ActivityAllySignInPanel_BlackAdam_2
+12502,125,2,BlackAdam - Store,20260527_000000,20260601_000000,AllyActivity_12102,,1,530,3049,,
+12503,125,3,BlackAdam - Mission,20260527_000000,20260601_000000,AllyActivity_10003,,1,530,,,ActivityAllyTaskWindow_BlackAdam
+12505,125,5,BlackAdam - Boss Fight,20260527_000000,20260531_000000,AllyActivity_12105,20260601_000000,1,530,,,ActivityAllyBossWindow_BlackAdam
+12506,125,6,BlackAdam - Tower,20260527_000000,20260531_000000,AllyActivity_12106,,1,530,,,ActivityAllyTowerMapWindow_BlackAdam
+12601,126,1,Artemis - Sign In,20260520_000000,20260525_000000,AllyActivity_12401,,1,530,,,ActivityAllySignInPanel_Artemis_2
+12602,126,2,Artemis - Store,20260520_000000,20260525_000000,AllyActivity_12402,,1,530,3051,,
+12603,126,3,Artemis - Mission,20260520_000000,20260525_000000,AllyActivity_12403,,1,530,,,ActivityAllyTaskWindow_Artemis
+12605,126,5,Artemis - Boss Fight,20260520_000000,20260524_000000,AllyActivity_12405,20260525_000000,1,530,,,ActivityAllyBossWindow_Artemis
+12606,126,6,Artemis - Tower,20260520_000000,20260524_000000,AllyActivity_12406,,1,530,,,ActivityAllyTowerMapWindow_Artemis
+12701,127,1,Lobo - Sign In,20260611_000000,20260621_000000,AllyActivity_12701,,1,530,,,ActivityAllySignInPanel_Lobo
+12702,127,2,Lobo - Store,20260611_000000,20260621_000000,AllyActivity_12702,,1,530,3053,,
+12703,127,3,Lobo - Mission,20260611_000000,20260621_000000,AllyActivity_12703,,1,530,,,ActivityAllyTaskWindow_Lobo
+12705,127,5,Lobo - Boss Fight,20260611_000000,20260620_000000,AllyActivity_12705,20260620_000000,1,530,,,ActivityAllyBossWindow_Lobo
+12706,127,6,Lobo - Tower,20260611_000000,20260620_000000,AllyActivity_12706,,1,530,,,ActivityAllyTowerMapWindow_Lobo
+12801,128,1,BlackLightning - Sign In,20260704_000000,20260713_000000,AllyActivity_12801,,1,530,,,ActivityAllySignInPanel_BlackLighning
+12802,128,2,BlackLightning - Store,20260704_000000,20260713_000000,AllyActivity_12802,,1,530,3056,,
+12803,128,3,BlackLightning - Mission,20260704_000000,20260713_000000,AllyActivity_12803,,1,530,,,ActivityAllyTaskWindow_BlackLighning
+12805,128,5,BlackLightning - Boss Fight,20260704_000000,20260712_000000,AllyActivity_12805,20260713_000000,1,530,,,ActivityAllyBossWindow_BlackLighning
+12806,128,6,BlackLightning - Tower,20260704_000000,20260712_000000,AllyActivity_12806,,1,530,,,ActivityAllyTowerMapWindow_BlackLighning
+12901,129,1,Supergirl DCU - Sign In,20260625_000000,20260704_000000,AllyActivity_12901,,1,530,,,ActivityAllySignInPanel_SupergirlDCU
+12902,129,2,Supergirl DCU - Store,20260625_000000,20260704_000000,AllyActivity_12902,,1,530,3057,,
+12903,129,3,Supergirl DCU - Mission,20260625_000000,20260704_000000,AllyActivity_12903,,1,530,,,ActivityAllyTaskWindow_SupergirlDCU
+12905,129,5,Supergirl DCU - Boss Fight,20260625_000000,20260703_000000,AllyActivity_12905,20260704_000000,1,530,,,ActivityAllyBossWindow_SupergirlDCU
+12906,129,6,Supergirl DCU - Tower,20260625_000000,20260703_000000,AllyActivity_12906,,1,530,,,ActivityAllyTowerMapWindow_SupergirlDCU
+13001,130,1,WhiteLantern - Sign In,20260601_000000,20260608_000000,AllyActivity_10601,,1,530,,,ActivityAllySignInPanel_WhiteLanternKyle_2
+13007,130,2,WhiteLantern - Store,20260601_000000,20260608_000000,AllyActivity_10602,,1,530,3060,,
+13003,130,3,WhiteLantern - Mission,20260601_000000,20260608_000000,AllyActivity_10603,,1,530,,,ActivityAllyTaskWindow_WhiteLanternKyle
+13005,130,5,WhiteLantern - Boss Fight,20260601_000000,20260607_000000,AllyActivity_10605,20260608_000000,1,530,,,ActivityAllyBossWindow_WhiteLanternKyle
+13006,130,6,WhiteLantern - Tower,20260601_000000,20260607_000000,AllyActivity_10606,,1,530,,,ActivityAllyTowerMapWindow_WhiteLanternKyle
+13101,131,1,BlackLightning_Rerun - Sign In,20260727_000000,20260802_000000,AllyActivity_12801,,1,530,,,ActivityAllySignInPanel_BlackLighning_2
+13102,131,2,BlackLightning_Rerun - Store,20260727_000000,20260802_000000,AllyActivity_12802,,1,530,3062,,
+13103,131,3,BlackLightning_Rerun - Mission,20260727_000000,20260802_000000,AllyActivity_12803,,1,530,,,ActivityAllyTaskWindow_BlackLighning
+13105,131,5,BlackLightning_Rerun - Boss Fight,20260727_000000,20260802_000000,AllyActivity_12805,20260802_000000,1,530,,,ActivityAllyBossWindow_BlackLighning
+13106,131,6,BlackLightning_Rerun - Tower,20260727_000000,20260802_000000,AllyActivity_12806,,1,530,,,ActivityAllyTowerMapWindow_BlackLighning
+13201,132,1,SupergirlDCU - Sign In,20260721_000000,20260727_000000,AllyActivity_12901,,1,530,,,ActivityAllySignInPanel_SupergirlDCU_2
+13202,132,2,SupergirlDCU - Store,20260721_000000,20260727_000000,AllyActivity_12902,,1,530,3064,,
+13203,132,3,SupergirlDCU - Mission,20260721_000000,20260727_000000,AllyActivity_12903,,1,530,,,ActivityAllyTaskWindow_SupergirlDCU
+13205,132,5,SupergirlDCU - Boss Fight,20260721_000000,20260727_000000,AllyActivity_12905,20260727_000000,1,530,,,ActivityAllyBossWindow_SupergirlDCU
+13206,132,6,SupergirlDCU - Tower,20260721_000000,20260727_000000,AllyActivity_12906,,1,530,,,ActivityAllyTowerMapWindow_SupergirlDCU
+13301,133,1,Lobo Rerun - Sign In,20260713_000000,20260720_000000,AllyActivity_12701,,1,530,,,ActivityAllySignInPanel_Lobo_2
+13302,133,2,Lobo Rerun - Store,20260713_000000,20260720_000000,AllyActivity_12702,,1,530,3066,,
+13303,133,3,Lobo Rerun - Mission,20260713_000000,20260720_000000,AllyActivity_12703,,1,530,,,ActivityAllyTaskWindow_Lobo
+13305,133,5,Lobo Rerun - Boss Fight,20260713_000000,20260719_000000,AllyActivity_12705,20260720_000000,1,530,,,ActivityAllyBossWindow_Lobo
+13306,133,6,Lobo Rerun - Tower,20260713_000000,20260719_000000,AllyActivity_12706,,1,530,,,ActivityAllyTowerMapWindow_Lobo
+13401,134,1,Absolute Wonder Woman - Sign In,20260807_000000,20260814_000000,AllyActivity_13401,,1,530,,,ActivityAllySignInPanel_SupergirlDCU
+13402,134,2,Absolute Wonder Woman - Store,20260807_000000,20260814_000000,AllyActivity_13402,,1,530,3068,,
+13403,134,3,Absolute Wonder Woman - Mission,20260807_000000,20260814_000000,AllyActivity_13403,,1,530,,,ActivityAllyTaskWindow_SupergirlDCU
+13405,134,5,Absolute Wonder Woman - Boss Fight,20260807_000000,20260814_000000,AllyActivity_13405,20260814_000000,1,530,,,ActivityAllyBossWindow_SupergirlDCU
+13406,134,6,Absolute Wonder Woman - Tower,20260807_000000,20260814_000000,AllyActivity_13406,,1,530,,,ActivityAllyTowerMapWindow_SupergirlDCU
+13501,135,1,Absolute Superman - Sign In,20260814_000000,20260821_000000,AllyActivity_13501,,1,530,,,ActivityAllySignInPanel_SupergirlDCU
+13502,135,2,Absolute Superman - Store,20260814_000000,20260821_000000,AllyActivity_13502,,1,530,3070,,
+13503,135,3,Absolute Superman - Mission,20260814_000000,20260821_000000,AllyActivity_13503,,1,530,,,ActivityAllyTaskWindow_SupergirlDCU
+13505,135,5,Absolute Superman - Boss Fight,20260814_000000,20260821_000000,AllyActivity_13505,20260821_000000,1,530,,,ActivityAllyBossWindow_SupergirlDCU
+13506,135,6,Absolute Superman - Tower,20260814_000000,20260821_000000,AllyActivity_13506,,1,530,,,ActivityAllyTowerMapWindow_SupergirlDCU
+13701,137,1,Absolute Batman - Sign In,20260821_000000,20260828_000000,AllyActivity_13701,,1,530,,,ActivityAllySignInPanel_SupergirlDCU
+13702,137,2,Absolute Batman - Store,20260821_000000,20260828_000000,AllyActivity_13702,,1,530,3072,,
+13703,137,3,Absolute Batman - Mission,20260821_000000,20260828_000000,AllyActivity_13703,,1,530,,,ActivityAllyTaskWindow_SupergirlDCU
+13705,137,5,Absolute Batman - Boss Fight,20260821_000000,20260828_000000,AllyActivity_13705,20260828_000000,1,530,,,ActivityAllyBossWindow_SupergirlDCU
+13706,137,6,Absolute Batman - Tower,20260821_000000,20260828_000000,AllyActivity_13706,,1,530,,,ActivityAllyTowerMapWindow_SupergirlDCU
+13801,138,1,Booster Gold - Sign In,20260828_000000,20260904_000000,AllyActivity_13801,,1,530,,,ActivityAllySignInPanel_BoosterGold_2
+13802,138,2,Booster Gold - Store,20260828_000000,20260904_000000,AllyActivity_13802,,1,530,3074,,
+13803,138,3,Booster Gold - Mission,20260828_000000,20260904_000000,AllyActivity_13803,,1,530,,,ActivityAllyTaskWindow_BoosterGold
+13805,138,5,Booster Gold - Boss Fight,20260828_000000,20260904_000000,AllyActivity_13805,20260904_000000,1,530,,,ActivityAllyBossWindow_BoosterGold
+13806,138,6,Booster Gold - Tower,20260828_000000,20260904_000000,AllyActivity_13806,,1,530,,,ActivityAllyTowerMapWindow_BoosterGold
+13901,139,1,Black Lightning - Sign In,20260925_000000,20261002_000000,AllyActivity_12801,,1,530,,,ActivityAllySignInPanel_BlackLighning
+13902,139,2,Black Lightning - Store,20260925_000000,20261002_000000,AllyActivity_12802,,1,530,3076,,
+13903,139,3,Black Lightning - Mission,20260925_000000,20261002_000000,AllyActivity_12803,,1,530,,,ActivityAllyTaskWindow_BlackLighning
+13905,139,5,Black Lightning - Boss Fight,20260925_000000,20261002_000000,AllyActivity_12805,20261002_000000,1,530,,,ActivityAllyBossWindow_BlackLighning
+13906,139,6,Black Lightning - Tower,20260925_000000,20261002_000000,AllyActivity_12806,,1,530,,,ActivityAllyTowerMapWindow_BlackLighning
+14001,140,1,Black Adam - Sign In,20260911_000000,20261018_000000,AllyActivity_12101,,1,530,,,ActivityAllySignInPanel_BlackAdam
+14002,140,2,Black Adam - Store,20260911_000000,20261018_000000,AllyActivity_12102,,1,530,3078,,
+14003,140,3,Black Adam - Mission,20260911_000000,20261018_000000,AllyActivity_12103,,1,530,,,ActivityAllyTaskWindow_BlackAdam
+14005,140,5,Black Adam - Boss Fight,20260911_000000,20261018_000000,AllyActivity_12105,20261018_000000,1,530,,,ActivityAllyBossWindow_BlackAdam
+14006,140,6,Black Adam - Tower,20260911_000000,20261018_000000,AllyActivity_12106,,1,530,,,ActivityAllyTowerMapWindow_BlackAdam

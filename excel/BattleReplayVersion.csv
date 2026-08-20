@@ -1,0 +1,80 @@
+﻿MainType,SubType,version,Record,O
+Battle play function main type,subnumber,version number,Previous version number,Note
+int,int,int,O,O
+1,0,9,8,Total combat version number
+2,13101,1,0,Superman
+2,13102,1,0,Tactical Armor Batman
+2,13103,1,0,Wonder Woman
+2,13104,2,1,Crimson Runner The Flash
+2,13106,1,0,Martian Manhunter
+2,13108,1,0,Doctor Fate
+2,13109,1,0,Nightwing
+2,13110,1,0,Superboy
+2,13111,1,0,Kid Flash
+2,13112,2,1,Red Robin
+2,13113,2,1,Cyborg
+2,13114,1,0,Constantine
+2,13115,2,1,Red Hood
+2,13117,1,0,Catwoman
+2,13118,1,0,Firestorm
+2,13119,1,0,Green Arrow
+2,13120,1,0,Robin
+2,13121,1,0,Zatanna
+2,13122,1,0,Starfire
+2,13126,1,0,Black Canary
+2,13127,1,0,The Cheetah
+2,13128,1,0,Huntress
+2,13129,1,0,King Shark
+2,13130,1,0,Batgirl
+2,13131,1,0,Lex Luthor
+2,13133,1,0,Sinestro
+2,13135,1,0,Bizarro
+2,13136,1,0,Raven
+2,13137,1,0,Captain Cold
+2,13138,1,0,Poison Ivy
+2,13139,1,0,Bane
+2,13140,1,0,Gorilla Grodd
+2,13141,1,0,Killer Frost
+2,13142,1,0,Harley Quinn
+2,13143,1,0,Black Manta
+2,13144,1,0,Captain Boomerang
+2,13145,1,0,Scarecrow
+2,13147,1,0,Mirror Master
+2,13148,1,0,Penguin
+2,13150,1,0,Deadshot
+2,13151,1,0,Deathstroke
+2,13152,1,0,Green lantern - Hal
+2,13153,1,0,Mr. Freeze
+2,13169,1,0,Killer Croc
+2,13170,1,0,Green Lantern - Jessica
+2,13171,1,0,Two-Face
+2,13173,1,0,Clayface
+2,13184,1,0,Frankenstein
+2,13185,1,0,Phantom Stranger
+2,13186,1,0,The Question
+2,13187,1,0,Pandora
+2,13194,1,0,White Lantern - Kyle
+2,13195,1,0,Green Lantern - John
+2,13196,1,0,Star Sapphire - Carol
+2,13199,1,0,Grade A Harley Quinn
+2,13901,1,0,Paradise Island Female Soldier-Guard
+2,13902,1,0,Paradise Island Female Soldier-Auxilary
+2,13903,1,0,Paradise Island Female Soldier-Warrior
+2,13904,1,0,Paradise Island Female Soldier-Shooter
+2,13905,1,0,Mercenary-Guardian
+2,13906,1,0,Mercenary-Poison Doctor
+2,13907,1,0,Mercenary-Musket
+2,13908,1,0,Mercenary-Gunner
+2,13909,1,0,Mechanical Guard - Type α
+2,13910,1,0,Mechanical Guard-Beta Type
+2,13911,1,0,Mechanical Guard - Type γ
+2,13912,1,0,Mechanical Guard-delta type
+3,101,1,0,Collection: Batmobile
+3,102,1,0,Collection: Mirror
+3,103,1,0,Collection: Tiger
+3,104,1,0,Collection: Throne of Khandak
+3,201,1,0,Collection: Batmobile
+3,202,1,0,Collection: Stealth Aircraft
+3,203,1,0,Collection: Parallax Monster
+3,204,1,0,Collection: Lex Armor
+3,205,1,0,Collection: Green Lantern Stove

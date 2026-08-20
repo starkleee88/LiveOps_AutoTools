@@ -1,0 +1,11 @@
+﻿RuleID,O,Unlock,UnlockParam,ShowOrder,Badge
+Rule ID,Note,"Open Condition - 
+Level Chapter, such as 701",Condition Parameters,"Show Order in decending order, higher numbers on top","Badge Type - 
+1: Permanent while Activity lasts
+2: Badges once in lifetime
+3: Daily, disappears after view once a day
+4: Login, disappears after view each login
+5: Task, disappears after task completion & reward"
+int,O,int,int,int,int
+30041,Rules Module 1,1,530,99,6
+30042,Rules Module 2,1,530,99,6

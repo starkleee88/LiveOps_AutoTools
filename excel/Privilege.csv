@@ -1,0 +1,5 @@
+﻿PrivilegeID,O,PrivilegeType,Desc,Param1,Param2,Param3,Param4,Param5
+Privilege ID,Privilege Name,Privilege Type,Privilege Description,Privilege Parameter 1,Privilege Parameter 2,Privilege Parameter 3,Privilege Parameter 4,Privilege Parameter 5
+int,O,int,string,int,int,int,int,int
+1,S Pool Daily Draw Count +1,1,MonthCardPro_PriDesc1,50,0,0,0,0
+2,Activate Exclusive Shop,2,MonthCardPro_PriDesc2,9511,0,0,0,0

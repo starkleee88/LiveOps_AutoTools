@@ -1,0 +1,17 @@
+Key,RewardID,O,HitType,Weight,RuleParams,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,O
+,Reward ID,Note,Randomization,Weights,depricated?,item ID,Amount,Open method,item ID 2,Amount 2,Open method 2,item ID 3,Amount 3,Open method 3,item ID 4,Amount 4,Open method 4,item ID 5,Amount 5,Open method 5,item ID 6,Amount 6,Open method 6,item ID 7,Amount 7,Open method 7,item ID 8,Amount 8,Open method 8,item ID 9,Amount 9,Open method 9,Notes
+index,int,O,int,int,array-int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,O
+950001001,195000101,500 Rubies,1,,,111222,500,,,,,,,,,,,,,,,,,,,,,,,,,,
+950001002,195000102,1000 Rubies,1,,,111222,1050,,,,,,,,,,,,,,,,,,,,,,,,,,
+950001003,195000103,2000 Rubies,1,,,111222,2150,,,,,,,,,,,,,,,,,,,,,,,,,,
+950001004,195000104,5000 Rubies,1,,,111222,5500,,,,,,,,,,,,,,,,,,,,,,,,,,
+950001005,195000105,10000 Rubies,1,,,111222,11250,,,,,,,,,,,,,,,,,,,,,,,,,,
+950001006,195000106,50000 Rubies,1,,,111222,57500,,,,,,,,,,,,,,,,,,,,,,,,,,
+950001007,195000107,100000 Rubies,1,,,111222,120000,,,,,,,,,,,,,,,,,,,,,,,,,,
+950005001,195000501,500 Rubies First Time Bonus,1,,,111222,1000,,,,,,,,,,,,,,,,,,,,,,,,,,
+950005002,195000502,1000 Rubies First Time Bonus,1,,,111222,2100,,,,,,,,,,,,,,,,,,,,,,,,,,
+950005003,195000503,2000 Rubies First Time Bonus,1,,,111222,4300,,,,,,,,,,,,,,,,,,,,,,,,,,
+950005004,195000504,5000 Rubies First Time Bonus,1,,,111222,11000,,,,,,,,,,,,,,,,,,,,,,,,,,
+950005005,195000505,10000 Rubies First Time Bonus,1,,,111222,22500,,,,,,,,,,,,,,,,,,,,,,,,,,
+950005006,195000506,50000 Rubies First Time Bonus,1,,,111222,115000,,,,,,,,,,,,,,,,,,,,,,,,,,
+950005007,195000507,100000 Rubies First Time Bonus,1,,,111222,240000,,,,,,,,,,,,,,,,,,,,,,,,,,

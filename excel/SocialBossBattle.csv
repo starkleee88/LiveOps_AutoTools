@@ -1,0 +1,21 @@
+﻿BossID,O,SelfBattleGroup,HelpBattleGroup,PlayerBattleEnergyRule,EnemyBattleEnergyRule,Scene,LevelName,Icon
+ID,Who is in the fight,Self-challenge combat group,Help the Fighting Group,Player energy configuration,Enemy Energy Configuration,Scene,Level Name,Level Image Configuration
+int,O,int,int,int,int,string,string,string
+13169,Croc/Cheetah,70101,70201,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13142,Harley/RedRobin,70102,70202,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13110,Firestorm/Superboy,70103,70203,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13135,Bane/Bizarro,70104,70204,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13103,WW/Zatanna,70105,70205,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13101,Superman/Starfire,70106,70206,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13128,Huntress/Canary,70107,70207,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13184,Stranger/Frankenstein,70108,70208,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13115,RedHood/Batman,70109,70209,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13109,Nightwing/Pandora,70110,70210,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13104,GreenArrow/Flash,70111,70211,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13151,Two-Face/Deathstroke,70112,70212,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13137,Freeze/Cold,70113,70213,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13147,Deadshot/Mirror,70114,70214,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13138,Penguin/Ivy,70115,70215,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13140,Grodd/Robin,70116,70216,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13133,Grodd/Sinestro,70117,70217,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03
+13131,Luthor/Frost,70118,70218,1,29,Battle_GCPD_1,CrisisWatchLevel11,ui_crisiswatch_img_bg03

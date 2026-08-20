@@ -1,0 +1,10 @@
+﻿ID,O,Content,O,O
+System Message ID,Behavior,"Dynamic Text
+Author:
+Linked to the commondesc table",Text Description,Channel
+index,,string,,
+101,Player joins guild,DynamicName1,"[Nathaniel] has joined the guild, welcome the newcomer!",
+102,Player leaves guild voluntarily or involuntarily,DynamicName2,[Nathaniel] found that their goals did not align with the guild and regrettably left.,
+103,Guild leader transfers leadership voluntarily,DynamicName3,"The guild leader transfer was successful, welcome [Nathaniel] as the new guild leader!",
+104,Guild leader is inactive for a long time and leadership is transferred involuntarily,DynamicName4,"The former guild leader was inactive for 14 days, and the original administrator [Nathaniel] has automatically become the new guild leader.",
+105,Guild upgrade,DynamicName5,"Thanks to everyone's continuous efforts, the guild level has been upgraded to level [3]. Congratulations!",

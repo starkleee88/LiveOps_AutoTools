@@ -1,0 +1,260 @@
+﻿ActivityID,GetDays,O,RewardID
+ID,Which Day?,Notes,Direct Match or Reward group
+index,index,O,int
+10001,1,Cyborg - Check In,19160111
+10001,2,Cyborg - Check In,19160112
+10001,3,Cyborg - Check In,19160113
+10001,4,Cyborg - Check In,19160114
+10001,5,Cyborg - Check In,19160115
+10001,6,Cyborg - Check In,19160116
+10001,7,Cyborg - Check In,19160117
+10101,1,Deathstroke - Check In,19160111
+10101,2,Deathstroke - Check In,19160151
+10101,3,Deathstroke - Check In,19160113
+10101,4,Deathstroke - Check In,19160152
+10101,5,Deathstroke - Check In,19160115
+10101,6,Deathstroke - Check In,19160116
+10101,7,Deathstroke - Check In,19160117
+10201,1,Sinestro - Check In,19160111
+10201,2,Sinestro - Check In,19160168
+10201,3,Sinestro - Check In,19160113
+10201,4,Sinestro - Check In,19160170
+10201,5,Sinestro - Check In,19160187
+10201,6,Sinestro - Check In,19160113
+10201,7,Sinestro - Check In,19160117
+10301,1,Martain Manhunter - Check In,19160197
+10301,2,Martain Manhunter - Check In,19160198
+10301,3,Martain Manhunter - Check In,19160199
+10301,4,Martain Manhunter - Check In,19160200
+10301,5,Martain Manhunter - Check In,19160201
+10301,6,Martain Manhunter - Check In,19160202
+10301,7,Martain Manhunter - Check In,19160203
+10401,1,Sinestro - Check In,19160111
+10401,2,Sinestro - Check In,19160168
+10401,3,Sinestro - Check In,19160113
+10401,4,Sinestro - Check In,19160170
+10401,5,Sinestro - Check In,19160187
+10401,6,Sinestro - Check In,19160113
+10401,7,Sinestro - Check In,19160117
+10501,1,Hal Jordan (GL) - Check In,19160197
+10501,2,Hal Jordan (GL) - Check In,19160219
+10501,3,Hal Jordan (GL) - Check In,19160199
+10501,4,Hal Jordan (GL) - Check In,19160220
+10501,5,Hal Jordan (GL) - Check In,19160201
+10501,6,Hal Jordan (GL) - Check In,19160202
+10501,7,Hal Jordan (GL) - Check In,19160203
+10601,1,Kyle Rayner - Check In,191319401
+10601,2,Kyle Rayner - Check In,191319402
+10601,3,Kyle Rayner - Check In,191319403
+10601,4,Kyle Rayner - Check In,191319404
+10601,5,Kyle Rayner - Check In,191319405
+10601,6,Kyle Rayner - Check In,191319406
+10601,7,Kyle Rayner - Check In,191319407
+10701,1,Sinestro - Check In,19160111
+10701,2,Sinestro - Check In,19160168
+10701,3,Sinestro - Check In,19160113
+10701,4,Sinestro - Check In,19160170
+10701,5,Sinestro - Check In,19160187
+10701,6,Sinestro - Check In,19160113
+10701,7,Sinestro - Check In,19160117
+10801,1,Sinestro - Check In,1920001620
+10801,2,Sinestro - Check In,1920001621
+10801,3,Sinestro - Check In,1920001622
+10801,4,Sinestro - Check In,1920001623
+10801,5,Sinestro - Check In,1920001624
+10801,6,Sinestro - Check In,1920001625
+10801,7,Sinestro - Check In,1920001626
+10901,1,Dr Fate - Check In,19160255
+10901,2,Dr Fate - Check In,19160256
+10901,3,Dr Fate - Check In,19160257
+10901,4,Dr Fate - Check In,19160258
+10901,5,Dr Fate - Check In,19160259
+10901,6,Dr Fate - Check In,19160260
+10901,7,Dr Fate - Check In,19160261
+11001,1,The Bride - Check In,1940001001
+11001,2,The Bride - Check In,1940001002
+11001,3,The Bride - Check In,1940001003
+11001,4,The Bride - Check In,1940001004
+11001,5,The Bride - Check In,1940001005
+11001,6,The Bride - Check In,1940001006
+11001,7,The Bride - Check In,1940001007
+11101,1,Superman DCU - Check In,1950001001
+11101,2,Superman DCU - Check In,1950001002
+11101,3,Superman DCU - Check In,1950001003
+11101,4,Superman DCU - Check In,1950001004
+11101,5,Superman DCU - Check In,1950001005
+11101,6,Superman DCU - Check In,1950001006
+11101,7,Superman DCU - Check In,1950001007
+11201,1,Peacemaker - Check In,1960001001
+11201,2,Peacemaker - Check In,1960001002
+11201,3,Peacemaker - Check In,1960001003
+11201,4,Peacemaker - Check In,1960001004
+11201,5,Peacemaker - Check In,1960001005
+11201,6,Peacemaker - Check In,1960001006
+11201,7,Peacemaker - Check In,1960001007
+11301,1,Swamp Thing - Check In,1970001001
+11301,2,Swamp Thing - Check In,1970001002
+11301,3,Swamp Thing - Check In,1970001003
+11301,4,Swamp Thing - Check In,1970001004
+11301,5,Swamp Thing - Check In,1970001005
+11301,6,Swamp Thing - Check In,1970001006
+11301,7,Swamp Thing - Check In,1970001007
+11401,1,Aquaman - Check in Day 1,1970002001
+11401,2,Aquaman - Check in Day 2,1970002002
+11401,3,Aquaman - Check in Day 3,1970002003
+11401,4,Aquaman - Check in Day 4,1970002004
+11401,5,Aquaman - Check in Day 5,1970002005
+11401,6,Aquaman - Check in Day 6,1970002006
+11401,7,Aquaman - Check in Day 7,1970002007
+11701,1,Superman DCU Re-Run - Check In Day 1,1980002001
+11701,2,Superman DCU Re-Run - Check In Day 2,1980002002
+11701,3,Superman DCU Re-Run - Check In Day 3,1980002003
+11701,4,Superman DCU Re-Run - Check In Day 4,1980002004
+11701,5,Superman DCU Re-Run - Check In Day 5,1980002005
+11701,6,Superman DCU Re-Run - Check In Day 6,1980002006
+11701,7,Superman DCU Re-Run - Check In Day 7,1980002007
+11601,1,General Zod - Check in Day 1,1980001001
+11601,2,General Zod - Check in Day 2,1980001002
+11601,3,General Zod - Check in Day 3,1980001003
+11601,4,General Zod - Check in Day 4,1980001004
+11601,5,General Zod - Check in Day 5,1980001005
+11601,6,General Zod - Check in Day 6,1980001006
+11601,7,General Zod - Check in Day 7,1980001007
+11801,1,The Joker - Check in Day 1,1980003001
+11801,2,The Joker - Check in Day 2,1980003002
+11801,3,The Joker - Check in Day 3,1980003003
+11801,4,The Joker - Check in Day 4,1980003004
+11801,5,The Joker - Check in Day 5,1980003005
+11801,6,The Joker - Check in Day 6,1980003006
+11801,7,The Joker - Check in Day 7,1980003007
+11901,1,Sinestro - Check In,1990003001
+11901,2,Sinestro - Check In,1990003002
+11901,3,Sinestro - Check In,1990003003
+11901,4,Sinestro - Check In,1990003004
+11901,5,Sinestro - Check In,1990003005
+11901,6,Sinestro - Check In,1990003006
+11901,7,Sinestro - Check In,1990003007
+12001,1,Nubia - Check In,1991003001
+12001,2,Nubia - Check In,1991003002
+12001,3,Nubia - Check In,1991003003
+12001,4,Nubia - Check In,1991003004
+12001,5,Nubia - Check In,1991003005
+12001,6,Nubia - Check In,1991003006
+12001,7,Nubia - Check In,1991003007
+12101,1,Black Adam - Check In,1992003001
+12101,2,Black Adam - Check In,1992003002
+12101,3,Black Adam - Check In,1992003003
+12101,4,Black Adam - Check In,1992003004
+12101,5,Black Adam - Check In,1992003005
+12101,6,Black Adam - Check In,1992003006
+12101,7,Black Adam - Check In,1992003007
+12201,1,Aquaman - Check in Day 1,1970002001
+12201,2,Aquaman - Check in Day 2,1970002002
+12201,3,Aquaman - Check in Day 3,1970002004
+12201,4,Aquaman - Check in Day 4,1970002005
+12201,5,Aquaman - Check in Day 5,1970002006
+12301,1,Nubia - Check In Day 1,1991003001
+12301,2,Nubia - Check In Day 2,1991003002
+12301,3,Nubia - Check In Day 3,1991003004
+12301,4,Nubia - Check In Day 4,1991003005
+12301,5,Nubia - Check In Day 5,1991003006
+12401,1,Artemis - Check In,1993003001
+12401,2,Artemis - Check In,1993003002
+12401,3,Artemis - Check In,1993003003
+12401,4,Artemis - Check In,1993003004
+12401,5,Artemis - Check In,1993003005
+12401,6,Artemis - Check In,1993003006
+12401,7,Artemis - Check In,1993003007
+12501,1,Black Adam - Check In Day 1,1994003001
+12501,2,Black Adam - Check In Day 2,1994003002
+12501,3,Black Adam - Check In Day 3,1994003004
+12501,4,Black Adam - Check In Day 4,1994003005
+12501,5,Black Adam - Check In Day 5,1994003006
+12601,1,Artemis - Check In Day 1,1995003001
+12601,2,Artemis - Check In Day 2,1995003002
+12601,3,Artemis - Check In Day 3,1995003004
+12601,4,Artemis - Check In Day 4,1995003005
+12601,5,Artemis - Check In Day 5,1995003006
+12701,1,Lobo - Check In,1996003001
+12701,2,Lobo - Check In,1996003002
+12701,3,Lobo - Check In,1996003003
+12701,4,Lobo - Check In,1996003004
+12701,5,Lobo - Check In,1996003005
+12701,6,Lobo - Check In,1996003006
+12701,7,Lobo - Check In,1996003007
+12801,1,BlackLightning - Check In,1996703001
+12801,2,BlackLightning - Check In,1996703002
+12801,3,BlackLightning - Check In,1996703003
+12801,4,BlackLightning - Check In,1996703004
+12801,5,BlackLightning - Check In,1996703005
+12801,6,BlackLightning - Check In,1996703006
+12801,7,BlackLightning - Check In,1996703007
+12901,1,Supergil DCU - Check In,1998003001
+12901,2,Supergil DCU - Check In,1998003002
+12901,3,Supergil DCU - Check In,1998003003
+12901,4,Supergil DCU - Check In,1998003004
+12901,5,Supergil DCU - Check In,1998003005
+12901,6,Supergil DCU - Check In,1998003006
+12901,7,Supergil DCU - Check In,1998003007
+13001,1,WhiteLantern - Check In,1996903001
+13001,2,WhiteLantern - Check In,1996903002
+13001,3,WhiteLantern - Check In,1996903004
+13001,4,WhiteLantern - Check In,1996903005
+13001,5,WhiteLantern - Check In,1996903006
+13101,1,BlackLightning_Rerun - Check In,1996803001
+13101,2,BlackLightning_Rerun - Check In,1996803002
+13101,3,BlackLightning_Rerun - Check In,1996803003
+13101,4,BlackLightning_Rerun - Check In,1996803004
+13101,5,BlackLightning_Rerun - Check In,1996803005
+13201,1,SupergirlDCU - Check In,1999003001
+13201,2,SupergirlDCU - Check In,1999003002
+13201,3,SupergirlDCU - Check In,1999003003
+13201,4,SupergirlDCU - Check In,1999003004
+13201,5,SupergirlDCU - Check In,1999003005
+13301,1,Lobo Rerun - Check In,1970003001
+13301,2,Lobo Rerun - Check In,1970003002
+13301,3,Lobo Rerun - Check In,1970003003
+13301,4,Lobo Rerun - Check In,1970003004
+13301,5,Lobo Rerun - Check In,1970003005
+13401,1,Absolute Wonder Woman - Check In,1100003001
+13401,2,Absolute Wonder Woman - Check In,1100003002
+13401,3,Absolute Wonder Woman - Check In,1100003003
+13401,4,Absolute Wonder Woman - Check In,1100003004
+13401,5,Absolute Wonder Woman - Check In,1100003005
+13401,6,Absolute Wonder Woman - Check In,1100003054
+13401,7,Absolute Wonder Woman - Check In,1100003055
+13501,1,Absolute Superman - Check In,1110003001
+13501,2,Absolute Superman - Check In,1110003002
+13501,3,Absolute Superman - Check In,1110003003
+13501,4,Absolute Superman - Check In,1110003004
+13501,5,Absolute Superman - Check In,1110003005
+13501,6,Absolute Superman - Check In,1110003054
+13501,7,Absolute Superman - Check In,1110003055
+13701,1,Absolute Batman - Check In,1120003001
+13701,2,Absolute Batman - Check In,1120003002
+13701,3,Absolute Batman - Check In,1120003003
+13701,4,Absolute Batman - Check In,1120003004
+13701,5,Absolute Batman - Check In,1120003005
+13701,6,Absolute Batman - Check In,1120003054
+13701,7,Absolute Batman - Check In,1120003055
+13801,1,Booster Gold - Check In,1300003001
+13801,2,Booster Gold - Check In,1300003002
+13801,3,Booster Gold - Check In,1300003003
+13801,4,Booster Gold - Check In,1300003004
+13801,5,Booster Gold - Check In,1300003005
+13801,6,Booster Gold - Check In,1300003054
+13801,7,Booster Gold - Check In,1300003055
+13901,1,Black Lightning - Check In,1310003001
+13901,2,Black Lightning - Check In,1310003002
+13901,3,Black Lightning - Check In,1310003003
+13901,4,Black Lightning - Check In,1310003004
+13901,5,Black Lightning - Check In,1310003005
+13901,6,Black Lightning - Check In,1310003006
+13901,7,Black Lightning - Check In,1310003007
+14001,1,Black Adam - Check In,1991403001
+14001,2,Black Adam - Check In,1991403002
+14001,3,Black Adam - Check In,1991403003
+14001,4,Black Adam - Check In,1991403004
+14001,5,Black Adam - Check In,1991403005
+14001,6,Black Adam - Check In,1991403006
+14001,7,Black Adam - Check In,1991403007

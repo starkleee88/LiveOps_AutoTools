@@ -1,0 +1,3 @@
+﻿Key,SequenceNum,O,Reward
+Ranking Number,"Target Ranking ≥ this value",Note,Ranking Rewards
+index,int,,int

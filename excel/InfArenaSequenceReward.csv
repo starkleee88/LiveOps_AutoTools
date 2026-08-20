@@ -1,0 +1,29 @@
+﻿Key,SequenceNum,KuafuType,O,ShowProfile,PersonalReward,GuildReward,RankName
+Ranking number,Desired rank (less than or equal to this value),"Cross server type
+0 does not cross server
+1 small cross server
+large cross server",Ranking,Displayed avatar frame,Personal Rewards,Guild Rewards,Rank shown in mail message
+index,int,,,int,int,int,string
+1,1,0,1st place,,19077007,19078007,InfArenaRank1
+2,2,0,2nd place,,19077006,19078006,InfArenaRank2
+3,4,0,3rd-4th,,19077005,19078005,InfArenaRank4
+4,8,0,5th-8th,,19077004,19078004,InfArenaRank8
+5,16,0,9th-16th,,19077003,19078003,InfArenaRank16
+6,32,0,17th-32nd,,19077002,19078002,InfArenaRank32
+7,64,0,33rd-64th,,19077001,19078001,InfArenaRank64
+8,1,1,1st place,,19077001,19078007,InfArenaRank1
+9,2,1,2nd place,,19077002,19078006,InfArenaRank2
+10,4,1,3rd-4th,,19077003,19078005,InfArenaRank4
+11,8,1,5th-8th,,19077004,19078004,InfArenaRank8
+12,16,1,9th-16th,,19077005,19078003,InfArenaRank16
+13,32,1,17th-32nd,,19077006,19078002,InfArenaRank32
+14,64,1,33rd-64th,,19077007,19078001,InfArenaRank64
+15,999,1,Group stage rewards,,19077007,,InfArenaK_Group
+16,1,2,1st place,,19077007,19078007,InfArenaRank1
+17,2,2,2nd place,,19077006,19078006,InfArenaRank2
+18,4,2,3rd-4th,,19077005,19078005,InfArenaRank4
+19,8,2,5th-8th,,19077004,19078004,InfArenaRank8
+20,16,2,9th-16th,,19077003,19078003,InfArenaRank16
+21,32,2,17th-32nd,,19077002,19078002,InfArenaRank32
+22,64,2,33rd-64th,,19077001,19078001,InfArenaRank64
+23,999,2,Group stage rewards,,19077000,19078000,InfArenaK_Group

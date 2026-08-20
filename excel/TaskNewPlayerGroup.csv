@@ -1,0 +1,10 @@
+﻿TaskGroupID,O,UnlockStage,TaskGroupName,TaskGroupDesc,TaskGroupIcon,TaskGroupBg,TaskGroupFinishBg,MainAllyDisplay,MainCollectionDisplay,MainItemDisplay,MainItemDisplay,MainItemDisplay,MainItemDisplay,MainItemDisplay
+Task Chapter ID,Note,Main story level unlocked,Task chapter name,Chapter descriptions,Chapter icon (small icon in upper right corner of chapter button),Chapter background image (poster image for chapter buttons),Chapter clearance background image,Core reward hero display,Core reward collection display (collection ID corresponding to CollectionInfo sheet),"Core reward item displayed (reward displayed, using item ID)",Core reward item displayed 2,Core reward item displayed 3,Core reward item displayed 4,Core reward item displayed 5
+index,,int,string,string,string,string,string,int,int,int,int,int,int,int
+101,Airship Travel Guide,303,TaskNPChapter1,TaskNPChapterDesc1,ui_newplayer_icon_04,ui_newplayer_img_xz01,ui_newplayer_img_tg01,,,1120016,1120015,1180002,1180003,111201
+102,Character Training Manual,312,TaskNPChapter2,TaskNPChapterDesc1,ui_newplayer_icon_02,ui_newplayer_img_xz03,ui_newplayer_img_tg03,,,1113102,1116008,111205,1116009,1113003
+103,Crisis Response Manual,403,TaskNPChapter3,TaskNPChapterDesc1,ui_newplayer_icon_01,ui_newplayer_img_xz04,ui_newplayer_img_tg04,,,1180008,1180005,111202,111211,111201
+104,Laboratory Collection Manual,415,TaskNPChapter4,TaskNPChapterDesc1,ui_newplayer_icon_05,ui_newplayer_img_xz05,ui_newplayer_img_tg05,,,1120031,1114006,111202,1120030,111207
+105,Real-time Surveillance Record,1230,TaskNPChapter6,TaskNPChapterDesc1,ui_newplayer_icon_06,ui_newplayer_img_xz06,ui_newplayer_img_tg07,,,1121003,111202,1121002,1121001,111201
+106,Shuttle Adventure Manual,509,TaskNPChapter5,TaskNPChapterDesc1,ui_newplayer_icon_03,ui_newplayer_img_xz02,ui_newplayer_img_tg06,,,1120015,111202,111209,111212,111210
+107,Space Exploration Manual,1330,TaskNPChapter7,TaskNPChapterDesc1,ui_newplayer_icon_04,ui_newplayer_img_xz07,ui_newplayer_img_tg08,,,1120016,1180008,1180005,111207,111201

@@ -1,0 +1,4 @@
+﻿MonthCardProID,O,PayNum,Day,FirstRecharge,ImmediateRewardItem,ImmediateRewardItemNum,DailyRewardItem,DailyRewardItemNum,Privilege,MailId,SkuId
+Monthly Card ID,Monthly Card Name,Product Price,Effective Days,Triggers First Purchase,Direct Reward,Direct Reward Quantity,Direct Reward,Direct Reward Quantity,Privilege Group,Resend Email ID,SKU ID from RechargeSKU.csv
+int,O,int,int,int,array_int,array_int,array_int,array_int,array_int,int,string
+9202,Premium Monthly Card,101999,30,1,111202,1280,111202,600,1|2,9202,superdiamonddaily20

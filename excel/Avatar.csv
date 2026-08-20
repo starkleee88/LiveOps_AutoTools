@@ -1,0 +1,137 @@
+﻿ProfileAvatarID,ProfileAvatarName,O,AvatarUnlockCondition,O,AvatarRelatedContent,AvatarLockTips,AvatarShowLock,AvatarRange
+Avatar ID,Avatar Name,Note,"Open Conditions - 
+1: Hero Gained
+2: Reward Delivery","Open Condition
+Note","Related Content - 
+Hero Gained = AllyID
+Reward Delivery = 
+AvatarItem Table ID",Unlock Prompt,"Display When Unlocked - 
+1: Display
+2: Do Not Display",Sort Order
+index,string,O,int,O,int,string,int,int
+1,profileavatarname1,Superman,1,Hero Gained,13101,avatarlocktips1,1,1
+2,profileavatarname2,Tactical Armor Batman,1,Hero Gained,13102,avatarlocktips2,1,2
+3,profileavatarname3,Wonder Woman,1,Hero Gained,13103,avatarlocktips3,1,3
+4,profileavatarname4,Crimson Runner The Flash,1,Hero Gained,13104,avatarlocktips4,1,4
+5,profileavatarname5,King of the Sea,1,Hero Gained,13105,avatarlocktips5,,5
+6,profileavatarname6,Martian Manhunter,1,Hero Gained,13106,avatarlocktips6,1,6
+7,profileavatarname7,Shazam!,1,Hero Gained,13107,avatarlocktips7,,7
+8,profileavatarname8,Doctor Fate,1,Hero Gained,13108,avatarlocktips8,1,8
+9,profileavatarname9,Nightwing,1,Hero Gained,13109,avatarlocktips9,1,9
+10,profileavatarname10,Superboy,1,Hero Gained,13110,avatarlocktips10,1,10
+11,profileavatarname11,Lightning Lad,1,Hero Gained,13111,avatarlocktips11,1,11
+12,profileavatarname12,Red Robin,1,Hero Gained,13112,avatarlocktips12,1,12
+13,profileavatarname13,Steel Bones,1,Hero Gained,13113,avatarlocktips13,1,13
+14,profileavatarname14,Constantine,1,Hero Gained,13114,avatarlocktips14,1,14
+15,profileavatarname15,Red Hood,1,Hero Gained,13115,avatarlocktips15,1,15
+16,profileavatarname16,Meera,1,Hero Gained,13116,avatarlocktips16,,16
+17,profileavatarname17,Catwoman,1,Hero Gained,13117,avatarlocktips17,1,17
+18,profileavatarname18,Firestorm,1,Hero Gained,13118,avatarlocktips18,1,18
+19,profileavatarname19,Green Arrow,1,Hero Gained,13119,avatarlocktips19,1,19
+20,profileavatarname20,Robin,1,Hero Gained,13120,avatarlocktips20,1,20
+21,profileavatarname21,Zatanna,1,Hero Gained,13121,avatarlocktips21,1,21
+22,profileavatarname22,Starfire,1,Hero Gained,13122,avatarlocktips22,1,22
+23,profileavatarname23,Hawkgirl,1,Hero Gained,13123,avatarlocktips23,,23
+24,profileavatarname24,Time Traveler The Flash,1,Hero Gained,13124,avatarlocktips24,,24
+25,profileavatarname25,Batman,1,Hero Gained,13125,avatarlocktips25,,25
+26,profileavatarname26,Black Canary,1,Hero Gained,13126,avatarlocktips26,1,26
+27,profileavatarname27,Panthera,1,Hero Gained,13127,avatarlocktips27,1,27
+28,profileavatarname28,Huntress,1,Hero Gained,13128,avatarlocktips28,1,28
+29,profileavatarname29,King Shark,1,Hero Gained,13129,avatarlocktips29,1,29
+30,profileavatarname30,Batgirl,1,Hero Gained,13130,avatarlocktips30,1,30
+31,profileavatarname31,Lex Luthor,1,Hero Gained,13131,avatarlocktips31,1,31
+32,profileavatarname32,Joker,1,Hero Gained,13132,avatarlocktips32,1,32
+33,profileavatarname33,Senisto,1,Hero Gained,13133,avatarlocktips33,1,33
+34,profileavatarname34,Black Adam,1,Hero Gained,13134,avatarlocktips34,1,34
+35,profileavatarname35,Bizarro,1,Hero Gained,13135,avatarlocktips35,1,35
+36,profileavatarname36,Raven,1,Hero Gained,13136,avatarlocktips36,1,36
+37,profileavatarname37,Captain Cold,1,Hero Gained,13137,avatarlocktips37,1,37
+38,profileavatarname38,Poison Ivy Lady,1,Hero Gained,13138,avatarlocktips38,1,38
+39,profileavatarname39,Bane,1,Hero Gained,13139,avatarlocktips39,1,39
+40,profileavatarname40,Gorilla Grodd,1,Hero Gained,13140,avatarlocktips40,1,40
+41,profileavatarname41,Frostbite,1,Hero Gained,13141,avatarlocktips41,,41
+42,profileavatarname42,Joker Woman,1,Hero Gained,13142,avatarlocktips42,1,42
+43,profileavatarname43,Black Manta,1,Hero Gained,13143,avatarlocktips43,1,43
+44,profileavatarname44,Captain Boomerang,1,Hero Gained,13144,avatarlocktips44,1,44
+45,profileavatarname45,Scarecrow,1,Hero Gained,13145,avatarlocktips45,1,45
+46,profileavatarname46,Dr. Neuro,1,Hero Gained,13146,avatarlocktips46,,46
+47,profileavatarname47,Mirror Master,1,Hero Gained,13147,avatarlocktips47,1,47
+48,profileavatarname48,Penguin Man,1,Hero Gained,13148,avatarlocktips48,1,48
+49,profileavatarname49,Sea Lord,1,Hero Gained,13149,avatarlocktips49,,49
+50,profileavatarname50,Death Shooter,1,Hero Gained,13150,avatarlocktips50,1,50
+51,profileavatarname51,Deathstroke,1,Hero Gained,13151,avatarlocktips51,1,51
+52,profileavatarname52,Green Lantern Hal,1,Hero Gained,13152,avatarlocktips52,1,52
+53,profileavatarname53,Mr. Freeze,1,Hero Gained,13153,avatarlocktips53,1,53
+56,profileavatarname56,Zanzar,1,Hero Gained,13156,avatarlocktips56,,56
+57,profileavatarname57,Deathstorm,1,Hero Gained,13157,avatarlocktips57,,57
+58,profileavatarname58,Power Rings - Hal Jordan,1,Hero Gained,13158,avatarlocktips58,,58
+59,profileavatarname59,Johnny Quick,1,Hero Gained,13159,avatarlocktips59,,59
+60,profileavatarname60,Super Queen,1,Hero Gained,13160,avatarlocktips60,,60
+61,profileavatarname61,Ninja Master,1,Hero Gained,13161,avatarlocktips61,,61
+62,profileavatarname62,Super Fighter,1,Hero Gained,13162,avatarlocktips62,,62
+63,profileavatarname63,Night Lords,1,Hero Gained,13163,avatarlocktips63,,63
+64,profileavatarname64,Rings of Frenzy,1,Hero Gained,13164,avatarlocktips64,,64
+65,profileavatarname65,Lady Shangdu,1,Hero Gained,13165,avatarlocktips65,,65
+66,profileavatarname66,Grid,1,Hero Gained,13166,avatarlocktips66,,66
+68,profileavatarname68,Red Arrow,1,Hero Gained,13168,avatarlocktips68,,68
+69,profileavatarname69,Killer Croc,1,Hero Gained,13169,avatarlocktips69,1,69
+70,profileavatarname70,Green Lantern,1,Hero Gained,13170,avatarlocktips70,1,70
+71,profileavatarname71,Two-Face,1,Hero Gained,13171,avatarlocktips71,1,71
+72,profileavatarname72,Red Lantern,1,Hero Gained,13172,avatarlocktips72,,72
+73,profileavatarname73,Mudface,1,Hero Gained,13173,avatarlocktips73,1,73
+82,profileavatarname82,Dr. Light,1,Hero Gained,13182,avatarlocktips82,,82
+83,profileavatarname83,Dead Man,1,Hero Gained,13183,avatarlocktips83,,83
+84,profileavatarname84,Frankenstein,1,Hero Gained,13184,avatarlocktips84,1,84
+85,profileavatarname85,Phantom Stranger,1,Hero Gained,13185,avatarlocktips85,1,85
+86,profileavatarname86,The Questioner,1,Hero Gained,13186,avatarlocktips86,1,86
+87,profileavatarname87,Pandora,1,Hero Gained,13187,avatarlocktips87,1,87
+88,profileavatarname88,Swamp Thing,1,Hero Gained,13212,avatarlocktips88,1,88
+94,profileavatarname94,White Lantern Kyle,1,Hero Gained,13194,avatarlocktips94,1,94
+95,profileavatarname95,Green Lantern John,1,Hero Gained,13195,avatarlocktips95,1,95
+96,profileavatarname96,Starblazer Carol,1,Hero Gained,13196,avatarlocktips96,1,96
+901,profileavatarname901,Paradise Island Soldier-Guard,1,Hero Gained,13901,avatarlocktips901,1,901
+902,profileavatarname902,Paradise Island Soldieress - Auxiliary,1,Hero Gained,13902,avatarlocktips902,1,902
+903,profileavatarname903,Paradise Island Soldieress-Warrior,1,Hero Gained,13903,avatarlocktips903,1,903
+904,profileavatarname904,Paradise Island Soldieress-Archer,1,Hero Gained,13904,avatarlocktips904,1,904
+905,profileavatarname905,Mercenary - Guardian,1,Hero Gained,13905,avatarlocktips905,1,905
+906,profileavatarname906,Mercenary-Healer,1,Hero Gained,13906,avatarlocktips906,1,906
+907,profileavatarname907,Mercenary - Assault,1,Hero Gained,13907,avatarlocktips907,1,907
+908,profileavatarname908,Mercenary - Gunner,1,Hero Gained,13908,avatarlocktips908,1,908
+909,profileavatarname909,Mechanical Guard-alpha,1,Hero Gained,13909,avatarlocktips909,1,909
+910,profileavatarname910,Mechanical Guard - Type β,1,Hero Gained,13910,avatarlocktips910,1,910
+911,profileavatarname911,Mechanical Guard - Gamma,1,Hero Gained,13911,avatarlocktips911,1,911
+912,profileavatarname912,Mechanical Guard - Type δ,1,Hero Gained,13912,avatarlocktips912,1,912
+97,profileavatarname97,Jarson,1,Hero Gained,13200,avatarlocktips97,,97
+98,profileavatarname98,Blue Beetle,1,Hero Gained,13201,avatarlocktips98,1,98
+99,profileavatarname99,Mera,1,Hero Gained,13202,avatarlocktips99,1,99
+100,profileavatarname100,Shazam,1,Hero Gained,13107,avatarlocktips100,,100
+101,profileavatarname101,Isis,1,Hero Gained,13203,avatarlocktips101,,101
+102,profileavatarname102,Oceanmaster,1,Hero Gained,13149,avatarlocktips102,1,102
+103,profileavatarname103,Weasel,1,Hero Gained,13220,avatarlocktips103,1,103
+104,profileavatarname104,Dr. Phosphorous,1,Hero Gained,13219,avatarlocktips104,1,104
+105,profileavatarname105,The Bride,1,Hero Gained,13218,avatarlocktips105,1,105
+106,profileavatarname106,Guy Gardner ,1,Hero Gained,13213,avatarlocktips106,1,106
+107,profileavatarname107,Mister Terrific,1,Hero Gained,13216,avatarlocktips107,1,107
+108,profileavatarname108,Superman (DCU),1,Hero Gained,13236,avatarlocktips108,1,108
+109,profileavatarname109,Supergirl,1,Hero Gained,13206,avatarlocktips109,1,109
+110,profileavatarname110,Vixen,1,Hero Gained,13207,avatarlocktips110,1,110
+111,profileavatarname111,Bloodsport,1,Hero Gained,13208,avatarlocktips111,1,111
+112,profileavatarname112,Peacemaker,1,Hero Gained,13227,avatarlocktips112,1,112
+113,profileavatarname113,Vigilante,1,Hero Gained,13226,avatarlocktips113,1,113
+114,profileavatarname114,Judomaster,1,Hero Gained,13234,avatarlocktips114,1,114
+115,profileavatarname115,Aquaman,1,Hero Gained,13105,avatarlocktips115,1,115
+116,profileavatarname116,Cheshire,1,Hero Gained,13210,avatarlocktips116,1,116
+117,profileavatarname117,Doctor Poison,1,Hero Gained,13211,avatarlocktips117,1,117
+118,profileavatarname118,General Zod,1,Hero Gained,13209,avatarlocktips118,1,118
+119,profileavatarname119,Killer Frost,1,Hero Gained,13141,avatarlocktips119,1,119
+120,profileavatarname120,Punch Line,1,Hero Gained,13217,avatarlocktips120,1,120
+121,profileavatarname121,Hugo Strange,1,Hero Gained,13214,avatarlocktips121,1,121
+122,profileavatarname122,Artemis,1,Hero Gained,13233,avatarlocktips122,1,122
+123,profileavatarname123,Yara Flor,1,Hero Gained,13232,avatarlocktips123,1,123
+124,profileavatarname124,Nubia,1,Hero Gained,13231,avatarlocktips124,1,124
+125,profileavatarname125,Lobo,1,Hero Gained,13267,avatarlocktips125,1,125
+126,profileavatarname126,Ruthye (DCU),1,Hero Gained,13268,avatarlocktips126,1,126
+127,profileavatarname127,Supergirl (DCU),1,Hero Gained,13266,avatarlocktips127,1,127
+128,profileavatarname128,Black Lightning,1,Hero Gained,13269,avatarlocktips128,1,128
+129,profileavatarname129,Absolute Batman,1,Hero Gained,13238,avatarlocktips129,1,129
+130,profileavatarname130,Absolute Superman,1,Hero Gained,13239,avatarlocktips130,1,130

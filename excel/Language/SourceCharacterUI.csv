@@ -1,0 +1,836 @@
+﻿Key,Module,Explanation,en
+Index,Function Module,Description,English
+string,,,string
+BadgeDesc153,,,BadgeDesc153 PLACEHOLDER
+BadgeSkillDesc1325301,,,BadgeSkillDesc1325301 PLACEHOLDER
+BadgeSkillDesc1325302,,,BadgeSkillDesc1325302 PLACEHOLDER
+BadgeSkillDesc1325303,,,BadgeSkillDesc1325303 PLACEHOLDER
+BadgeSkillName13253,,,BadgeSkillName13253 PLACEHOLDER
+Character_Identity1_13253,,,Character_Identity1_13253 PLACEHOLDER
+Character_Identity2_13253,,,Character_Identity2_13253 PLACEHOLDER
+Character_RecordDesc_13253_1,,,Character_RecordDesc_13253_1 PLACEHOLDER
+Character_RecordDesc_13253_2,,,Character_RecordDesc_13253_2 PLACEHOLDER
+Character_RecordTitle_13253_1,,,Character_RecordTitle_13253_1 PLACEHOLDER
+Character_RecordTitle_13253_2,,,Character_RecordTitle_13253_2 PLACEHOLDER
+Character_RemarkDesc1_13253_1,,,Character_RemarkDesc1_13253_1 PLACEHOLDER
+Character_RemarkDesc1_13253_2,,,Character_RemarkDesc1_13253_2 PLACEHOLDER
+Character_RemarkDesc2_13253_1,,,Character_RemarkDesc2_13253_1 PLACEHOLDER
+Character_RemarkDesc2_13253_2,,,Character_RemarkDesc2_13253_2 PLACEHOLDER
+Character_RemarkDesc3_13253_1,,,Character_RemarkDesc3_13253_1 PLACEHOLDER
+Character_RemarkDesc3_13253_2,,,Character_RemarkDesc3_13253_2 PLACEHOLDER
+Character_RemarkName_13253_1,,,Character_RemarkName_13253_1 PLACEHOLDER
+Character_RemarkName_13253_2,,,Character_RemarkName_13253_2 PLACEHOLDER
+Character_RemarkName_13253_3,,,Character_RemarkName_13253_3 PLACEHOLDER
+Character_Weakness1_13253,,,Character_Weakness1_13253 PLACEHOLDER
+Character_Weakness2_13253,,,Character_Weakness2_13253 PLACEHOLDER
+Character_Weapon1_13253,,,Character_Weapon1_13253 PLACEHOLDER
+Character_Weapon2_13253,,,Character_Weapon2_13253 PLACEHOLDER
+CharacterEyes_13253,,,CharacterEyes_13253 PLACEHOLDER
+CharacterHair_13253,,,CharacterHair_13253 PLACEHOLDER
+CharacterHeight_13253,,,CharacterHeight_13253 PLACEHOLDER
+CharacterIntro_13253,,,CharacterIntro_13253 PLACEHOLDER
+CharacterName_13253,,,Cassandra Cain
+CharacterRealname_13253,,,CharacterRealname_13253 PLACEHOLDER
+CharacterSaying_13253,,,CharacterSaying_13253 PLACEHOLDER
+CharacterShowName_13253,,,CharacterShowName_13253 PLACEHOLDER
+CharacterWeight_13253,,,CharacterWeight_13253 PLACEHOLDER
+ItemDesc1113253,,,ItemDesc1113253 PLACEHOLDER
+ItemName1113253,,,ItemName1113253 PLACEHOLDER
+RoomDialogue1325301,,,RoomDialogue1325301 PLACEHOLDER
+RoomDialogue1325302,,,RoomDialogue1325302 PLACEHOLDER
+RoomDialogue1325303,,,RoomDialogue1325303 PLACEHOLDER
+RoomDialogue1325304,,,RoomDialogue1325304 PLACEHOLDER
+RoomDialogue1325305,,,RoomDialogue1325305 PLACEHOLDER
+SkillName1325301,,,Basic Skill Name
+SkillName132530101,,,Level 1 Placeholder Description
+SkillName132530102,,,Level 2 Placeholder Description
+SkillName132530103,,,Level 3 Placeholder Description
+SkillName1325302,,,Ultimate Skill Name
+SkillName132530201,,,Level 1 Placeholder Description
+SkillName132530202,,,Level 2 Placeholder Description
+SkillName132530203,,,Level 3 Placeholder Description
+SkillName1325303,,,Advanced Skill Name
+SkillName132530301,,,Level 1 Placeholder Description
+SkillName132530302,,,Level 2 Placeholder Description
+SkillName132530303,,,Level 3 Placeholder Description
+COMMON_Tags,Hero Filters,Tags title,Tags
+COMMON_Camps,Hero Filters,Camps title,Regions and Affiliations
+Clear_Filters,Hero Filters,Clear filters button,Clear Filters
+SkillName1620015,,,Poison Enhance
+SkillName162001501,,,Increases HP by [SkillParam_2].
+SkillName162001502,,,[buff1_4] Damage Ampfliciation increases [SkillParam_4_%].
+SkillName162001503,,,[buff1_4] Damage Resistance increases by [SkillParam_6_%].\n\nNow the bearer's HP increases by [SkillParam_2].
+SkillName1610015,,,Nightshade Perfume
+SkillName161001501,,,Inflicts Enemies who attack the bearer with [buff1_2] Stacks of [buff1_4] for [buff1_5] Turns.
+SkillName161001502,,,The bearer takes [SkillParam_1_%] less Damage from Basic Skills.
+SkillName161001503,,,"Whenever the bearer uses their Ultimate, Nightshade Perfume will Cleanse [SkillParam_2] Stack of a random Debuff from them. All Allies will also be Cleansed of [buff2_4]."
+Artifact_Desc244010,,,"An intoxicating blend of botanicals, this Nightshade Perfume is the product of Dr. Pamela Isley, better known as Poison Ivy. Exclusively equippable by Poison characters, all Enemies who get a whiff of its scent will be inflicted with Poison. Conversely, its wearer will find themself reinvigorated and sturdier than ever."
+Artifact_Name244010,,,Nightshade Perfume
+ItemDesc1123022,,,Nightshade Perfume Fragment. Can be used to rank up the corresponding artifact.
+ItemName1123022,,,Nightshade Perfume Fragment
+BadgeDesc132,,,Future Wonder Woman
+SkillName3021201,,,Avatar of the Rot
+SkillName302120101,,,"Emerges from the ground to spray the opposing team with his foul breath, inflicting [buff1_2] Stacks of [buff1_4] on all Enemies.\n\nSethe - Avatar of the Rot's Attack Power equals that of the Ally with the highest Attack Power."
+SkillName302120102,,,Sethe - Avatar of the Rot also inflicts [buff2_2] stacks of [buff2_4] on all Enemies for 4 Turns.
+SkillName302120103,,,"When activated, Sethe - Avatar of the Rot now triggers Damage on all Enemy [buff1_4] stacks."
+SkillName302120104,,,Sethe - Avatar of the Rot now inflicts [buff2_2] Stacks of [buff2_4].
+SkillName302120105,,,Sethe - Avatar of the Rot now Heals all Allies for an equal portion of double the amount of triggered [buff1_4] Damage.
+ItemDesc1120047,,,Sethe - Avatar of the Rot unlock item.
+ItemName1120047,,,Sethe - Avatar of the Rot Fragment
+CharacterName_30212,,,[PLACEHOLDER] Sethe - Avatar of Rot
+SkillName2122401,,,Phantom Reprisal
+SkillName212240101,,,"During battle, increase Attack by 10%. When taking a fatal attack, General Zod will immediately get a new Turn."
+BadgeDesc134,Badge Name,Judomaster,Convergence of Energy
+Relation_EffDes_2201,Team Synergy,Artemis,"All deployed Allies' Attack, HP, and Defense [+6%].\n\nWhen attacked, an ally will gain 1 Stack of Recuperate for 1 Turn. This effect can happen once to each ally per round."
+Relation_EffDes_2202,Team Synergy,Artemis,"All deployed Allies' Attack, HP, and Defense [+9%].\n\nWhen attacked, an ally will gain 1 Stack of Recuperate for 1 Turn. This effect can happen twice to each ally per round."
+Relation_EffDes_2203,Team Synergy,Artemis,"All deployed Allies' Attack, HP, and Defense [+12%]. \n\nWhen attacked, an ally will gain 1 Stack of Recuperate for 1 Turn. This effect can happen twice to each ally per round. \n\nAt the start of each Round, Back Row allies gain up to 2 Stacks of Redirect. Redirect can no longer be Dispelled."
+Relation_EffDes_2001,,,"All deployed Allies' Attack, HP, and Defense [+6%]. Whenever you inflict Armor Break, a random Anti-Hero Ally gains 2 Stacks of Hard Hit."
+Relation_EffDes_2002,,,"All deployed Allies' Attack, HP, and Defense [+9%]. Whenever you inflict Armor Break, a random Anti-Hero Ally gains 2 Stacks of Hard Hit.\n\nAt the start of each Round, all Allies gain 2 Stacks of Hard Hit."
+Relation_EffDes_2003,,,"All deployed Allies' Attack, HP, and Defense [+12%]. Whenever you inflict Armor Break, a random Anti-Hero Ally gains 2 Stacks of Hard Hit.\n\nAt the start of each Round, all Allies gain 2 Stacks of Hard Hit.\n\nIn addition, all Allies perform a Counterattack with [100%] Lifesteal on the first Enemy who uses their Ultimate."
+CharacterName_13211,,,Doctor Poison
+CharacterShowName_13211,,,Doctor Poison
+CharacterRealname_13211,,,Marina Maru
+CharacterHeight_13211,,,"5'4"""
+CharacterWeight_13211,,,110 lbs. (49.89 kg)
+CharacterHair_13211,,,Black
+CharacterEyes_13211,,,Brown
+CharacterIntro_13211,,,"Colonel Marina Maru is a former Japanese soldier and the current leader of Poison, a private paramilitary group with a deadly reputation. True to her moniker, Doctor Poison is an expert toxicologist who has weaponized and developed all manner of poisons, chemicals, and bio-agents. Her most notable creation is the Maru Virus, which turns all those infected uncontrollably violent and murderous."
+CharacterSaying_13211,,,"A Japanese soldier turned paramilitary mercenary, Doctor Poison is an expert toxicologist with a sadistic streak who engineers and weaponizes her own poisons."
+Character_Identity1_13211,,,Doctor Poison left the Japanese military to form a paramilitary group.
+Character_Identity2_13211,,,"Marina Maru was once a colonel in the Japanese military, where she developed her tactical, analytic, and leadership abilities. At some point, Marina decided to leave the service to form her own paramilitary group. There she was able to pursue her true passion and her family's business—poisons, even going so far as to name the group itself Poison. A genius toxicologist untethered by a sense of morality or ethics, she has developed and perfected the lethality of countless poisons, toxins, and chemicals. Perhaps the most dangerous of them all is her signature Maru Virus, a bio-agent based off of Soviet combat drugs from the Cold War. It floods its victims with adrenaline and impairs their reasoning, driving them to commit insatiable violence and even murder."
+Character_Weapon1_13211,,,Doctor Poison has an arsenal of poisons and chemicals at her disposal.
+Character_Weapon2_13211,,,"Whether it's delivered via syringe or gas, Doctor Poison has found a way to weaponize all manner of poisons, toxins, chemicals, and bio-agents. That, combined with her tactical mind and military training make her a deadly threat."
+Character_Weakness1_13211,,,"Without access to her poisons, Doctor Poison is relatively defenseless."
+Character_Weakness2_13211,,,"Though Doctor Poison is skilled in firearms and hand-to-hand combat, depriving her of access to her poisons greatly diminishes her threat capacity. Likewise, an immunity to poisons could take the sting out of her attacks. She has also proven to be susceptible to at least some of her own poisons, should one find a way to use them against her."
+Character_RemarkName_13211_1,Character Remark Giver,Cheshire 1,Wonder Woman
+Character_RemarkName_13211_2,Character Remark Giver,Cheshire 2,The Cheetah
+Character_RemarkDesc1_13211_1,Character Remark Brief,Wonder Woman about Cheshire,Doctor Poison is one of Ares' most dangerous pawns.
+Character_RemarkDesc1_13211_2,Character Remark Extended,Wonder Woman about Cheshire,"No human being is inherently bad. Light and darkness exists within them all, and each has the capacity to choose to do the right thing. Of this, I am certain. But I must admit, Doctor Poison's cruelty and callous disregard for life has made me question this cherished belief. Ares truly has found himself a valuable pawn in this one."
+Character_RemarkDesc2_13211_1,Character Remark Brief,The Cheetah about Cheshire,Anyone who allies themself with Veronica Cale is my enemy.
+Character_RemarkDesc2_13211_2,Character Remark Extended,The Cheetah about Cheshire,"Under other circumstances, Doctor Poison and I might've been friends. After all, I can rrrrespect a woman who's willing to do whatever it takes to get what she wants. But Doctor Poison made the mistake of associating with Veronica Cale. Even worse, she took pleasure in torturing and experimenting on me. And that's something I will never forgive."
+Character_RecordTitle_13211_1,Secret Records Name,Cheshire 1,The Best Money Can Buy
+Character_RecordTitle_13211_2,Secret Records Name,Cheshire 2,Scientist or Sadist
+Character_RecordDesc_13211_1,Secret Records Excerpt,Cheshire 1,"Steve Trevor (narrating): When I saw the helo I thought we were going to be okay. I really did. Figured, well, it's a Russian ride, but you take what you can get. Beggars can't be choosers, right?\n\nSteve Trevor (narrating): Then the doors opened and they deployed and I knew we were in trouble. Colonel Marina Maru. If that rings a bell, it should. She named her team after the family business. Poison.\n\nSteve Trevor (narrating): Whoever is coming after you has money to spend on the best, Diana. Poison knows what they're doing. They saw the trail sign and started straight for you. They didn't talk, they didn't make noise, they moved with discipline and confidence. They were as good as my guys, as Davy and Manny and Chris... maybe better.\n\n(Source: Wonder Woman (Volume 5) #13 pg. 13)"
+Character_RecordDesc_13211_2,Secret Records Excerpt,Cheshire 2,"Doctor Poison: We're still running tests on her, Ms. Cale.\n\nDoctor Poison: No. My gut isn't telling me anything. And being a scientist, I don't trust guesswork, even on my best day. The facts then? As I said, hopefully we'll know more when we're through with our tests.\n\nDoctor Poison: All we know is one minute the Cheetah was how she's been since her recapture. Our ""lab cat"", so to speak. Unwilling, yes, but pliant enough when my men employed a strong enough cattle prod.\n\nDoctor Poison: Then today—with no warning—she slipped into a coma. No, she's completely unresponsive. My team is about to re-scan her brain for any new sign of activity, but our initial findings show she's almost flatlined.\n\nDoctor Poison: No, I said almost. Don't worry, there is life in there somewhere... it's just got to wake itself.\n\n(Source: Wonder Woman (Volume 5) #46 pg. 7 - 8)"
+RoomDialogue1321101,Lobby Dialogue,Cheshire 1,You're going to feel a little prick… then pain like you've never felt before.
+RoomDialogue1321102,Lobby Dialogue,Cheshire 1,I'm afraid apples don't work on me.
+RoomDialogue1321103,Lobby Dialogue,Cheshire 1,I could always use another test subject.
+RoomDialogue1321104,Lobby Dialogue,Cheshire 1,"Awww, what's the matter? Afraid of needles?"
+RoomDialogue1321105,Lobby Dialogue,Cheshire 1,The doctor will kill you now.
+SkillName1321101,,,Outbreak
+SkillName132110101,,,"Injects an Enemy with an infectious agent, dealing Physical Damage equal to [SkillParam_1_%] of her Attack and inflicting [buff1_2] Stack of [buff1_4] for [buff1_5] Turns.\n\nIf the target is already infected with Poison, Outbreak has a [SkillParam_2]% chance to Ricochet to another Enemy. That Enemy also receives Physical Damage equal to 100% of Doctor Poison's Attack and 1 Stack of Poison for 2 Turns.\n\nEvery Enemy that Outbreak Ricochets onto also has a [SkillParam_2]% chance to cause it to Ricochet onto an additional target."
+SkillName132110102,,,The chance that Outbreak Ricochets increases to [SkillParam_2]%.
+SkillName132110103,,,The chance that Outbreak Ricochets increases again to [SkillParam_2]%.
+SkillName1321102,,,The Perfect Poison
+SkillName132110201,,,"Mixes up a caustic concoction that she then hurls at the Enemy team, inflicting [buff1_2] Stack of [buff1_4] on all Enemies for [buff1_5] Turns.\n\nHer potion is so potent that all existing Stacks of [buff1_4] on Enemies with fewer than [SkillParam_2] Turns left in duration get extended to [SkillParam_2] Turns."
+SkillName132110202,,,The chance that Enemies will take a Critical Hit from Poison Damage inflicted by any Ally increases by [SkillParam_1_%] for the rest of the battle.
+SkillName132110203,,,[buff1_4] inflicted by The Perfect Poison now lasts for [buff1_5] Turns.\n\nAll existing Stacks of [buff1_4] on Enemies with fewer than [SkillParam_2] Turns left in duration also get extended to [SkillParam_2] Turns.
+SkillName1321103,,,Toxic Mist
+SkillName132110301,,,"Lobs a smoke grenade that engulfs the entire Enemy team in toxic gas, inflicting [buff1_2] Stacks of [buff1_4] for [buff1_5] Turn."
+SkillName132110302,,,Toxic Mist now triggers [buff1_4] Damage on all Enemies.
+SkillName132110303,,,Poison inflicted by Toxic Mist now lasts [buff1_5] Turns.
+SkillName1321104,,,Corrosive Compound
+SkillName132110401,,,"Doctor Poison engineered her concoctions to be most effective on healthy bodies and to sap their vitality.\n\nAll Poison deals [SkillParam_1_%] extra Damage to Enemies with more than [SkillParam_3_%] of their Maximum HP remaining.\n\nWhenever Enemies take Poison Damage, all Allies are Healed for an equal portion of [SkillParam_2_%] of the Damage dealt."
+SkillName132110402,,,Poison now deals [SkillParam_1_%] extra Damage to Enemies with greater than [SkillParam_3_%] of their Maximum HP remaining.
+SkillName132110403,,,Now Enemies with more than [SkillParam_3_%] of their Maximum HP remaining take extra Damage from Poison.
+BadgeSkillName13211,,,Outbreak
+BadgeSkillDesc1321101,,,Any Stacks of Poison added by Outbreak now last for 3 Turns.
+BadgeSkillDesc1321102,,,"If Outbreak's target has 0 Stacks of Poison already on them, Outbreak will inflict them with 2 Stacks of Poison."
+BadgeSkillDesc1321103,,,"If Outbreak's target has 0 Stacks of Poison on them, Outbreak Ricochets to another Enemy."
+BadgeDesc128,,,BadgeDesc128 PLACEHOLDER
+BadgeSkillDesc1322801,,,BadgeSkillDesc1322801 PLACEHOLDER
+BadgeSkillDesc1322802,,,BadgeSkillDesc1322802 PLACEHOLDER
+BadgeSkillDesc1322803,,,BadgeSkillDesc1322803 PLACEHOLDER
+BadgeSkillName13228,,,BadgeSkillName13228 PLACEHOLDER
+Character_Identity1_13228,,,Character_Identity1_13228 PLACEHOLDER
+Character_Identity2_13228,,,Character_Identity2_13228 PLACEHOLDER
+Character_RecordDesc_13228_1,,,Character_RecordDesc_13228_1 PLACEHOLDER
+Character_RecordDesc_13228_2,,,Character_RecordDesc_13228_2 PLACEHOLDER
+Character_RecordDesc_13228_3,,,Character_RecordDesc_13228_3 PLACEHOLDER
+Character_RecordTitle_13228_1,,,Character_RecordTitle_13228_1 PLACEHOLDER
+Character_RecordTitle_13228_2,,,Character_RecordTitle_13228_2 PLACEHOLDER
+Character_RecordTitle_13228_3,,,Character_RecordTitle_13228_3 PLACEHOLDER
+Character_RemarkDesc1_13228_1,,,Character_RemarkDesc1_13228_1 PLACEHOLDER
+Character_RemarkDesc1_13228_2,,,Character_RemarkDesc1_13228_2 PLACEHOLDER
+Character_RemarkDesc2_13228_1,,,Character_RemarkDesc2_13228_1 PLACEHOLDER
+Character_RemarkDesc2_13228_2,,,Character_RemarkDesc2_13228_2 PLACEHOLDER
+Character_RemarkName_13228_1,,,Character_RemarkName_13228_1 PLACEHOLDER
+Character_RemarkName_13228_2,,,Character_RemarkName_13228_2 PLACEHOLDER
+Character_Weakness1_13228,,,Character_Weakness1_13228 PLACEHOLDER
+Character_Weakness2_13228,,,Character_Weakness2_13228 PLACEHOLDER
+Character_Weapon1_13228,,,Character_Weapon1_13228 PLACEHOLDER
+Character_Weapon2_13228,,,Character_Weapon2_13228 PLACEHOLDER
+CharacterEyes_13228,,,CharacterEyes_13228 PLACEHOLDER
+CharacterHair_13228,,,CharacterHair_13228 PLACEHOLDER
+CharacterHeight_13228,,,CharacterHeight_13228 PLACEHOLDER
+CharacterIntro_13228,,,CharacterIntro_13228 PLACEHOLDER
+CharacterName_13228,,,Booster Gold
+CharacterRealname_13228,,,CharacterRealname_13228 PLACEHOLDER
+CharacterSaying_13228,,,CharacterSaying_13228 PLACEHOLDER
+CharacterShowName_13228,,,CharacterShowName_13228 PLACEHOLDER
+CharacterWeight_13228,,,CharacterWeight_13228 PLACEHOLDER
+ItemDesc1113228,,,ItemDesc1113228 PLACEHOLDER
+ItemName1113228,,,ItemName1113228 PLACEHOLDER
+RoomDialogue1322801,,,RoomDialogue1322801 PLACEHOLDER
+RoomDialogue1322802,,,RoomDialogue1322802 PLACEHOLDER
+RoomDialogue1322803,,,RoomDialogue1322803 PLACEHOLDER
+RoomDialogue1322804,,,RoomDialogue1322804 PLACEHOLDER
+RoomDialogue1322805,,,RoomDialogue1322805 PLACEHOLDER
+SkillName1322801,,,Basic Skill Name
+SkillName132280101,,,Level 1 Placeholder Description
+SkillName132280102,,,Level 2 Placeholder Description
+SkillName132280103,,,Level 3 Placeholder Description
+SkillName1322802,,,Ultimate Skill Name
+SkillName132280201,,,Level 1 Placeholder Description
+SkillName132280202,,,Level 2 Placeholder Description
+SkillName132280203,,,Level 3 Placeholder Description
+SkillName1322803,,,Advanced Skill Name
+SkillName132280301,,,Level 1 Placeholder Description
+SkillName132280302,,,Level 2 Placeholder Description
+SkillName132280303,,,Level 3 Placeholder Description
+CharacterName_21226,,,Santa (Burn)
+SkillName2122601,,,Burning Buck
+SkillName212260101,,,"Stomp a Row of Enemies, dealing 150% Damage and adding 3 Stacks of Burn to the Row"
+SkillName2122602,,,Heat Surge Rush
+SkillName212260201,,,"Trample the enemy team 16 times, each hitting for 15% of Atk as Physical Dmg, and adding 1 Stack of Burn to a Random Target."
+SkillName2122603,,,Check the list
+SkillName212260301,,,"Adds the Coal Debuff to 2 random enemies for 3 turns.\n\nGrant himself 15 Stacks of Sturdy Armor, 15 stacks of Firm Stand, 1 stack of Recuperate, 1 stack of Frantic, 1 stack of Strong Attack for 2 turns."
+SkillName2122604,,,Fiery Resistance
+SkillName212260401,,,70% Superpower Damage Resistance
+SkillName2122605,,,Slay Out
+SkillName212260501,,,"Every time Santa has Frostbite applied to them, Cleanse 1 Full Stack of Debuffs and Knock him back on the Action Bar by 10%.\n\nIf Frozen, instead Cleanse all Debuffs and apply 2 stacks of Slow for 2 turns, and Knock him back on the action bar by 20%."
+CharacterName_21227,,,Santa (Frost)
+SkillName2122701,,,Ho ho ho
+SkillName212270101,,,"Attacks 3 times, each dealing 100% of Atk and adding 1 Stack of Frostbite. The final Hit also damages all Frozen enemies, dealing 300% dmg."
+SkillName2122702,,,Cold Snap Rush
+SkillName212270201,,,"Trample all enemies, hitting them for 50% of Atk as Physical Dmg adding 3 stacks of Frostbite. If an enemy has 4 or more stacks of Frostbite, Freeze them for 1 turn."
+SkillName2122703,,,Check the list
+SkillName212270301,,,"Adds the Coal Debuff to 2 random enemies for 3 turns. Grant himself 15 Stacks of Sturdy Armor, 15 stacks of Firm Stand, 1 stack of Recuperate, 1 stack of Frantic, 1 stack of Strong Attack for 2 turns."
+SkillName2122704,,,Frosty Resistance
+SkillName212270401,,,70% Physical Damage Resistance.
+SkillName2122705,,,Slay Out
+SkillName212270501,,,"Every time Santa Detonates, Dispel 2 Full Stacks of Debuffs and push him back on the Aciton bar by 20%.                        							"
+Artifact_Name244011,,,Jack-In-The-Box
+Artifact_Desc244011,,,Decreased Advanced ability cooldown. Can cause the user to suffer from Fear in exchange for a variety of Buffs.
+Artifact_Name244012,,,Kryptonian Battle Armor
+Artifact_Desc244012,,,"This military armor was worn and designed exclusively for Kryptonians. Worn by soldiers and generals alike, it offers extra protection during combat. Nevertheless, gaps in the outfit render it far from invulnerable and can be exploited by cunning adversaries."
+ItemName1123024,,,Kryptonian Battle Armor Fragment
+ItemDesc1123024,,,Kryptonian Battle Armor Fragment. Can be used to rank up the corresponding artifact.
+Artifact_Name244013,,,Purple Healing Ray
+Artifact_Desc244013,,,"Originally invented by Diana (Wonder Woman) herself on Paradise Island, it is a medical device capable of rapidly healing injuries and assisting in surgery."
+SkillName1610016,,,Kryptonian Battle Armor
+SkillName161001601,,,Increases Superpower Resistance by [SkillParam_2_%].
+SkillName161001602,,,Increases Dmg Reduction by [SkillParam_4_%] for the first [SkillParam_5] Rounds.
+SkillName161001603,,,"The first time the bearer uses an Ultimate, regain [SkillParam_6] Ultimate Point."
+buff_32070401_tips,Vixen pack buff,,Pack Hunter
+SkillName2130701,,,Power Deflection
+buff_3021102_tips,,,Power Deflection
+buff_3021104_tips,,,Power Deflection
+buff_32100401_name,,,Cheshire's Toxin
+buff_32100401_des,,,Decreases the amount of Damage afflicted DPS Enemies deal by 10% for each Stack. Reduces Speed by 5 per Stack. Counts as a Control Debuff. Max 10 Stacks.
+buff_32100401_tips,,,Cheshire's Toxin
+BadgeDesc133,,,Reformed Warrior
+BadgeSkillDesc1323301,,,Artemis' Block Amount is increased by an additional 15% and she gains 1 Stack of Redirect at the start of her Turn.
+BadgeSkillDesc1323302,,,Megachop refunds 1 additional Ultimate Point.
+BadgeSkillDesc1323303,,,"For the first instance of Megachop, the HP threshold is 45%."
+BadgeSkillName13233,,,Reformed Warrior
+Character_Identity1_13233,,,Desert-born Amazon warrior who died as Wonder Woman and fought back.
+Character_Identity2_13233,,,"Artemis was born in Bana-Mighdall, a hidden desert city of Amazons who rejected Olympus and survived by selling their skills to the outside world. Her childhood was hardship and combat drills instead of paradise and philosophy, shaping her into a soldier long before she was a hero. When Bana-Mighdall’s path collided with Themyscira’s, old wounds and mistrust put her at odds with Diana, and a manipulated Contest saw Artemis take on the title of Wonder Woman in her place. She fell in that role and descended into the Underworld, but clawed her way back, choosing to stand not as Themyscira’s symbol, but as the blunt, unyielding spear of her own people."
+Character_RecordDesc_13233_1,,,"Artemis: Wonder Woman.\n\nWonder Woman: Need a Hand, Sister?\n\nMongul: It appears a new Challenger has entered my arena. Announce yourself, Challenger.\n\nWonder Woman: I am Diana of Themyscira. And we will Not be staying.\n\nMongul: You think you have power here, Diana of Themyscira?\n\nMongul: I am Mongul. And by setting foot on Warworld, you have entered yourself into my tournament of champions. I must admit, it is a rare occurrence for a challenger to join my contest...VOLUNTARILY.\n\nMongul: But you are not the first.\n\nMongul: However you entered, challengers only leave Warworld one of two ways. VICTORIOUS... ...Or in a casket!\n\nWonder Woman: I see why you sent the distress call.\n\nWonder Woman: Don't worry, sister, together we can--  KIANG!\n\nArtemis: I have a confession. I didn't need rescuing. I needed a WORTHY OPPONENT.\n\nWonder Woman: I-I'm not going to FIGHT you, sister.\n\nArtemis: Ohhhh, is that so, sister? So achingly SISTERLY all the DAMN TIME, Diana.\n\nArtemis: I'm sure you've all heard tales about the WONDER WOMAN of Earth? Never done the wrong thing in her whole perfect life?\n\nArtemis: Simply couldn't HELP herself but gallivant in to play hero when she got a distress call from a LESSER sister on some distant planet? Couldn't IMAGINE how that sister's suffered in her shadow.\n\nArtemis: Finally it's you and me. Sword to... ...SHIELD. heh.  And I will WIN.\n\n(Source: Sensational Wonder Woman #3 (2021): pgs. 9 - 16)"
+Character_RecordDesc_13233_2,,,"Red Hood: You okay?\n\nArtemis: Not even close.\n\nArtemis:But i am alive. I have the Bow OF Ra, the danger has passed. And... I have you... and Bizarro.\n\nRed Hood: Yeah, Well--I OWED you one.\n\nArtemis: Thank you, Jason.\n\nArtemis: Now we stop trying to separate us from THEM. The REFUGEES--All the PEOPLE of QURAC--Should be able to live their lives with the PEOPLE of BANAMIGHDALL.\n\nArtemis: No one has benefited from trying to keep our Worlds APART. It is TIME for us to try ANOTHER WAY.\n\nRed Hood: They really look up to you--And I don't blame them. Does this mean the OUTLAWS have lost you to the ROLE of SHIM'TAR?\n\nArtemis: Not At all. The Shim'tar has always been chosen by the gods...gods who ABANDONED us a long time ago. This time--Let the PEOPLE choose their OWN SHIM'TAR..\n\nArtemis: ...But my time here has passed.\n\nRed Hood: And the BOW OF RA? You're not going to Keep It, are you? \n\nArtemis: OF COURSE I am. Why wouldn't I?\n\nRed Hood: Um. No Reason. \n\n(Source: Red Hood and the Outlaws (2016) #11, pg. 20 - 21)"
+Character_RecordTitle_13233_1,,,Come Sister 
+Character_RecordTitle_13233_2,,,I have you. 
+Character_RemarkDesc1_13233_1,,Wonder Woman,"We started as rivals, but when the line must hold, I want her there."
+Character_RemarkDesc1_13233_2,,Wonder Woman,"Artemis and I began as rivals, She grew up in a world that never trusted paradise and taught her to lead with her fists instead of open hands. She challenges my decisions, questions mercy, and pushes me to remember the Amazons who weren’t sheltered on Themyscira. But when a line absolutely cannot break, there are few warriors I’d rather have standing beside me."
+Character_RemarkDesc2_13233_1,,Red Hood (Jason Todd),"She swings god-weapons like tools, but underneath it all, she cares."
+Character_RemarkDesc2_13233_2,,Red Hood (Jason Todd),"Artemis doesn’t do subtle, She’ll argue with gods, charge monsters head-on, and draw the Bow of Ra like it’s just another tool. Working with her, I learned that under all that fire and steel is someone who cares too much, not too little. She calls me out when I go too far, and expects the same in return, that kind of honesty is rare, and a little terrifying when it’s carrying a god-weapon."
+Character_RemarkDesc3_13233_1,,,Character_RemarkDesc3_13233_1 PLACEHOLDER
+Character_RemarkDesc3_13233_2,,,Character_RemarkDesc3_13233_2 PLACEHOLDER
+Character_RemarkName_13233_1,,,Wonder Woman
+Character_RemarkName_13233_2,,,Red Hood (Jason Todd)
+Character_RemarkName_13233_3,,,Character_RemarkName_13233_3 PLACEHOLDER
+Character_Weakness1_13233,,,Mortal pride and risky god-weapons make her easy to wound or trap.
+Character_Weakness2_13233,,,"Artemis shares Amazon longevity but not true invulnerability. She can be wounded, overwhelmed, and has already died once in the line of duty. Her most devastating power comes from unstable relics like the Bow of Ra, which can threaten her as much as her enemies if she pushes them too far. Pride, a fierce temper, and an uncompromising loyalty to Bana-Mighdall also make her vulnerable to traps, as she’ll gladly throw herself into danger alone if it means protecting her tribe."
+Character_Weapon1_13233,,,Brutal Amazon fighter wielding a god-axe and the sun-powered Bow of Ra.
+Character_Weapon2_13233,,,"Artemis has the strength, speed, and toughness of an elite Amazon, but fights far more aggressively than Diana, favoring direct charges and brutal trades. She’s a master of almost any weapon put in her hands, but is best known for wielding a massive enchanted battle axe and the sun-powered Bow of Ra, whose blasts can level armies when fully drawn. In battle she acts like a living siege engine, built to punch a hole straight through whatever stands between her and her sisters."
+CharacterEyes_13233,,,Green
+CharacterHair_13233,,,Red
+CharacterHeight_13233,,,"6' 0"""
+CharacterIntro_13233,,,"Artemis of Bana-Mighdall is the champion of the desert Amazons, forged in sand and steel rather than palace marble. Born to the splinter tribe that followed Queen Antiope into exile, she grew up running the dunes with weapons in her hands, trading mercenary work and crafted arms to keep her people alive. Where Diana of Themyscira became a symbol of peace, Artemis was raised to strike first and question mercy later. Chosen to briefly take up the mantle of Wonder Woman, she died in that role and fought her way back from the Underworld, returning not as a princess but as Shim’Tar, the war champion of Bana-Mighdall, loyal first and always to her sisters."
+CharacterName_13233,,,Artemis
+CharacterRealname_13233,,,Artemis
+CharacterSaying_13233,,,"A hard-edged Amazon from the desert city of Bana-Mighdall, Artemis is a battle-hardened warrior and former Wonder Woman who fights with enchanted weapons and a ruthless loyalty to her tribe."
+CharacterShowName_13233,,,Artemis
+CharacterWeight_13233,,,166 lbs (75 kg)
+buff_1323305_name,,,Goading Stance
+buff_1323305_des,,,Enter a stance that causes all enemy basic attacks to target her until the start of her next turn.
+buff_1323305_tips,,,Goading Stance
+ItemDesc1113233,,,Can be used on <color=#FAA520>Artemis</color> to <color=#FAA520>increase her Rank</color>.
+ItemName1113233,,,Artemis Fragment
+RoomDialogue1323301,,Artemis,You’re in my way.
+RoomDialogue1323302,,Artemis,Speak plain or draw steel.
+RoomDialogue1323303,,Artemis,"I fight for my sisters, not your throne."
+RoomDialogue1323304,,Artemis,"Mercy is earned, not owed."
+RoomDialogue1323305,,Artemis,I’ve died once. I’m not afraid to do it again.
+SkillName1323301,,,Bullrush
+SkillName132330101,,,Attack the enemy with the highest Atk for [SkillParam_1_%] of Atk as Physical Dmg.
+SkillName132330102,,,Dmg increases to [SkillParam_1_%].
+SkillName132330103,,,The attack has [SkillParam_4_%]  Dmg Amp if the enemy is below [SkillParam_2_%]  Max HP.
+SkillName1323302,,,Megachop
+SkillName132330201,,,"Target an enemy below [SkillParam_1_%] HP and instantly Defeat them. \nAgainst Bosses, instead does [SkillParam_2_%]  Physical Dmg.\n\nHas no Cooldown, but can only be activated if an enemy is below the Max HP threshold."
+SkillName132330202,,,Defeating an enemy with Megachop grants [buff2_2] Stacks of [buff2_4] that lasts [buff2_5] Turn to herself and grants [buff3_2] Stack of [buff3_4] to all back row allies. (including herself).
+SkillName132330203,,,"If you defeat an enemy, refund [SkillParam_3] Ultimate Points."
+SkillName1323303,,,Goading Stance
+SkillName132330301,,,Enter a stance that causes all enemy basic attacks to target her until the start of her next turn.
+SkillName132330302,,,When enemies damage her in this Stance there is 100% chance to [Stips_2] the damage dealer.
+SkillName132330303,,,Increases Block Amount by [SkillParam_3_%] while in this Stance.
+SkillName1323304,,,Mistress's Defense
+SkillName132330401,,,Artemis has an additional [SkillParam_2_%] Block Chance.\nCritical Hits against Artemis apply [buff1_2] Stack of [buff1_4] that lasts [buff1_5] Turn.\n\nArtemis' Block Chance cannot be reduced.
+SkillName132330402,,,Block Chance increased to [SkillParam_2_%].
+SkillName132330403,,,Block Chance increased to [SkillParam_2_%].
+SkillName1323308,,,Queenslayer
+SkillName132330801,,,"When Artemis defeats an enemy with Megachop, that enemy has a [SkillParam_1_%] chance of being precluded from being revived."
+SkillName3020801,,,Protective Banishment
+SkillName302080101,,,"When an ally would be defeated, they are instead sent to the Phantom Zone for [SkillParam_3] Turn. When returning, the ally is healed for [SkillParam_2_%] of their Max HP.\nWorks one time per battle. Does not work when there is only one ally remaining. "
+SkillName302080102,,,"When the target Ally is brought back from the Phantom Zone, grant them [buff1_2] stack of [buff1_4]."
+SkillName302080103,,,Target Ally's Ultimate and Advanced Cooldowns are refreshed
+SkillName302080104,,,"When the target Ally is brought back from the Phantom Zone, grant them  [buff1_2] stacks of [buff1_4]."
+SkillName302080105,,,Target Ally is healed to [SkillParam_2_%] of their Max HP.
+Collection_Name_208,,,Phantom Zone Projector
+Collection_Intro_208,,,"<color=#FAA520>Activated The Phantom Zone Projector Blueprint. Total Collection Item Bonus level limit increased.</color> A Kryptonian device created by Jor-El. It can be used to transport prisoners and objects to and from the Phantom Zone, an interdimensional realm outside the normal space/time continuum which is a barren and insubstantial null area absent of any physical material."
+ItemName1120043,,,Phantom Zone Projector
+ItemDesc1120043,,,Can be used to craft the <color=#FAA520>Phantom Zone Projector</color> Reinforcement.
+SkillName2130803,,,Protective Banishment
+ItemDesc1120048,,,Jerry the Winged Horse unlock item.
+ItemName1120048,,,Jerry the Winged Horse Fragment
+Relation_EffDes_1601,,,"All deployed Allies' Attack, HP, and Defense [+6%].\n\nAll Stacks of Poison on DPS Enemies in the Back Row last until the end of battle.\n\nWhenever Poison is inflicted on Enemies in the Back Row, 1 Stack of Cheshire's Toxin that lasts 4 Turns is also added."
+Relation_EffDes_1602,,,"All deployed Allies' Attack, HP, and Defense [+9%].\n\nAll Stacks of Poison on DPS Enemies in the Back Row last until the end of battle.\n\nWhenever Poison is inflicted on Enemies in the Back Row, 1 Stack of Cheshire's Toxin that lasts 4 Turns is also added.\n\nEnemies take Damage from Poison after they use their Ultimate."
+Relation_EffDes_1603,,,"All deployed Allies' Attack, HP, and Defense [+12%].\n\nAll Stacks of Poison on DPS Enemies in the Back Row last until the end of battle.\n\nWhenever Poison is inflicted on Enemies in the Back Row, 1 Stack of Cheshire's Toxin that lasts 4 Turns is also added.\n\nEnemies take Damage from Poison after they use their Ultimate.\n\nEnemies cannot Cleanse any Poison or Cheshire's Toxin."
+ItemDesc1123023,,,Jack-In-The-Box Fragment. Can be used to rank up the corresponding artifact.
+ItemName1123023,,,Jack-In-The-Box Fragment
+SkillName1610018,,,Jack-In-The-Box
+SkillName161001801,,,"The first time the bearer uses an Advanced Ability, reduce its Cooldown by [SkillParam_1]."
+SkillName161001802,,,"After triggering the first time, apply [buff1_2] Stack of [buff1_4] for [buff1_5] Turns to the bearer. Also add [buff2_2] Stacks of [buff2_4], [buff3_2] Stack of [buff3_4], and [buff4_2] Stack of [buff4_4] for [buff4_5] Turns."
+SkillName161001803,,,"The first three times the bearer uses an Advanced Ability, reduce its Cooldown by [SkillParam_1]."
+SkillName1620016,,,Elite Sphere - Red
+SkillName1620017,,,Elite Sphere - Orange
+SkillName1620018,,,Elite Sphere - Yellow
+SkillName1620019,,,Elite Sphere - Green
+SkillName1620020,,,Elite Sphere - Blue
+SkillName1620021,,,Elite Sphere - Purple
+SkillName1620022,,,Elite Sphere - Pink
+SkillName162001601,,,"At the start of battle, the wearer's Attack is boosted by [SkillParam_3_%]."
+SkillName162001602,,,"At the start of battle, the wearer's Attack is boosted by [SkillParam_3_%]."
+SkillName162001603,,,"At the start of battle, the wearer's Attack is boosted by [SkillParam_3_%]."
+SkillName162001701,,,"At the start of battle, the wearer's chance of landing a Critical Hit is increased by [SkillParam_3_%]."
+SkillName162001702,,,"At the start of battle, the wearer's chance of landing a Critical Hit is increased by [SkillParam_3_%]."
+SkillName162001703,,,"At the start of battle, the wearer's chance of landing a Critical Hit is increased by [SkillParam_3_%]."
+SkillName162001801,,,"At the start of battle, the wearer's Damage Amplification is increased by [SkillParam_3_%]."
+SkillName162001802,,,"At the start of battle, the wearer's Damage Amplification is increased by [SkillParam_3_%]."
+SkillName162001803,,,"At the start of battle, the wearer's Damage Amplification is increased by [SkillParam_3_%]."
+SkillName162001901,,,"At the start of battle, the wearer's Damage Reduction is increased by [SkillParam_3_%]."
+SkillName162001902,,,"At the start of battle, the wearer's Damage Reduction is increased by [SkillParam_3_%]."
+SkillName162001903,,,"At the start of battle, the wearer's Damage Reduction is increased by [SkillParam_3_%]."
+SkillName162002001,,,"At the start of battle, the wearer's Block Amount is increased by [SkillParam_3_%]."
+SkillName162002002,,,"At the start of battle, the wearer's Block Amount is increased by [SkillParam_3_%]."
+SkillName162002003,,,"At the start of battle, the wearer's Block Amount is increased by [SkillParam_3_%]."
+SkillName162002101,,,"At the start of battle, the wearer's Healing Bonus is boosted by [SkillParam_3_%]."
+SkillName162002102,,,"At the start of battle, the wearer's Healing Bonus is boosted by [SkillParam_3_%]."
+SkillName162002103,,,"At the start of battle, the wearer's Healing Bonus is boosted by [SkillParam_3_%]."
+SkillName162002201,,,"At the start of battle, the wearer's HP is boosted by [SkillParam_3_%]."
+SkillName162002202,,,"At the start of battle, the wearer's HP is boosted by [SkillParam_3_%]."
+SkillName162002203,,,"At the start of battle, the wearer's HP is boosted by [SkillParam_3_%]."
+Artifact_Desc243006,Artifact Selling introduction,,An Artifact developed by S.T.A.R. Labs based on Apokoliptian technology. Research has resulted in increased performance capabilities compared to the prototypes.
+Artifact_Desc243007,Artifact Selling introduction,,An Artifact developed by S.T.A.R. Labs based on Apokoliptian technology. Research has resulted in increased performance capabilities compared to the prototypes.
+Artifact_Desc243008,Artifact Selling introduction,,An Artifact developed by S.T.A.R. Labs based on Apokoliptian technology. Research has resulted in increased performance capabilities compared to the prototypes. 
+Artifact_Desc243009,Artifact Selling introduction,,An Artifact developed by S.T.A.R. Labs based on Apokoliptian technology. Research has resulted in increased performance capabilities compared to the prototypes.
+Artifact_Desc243010,Artifact Selling introduction,,An Artifact developed by S.T.A.R. Labs based on Apokoliptian technology. Research has resulted in increased performance capabilities compared to the prototypes.
+Artifact_Desc243011,Artifact Selling introduction,,An Artifact developed by S.T.A.R. Labs based on Apokoliptian technology. Research has resulted in increased performance capabilities compared to the prototypes.
+Artifact_Desc243012,Artifact Selling introduction,,An Artifact developed by S.T.A.R. Labs based on Apokoliptian technology. Research has resulted in increased performance capabilities compared to the prototypes.
+Artifact_Handbook9,Artifact,Set Bonus Name,Elite Attack Kit
+Artifact_Handbook10,Artifact,Set Bonus Name,Elite Defense Kit
+Artifact_Handbook11,Artifact,Set Bonus Name,Elite Regeneration Kit
+Artifact_Handbook12,Artifact,Set Bonus Name,Elite Damage Kit
+Artifact_Name243006,,,Elite Sphere - Red
+Artifact_Name243007,,,Elite Sphere - Orange
+Artifact_Name243008,,,Elite Sphere - Yellow
+Artifact_Name243009,,,Elite Sphere - Green
+Artifact_Name243010,,,Elite Sphere - Blue
+Artifact_Name243011,,,Elite Sphere - Purple
+Artifact_Name243012,,,Elite Sphere - Pink
+ItemName1123026,,,Elite Sphere - Red Fragment
+ItemName1123027,,,Elite Sphere - Orange Fragment
+ItemName1123028,,,Elite Sphere - Yellow Fragment
+ItemName1123029,,,Elite Sphere - Green Fragment
+ItemName1123030,,,Elite Sphere - Blue Fragment
+ItemName1123031,,,Elite Sphere - Purple Fragment
+ItemName1123032,,,Elite Sphere - Pink Fragment
+ItemDesc1123026,,,Elite Sphere - Red Fragment. Can be used to Rank up the corresponding Artifact.
+ItemDesc1123027,,,Elite Sphere - Orange Fragment. Can be used to Rank up the corresponding Artifact.
+ItemDesc1123028,,,Elite Sphere - Yellow Fragment. Can be used to Rank up the corresponding Artifact.
+ItemDesc1123029,,,Elite Sphere - Green Fragment. Can be used to Rank up the corresponding Artifact.
+ItemDesc1123030,,,Elite Sphere - Blue Fragment. Can be used to Rank up the corresponding Artifact.
+ItemDesc1123031,,,Elite Sphere - Purple Fragment. Can be used to Rank up the corresponding Artifact.
+ItemDesc1123032,,,Elite Sphere - Pink Fragment. Can be used to Rank up the corresponding Artifact.
+BadgeDesc167,,,The Main Man
+BadgeSkillDesc1326701,,,"While Lobo has an Active Contract, he has 2 Stacks of Recuperate."
+BadgeSkillDesc1326702,,,"While Lobo has an Active Contract, he has 2 Stacks of Haste."
+BadgeSkillDesc1326703,,,"If Lobo doesn’t have an Active Contract, he will take a new contract at the start of his Turn."
+BadgeSkillName13267,,,The Main Man
+Character_Identity1_13267,,,Lobo is an extremely violent space bounty hunter with a code of honor.
+Character_Identity2_13267,,,"Lobo operates throughout space as a highly capable bounty hunter. Although vulgar and selfish, he is near indestructible and has an unparalleled capacity for extreme violence, physical or verbal. He claims to have exterminated his race and planet as both a science project and to be unique in the universe. "
+Character_RecordDesc_13267_1,,,"SKRANGK\n\nLobo: What the frag?\n\nLobo: Har hee harhar-- so you got one on the main man! Enjoy it while it lasts-- 'cause somethin' about beatin' ya in the last round has got me feelin' like I ate my wheaties this morning!\n\nLobo: But just in case ya felt like goin' three rounds in the sack 'stead of the ring, thought I'd give ya somethin' pretty to look at... You're welcome, ladies!\n\nHeart of Apokolips: In her ideal form, Wonder Woamn has her warrior sisters at her side. Apokolips appreciates females and their fury.\n\nWonder Girl: Eh? Who in the new 52 is that?\n\nLobo: Yeah, well, yer man's never needed no army to fight for 'im-- I only ever needed one! You ready to get that armor dented, baby?\n\n*Censored for your comfort by your exhausted editor.\n\nWonder Woman: This armor has withstood gods and titans, Lobo. It will not yield to a drunkard in eye makeup!\n\n(Source: DC K.O.: Wonder Woman vs. Lobo #1 (2025), pg. 13-14)"
+Character_RecordDesc_13267_2,,,"Lobo: Yer hereby informed that a bounty has been put on you for--\n\nAquaman: HA HAA HA HA HA! Lobo?! Is that you?\n\nLobo: Course it's me, guppy!\n\nAquaman: Apologies. I did not recognize you with this... Look!\n\nMr. Kzzt: Oooh, this is exactly what we were hoping for. Witty banter! I have the show's writers here with me and they have some snappy comebacks prepared.\n\nAquaman: HA HA HA! Tell me The Main Man does not have one of those reality-esque programs.\n\nMr. Kzzt: Aquaman, please refrain from mentioning the cameras or the show. Data tells us that viewers don't like hearing that they're watching reality shows while they're watching reality shows. We'd like to maintain the illusion of reality on The Main Man.\n\nAquaman: Did he HAAA just-- HA HA say your program HA HA is titled HAAA The Main Man?!\n\n(Source: Lobo #2 (2026), pg. 12-13)"
+Character_RecordDesc_13267_3,,,"Supergirl: Can we stop... Screwing around? I hired you... To take me... To Rann, and this dump... Is the third stop we've made already!\n\nLobo: Complaints are for... Payin' customers, blondie! Which you ain't... Until I'm holdin' your cash! Whaddya say we make... This interestin'?\n\nWaitress: How about double or nothing?\n\nSupergirl: You mind staying out of this?\n\nWaitress: Don't yell at me, ma'am. I'm the one what's gonna hafta mop up the mess when he tears your arm off.\n\nSupergirl: He's not going to-- did you just call me ""ma'am""?\n\nLobo: That's it. Get 'er blood up.\n\nCustomer #1: Two thousand klems on Supergirl.\n\nCustomer #2: A fool and his klems... Nobody's ever beat Lobo!\n\nCustomer #3: Nobody's ever gone this long against him, neither!\n\nCustomer #4: If he loses to a skirt...His rep's gonna be toilet food!\n\nCustomers: Lobo! Lobo! Lobo!\n\nWHUMM\n\nLobo: Whoo-ooo! I win again! I always fraggin' win! I fraggin' ask ya-- Who's th' Main Man?\n\n(Source: The Brave and the Bold #4 (2007), pg. 8)"
+Character_RecordTitle_13267_1,,,"DC K.O. All Fight Month, round 3 of 8!"
+Character_RecordTitle_13267_2,,,The Main Man...Show?!
+Character_RecordTitle_13267_3,,,Arm wrestling contest!
+Character_RemarkDesc1_13267_1,,Superman,Lobo is a space bounty hunter with questionable methods.
+Character_RemarkDesc1_13267_2,,Superman,"I empathize with Lobo being the last survivor of his world, not so much with how it happened though. He has a code of honor which I respect, yet if he were less... aggressive... he could be a hero."
+Character_RemarkDesc2_13267_1,,Guy Gardner,"He just wants to hit something, get paid, and find a cold beer. Usually at my bar."
+Character_RemarkDesc2_13267_2,,Guy Gardner,"The ""Main Man""? He’s a total pain in the neck, a walking health code violation, and he smells like a trash fire in a cigar factory. But honestly? At least he’s not boring."
+Character_RemarkDesc3_13267_1,,,[REDACTED]
+Character_RemarkDesc3_13267_2,,,[REDACTED]
+Character_RemarkName_13267_1,,,Superman
+Character_RemarkName_13267_2,,,Guy Gardner
+Character_RemarkName_13267_3,,,[REDACTED]
+Character_Weakness1_13267,,,"Lobo is super durable and regenerates, however he will always honor his word."
+Character_Weakness2_13267,,,"Lobo can never be destroyed or defeated entirely as he appears to be practically immortal. However, the code by which he lives by allows the creation of contracts with him which he will honor to the word."
+Character_Weapon1_13267,,,Lobo uses his signature titanium chained hook to catch his victims.
+Character_Weapon2_13267,,,"Lobo uses many highly destructive weapons, some conventional and some less so. His ability to use everything for violence makes him an unpredictable and dangerous adversary. "
+CharacterEyes_13267,,,Red
+CharacterHair_13267,,,Black
+CharacterHeight_13267,,,"6′ 4"""
+CharacterIntro_13267,,,CharacterIntro_13267 PLACEHOLDER
+CharacterName_13267,,,Lobo
+CharacterRealname_13267,,,Unpronounceable
+CharacterSaying_13267,,,"Bounty hunter, Main Man, and all-around bastich, Lobo is the last surviving Czarnian...but only because he killed them all himself! Sometimes a hero, sometimes a villain, Lobo always looks for a paycheck first."
+CharacterShowName_13267,,,Lobo
+CharacterWeight_13267,,,250 lbs (113 kg)
+ItemDesc1113267,,,Can be used on <color=#FAA520>Lobo</color> to <color=#FAA520>increase his Rank</color>.
+ItemName1113267,,,Lobo Fragment
+RoomDialogue1326701,,Lobo,Izzatafactnow?
+RoomDialogue1326702,,Lobo,I'm yer Main Man! The big cheese!
+RoomDialogue1326703,,Lobo,Frag me! Where's my bike?
+RoomDialogue1326704,,Lobo,I'm the toughest orneriest son o'bastich in here!
+RoomDialogue1326705,,Lobo,Fraggin' Bastich!
+SkillName1326701,,,Kill! Rend! Destroy!
+SkillName132670101,,,"Hit an enemy two times, each hit dealing [SkillParam_1_%] of his Atk as Physical Damage."
+SkillName132670102,,,"After his Contract's turn is finished, Lobo uses his basic attack against them."
+SkillName132670103,,,This attack Knocks the enemy back on the Action Bar [SkillParam_2_%] for each hit.
+SkillName1326702,,,Hog Hijack
+SkillName132670201,,,"Lobo hops on his Space Hog, rams into the target and takes them for a joyride.\nThe target takes [SkillParam_3_%] of their Max HP as Dmg, and is removed from the battlefield until the start of the next Round.\n\nHog Hijack counts as a Control Debuff. If Lobo dies during the effect, the effect is cancelled and the target is Stunned instead. Against Bosses, Hog Hijack skips their Turn."
+SkillName132670202,,,"The enemy target gains [buff1_2] Stack of [buff1_4] and [buff2_2] Stack of [buff2_4].\nIf the target is his Contract, the attack deals [SkillParam_3_%] of their Max HP instead."
+SkillName132670203,,,"If the target is his Contract, Lobo will perform his Advanced (without affecting its cooldown) on them when the target returns to the Battlefield.\n\nWhen the target returns, they are affected by [buff3_4] for [buff3_5] Turn(s)."
+SkillName1326703,,,Caught your scent
+SkillName132670301,,,"Hook to an enemy and pull himself into a devastating uppercut, dealing [SkillParam_1_%] of Atk as Physical Damage."
+SkillName132670302,,,"If the target is his Contract, reduce their Atk by [SkillParam_2_%] for the rest of combat."
+SkillName132670303,,,"The attack Knocks the enemy back [SkillParam_3_%] on the Action Bar, and applies [buff1_2] Stack of [buff1_4] for [buff1_5] Turns."
+SkillName1326704,,,One tough Bastich
+SkillName132670401,,,"At the End of Round [SkillParam_1], Lobo takes a contract on the enemy who has dealt the most Dmg so far (except another Lobo!). \nLobo and his Contract will only target each other until one of them is defeated. \n\nThe contract ends when one of them is  defeated."
+SkillName132670402,,,Lobo takes [SkillParam_2_%] reduced Dmg from any target that isn't his Contract while the contract is still active.
+SkillName132670403,,,Lobo has [SkillParam_3_%] Dmg Amp against his Contract target.
+SkillName1326705,,,Get Fragged!
+SkillName132670501,,,"When Lobo's Contract is defeated, Lobo gains [SkillParam_1_%] Atk, [SkillParam_2_%] Def, [SkillParam_3_%] Max HP until the end of combat."
+CharacterTips_13212,Tips for setting up formations/checking skills at levels,Swamp Thing,A Tank character with the Tactical Trait whose Defense stat powers his Ultimate's attack. He gains Damage Reduction to elemental Debuffs whenever afflicted and becomes more effective when Enemies are Poisoned.
+CharacterTips_13210,Tips for setting up formations/checking skills at levels,Cheshire,A DPS character with the Agile Trait. She inflicts her own brand of Poison on Enemies in the Back Row before assassinating them with her Ultimate and disappearing into an Invulnerability-granting fog.
+buff_32120501_tips,Buff In-Battle Pop-Up,Power of Parliaments,Power of Parliaments
+buff_3021105_tips,,,Power Deflection
+Character_RecordTitle_13211_3,Secret Records Name,Cheshire 3,Just a Little Prick
+Character_RecordDesc_13211_3,Secret Records Excerpt,Cheshire 3,"Doctor Poison: Somebody, please, help!\n\nSteve Trevor: Hang on! I've got you!\n\nSteve Trevor: Ambulances are on their way. Can you move? Are you injured at all?\n\nDoctor Poison: Oh, thank god you came…\n\nDoctor Poison: …I needed a hero. Hello, Steve. It's been a minute.\n\nSteve Trevor: Dr. Poison?!\n\nDoctor Poison: Awww, did I prick you? Ha ha ha!\n\nSteve Trevor: Hold it right there. I'm a government agent!\n\nDoctor Poison: How nice for you! I, too, am gainfully employed... as an agent of Villainy Incorporated!\n\nSteve Trevor: Ungh... What did you do to me?\n\nDoctor Poison: Do you like it? I enjoy starting off slow. The first dose affects vision and balance, but I'm sure you've figured that out by now. Come closer and I'll administer your second shot, a much stronger prescription.\n\nDoctor Poison: Can you aim when you can't see straight? Think of the innocent bystanders, tsk tsk. You of all people should know better, Agent Trevor!\n\nSteve Trevor: You underestimate my marksmanship, Poison.\n\nDoctor Poison: And you're too much of a bleeding heart to squeeze the trigger!\n\n(Source: Wonder Woman (2016-) #788 pg. 15 - 16)"
+Artifact_Handbook13,Artifact,Set Bonus Name,Powered Protection
+Artifact_Handbook14,Artifact,Set Bonus Name,Mad Science
+CharacterTips_13211,Tips for setting up formations/checking skills at levels,Doctor Poison,"A Support character with the Tactical Trait. An expert toxicologist, she inflicts, amplifies, and extends the duration of Poison. Then she Heals her Allies for the Damage the Poison deals to afflicted Enemies."
+BuffName220042101,Arena Buff,S7 Elite Arena 1 - Zod,Characters who have Detonated will Freeze for 1 additional Turn when Frozen. Frostbite or Burn characters have their HP/DEF/ATK increased by 50%.
+BuffName220042201,Arena Buff,S7 Elite Arena 2 - Killer Frost,"When a Character does an Assist attack, they also apply 2 Stacks of Frostbite. Frostbite or Burn characters have their HP/DEF/ATK increased by 50%"
+BuffName220042301,Arena Buff,S7 Elite Arena 3 - Firestorm,Detonations cause 2 stacks of Burn to be applied to a random enemy. Frostbite or Burn characters have their HP/DEF/ATK increased by 100%
+BuffName220042401,Arena Buff,S7 Elite Arena 4 - Phantom Zone Projector,"While a Character is Frozen, any Burn applied to them will apply 2 additional Stacks of Burn. Frostbite or Burn characters have their HP/DEF/ATK increased by 100%"
+BuffName220042501,Arena Buff,S8 Elite Arena 1 - Joker,"Every time an ally debuffs (count stacks) the enemy, it temporarily gains +3% to its base damage for 2 Turns. Debuffs characters have their HP/DEF/ATK increased by 50%"
+BuffName220042601,Arena Buff,S8 Elite Arena 2 - Hugo Strange,"Dispel now also grants a random buff to the ally for each debuff stack it removes, lasting 2 turns. Debuffs characters have their HP/DEF/ATK increased by 50%"
+BuffName220042701,Arena Buff,S8 Elite Arena 3 - Punchline,"Characters who miss their attack will now be affected by 1 stack of a random debuff (Bleed, Poison, Burn, Frostbite). Debuffs characters have their HP/DEF/ATK increased by 100%"
+BuffName220042801,Arena Buff,S8 Elite Arena 4 - Punchline,All Characters with Debuffs now take an extra 20% damage. Debuffs characters have their HP/DEF/ATK increased by 100%
+BuffName220042901,Arena Buff,S9 Elite Arena 1 - Nubia,"Every time an ally defeats the enemy, it temporarily gains +25% to its base damage until the end of the match.\n+50% Att/Def/Hp for Characters who have the Redirect Tag. \nSuperpower dmg is Reduced by -25%."
+BuffName220043001,Arena Buff,S9 Elite Arena 2 - Yara Flor,Each applied Stun applies 8 stacks of Armor Break for 2 turn. \n+50% Att/Def/Hp for Characters who have the Redirect Tag. \nSuperpower dmg is Reduced by -25%.
+BuffName220043101,Arena Buff,S9 Elite Arena 3 - Artemis,"Every first time an ally is defeated, grant 4 energy to the ally team. \n+100% Att/Def/Hp for Characters who have the Redirect Tag. \nSuperpower dmg is Reduced by -50%."
+BuffName220043201,Arena Buff,S9 Elite Arena 4 - Black Adam,All characters with the Redirect buff apply double the number of stacks for the redirected debuffs. \n+100% Att/Def/Hp for Characters who have the Redirect or Control Tag.
+BuffName220043301,Arena Buff,S10 Elite Arena 1 - Lobo,"The Main Man takes over the Elite Arena. Lobo cannot be Silenced, Stunned, or Frozen. \n+50% Att/Def/Hp for Characters who have the Shatter Tag."
+BuffName220043401,Arena Buff,S10 Elite Arena 2 - Ruthye,"Burn, Frostbite, Bleed, and Poison only deal 80% of their damage to allies. Counterattacks do 120% more Dmg. \n+50% Att/Def/Hp for Characters who have the Shatter Tag."
+BuffName220043501,Arena Buff,S10 Elite Arena 3 - Black Lightning,"When an ally applies Stacks of Shock, they are doubled. \n+100% Att/Def/Hp for Characters who have the Shatter or Shock Tag."
+BuffName220043601,Arena Buff,S10 Elite Arena 4 - Supergirl (DCU),The Yellow Sun Rises at the beginning of the Battle. Physical Dmg is increased by 50%. \n+100% Att/Def/Hp for Characters who have the Shatter or Kryptonian Tag.
+buff_321702_name,,,Special Blend
+buff_321702_des,,,"Deals 200% of Superpower Dmg when applied, and causes enemies to have a 50% Chance to miss basic attacks."
+buff_321702_tips,,,Special Blend
+buff_32170201_tips,,,Special Blend
+ItemName1123025,,,Purple Healing Ray Fragment
+ItemDesc1123025,,,Purple Healing Ray Fragment. Can be used to rank up the corresponding artifact.
+SkillName1610019,,,Bracelets of Submission
+SkillName161001901,,,"At the start of round 1, gain [buff1_2] Stack of [buff1_4]."
+SkillName161001902,,,"At the start of round 2, gain [buff1_2] Stack of [buff1_4]."
+SkillName161001903,,,"At the start of round 3, gain [buff1_2] Stack of [buff1_4]."
+BadgeDesc168,,,Joyful Life
+BadgeSkillDesc1326801,,,"The first three times she uses her Ultimate, she also applies 2 stacks of Shelter and Cloak to Front Row Allies."
+BadgeSkillDesc1326802,,,"After using her Ultimate a second time, the Ultimate Cost is reduced to 1 for the rest of battle."
+BadgeSkillDesc1326803,,,"At the start of battle, Ruthye performs her Ultimate for free."
+BadgeSkillName13268,,,Let the Sun Set
+Character_Identity1_13268,,,Ruthye hunts her family’s killer and drags Supergirl into the quest.
+Character_Identity2_13268,,,"Ruthye Marye Knoll is the young daughter of a notable blacksmith whose family is murdered in cold blood by Krem of the Yellow Hills. To avenge her family's death, Ruthye sets out across the stars to hunt him down, eventually convincing a reluctant Kara Zor-El to help her. Though she begins the journey as a grieving child chasing vengeance, Ruthye proves determined, observant, and far tougher than her age suggests, becoming the heart and witness of Supergirl’s brutal trek through the worst corners of the universe."
+Character_RecordDesc_13268_1,,,Ruthye: I didn't know any of you were still alive.\n\nRuthye: What was it like to lose everything in a day?\n\nSupergirl: Krypton didn't die in a day.\n\nSupergirl: The gods are not that kind.\n\n(Source: Supergirl 2026)
+Character_RecordDesc_13268_2,,,Coming soon
+Character_RecordTitle_13268_1,,,Not that kind
+Character_RecordTitle_13268_2,,,Coming soon
+Character_RemarkDesc1_13268_1,,,"She was just a girl in mourning, but she never stopped moving forward."
+Character_RemarkDesc1_13268_2,,Supergirl speaking,"When I met Ruthye, she was grieving, angry, and far too young to be chasing a killer across the stars. But she never backed down. She kept asking hard questions, even when the answers hurt, and she kept going when most adults would have turned away. Ruthye doesn’t have powers, armor, or some cosmic destiny. What she has is a kind of courage that’s quieter than mine—but in some ways, harder. She made me remember why helping one person can still matter in a universe."
+Character_RemarkDesc2_13268_1,,,"She was only a child, but she followed me farther than most hunters dare."
+Character_RemarkDesc2_13268_2,,Krem speaking ,"Killing her family should have ended the story. Instead, the girl crossed worlds to come after me, dragging that Kryptonian into my path. Ruthye is no warrior, no threat by herself—but that’s what makes her dangerous. She has nothing to protect except her purpose, and she clings to it like a blade. I’ve seen soldiers, killers, and kings break sooner than she did. That kind of stubbornness is either madness… or the start of something worse."
+Character_RemarkName_13268_1,,,Supergirl
+Character_RemarkName_13268_2,,,Krem of the Yellow Hills
+Character_Weakness1_13268,,,"Young, mortal, and driven by revenge in a universe built to crush both."
+Character_Weakness2_13268,,,"Ruthye is still a young, and a mortal one at that. She can be overpowered, injured, manipulated, or killed in a universe full of slavers, murderers, and predators far beyond anything she was born to face. Her greatest weakness is also what drives her: vengeance. The need to see Krem punished pushes her into dangers no child should have to survive, and her pain can harden into tunnel vision if left unchecked. Without Kara, Ruthye’s quest would likely end in tragedy—but without Ruthye’s persistence, Kara may never have taken the journey at all."
+Character_Weapon1_13268,,,"No superpowers. Just grit, courage, and a blade backed by fierce purpose."
+Character_Weapon2_13268,,,"Ruthye has no alien gifts or cosmic powers. What she brings instead is resolve, intelligence, and the will to keep moving when fear would stop most people. She is willing to arm herself, track a killer across hostile worlds, and stand beside beings far stronger than herself without losing her nerve. In Woman of Tomorrow, her greatest “weapon” is often her purpose: she pushes Kara forward, asks the questions no one wants to answer, and refuses to let grief or horror make her turn away from the truth."
+CharacterEyes_13268,,,Purple
+CharacterHair_13268,,,Black
+CharacterHeight_13268,,,Unknown 
+CharacterIntro_13268,,,CharacterIntro_13268 PLACEHOLDER
+CharacterName_13268,,,Ruthye (DCU)
+CharacterRealname_13268,,,Ruthye Marye Knoll
+CharacterSaying_13268,,,"A determined farm girl who crosses the stars for justice, not comfort."
+CharacterShowName_13268,,,Ruthye
+CharacterWeight_13268,,,Unknown 
+ItemDesc1113268,,,Can be used on <color=#FAA520>Ruthye</color> to <color=#FAA520>increase her Rank</color>.
+ItemName1113268,,,Ruthye Fragment
+RoomDialogue1326801,,Ruthye ,I’m not turning back.
+RoomDialogue1326802,,Ruthye ,Someone has to answer for this.
+RoomDialogue1326803,,Ruthye ,I may be small. I’m not weak.
+RoomDialogue1326804,,Ruthye ,Justice doesn’t come on its own.
+RoomDialogue1326805,,Ruthye ,"If no one else will go, I will."
+SkillName1326801,,,Sweetest Revenge
+SkillName132680101,,,Target an enemy who has the highest Attack and strike them for [SkillParam_1_%] of her Attack as Physical Damage and apply [buff1_2] stacks of [buff1_4] for [buff1_5] turns.
+SkillName132680102,,,"If the target has a higher HP% than anyone in your teams Back Row, apply [buff2_2] stacks of [buff2_4] for [buff2_5] turns to each ally in your Back Row."
+SkillName132680103,,,"If the target has a higher HP% than anyone in your teams Back Row, then also apply [buff3_2] Stacks of [buff3_4] for [buff3_5] turns."
+SkillName1326802,,,Let the Sun Set
+SkillName132680201,,,"Ruthye analyzes her opponents and calls out their incoming attacks to help protect her allies. Does [SkillParam_2_%] of her Attack as Physical Damage and applies [buff1_2] stack of [buff1_4] to the enemy with the highest Attack. The first time she uses her Ultimate Ability, apply [buff2_2] stacks of [buff2_4] to allies in her row."
+SkillName132680202,,,"The first time she uses her Ultimate Ability also does damage and applies [buff1_2] stack of [buff1_4] to the enemy with the second highest Attack.  Also on the first Ultimate Ability, apply [buff3_2] stacks of [buff3_4] to allies in her row."
+SkillName132680203,,,The bonuses on her first ultimate also apply to the second and third time she uses her ultimate.
+SkillName1326803,,,Equal Footing
+SkillName132680301,,,"Each time an ally in her row loses [SkillParam_1_%] of their Max HP, Ruthye will counterattack against the enemy with the highest Attack. Activates once per ally, per round."
+SkillName132680302,,,This Counterattack will also Dispel 1 Full Stack of a random Buff they have and gain a copy of the Dispelled Buff for [SkillParam_3] Turn to everyone in her Back Row.
+SkillName132680303,,,"If an any ally is defeated, Ruthye will Counterattack for [SkillParam_4_%] of her attack. This attack has a 100% Critical Hit chance."
+SkillName1326804,,,There is Always Hope
+SkillName132680401,,,"Ruthye's allies in her row are under her protection.  Any Debuff that would be applied to allies in her row, are instead applied to her, and have their duration set to [SkillParam_1] Turn."
+SkillName132680402,,,"Each time Ruthye has a Debuff moved to herself, she gains [buff1_2] stack of [buff1_4] and [buff2_2] stack of [buff2_4]."
+SkillName132680403,,,"Whenever a debuff expires on Ruthye, she heals for [SkillParam_2_%] of her Max HP."
+Character_RecordTitle_13233_3,,,The Monster
+Character_RecordDesc_13233_3,,,"Kid: ...Help me...\n\nArtemis: Who--?\n\nKid: Please...\n\nKid: There is EVIL here. MONSTERS. You're a strong and brave warrior who keeps her promises. I know you can save us, ARTEMIS!\n\nArtemis: How do you know my name, Little one?\n\nKid: You whispered it to me in a dream...\n\nKid: I know you! You're an amazon HERO!\n\nKid: Please... I need you.\n\nArtemis: Unless you need someone murdered, I cannot help.\n\nKid: That's not true. You're not a murderer, you're a HERO!\n\nArtemis: I have a Good SENSE of such things. There are no monsters here, child, except the one reflected in glass.\n\nArtemis: And it is clear that your neighbours can see that, too.\n\n(Source: Artemis: Wanted (2022) #1, pgs. 8 - 10)"
+BadgeDesc166,,,Maiden of Might
+BadgeSkillDesc1326601,Supergirl DCU,,"When the Yellow Sun rises, Supergirl get's a new turn."
+BadgeSkillDesc1326602,Supergirl DCU,,"Before the Yellow Sun rises, Supergirl HP cannot be reduced below 15%."
+BadgeSkillDesc1326603,Supergirl DCU,,"When the Yellow Sun rises, Supergirl will use her Ultimate for free without putting it on Cooldown."
+BadgeSkillName13266,Supergirl DCU,,Woman of Tomorrow
+Character_Identity1_13266,,,"Cousin to Superman who survived Krypton, now searching for purpose among the stars."
+Character_Identity2_13266,,,"Kara Zor-El watched Krypton die and was sent to Earth to be with her cousin. Adrift and questioning what her life is for, she leaves Earth and wanders the cosmos, eventually ending up on a distant red-sun world to celebrate her 23rd birthday—powerless, angry, and tired. There she meets Ruthye, a young alien girl seeking justice for her murdered family, and agrees to help hunt the killer across brutal worlds, forcing Kara to confront the worst parts of the universe and decide what kind of hero she wants to be."
+Character_RecordDesc_13266_1,,,"Okay, this does not look like this is gonna end well. For you guys\n\n(Source: Supergirl 2026)"
+Character_RecordDesc_13266_2,,,He sees the good in everyone and I see the truth.\n\n(Source: Supergirl 2026)
+Character_RecordTitle_13266_1,,,I warned you guys
+Character_RecordTitle_13266_2,,,So what's Superman like?
+Character_RemarkDesc1_13266_1,,Superman,"She’s my cousin, my equal, and sometimes far braver than I am."
+Character_RemarkDesc1_13266_2,,Superman,"Kara has seen more of the universe’s ugliness than I ever wanted her to. She lost Krypton, lost the life she was supposed to have. But instead of breaking, she kept going into places I’d hesitate to send anyone. Out there, away from Metropolis, she makes the hard choices no one ever hears about. She’s not just Supergirl to me. She’s my family, my peer, and on her worst days… still one of the bravest people I know."
+Character_RemarkDesc2_13266_1,,Ruthye,"She was no angel from a song. She was tired, angry, and she stayed."
+Character_RemarkDesc2_13266_2,,Ruthye,"When I first met Kara, on a world with a red sun. She did not look like the shining hero from stories. She cursed, and she told me more than once to turn back. But when my father’s killer fled, she followed. When the road grew cruel, she walked it with me. She saw the worst of us, slavers, butchers, cowards and still chose to do what was right, not what was easy. She is the woman who kept her promise, even when it hurt."
+Character_RemarkName_13266_1,,,Superman
+Character_RemarkName_13266_2,,,Ruthye
+Character_Weakness1_13266,,,"Kryptonite, hostile suns, and a heart that refuses to walk away from suffering."
+Character_Weakness2_13266,,,"Like Superman, Kara is vulnerable to Kryptonite and to suns that rob or twist her powers—red sun worlds leave her effectively human, and more exotic suns can inflict real pain. In Woman of Tomorrow she also carries heavier, more human weaknesses: survivor’s guilt from losing Krypton. Her refusal to abandon people in need can be used against her, dragging her into hopeless situations—but it’s also what anchors her morality as she walks a thin line between justice and revenge across an uncaring universe."
+Character_Weapon1_13266,,,Kryptonian powerhouse who can still fight on when her powers are stripped away.
+Character_Weapon2_13266,,,"Under a yellow sun, Kara has the full Kryptonian arsenal—super strength, speed, flight, heat vision, freeze breath, enhanced senses and near invulnerability—making her every bit the “Maiden of Might” people expect. In Woman of Tomorrow, those powers are often stripped away by alien suns, forcing her to fight like a mortal with swords, shields, and sheer toughness, using skill and stubbornness where raw power won’t work. Even then, she’s never truly helpless: Kara rides alongside allies like Krypto and Comet, improvises weapons, and shows that her greatest strength isn’t just what she can do under a yellow sun, but how far she’ll go to keep others safe when she’s hurt, grounded, and outmatched."
+CharacterEyes_13266,,,Blue
+CharacterHair_13266,,,Blond
+CharacterHeight_13266,,,"5' 5"""
+CharacterIntro_13266,,,CharacterIntro_13266 PLACEHOLDER
+CharacterName_13266,,,Supergirl (DCU)
+CharacterRealname_13266,,,Kara Zor-El
+CharacterSaying_13266,,,"A battle-scarred survivor of Krypton, Supergirl wanders hostile worlds as a weary but unbreakable hero who fights for the forgotten when no one else will."
+CharacterShowName_13266,,,Supergirl (DCU)
+CharacterWeight_13266,,,120 lbs (54 kg)
+ItemDesc1113266,,,Supergirl (DCU) Fragment. Can be used to rank up the corresponding character.
+ItemName1113266,,,Supergirl (DCU) Fragment
+RoomDialogue1326601,Supergirl DCU,Supergirl DCU,I’ve lost a world. Don’t make me lose another.
+RoomDialogue1326602,Supergirl DCU,Supergirl DCU,Hope’s heavy. I carry it anyway.
+RoomDialogue1326603,Supergirl DCU,Supergirl DCU,You want mercy? Stop making people suffer.
+RoomDialogue1326604,Supergirl DCU,Supergirl DCU,Krypton died. I won’t let your world follow it.
+RoomDialogue1326605,Supergirl DCU,Supergirl DCU,"I’m tired, I’m angry, and I’m still getting up."
+SkillName1326601,Supergirl DCU,,Sunrise combo
+SkillName132660101,Supergirl DCU,,"Attacks an enemy for [SkillParam_1_%] of her Attack as Physical Damage. \nWhen the Yellow Sun is out, she performs a followup attack that deals [SkillParam_2_%] of her Attack as Physical Damage."
+SkillName132660102,Supergirl DCU,,Sun Up followup damage increases to [SkillParam_2_%] ATK. Also applies [buff1_2] stack of [buff1_4] to the target.
+SkillName132660103,Supergirl DCU,,"Sun Up followup damage increases to [SkillParam_2_%] ATK. If the target has [buff1_4], also applies [buff2_2] stack of [buff2_4]."
+SkillName1326602,Supergirl DCU,,Look Out!
+SkillName132660201,Supergirl DCU,,"Gain [buff1_2] permanent Stacks of [buff1_4] that cannot be dispelled.\n\nPerform an AoE Frostbite slam that damages all enemies for [SkillParam_1_%] of her Attack as Physical Damage, and apply [buff2_2] Stack(s) of [buff2_4] to all enemies.\nThen, perform an Empowered Basic Attack, where each hit adds [buff3_2] stack(s) of [buff3_4]. \n\nAfter the Yellow Sun rises, these attacks apply [SkillParam_3] Additional Stack of [buff2_4]."
+SkillName132660202,Supergirl DCU,,"When the Yellow Sun rises, reduce the cost of her Ultimate to [SkillParam_2] for the rest of combat."
+SkillName132660203,Supergirl DCU,,"When the Yellow Sun rises, it applies [SkillParam_4] additional Stacks of [buff2_4], and applies 4 extra Stacks of [buff3_4] on the followup hit.\nAoE Frostbite Slam damage increases to [SkillParam_1_%]."
+SkillName1326603,Supergirl DCU,,Psyched up!
+SkillName132660301,Supergirl DCU,,"Gain [buff1_2] permanent Stacks of [buff1_4] that cannot be dispelled.  \n\nAfter the Yellow Sun rises, Supergirl will perform her basic attack after using Psyched up!"
+SkillName132660302,Supergirl DCU,,"Her next attack will apply [buff3_2] Stack of [buff3_4].\nIf the Yellow Sun has not yet risen, gain [buff2_2] Stack of [buff2_4] for [buff2_5] turn."
+SkillName132660303,Supergirl DCU,,"After the Yellow Sun rises, Psyched up! comes off Cooldown, and the Cooldown is permanently decreased from 3 to 2."
+SkillName1326604,Supergirl DCU,,Last Daughter of Krypton
+SkillName132660401,Supergirl DCU,,"During battle, gains 30% Physical Damage Reduction.\nWhen the Yellow Sun rises, instantly heal Supergirl for [SkillParam_1_%] of her Max HP."
+SkillName132660402,Supergirl DCU,,"When the Yellow Sun rises, Supergirl gains an additional 20% Physical Damage reduction.\nWhen the Yellow Sun rises, Supergirl gains [SkillParam_4_%] lifesteal for the rest of the battle."
+SkillName132660403,Supergirl DCU,,"When the Yellow Sun rises, Cleanse the largest Stack of Debuffs on herself, and increase her Attack by [SkillParam_2_%] for each Stack Cleansed.\nWhen the Yellow Sun rises, instantly heal Supergirl for [SkillParam_1_%] of her Max HP."
+SkillName1326605,Supergirl DCU,,Maiden of Might
+SkillName132660501,Supergirl DCU,,"At the end of Round 2, the Yellow Sun rises! \nKara gains her full powers when the yellow sun rises.\n\nAll allied Kryptonians gain [buff1_2] permanent Stacks of [buff1_4] and [buff2_4] that cannot be Dispelled for the rest of battle.				 					 					 					"
+Character_RecordTitle_13266_3,Supergirl DCU,,Coming soon
+Character_RecordDesc_13266_3,Supergirl DCU,,Coming soon
+Character_RecordTitle_13268_3,Supergirl DCU,,Coming soon
+Character_RecordDesc_13268_3,Supergirl DCU,,Coming soon
+SkillName1610017,,,Purple Healing Ray
+SkillName161001701,,,"Once per battle, when dropping below [SkillParam_1_%] HP, activate and apply [buff1_2] Stacks of [buff1_4] for [buff1_5] turns."
+SkillName161001702,,,"While the bearer has any Stacks of Recuperate, they also have [SkillParam_4_%] additional Lifesteal."
+SkillName161001703,,,"Once per battle, activate again when dropping below [SkillParam_2_%] HP."
+SkillName1610020,Artifact,Popcorn Butt,Cedric the slug
+SkillName161002001,Artifact,Popcorn Butt,"At the start of each battle, the bearer gains [buff1_2] stacks of [buff1_4] for [buff1_5] turns."
+SkillName161002002,Artifact,Popcorn Butt,"Once per battle, the first time the bearer would be defeated, they instead hang on with 1% HP and become [buff2_4] for [buff2_5] turn."
+SkillName161002003,Artifact,Popcorn Butt,"Reduces the damage the bearer takes from Burn, Frostbite, Poison, Bleed, and Superpower attacks by [SkillParam_1_%]."
+SkillName1610021,Artifact,Pocket Watch,[TEMP] Pocket Watch
+SkillName161002101,Artifact,Pocket Watch,"[TEMP] At the start of Round 2, advance the bearer's Action Bar by [SkillParam_2_%]."
+SkillName161002102,Artifact,Pocket Watch,[TEMP] Gain [buff1_2] Stacks of [buff1_4] for [buff1_5] Turns at the start of battle.
+SkillName161002103,Artifact,Pocket Watch,"[TEMP] The first time the bearer uses their Ultimate, gain [buff2_2] Stack of [buff2_4]."
+BadgeDesc169,Badge Name,Black Lightning,Protector of the Community
+BadgeSkillDesc1326901,Badge Description,Black Lightning,Increases the Force Field damage reduction by 0.25% for each stack of Shock on the enemy team. Up to a maximum of 80% total Super Power Damage reduction.
+BadgeSkillDesc1326902,Badge Description,Black Lightning,The Force Field lasts for 3 Rounds.
+BadgeSkillDesc1326903,Badge Description,Black Lightning,All allies gain 2 stacks of Sturdy Armor and 2 stacks of Shelter for 3 turns.
+BadgeSkillName13269,Badge Name,Black Lightning,Force Field
+Character_Identity1_13269,Character Profile,Black Lightning,"Former Olympic-level athlete and school teacher turned masked superhero, protecting his community from crime and injustice."
+Character_Identity2_13269,Character Profile,Black Lightning,"Jefferson Pierce, aka Black Lightning, grew up in a crime-ridden neighborhood and became an Olympic athlete before returning as a teacher to help his community. When crime worsened, he used a suit giving him electrical powers to protect his city, balancing life as a hero, mentor, and father to his superpowered daughters while fighting villains and injustice. Later, he learned to control his powers without relying on the suit and served as a minister of education. "
+Character_RecordDesc_13269_1,Character Profile,Black Lightning,"DAILY PLANET: A dazzling display lit up Metropolis’s skies last night, heralding dramatic changes for “Suicide Slum”...\n\nDAILY PLANET: ...when an individual possessing an as-yet unexplained command of electrical energy identifies himself as the vigilante who has been patrolling Southside.\n\nGanger: One Hundred gonna brick you, man! You’re finished-\n\nBlack Lightning: No, I’m just getting started!\n\nDAILY PLANET: “Black Lightning” did not meet with police after delivering eight drug trafficking suspects to the 12th Precinct last night...\n\nDAILY PLANET: ...and Lt. Bill Henderson says his investigation is still under way.\n\nSource: Black Lightning Year One #2 (2009) pg 21"
+Character_RecordDesc_13269_2,Character Profile,Black Lightning,"Black Lightning: I had a dream\n\nBlack Lightning: I stood above the city...\n\nBlack Lightning: ...in the heart of the storm\n\nBlack Lightning: And in the fury I found myself.\n\nBlack Lightning: The light flashed on, the electrons danced.\n\nBlack Lightning: And the sky looked down.\n\nBlack Lightning: ...and saw its son.\n\nBlack Lightning: And I reached up.\n\nBlack Lightning: And the storm and I...\n\nBlack Lightning: ...became one.\n\nSource: Black Lightning - Brick City Blues #10 (1994) pg 4"
+Character_RecordDesc_13269_3,Character Profile,Black Lightning,"Black Lightning: I’m gonna make you a hole, and when it’s safe, you run right through it. You understand me, young lady?\n\nLightning: Fine. Okay!\n\nBlack Lightning: Swear.\n\nLightning: I swear.\n\nBlack Lightning: If you can still hear us, Thunder, make damn sure she does it. Nobody panics. After the last time, we all trained for this, remember?\n\nBlack Lightning: Stay in control, and we survive.\n\nLightning: I don’t think she can hear us anymore. I’m just getting static. Nice work, by the way. Been taking some tips from Batman?\n\nBlack Lightning: Batman…? Please. I’m from the SLUM, baby girl…\n\nBlack Lightning #4 (2024) pg 20"
+Character_RecordTitle_13269_1,Character Profile,Black Lightning,Southside Report
+Character_RecordTitle_13269_2,Character Profile,Black Lightning,A Dream
+Character_RecordTitle_13269_3,Character Profile,Black Lightning,Hands on experience
+Character_RemarkDesc1_13269_1,Character Profile,Black Lightning,"Black Lightning? Oh! He's truly grounding and dependable, especially in times of crisis."
+Character_RemarkDesc1_13269_2,Character Profile,Black Lightning,"Jefferson can always bring calm, experience, and perspective, helping me to think clearly and slow down. Funny to hear that from me, right?"
+Character_RemarkDesc2_13269_1,Character Profile,Black Lightning,"I respect his resilience and courage that comes not just from the strength of will, but the weight of responsibility."
+Character_RemarkDesc2_13269_2,Character Profile,Black Lightning,"When his mind is set, you can rarely see Pierce back down if his decision is just."
+Character_RemarkName_13269_1,Character Profile,Black Lightning,The Flash
+Character_RemarkName_13269_2,Character Profile,Black Lightning,Green Lantern - Hal Jordan
+Character_Weakness1_13269,Character Profile,Black Lightning,"Despite his powers, he's still only a human and can be injured if caught off guard."
+Character_Weakness2_13269,Character Profile,Black Lightning,"Jefferson Pierce is always in a balancing act of helping his community, fighting villains, and protecting his family. Especially now when his daughters grew up and have developed their own superpowers. "
+Character_Weapon1_13269,Character Profile,Black Lightning,"Electrokinesis, force fields, peak human physical abilities, and agility."
+Character_Weapon2_13269,Character Profile,Black Lightning,"Black Lightning controls electricity with high precision, using his powers to take out his enemies non-lethally. He can create force fields to protect people around him and use the powers of electricity for healing. Olympic athlete and urban brawler, he was trained in hand-to-hand combat by Batman, making him a formidable combatant even without his powers. "
+CharacterEyes_13269,Character Profile,Black Lightning,Black
+CharacterHair_13269,Character Profile,Black Lightning,Black
+CharacterHeight_13269,Character Profile,Black Lightning,"6'1"""
+CharacterIntro_13269,Character Profile,Black Lightning,"Black Lightning is Jefferson Pierce, a hero who can generate and control electricity. A former Olympic-level athlete, school teacher, and education minister, he returns to his crime-ridden neighborhood to protect his community using his powers. He is fighting injustice in all of its forms, be it a supervillain or criminal gangs trying to rob new generations of their future. A mentor to students and his own daughters, who develop their own superpowers.  "
+CharacterName_13269,Character Profile,Black Lightning,Black Lightning
+CharacterRealname_13269,Character Profile,Black Lightning,Jefferson Pierce
+CharacterSaying_13269,Character Profile,Black Lightning,"Protector of the community, mentor to the school kids, and new, fresh superheroes. Levelheaded master of electric powers and hand-to-hand combat."
+CharacterShowName_13269,Character Profile,Black Lightning,Black Lightning
+CharacterWeight_13269,Character Profile,Black Lightning,182 lbs (83 kg)
+ItemDesc1113269,,Black Lightning,Can be used on <color=#FAA520>Black Lightning</color> to <color=#FAA520>increase his Rank</color>.
+ItemName1113269,,Black Lightning,Black Lightning Fragment
+RoomDialogue1326901,Lobby Dialogue,Black Lightning,You want change? Then earn it.
+RoomDialogue1326902,Lobby Dialogue,Black Lightning,Want to get grounded?
+RoomDialogue1326903,Lobby Dialogue,Black Lightning,I don’t need thunder to make a point.
+RoomDialogue1326904,Lobby Dialogue,Black Lightning,Failure is the best teacher.
+RoomDialogue1326905,Lobby Dialogue,Black Lightning,Classes are over.
+SkillName1326901,Basic Skill Name,Black Lightning,Street Brawler
+SkillName132690101,Basic Skill L1,Black Lightning,Attacks the front row enemy with the highest Attack with 2 hits for [SkillParam_1_%] ATK Physical Dmg each. Simultaneously grants [buff1_2] stack of [buff1_4] for [buff1_5] turns to the ally with the lowest HP.
+SkillName132690102,Basic Skill L2,Black Lightning,Damage increases to [SkillParam_1_%] ATK. [buff1_4] increases to [buff1_2] stacks.
+SkillName132690103,Basic Skill L3,Black Lightning,"Attacks the front row enemy with the highest Attack with 4 hits. If the target has any Shock stacks, each 2 hits also apply [buff2_2] additional stacks of [buff2_4] to the target."
+SkillName1326902,Ultimate Skill Name,Black Lightning,Force Field
+SkillName132690201,Ultimate Skill L1,Black Lightning,"Applies a protective Force Field for [buff1_5] Rounds. While active, reduces incoming SuperPower Dmg by [SkillParam_1_%]. When enemies deal Physical Dmg to allies through the Force Field, apply [buff2_2] stacks of [buff2_4] to the attacker AND Knockback that attacker [SkillParam_2_%] on the Action Bar."
+SkillName132690202,Ultimate Skill L2,Black Lightning,SuperPower Dmg reduction increases to [SkillParam_1_%]. [buff2_4] stacks on attacker increases to [buff2_2].
+SkillName132690203,Ultimate Skill L3,Black Lightning,SuperPower Dmg reduction increases to [SkillParam_1_%]. Apply [buff2_2] stacks of [buff2_4] on attacker. The Knockback increases to [SkillParam_2_%]
+SkillName1326903,Advanced Skill Name,Black Lightning,Black Lightning Strikes
+SkillName132690301,Advanced Skill L1,Black Lightning,"Strikes all enemies dealing [SkillParam_1_%] ATK as SuperPower Dmg, applying [buff1_2] stacks of [buff1_4] and [buff2_1] chance to apply [buff2_2] stack of [buff2_4] for [buff2_5] turns."
+SkillName132690302,Advanced Skill L2,Black Lightning,Damage increases to [SkillParam_1_%] ATK. [buff2_4] chance increases to [buff2_1].
+SkillName132690303,Advanced Skill L3,Black Lightning,"Apply [buff1_2] stacks of [buff1_4]. Also, [buff2_1] chance of [buff2_2] stack of [buff2_4] for [buff2_5] turns. Shock damage from all allies is increased by 15% for 2 turns."
+SkillName1326904,Passive Name,Black Lightning,Electric Heal
+SkillName132690401,Passive L1,Black Lightning,"At the end of each turn, heals the ally with the lowest HP for [SkillParam_1_%] of their Max HP and applies [buff1_2] stack of [buff1_4] for [buff1_5] turns.\n\nEach time any enemy takes Shock damage, Black Lightning gains 1 Lightning Reserve charge (max 10). When Lightning Reserve reaches 10 charges, at the end of his turn, heal all allies for [SkillParam_4_%] Max HP and grant [buff2_2] stack of [buff2_4] to all allies for [buff2_5] turns. Lightning Reserve then resets to 0."
+SkillName132690402,Passive L2,Black Lightning,End of turn heal increases to [SkillParam_1_%] Max HP. Also applies [buff3_2] stack of [buff3_4] for [buff3_5] turns to the healed ally. Lightning Reserve team heal increases to [SkillParam_4_%] Max HP.
+SkillName132690403,Passive L3,Black Lightning,"Lightning Reserve only needs 8 charges to release. When Lightning Reserve triggers, also advance all allies' Action Bar by [SkillParam_5_%]."
+SkillName1326905,Legendary Passive Name,Black Lightning,Lightning Internal
+SkillName132690501,Legendary Passive Desc,Black Lightning,"During battle, increase all team members' Attack and Defence by [SkillParam_1_%].\nWhen the Force Field is active, Shock damage is increased by [SkillParam_3_%]. When an enemy with [SkillParam_4] or more Shock stacks attacks any ally, that enemy is immediately Knocked Back [SkillParam_6_%] on the Action Bar."
+ItemDesc1120049,,,Space Hog unlock item.
+ItemName1120049,,,Space Hog Fragment
+BadgeDesc137,,,[NOTFINAL]BadgeDesc137 PLACEHOLDER
+BadgeSkillDesc1323701,,,[NOTFINAL]Secondary burst damage per Nemesis stack consumed increased by 15%.
+BadgeSkillDesc1323702,,,"[NOTFINAL]After Athena's Wrath resolves, WW applies 1 stack of Nemesis to all surviving enemies."
+BadgeSkillDesc1323703,,,"[NOTFINAL]Athena's Wrath Cost reduced by 1 (3 to 2) and for every 1% of Crit Rate WW has above 75%, she gains 2% Crit Dmg."
+BadgeSkillName13237,,,"[NOTFINAL]Witch of the Wild Isle,Athena's Wrath"
+Character_Identity1_13237,,,Diana was taken from Themyscira as an infant and raised by the legendary sorceress Circe in the Underworld.
+Character_Identity2_13237,,,"Circe trained Diana in ancient sorcery, monster lore, survival, and the harsh realities of a realm filled with demons and mythical horrors. Rather than becoming cruel, Diana developed a deep sense of empathy, believing that strength exists to protect rather than dominate. As she matured, Diana rejected the darkness of Hell and ventured into the world of mortals. Feared by many as a witch and monster hunter, she nonetheless dedicates herself to defending innocent lives. She embodies both Amazon and sorceress, proving that one's upbringing does not determine one's character. "
+Character_RecordDesc_13237_1,,,Circe: Once upon a time there was a princess.\nCirce: And the princess had all the gifts any princess could hope to have.\nCirce: Beauty.\nCirce: Grace.\nCirce: Compassion.\nCirce: Kindness.\nCirce: Things every princess needs...\nCirce: ...when she was raised in Hell.\nSource: Absolute Wonder Woman #1 (2024) pg7-8
+Character_RecordDesc_13237_2,,,"Absolute Wonder Woman: Hello, Gateway City. My name is Diana, and I'm afraid I need your help to save your city. There is a terrible monster on your beach called the Tetracide, and I have been trying to fight it, but it is very powerful. It is... beyond me.\nAbsolute Wonder Woman: The military is trying to evacuate you, but there is simply not enough time. Soon the Tetracide will begin to emit a sound. A sound that will compel you to sacrifice yourselves to it.\nNews Broadcast: LIVE | THE GATE / LARGE CREATURE LOOMS OVER GATEWAY CITY\nAbsolute Wonder Woman: This will be difficult to hear, to understand. But... To save you from this fate, I am going to briefly make all of you deaf. The entire city.\nAbsolute Wonder Woman: Many of you do not believe me, but I assure you... you're about to become believers. Panic, and the chaos that brings, will now be almost as deadly as the Tetracide itself.\nAbsolute Wonder Woman: And so I need you to be calm. I need you, especially those of you that are hearing this message now, to help your friends and neighbors. Kindness and compassion are all that will save us now.\nAbsolute Wonder Woman: I came here to save your city, but today, it seems, it will be up to each of you to save your city instead. I know you can do it. Wonder Woman believes in you.\nSource: Absolute Wonder Woman #3 (2024) pg26"
+Character_RecordDesc_13237_3,,,"Diana: Hello?\nDiana: Hello. I am Diana of the Wild Isle. Welcome to my home.\nCreature: Hello, Princess.\nDiana: We do not have much, but what we have is yours.\nCreature: I will take it all.\nDiana: If you need it, it is yours.\nSource: Source: Absolute Wonder Woman #10 (2024) pg10"
+Character_RecordTitle_13237_1,,,The Princess
+Character_RecordTitle_13237_2,,,The Message of Hope
+Character_RecordTitle_13237_3,,,The Test of the Gods
+Character_RemarkDesc1_13237_1,,,Diana walks into nightmares without hesitation and somehow makes them fear her instead.
+Character_RemarkDesc1_13237_2,,,Her magic expertise is indispensable. And I'd like to know what her training regimen and diet plan are.
+Character_RemarkDesc2_13237_1,,,"I think that she is a stranger on this Earth too, even though much less than me."
+Character_RemarkDesc2_13237_2,,,"Diana is living proof that people define themselves through their choices, not their origins. I trust her judgment and would gladly stand beside her against any threat."
+Character_RemarkName_13237_1,,,Absolute Batman
+Character_RemarkName_13237_2,,,Absolute Superman
+Character_Weakness1_13237,,,"Despite her immense power, Diana is not invincible. Powerful gods, ancient demons, and master sorcerers can rival her magic."
+Character_Weakness2_13237,,,"Many of her most powerful rituals require preparation, rare magical components, or favorable conditions, preventing her from using them freely in every battle. Casting powerful spells can require concentration and significant effort, making prolonged battles taxing. Because she chooses mercy over cruelty, enemies may exploit her compassion, and her willingness to protect others can leave her vulnerable."
+Character_Weapon1_13237,,,"Absolute Wonder Woman blends the abilities of an Amazon champion with those of a master sorceress, making her a versatile and capable fighter."
+Character_Weapon2_13237,,,"She possesses superhuman strength, speed, durability, and combat skill, while also wielding powerful magic for spells, barriers, teleportation, enchantments, and monster hunting. Magic is central to her fighting style. Armed with an array of mythical weapons, a set of legendary lassos, and a powerful arsenal of witchcraft learned from Circe, allowing her to summon magical attacks, protective wards, and even turn into mythical monsters."
+CharacterEyes_13237,,,Blue/Red
+CharacterHair_13237,,,Black
+CharacterHeight_13237,,,"7' 1"""
+CharacterIntro_13237,,,CharacterIntro_13237 PLACEHOLDER
+CharacterName_13237,,,Absolute Wonder Woman
+CharacterRealname_13237,,,Diana of the Wild Isle
+CharacterSaying_13237,,,Absolute Wonder Woman is a powerful Amazon warrior and master sorceress who defies her dark upbringing to become humanity's fiercest protector against monsters and gods.
+CharacterShowName_13237,,,Absolute Wonder Woman
+CharacterWeight_13237,,,Unknown
+ItemDesc1113237,,,ItemDesc1113237 PLACEHOLDER
+ItemName1113237,,,ItemName1113237 PLACEHOLDER
+RoomDialogue1323701,,,The gates of Hell cannot hold me!
+RoomDialogue1323702,,,There is always another path.
+RoomDialogue1323703,,,By steel and sorcery!
+RoomDialogue1323704,,,The nightmare ends!
+RoomDialogue1323705,,,Stand behind me.
+SkillName1323701,,,[NOTFINAL] Nemesis Slash and Bind
+SkillName132370101,,,"[NOTFINAL] Two Nemesis Lasso slashes on a single target for 100% and 50% Atk as Physical Dmg, ending in a bind. Applies 1 stack of Nemesis."
+SkillName132370102,,,"[NOTFINAL] Damage increases to 110% and 60%. If the target has 2+ Nemesis stacks, also applies Slow for 2 turns."
+SkillName132370103,,,"[NOTFINAL] If the target is already at max Nemesis (3), the excess converts to Armor Break for 2 turns.\nNemesis Slash and Bind also Stuns for 1 turn."
+SkillName1323702,,,[NOTFINAL] Athena's Wrath
+SkillName132370201,,,"[NOTFINAL] The Athena Blade grows giant and smashes the battlefield for 200% Atk as Physical Dmg to all enemies. Bypasses Invincibility and removes them. Consumes all Nemesis stacks on all enemies — each stack consumed triggers a secondary burst of 50% Atk Physical Dmg on that target. After consuming, applies Armor Break to all enemies for 2 turns."
+SkillName132370202,,,[NOTFINAL] AOE damage increases to 240%. Secondary burst per stack increases to 70%.
+SkillName132370203,,,[NOTFINAL] Enemies that had Nemesis consumed cannot be revived for 2 turns.
+SkillName1323703,,,[NOTFINAL] Poseidon's Fury
+SkillName132370301,,,"[NOTFINAL] Shatters the Trident into water spikes hitting all Front Row enemies for 120% Atk as Superpower Dmg. Applies Fragile to all hit. If a target already has Fragile, applies 1 stack of Nemesis instead."
+SkillName132370302,,,[NOTFINAL] Damage increases to 150%. Also strikes the Back Row for 75% Atk.
+SkillName132370303,,,"[NOTFINAL]If all Front Row enemies already have Fragile, applies 1 more Nemesis to all Front Row enemies regardless."
+SkillName1323704,,,[NOTFINAL] Gauntlets of the Amazons
+SkillName132370401,,,"[NOTFINAL] At the start of battle and each round, WW gains 2 stacks of Redirect. When a Redirect stack is consumed, she gains 1 stack of Strong Attack."
+SkillName132370402,,,"[NOTFINAL] WW also gains 20% Reflect — Redirect and Reflect apply simultaneously, bouncing both debuffs and a portion of raw damage back."
+SkillName132370403,,,"[NOTFINAL] Redirect increased to 3 stacks per round. Reflect increased to 35%. When a Redirect stack is consumed, the attacker also receives 1 stack of Nemesis."
+SkillName1323705,,,[NOTFINAL] Witch of the Wild Isle
+SkillName132370501,,,"[NOTFINAL] Daughter of Circe — the closer Diana is to death, the more her witchcraft warps: below 70% Max HP, +15% Superpower Dmg; below 40% Max HP, the bonus increases to 35%.\nAt the start of each round, any enemy with 3 or more active debuff stacks gains 1 stack of Nemesis.\nPact with Hades — the first time WW would be defeated, she is pulled into the underworld and revives at the start of her next turn with 35% HP, Cleansed of all debuffs and buffs, and applies 1 stack of Nemesis to every enemy. Once per battle."
+SkillName132370502,,,[NOTFINAL] Level 2 Placeholder Description
+SkillName132370503,,,[NOTFINAL] Level 3 Placeholder Description
+BadgeDesc138,Badge Name,Absolute Batman,[NOTFINAL] Absolute Dark Knight
+BadgeSkillDesc1323801,Badge Description,Absolute Batman,[NOTFINAL] Absolute Batman’s Axe dispels every buff.
+BadgeSkillDesc1323802,Badge Description,Absolute Batman,[NOTFINAL] For each buff dispelled applies 1 Stack of Bleed for 2 Turns.
+BadgeSkillDesc1323803,Badge Description,Absolute Batman,"[NOTFINAL]Batman strikes preemptively at the biggest threat.
+At the beginning of combat, he uses his Ultimate on the enemy with the highest Atk."
+BadgeSkillName13238,Badge Name,Absolute Batman,[NOTFINAL] Absolute Batman’s Vengeance
+Character_Identity1_13238,Character Profile,Absolute Batman,"Bruce Wayne comes from nothing. But even without the wealth, without the cave, he’s still the Absolute Dark Knight!"
+Character_Identity2_13238,Character Profile,Absolute Batman,"Bruce grew up in a working-class family in the impoverished neighborhood Crime Alley, Gotham. His father, an elementary school teacher, was murdered during a school field trip that Bruce had won for their class in an engineering competition. Deeply affected by those events and wanting to strike back at the injustices of the city, Bruce started on a long path of learning everything he would need to become The Batman."
+Character_RecordDesc_13238_1,Character Profile,Absolute Batman,"Party Animal Brute: This hand has killed more people than you can count. Now I'm going to give you one chance. Get the #$%& out of our way.\n\nSHUNK\n\nParty Animal Brute: RAHHH!\n\nParty Animal Brute: ... I... You...\n\nBatman: I hear they can reattach it sometimes. There's a hospital three blocks south of here. Or is it east? I can't remember all of a sudden... But I'd run. The rest of you... I'm going to give you one chance to get the #$%&... OUT OF MY WAY!\n\n(Source: Absolute Batman (2025-) #1, pg. 28-30)"
+Character_RecordDesc_13238_2,Character Profile,Absolute Batman,"Bane: Hello.\n\nTHUD\n\nBane: Go on. It's okay.\n\nTHOOM THOOM\n\nSHRAK\n\nBane: You can advance now.\n\nBatman: RAHHH!\n\nBane: Muay Thai, nice.\n\nPING.\n\nBane: It's all right. Focus. You have another arm.\n\nWIP\n\nBane: Suntukan. Smart.\n\nBOOM\n\nBane: Look at me. Hey. Up here. That's right, you've still got your legs.\n\nBatman: @#$% you!\n\nFWIP\n\nBane: Savate. Impressive.\n\nWAK\n\nBatman: HUFF HUFF. Is that all you got? COME ON! I only need one leg to kick your ass, you juiced-up---\n\nBane: ""Juiced up""? Friend, I haven't even used this stuff yet. But if you want to see what it does...\n\nBatman: What... Are you?\n\nBane: Call me Bane. Welcome to your new home. Now, let's get you prepped for surgery.\n\n(Source: Absolute Batman (2025-) #9, pg. 20-23)"
+Character_RecordDesc_13238_3,Character Profile,Absolute Batman,"Batman: ... I'll take this one.\n\nAbsolute Batman: Let's do it, rich boy.\n\nBatman: You know, I've fought a lot of batmen lately...\n\nBatman:.. But that is the ugliest bat-symbol I've ever seen.\n\nSHNK\n\nAbsolute Batman: How's it looking now?\n\nBatman: It's growing on me.\n\nAbsolute Batman: RAAAH!\n\nKLANG\n\nBatman: Hold on. You've got something on your...\n\nPFF PFF\n\nAbsolute Batman: Eh?\n\nQFOOM\n\nBatman: ...\n\nFOOOSH\n\n(Source: DC K.O. (2025-2026) #4, pg. 14-15)"
+Character_RecordTitle_13238_1,Character Profile,Absolute Batman,Need a... hand?
+Character_RecordTitle_13238_2,Character Profile,Absolute Batman,Welcome to Arkham M.
+Character_RecordTitle_13238_3,Character Profile,Absolute Batman,"Bat, meet the Absolute Bat"
+Character_RemarkDesc1_13238_1,Character Profile,Absolute Batman,Bruce deeply cares about his friends even though he chose a path of violence.
+Character_RemarkDesc1_13238_2,Character Profile,Absolute Batman,"Bruce helped me solve a murder mystery that was a ruse in disguise to attack me. He's reliable, and I can count him among my friends."
+Character_RemarkDesc2_13238_1,Character Profile,Absolute Batman,"The kid is a genius at violence. When he puts his mind into it, he's unstoppable."
+Character_RemarkDesc2_13238_2,Character Profile,Absolute Batman,"I was sent to take him out, but things turned out differently. Somehow, I became his ally, and I even worry about the kid! He's a remarkable fighter who goes up against the most powerful without fear. But I've always liked an underdog."
+Character_RemarkName_13238_1,Character Profile,Absolute Batman,Absolute Wonder Woman
+Character_RemarkName_13238_2,Character Profile,Absolute Batman,Alfred Pennyworth
+Character_Weakness1_13238,Character Profile,Absolute Batman,Absolute Batman lacks the financial resources of his counterpart. His closest friends and mother have also been used against him as psychological torture.
+Character_Weakness2_13238,Character Profile,Absolute Batman,Bruce is only human and doesn't have access to the multi-billions of dollars necessary to empower his crusade as The Batman. His close friends have also been identified and targeted to break his spirit and torture him. He is the underdog in a world fashioned by evil.
+Character_Weapon1_13238,Character Profile,Absolute Batman,Batman uses DIY gadgets and retrofits whatever he can find to his advantage. He's a master of several martial arts and a genius engineer.
+Character_Weapon2_13238,Character Profile,Absolute Batman,"Batman's iconic breastplate-turned-battle axe is his most iconic weapon. Literally striking his enemies with his symbol, the Bat-axe is his most powerful tool. Everything on his armored cowl is weaponized: the ears are large throwing knives, the back and shoulders are covered in retractable spikes, and the cape is bulletproof and has bat-thumbs that allow grappling and even other acrobatic movements. Additionally, he utilizes a modified tank-like massive dump truck as the Batmobile. "
+CharacterEyes_13238,Character Profile,Absolute Batman,Blue
+CharacterHair_13238,Character Profile,Absolute Batman,Black
+CharacterHeight_13238,Character Profile,Absolute Batman,"6′ 9"""
+CharacterIntro_13238,Character Profile,Absolute Batman,\n\n
+CharacterName_13238,Character Profile,Absolute Batman,Absolute Batman
+CharacterRealname_13238,Character Profile,Absolute Batman,Bruce Wayne
+CharacterSaying_13238,Character Profile,Absolute Batman,"More violent, more ruthless, more broken, but not less determined to fight for justice. Absolute Batman keeps pushing forward to strike at the corruption in Gotham. Without the constraints of status or wealth, there's nothing holding him back from becoming a terrifying force to be reckoned with."
+CharacterShowName_13238,Character Profile,Absolute Batman,Absolute Batman
+CharacterWeight_13238,Character Profile,Absolute Batman,421 lbs (191 kg)
+ItemDesc1113238,Fragment Description,Absolute Batman,Can be used on <color=#FAA520>Absolute Batman</color> to <color=#FAA520>increase his Rank</color>.
+ItemName1113238,Fragment Name,Absolute Batman,Absolute Batman Fragment
+RoomDialogue1323801,Lobby Dialogue,Absolute Batman,Stop calling it Fat-Bat! It's a normal Bat symbol!
+RoomDialogue1323802,Lobby Dialogue,Absolute Batman,Out of my way!!! I need space on the couch.
+RoomDialogue1323803,Lobby Dialogue,Absolute Batman,What? No fancy quotes?!
+RoomDialogue1323804,Lobby Dialogue,Absolute Batman,Never skipped a leg day.
+RoomDialogue1323805,Lobby Dialogue,Absolute Batman,I'm Batman!!!
+SkillName1323801,Basic Skill Name,Absolute Batman,[NOTFINAL]Genius at Violence
+SkillName132380101,Basic Skill L1,Absolute Batman,[NOTFINAL]Batman targets the Back Row with a brutal strike dealing [SkillParam_1_%] of Atk as Physical Dmg to the main target and applies [buff1_2] Stack of [buff1_4] for [buff1_5] Turns to every enemy in the row.
+SkillName132380102,Basic Skill L2,Absolute Batman,[NOTFINAL]Dmg increases to [SkillParam_1_%] of Atk and applies [buff1_2] Stacks of [buff1_4] for [buff1_5] Turns.
+SkillName132380103,Basic Skill L3,Absolute Batman,[NOTFINAL]Dmg increases to [SkillParam_1_%] of Atk and applies [buff2_2] Stack of [buff2_4] for [buff2_5] Turns to the main target.
+SkillName1323802,Ultimate Skill Name,Absolute Batman,[NOTFINAL]Absolute Batman’s Vengeance
+SkillName132380201,Ultimate Skill L1,Absolute Batman,"[NOTFINAL]Absolute Batman strikes with his Axe at the deadliest threat and mercilessly cripples them.\n\nDeals [SkillParam_1_%] of his as Atk Physical Dmg to enemy with the highest Atk and applies [buff1_2] Stack of [buff1_4] for [buff1_5] Turns and [buff2_2] Stacks of [buff2_4] for [buff2_5] Turns.\n\nIf the enemy is invulnerable, Absolute Batman will select a different target."
+SkillName132380202,Ultimate Skill L2,Absolute Batman,[NOTFINAL]Dmg increases to [SkillParam_1_%] of Atk. [buff1_4] Stacks increase to [buff1_2]. [buff2_4] Stacks increase to [buff2_2].
+SkillName132380203,Ultimate Skill L3,Absolute Batman,[NOTFINAL]Dmg increases to [SkillParam_1_%] of Atk. This attack has [SkillParam_2_%] Armor Piercing and [SkillParam_3_%] Block Break.
+SkillName1323803,Advanced Skill Name,Absolute Batman,[NOTFINAL]Cowl Knives Ricochet
+SkillName132380301,Advanced Skill L1,Absolute Batman,[NOTFINAL]Throws his cowl knives at a Back Row enemy. The knives ricochet on the Front Row then hit the target in the Back Row dealing [SkillParam_1_%] of Atk as Physical Dmg to the Front Row and [SkillParam_2_%] to the Back Row.\n\nThere is a [buff1_1] chance to apply [buff1_4] for [buff1_5] Turn to the Front Row and [buff2_1] chance to apply [buff2_2] Stack of [buff2_4] for [buff2_5] Turn on the main target.
+SkillName132380302,Advanced Skill L2,Absolute Batman,[NOTFINAL]Dmg increases to [SkillParam_1_%] and [SkillParam_2_%]. [buff2_4] Stacks increase to [buff2_2] for [buff2_5] Turns and chance to [buff2_1].\n[buff1_4] chance increases to [buff1_1]. 
+SkillName132380303,Advanced Skill L3,Absolute Batman,"[NOTFINAL]If there's no enemy in the Front Row, this attack is a Critical Hit and applies [buff3_2] Stack of [buff3_4]."
+SkillName1323804,Passive Name,Absolute Batman,[NOTFINAL]Offensive Armor
+SkillName132380401,Passive L1,Absolute Batman,[NOTFINAL]Batman's armor is always on the offensive and grants him [SkillParam_1_%] Crit Dmg.
+SkillName132380402,Passive L2,Absolute Batman,[NOTFINAL]Crit Dmg increases by [SkillParam_1_%] per [SkillParam_2_%] of missing Max HP.
+SkillName132380403,Passive L3,Absolute Batman,[NOTFINAL]Crit Dmg increases by [SkillParam_1_%] per [SkillParam_2_%] of missing Max HP.
+SkillName1323805,Legendary Passive Name,Absolute Batman,[NOTFINAL]I’m Batman
+SkillName132380501,Legendary Passive Desc,Absolute Batman,"[NOTFINAL]Batman has studied and prepared for every possible contingency. He has [SkillParam_1_%] Crit Res.\n\nIf Absolute Wonder Woman is an ally, Batman uses the Talisman of Hecate to summon Diana's help. When Batman uses his Bat-Axe Vengeance, she applies 1 Stack of Nemesis to the target before he attacks it.\n\nBatman's peak physicality is unparalleled. He has [SkillParam_2_%] Bleed Resistance."
+Relation_EffDes_2401,Team Synergy,Absolute Batman,"[NOTFINAL]All deployed Allies' Attack, HP, and Defense [+6%].\n\nWhen an Absolute ally takes Dmg, convert it and store it into 1 Stack of Delay. Defeating an enemy will remove all Stacks of Delay."
+Relation_EffDes_2402,Team Synergy,Absolute Batman,"[NOTFINAL]All deployed Allies' Attack, HP, and Defense [+9%].\n\nWhen an Absolute ally takes Dmg, convert it and store it into 1 Stack of Delay. Defeating an enemy will remove all Stacks of Delay and heal allies for 100% of their Atk."
+Relation_EffDes_2403,Team Synergy,Absolute Batman,"[NOTFINAL]All deployed Allies' Attack, HP, and Defense [+12%]. \n\nWhen an Absolute ally takes Dmg, convert it and store it into 1 Stack of Delay. Defeating an enemy will remove all Stacks of Delay and heal allies for 100% of their Atk.\nAfter an Absolute ally uses their Ultimate, 2 different Absolute allies follow up with theirs for free and without affecting their Cooldowns nor this ability."
+BadgeDesc139,,,Absolute Son of Krypton
+BadgeSkillDesc1323901,,,"[TMP_ASM]At the start of the battle, Absolute Superman receives 2 stacks of Haste for every character on the enemy team for 3 turns"
+BadgeSkillDesc1323902,,,"[TMP_ASM]When Sol Armor is activated gives Absolute Superman allies Shield equal to 250% of Max HP until the end of the battle, excluding Absolute Superman"
+BadgeSkillDesc1323903,,,"[TMP_ASM]When Sol Armor is activated, receive benefits of both Defensive and Offensive modes."
+BadgeSkillName13239,,,Call Sol
+Character_Identity1_13239,,,"Before he was called Superman, Kal-El lived on Krypton and saw firsthand the deep divisions that defined his world. While the planet's elite of the Science League prospered, the Labor Guild and countless others suffered under a system built on exploitation and inequality. Born in the Labor Guild, these experiences shaped his view of justice long before Krypton's destruction."
+Character_Identity2_13239,,,"When Krypton perished with his parents and the last of the Kryptonian survivors, Kal-El drifted through space with only artificial intelligence Sol to keep him company, until they came across the only world suitable for life - the Earth. Under Earth's yellow sun, he developed extraordinary abilities far beyond those of ordinary humans, but quickly became a refugee, as the Lazarus corporation is always on his tail. After witnessing the injustices of this new world and carrying the lessons of his lost world, Kal-El dedicated himself to standing against oppression."
+Character_RecordDesc_13239_1,,,"Sol: Interesting.\n\nSol: Like the other Lazarus core forces we've encountered, their weapons and armor incorporate technology not native to this galaxy.\n\nKal-El: Will they live if I hit them?\n\nSol: Yes, but I still advise against... that.\n\nKal-El: I know what you're gonna say, but we're not leaving until the miners are safe!\n\nPeacemaker gun: ROUND INEFFECTIVE.\n\nPeacemaker gun: ADJUSTING AMMUNITION.\n\nPeacemaker gun: PRINTING MAXIMUM CALIBER.\n\nSol: Kal-El, this is a planet of combustion engines, fanatical religions, and thermonuclear weapons.\n\nSol: These people are never safe.\n\nSource: Absolute Superman #1 (2024) pg 23"
+Character_RecordDesc_13239_2,,,"Lois Lane Report: …it isn’t the suit.\n\nLois Lane Report: This Superman is plenty super all on his own.\n\nLois Lane Report: The full extent of subject’s powers remain uncharted.\n\nLois Lane Report: It is my impression that even he does not fully understand the limits of his abilities.\n\nLois Lane Report: As if this is all relatively new to him as well.\n\nLois Lane Report: In some ways, Superman is very much still a boy, one who hasn’t yet fully decided…who he is.\n\nLois Lane Report: In other ways, he is every bit a man.\n\nLois Lane Report: With an ethos that seems… unshakable.\n\nSource: Absolute Superman #2 (2024) pg 14"
+Character_RecordDesc_13239_3,,,"Peacemaler: Nngh.\n\nOmega Prime: What the hell are you waiting for!?\n\nOmega Prime: For Smith to put another bullet in you!\n\nOmega Prime: He's a murderer! A threat to everything you fight for!\n\nOmega Prime: Finish him already!\n\nKal-El: My father was the wisest, most caring man I've ever known.\n\nKal-El: I cherish every lesson he ever taught me. And every day he's been gone, I've wished we'd had more time.\n\nKal-El: But my father is dead. Just like my mother. Along with the only world they ever knew.\n\nKal-El: In the end... all they could save of it... was me.\n\nKal-El: And I'm not the miner with the lava gun.\n\nOmega Prime: To hell with you. I'll do it myself.\n\nKal-El: I'm the last beast in the mine.\n\nSource: Absolute Superman #10 (2024) pg 19"
+Character_RecordTitle_13239_1,,,In the eye of Sol
+Character_RecordTitle_13239_2,,,Field Report
+Character_RecordTitle_13239_3,,,The Last Beast
+Character_RemarkDesc1_13239_1,,,He fights like someone who’s already lost everything once. I understand that.
+Character_RemarkDesc1_13239_2,,,He carries Krypton with him like a wound that never closed. I see a man trying to turn suffering into purpose. I won't call that weakness. I will say one thing - he walks a path that could easily consume him if his conviction betrays him just for a moment.
+Character_RemarkDesc2_13239_1,,,He’s strong… but power without control is just another kind of chaos.
+Character_RemarkDesc2_13239_2,,,"He is convinced he’s right. That’s the most dangerous kind of conviction to have, bordering on careless. Still… when the city is burning, he’s the one you want standing between it and the fire."
+Character_RemarkName_13239_1,,,Absolute Wonder Woman
+Character_RemarkName_13239_2,,,Absolute Batman
+Character_Weakness1_13239,,,"Kal-El is weak to Kryptonite - radioactive fragments from his destroyed homeworld that can drain his strength, cause severe pain, and eventually kill him with prolonged exposure."
+Character_Weakness2_13239,,,"Absolute Superman is always at risk of overextending himself, draining himself of the solar energy that gives him superhuman powers. On top of it, the villains of Earth and other worlds are plotting against him, trying to make Kal-El break his moral code and betray his sense of justice and mercy. "
+Character_Weapon1_13239,,,"Armed with a suit of Kryptonian armor that was modified by his mother, Kal-El can survive in deep space for long periods of time, use its solar reserves to heal himself, and take the blows that put even Kryptonians to the test. And then there's the power of Earth’s yellow sun."
+Character_Weapon2_13239,,,"But with its power, Absolute Superman possesses a vast range of superhuman abilities, including immense strength capable of lifting enormous objects and overpowering nearly any opponent, near-invulnerability that allows him to withstand bullets, explosions, and extreme environmental conditions, and the power of flight that lets him move freely across the world."
+CharacterEyes_13239,,,Blue
+CharacterHair_13239,,,Black
+CharacterHeight_13239,,,"6' 3"""
+CharacterIntro_13239,,,"Born on Krypton and forged by its injustices, Kal-El arrived on Earth carrying the memory of a society that abandoned its people. Gifted with incredible power beneath Earth's yellow sun, he traveled the world, learning about the plights of its people, and chose to stand with the oppressed rather than the powerful. To some, he is a dangerous alien. To others, he is a symbol of hope. Both call him Superman. Wherever tyranny takes root, Superman appears to fight alongside those who refuse to be broken."
+CharacterName_13239,,,Absolute Superman
+CharacterRealname_13239,,,Kal-El
+CharacterSaying_13239,,,"Probably the last survivor of Krypton, Kal-El finds himself to be a stranger in the strange land of the planet Earth and its people. Young and inexperienced, he still tries his best to help those in need."
+CharacterShowName_13239,,,Absolute Superman
+CharacterWeight_13239,,,235 lbs (107 kg)
+ItemDesc1113239,,,Can be used on <color=#FAA520>Absolute Superman</color> to <color=#FAA520>increase his Rank</color>.
+ItemName1113239,,,Absolute Superman Fragment
+RoomDialogue1323901,,,Krypton broke me open. Earth gave me purpose.
+RoomDialogue1323902,,,"Sol, are you with me?"
+RoomDialogue1323903,,,"こんにちは... Oh, English. Right. Hello. "
+RoomDialogue1323904,,,I will protect the people of this world.
+RoomDialogue1323905,,,These are the people of steel!
+SkillName132390102,,,"[TMP_ASM]Front Row target [SkillParam_1_%] damage, Back Row targets [SkillParam_2_%] damage."
+SkillName132390103,,,"[TMP_ASM]Front Row target [SkillParam_1_%] damage, Back Row targets [SkillParam_2_%] damage."
+SkillName1323902,,,[TMP_ASM]Call Sol
+SkillName132390201,,,"[TMP_ASM]Activate solar reserves of the Sol Armored Suit until the end of the battle. Sol adapts the suits functions to the current battle situation:\n\nDefensive mode: If Absolute Superman's HP is below 50%, add [buff1_2] stacks  of Firm Stand, Vitality, Shelter, Recuperate, and Cloak buffs to Absolute Superman for [buff1_5] turns and use solar reserves to Cleanse all debuffs from Absolute Superman.\n\nOffensive Mode: If Absolute Superman's HP is above 50%, add [buff3_2] stacks of Sturdy Armor, Strong Attack, Haste, Frantic, and Hard Hit buffs to Absolute Superman for [buff3_5] turns and use solar flare to apply [buff5_2] stack of [buff5_4] to each member of the enemy team for [buff5_5] turns.\n\nPerform Tornado punches against 1 target for [SkillParam_1_%] Attack as Superpower Damage. Each attack applies [buff6_2] stacks of [buff6_4]."
+SkillName132390202,,,[TMP_ASM]Tornado punches do [SkillParam_1_%] Attack as Superpower Damage. Does 1 additional attack for each [SkillParam_3] Buff stacks on your team.
+SkillName132390203,,,[TMP_ASM]Tornado punches do [SkillParam_1_%] Attack as Superpower Damage. Does 1 additional attack for each [SkillParam_4] Debuff stacks on the enemy team.
+SkillName1323903,,,[TMP_ASM]Burn Bright
+SkillName132390301,,,[TMP_ASM]Use Annihilating Heat Vision on a single target to deal [SkillParam_1_%] Attack as Superpower Damage and add [buff1_2] Stacks of [buff1_4]. Targets an enemy with the least amount of Burn on them.
+SkillName132390302,,,[TMP_ASM]Deals [SkillParam_1_%] Attack as Superpower Damage. Also applies [buff2_2] stacks of [buff2_4] for [buff2_5] turns.
+SkillName132390303,,,[TMP_ASM]Deals [SkillParam_1_%] Attack as Superpower Damage and add [buff1_2] Stacks of [buff1_4]. Also applies [buff3_2] stacks of [buff3_4] for [buff3_5] turns.
+SkillName1323904,,,[TMP_ASM]Solar Furnace
+SkillName132390401,,,"[TMP_ASM]Solar Furnace - Absolute Superman's fire doesn't detonate, it consumes.\nBurn applied by your team no longer detonates. Each stack of Burn applied to the enemy team increases Absolute Superman Damage by [SkillParam_4_%]."
+SkillName132390402,,,[TMP_ASM]Each stack of Burn applied to the enemy team increases Absolute Superman Defense by [SkillParam_5_%].
+SkillName132390403,,,[TMP_ASM]In the beginning of the turn Absolute Superman is healed for [SkillParam_6_%] of Max HP for each stack of Burn on the enemy team.
+SkillName1323905,,,[TMP_ASM]Solar Power
+SkillName132390501,,,"[TMP_ASM]Absolute Superman is immune to Burn damage.\n\nOnce per battle, Superman will survive a fatal attack with 1 HP, upon which he will gain [buff1_4] for [buff1_5] turn. When [buff1_4] expires, Sol armor heals Absolute Superman for [SkillParam_1_%] of his Max HP."
+Relation_EffDes_2301,Team Synergy,Supergirl DCU,"All deployed Allies' Attack, HP, and Defense [+6%].\n\nAt the start of each Round, all allies gain 10% Superpower Damage Resistance (stacking, max 50%)"
+Relation_EffDes_2302,Team Synergy,Supergirl DCU,"All deployed Allies' Attack, HP, and Defense [+9%].\n\nAt the start of each Round, all allies gain 15% Superpower Damage Resistance (stacking, max 50%)\nWhen the Yellow Sun rises, all allies gain 3 permanent Strong Attack stacks."
+Relation_EffDes_2303,Team Synergy,Supergirl DCU,"All deployed Allies' Attack, HP, and Defense [+12%]. \n\nAt the start of each Round, all allies gain 15% Superpower Damage Resistance (stacking, max 50%)\nWhen the Yellow Sun rises, all allies gain 3 permanent Strong Attack stacks.\nAll allies deal bonus Physical Damage equal to 70% of their current Superpower Resistance.\nWhen the Yellow Sun rises, advance all allies' Action Bar by 20% at the start of each Round.\nWhen the Yellow Sun rises, Heal all allies to 100% HP. "
+ItemDesc1120052,,,Reanimated Pegasus unlock item.
+ItemName1120052,,,Reanimated Pegasus Fragment
+SkillName2123801,,,Medusa's Snare
+SkillName212380101,,,"[NotFinal]Before an Enemy Ultimates or uses an advanced skill, there is a 50% chance they are stunned for 1 turn before triggering it. "

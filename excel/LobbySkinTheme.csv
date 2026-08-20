@@ -1,0 +1,6 @@
+﻿Id,Name,O,Pic,FuncId
+Theme ID,Theme Name,Name Notes,Theme Image,Feature Flag
+index,string,O,string,int
+1,LobbySkin_Theme1,Classic,LobbySkin_Theme1,0
+2,LobbySkin_Theme2,Spring Green,LobbySkin_Theme2,0
+3,LobbySkin_Theme3,Summer Red,LobbySkin_Theme3,3301

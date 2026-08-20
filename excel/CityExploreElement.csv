@@ -1,0 +1,450 @@
+﻿Id,O,O,LocalizationName,LevelId,AreaId,Type,SubType,ParamInt,ParamInt2,ParamInt3
+Element Number,Note,Element Name,Name Description ID,Assigned Instance Number,Assigned Area Number,"Element Type
+Ke Yang - Li Ke Yang:
+1 - Character
+2 - Chest
+3 - Mechanism
+4 - Event","Element Subtype
+Ke Yang - Li Ke Yang:
+type=1,
+ 1 - Non-Combat NPC
+ 2 - BOSS
+ 3 - Combat NPC
+ 4 - Recruitable NPC
+type=2,
+ 1 - Large Chest
+ 2 - Small Chest
+ 3 - Item Chest
+type=3,
+ 1 - Campfire
+ 2 - Hot Air Balloon
+ 3 - Water Body
+ 4 - Special Decorative Mechanism
+type=4,
+ 1 - Dialogue
+ 2 - Normal Combat
+ 3 - BOSS Combat
+ 6 - Mini Theater","Element Type Value
+Ke Yang - Li Ke Yang:
+Configure content based on type-subtype
+1-2 (boss): Character ID
+2-x (chest type): RewardCityExplore ID
+4-1 (dialogue): Dialog Table ID
+4-2 (combat): EnemyGroup Table ID | Our Energy Rule | Enemy Energy Rule | Enemy Additional Passive Skill (skill Table ID)
+   Energy rules for both sides are read from BattleEnergyRule
+4-3 (boss combat): Same as 4-2","Element Type Value 2
+Ke Yang - Li Ke Yang:
+Configure content based on type-subtype
+4-2 (combat): Element IDs that need to play response actions, separated by vertical lines ""|""
+4-3 (boss combat): Same as above","Element Type Value 3
+Ke Yang - Li Ke Yang:
+Configure content based on type-subtype
+4-2 (combat): Element IDs that need to display exclamation marks, separated by vertical lines ""|""
+4-3 (boss combat): Same as above"
+int,O,string,string,int,int,int,int,array-int,array-int,array-int
+10101,Mirror Master,Mirror Master,CharacterName_13147,1,1,1,5,0,0,0
+10102,Minion A,League of Shadows Guard,CityExplore_Name_203020,1,1,1,3,0,0,0
+10103,Campfire (Camp),Campfire,CityExplore_Name_fire,1,1,3,1,0,0,0
+10104,Item Chest (Camp),Supply Chest,ItemName1117001,1,1,2,3,19100112,0,0
+10105,Dialogue 1 (Mirror Master),Mirror Master,CharacterName_13147,1,1,4,1,20101,0,0
+10106,Dialogue 2 (Minion A),League of Shadows Guard,CityExplore_Name_203020,1,1,4,1,20102,0,0
+10107,Combat 1 (Minion A),League of Shadows Guard,CityExplore_Name_203020,1,1,4,2,1410107|1|2|0,10102,10102
+10108,Combat 2 (Minion A),League of Shadows Guard,CityExplore_Name_203020,1,1,4,2,1410107|1|2|160000101,0,10102
+10109,Small Chest (Camp),Standard Supply,CityExplore_Element_LilBox,1,1,2,2,19100111,0,0
+10110,Dialogue 3 (Minion A),League of Shadows Guard,CityExplore_Name_203020,1,1,4,1,20103,0,0
+10111,Waterfall Display (Flowing),Waterfall,,1,1,3,4,0,0,0
+10112,Waterfall Display (Frozen),Waterfall,,1,1,3,4,0,0,0
+10113,Item Chest (Camp),Supply Chest,ItemName1117001,1,1,2,4,19100221,0,0
+10201,Climber,Climber,CityExplore_Name_200010,1,2,1,5,0,0,0
+10202,Ice Surface (Foot of the Snow Mountain),Ice Surface,CityExplore_Name_lake,1,2,3,3,0,0,0
+10203,Hot Air Balloon (Foot of the Snow Mountain),Hot Air Balloon,CityExplore_Name_balloon,1,2,3,2,0,0,0
+10204,Item Chest (Foot of the Snow Mountain),Supply Chest,else_tianshi,1,2,2,3,19109001,0,0
+10205,Climbing Footprints,Climbing Footprints,,1,2,3,4,0,0,0
+10206,Dialogue (Climber),Climber,CityExplore_Name_200010,1,2,4,1,20104,0,0
+10301,Minion B,Supply Guard,CityExplore_Name_200011,1,3,1,5,0,0,0
+10302,Mech Soldier A,League Mech-A,CityExplore_Name_204040,1,3,1,3,0,0,0
+10303,Campfire 1 (Research Facility),Campfire,CityExplore_Name_fire,1,3,3,1,0,0,0
+10304,Campfire 2 (Research Facility),Campfire,CityExplore_Name_fire,1,3,3,1,0,0,0
+10305,Item Chest (Research Facility),Supply Chest,ItemName1117000,1,3,2,3,19100131,0,0
+10306,Dialogue (Minion B),Supply Guard,CityExplore_Name_200011,1,3,4,1,20105,0,0
+10307,Combat (Mech Soldier A),League Mech-A,CityExplore_Name_204040,1,3,4,2,1410307|1|2|0,10302,10302
+10308,Large Chest (Research Facility),Deluxe Supply,CityExplore_Element_BigBox,1,3,2,1,19100132,0,0
+10309,Small Chest (Research Facility),Standard Supply,CityExplore_Element_LilBox,1,3,2,2,19100133,0,0
+10310,Item Chest 2 (Research Facility),Supply Chest,else_tianshi,1,3,2,3,19109002,0,0
+10401,Mech Soldier B,League Mech-B,CityExplore_Name_204010,1,4,1,3,0,0,0
+10402,Waterfall,Waterfall,CityExplore_Name_waterfall,1,4,3,3,0,0,0
+10403,Large Chest (Tower),Deluxe Supply,CityExplore_Element_BigBox,1,4,2,1,19100142,0,0
+10405,Combat (Mech Soldier B),League Mech-B,CityExplore_Name_204010,1,4,4,2,1410405|1|2|0,10401,10401
+10406,Small Chest (Tower),Standard Supply,CityExplore_Element_LilBox,1,4,2,2,19100141,0,0
+10407,Hot Air Balloon (Tower),Hot Air Balloon,CityExplore_Name_balloon,1,4,3,2,0,0,0
+10501,Minion C,Bane's Henchman,CityExplore_Name_203021,1,5,1,5,0,0,0
+10502,BOSS (Bane),Bane,CharacterName_13139,1,5,1,2,13139,0,0
+10503,Campfire 1 (Helipad),Campfire,CityExplore_Name_fire,1,5,3,1,0,0,0
+10504,Campfire 2 (Helipad),Campfire,CityExplore_Name_fire,1,5,3,1,0,0,0
+10505,Hot Air Balloon (Helipad),Hot Air Balloon,CityExplore_Name_balloon,1,5,3,2,0,0,0
+10506,Item Chest (Helipad),Supply Chest,else_tianshi,1,5,2,3,19109001,0,0
+10507,Small Chest (Helipad),Standard Supply,CityExplore_Element_LilBox,1,5,2,2,19100151,0,0
+10508,Large Chest (Helipad),Deluxe Supply,CityExplore_Element_BigBox,1,5,2,1,19100152,0,0
+10509,Dialogue (Bane),Bane,CharacterName_13139,1,5,4,1,20106,0,0
+10510,Dialogue 1 (Minion C),Bane's Henchman,CityExplore_Name_203021,1,5,4,1,20107,0,0
+10511,Combat 1 (Bane),Bane,CharacterName_13139,1,5,4,3,1410511|1|7|0,10502|10501,10502|10501
+10512,Combat 2 (Bane - Frozen),Bane,CharacterName_13139,1,5,4,3,1410511|1|9|160000101,10502,10502|10501
+10513,Combat 3 (Bane - Stunned),Bane,CharacterName_13139,1,5,4,3,1410513|1|9|160000201,10502,10502
+10514,Dialogue 2 (Minion C),Bane's Henchman,CityExplore_Name_203021,1,5,4,1,20108,0,0
+10515,Dialogue 3 (Minion C),Bane's Henchman,CityExplore_Name_203021,1,5,4,1,20109,0,0
+10516,Shadow (Helipad),Shadow,,1,5,3,4,0,0,0
+10517,Waterfall Display (Flowing),Waterfall,,1,5,3,4,0,0,0
+10518,Waterfall Display (Frozen),Waterfall,,1,5,3,4,0,0,0
+10601,League of Shadows Guard,League of Shadows Guard,CityExplore_Name_203020,1,6,1,1,0,0,0
+10602,Hot Air Balloon (Ice Lake),Hot Air Balloon,CityExplore_Name_balloon,1,6,3,2,0,0,0
+10603,Chest (Ice Lake),Chest,else_tianshi,1,6,2,3,19109002,0,0
+10604,Ice Surface (Ice Lake),Ice Surface,CityExplore_Name_lake,1,6,3,3,0,0,0
+10607,Shadow (Ice Lake),Shadow,,1,6,3,4,0,0,0
+10701,Mini Theater (Opening),Mini Theater (Opening),,1,7,4,6,0,0,0
+20101,Minion 1,,CityExplore_Name_200031,2,1,1,3,0,0,0
+20102,Minion 2,,CityExplore_Name_200032,2,1,1,1,0,0,0
+20103,Light Source 1,,,2,1,3,5,0,0,0
+20104,Combat (Minion 1+2),,CityExplore_Name_200034,2,1,4,2,1420104|1|2|0,20101|20102,20101|20102
+20105,Mini Theater 1,,,2,11,4,6,9,0,0
+20106,Chest (Combat Drop),,CityExplore_Element_LilBox,2,1,2,2,19100211,0,0
+20201,Minion 3,,CityExplore_Name_200031,2,2,1,3,0,0,0
+20202,Minion 4,,CityExplore_Name_200032,2,2,1,1,0,0,0
+20203,Light Source 2,,CityExplore_Name_light01,2,2,3,5,0,0,0
+20204,Branch Dialogue 1,,,2,2,4,4,0,0,0
+20205,Combat (Minion 3+4),,CityExplore_Name_200034,2,2,4,2,1420205|1|2|0,20201|20202,20201|20202
+20206,Combat (Minion 3),,CityExplore_Name_200031,2,2,4,2,1420206|1|2|0,20201,20201
+20207,Batman,,CharacterName_13102,2,2,1,5,0,0,0
+20208,Dialogue 1,,,2,2,4,1,20201,0,0
+20209,Item Chest (Batarang),,ItemName1117002,2,2,2,3,19100221,0,0
+20210,Chest (Combat Drop),,CityExplore_Element_LilBox,2,2,2,2,19100222,0,0
+20301,Hot Air Balloon,,CityExplore_Name_balloon,2,3,3,2,0,0,0
+20302,Minion 5,,CityExplore_Name_200031,2,3,1,3,0,0,0
+20303,Minion 6,,CityExplore_Name_200032,2,3,1,1,0,0,0
+20304,Combat (Minion 5),,CityExplore_Name_200031,2,3,4,2,1420304|1|2|0,20302,20302
+20305,Combat (Minion 5+6),,CityExplore_Name_200034,2,3,4,2,1420305|1|2|0,20302|20303,20302|20303
+20306,Small Chest,,CityExplore_Element_LilBox,2,3,2,2,19100231,0,0
+20307,Light Source,,,2,3,3,5,0,0,0
+20308,BUFF Chest,,else_tianshi,2,3,2,3,19109001,0,0
+20401,Mirror Master,,CharacterName_13145,2,4,1,3,0,0,0
+20402,Branch Dialogue 2,,,2,4,4,4,0,0,0
+20403,Combat (Mini Boss),,CharacterName_13145,2,4,4,2,1420403|1|2|0,20401,20401
+20404,Batman,,CharacterName_13102,2,4,1,5,0,0,0
+20405,Dialogue 4,,,2,4,4,1,20401,0,0
+20406,Grapple Chest,,ItemName1117003,2,4,2,3,19100242,0,0
+20407,Item Chest (Batarang),,ItemName1117002,2,4,2,3,19100241,0,0
+20408,Batman (Non-Interactable),,,2,4,1,1,0,0,0
+20409,Chest,,CityExplore_Element_BigBox,2,4,2,1,19100243,0,0
+20501,Minion 7,,CityExplore_Name_200031,2,5,1,3,0,0,0
+20502,Night Vision Person 1,,CityExplore_Name_200033,2,5,1,1,0,0,0
+20503,Combat (Minion 7+Night Vision Person 1),,CityExplore_Name_200034,2,5,4,2,1420503|1|2|0,20501|20502,20501|20502
+20504,Light Source,,CityExplore_Name_light01,2,5,3,5,0,0,0
+20505,Small Chest,,CityExplore_Element_LilBox,2,5,2,2,19100251,0,0
+20507,BUFF Chest,,else_tianshi,2,5,2,3,19109001,0,0
+20601,Ice Surface,,,2,6,3,3,0,0,0
+20602,Hot Air Balloon,,CityExplore_Name_balloon,2,6,3,2,0,0,0
+20603,BUFF Chest,,else_tianshi,2,6,2,3,19109002,0,0
+20604,Light Source 3,,CityExplore_Name_light01,2,6,3,5,0,0,0
+20605,Night Vision Person 2,,CityExplore_Name_200033,2,6,1,1,1420605|1|2|0,10101|10102,10101|10102
+20606,Crocodile Man,,CharacterName_13169,2,6,1,3,0,0,0
+20607,Combat (Crocodile Man+Night Vision Person 2),,CharacterName_13169,2,6,4,2,1420607|1|2|0,20605|20606,20605|20606
+20608,Captain Cold,,CharacterName_13137,2,6,1,4,0,0,0
+20609,Bridge,,CityExplore_Name_bridge,2,6,3,8,0,0,0
+20610,Recruit Cold Team,,CharacterName_13137,2,6,4,5,13137,0,0
+20611,Cold Team Dialogue,,,2,6,4,1,20601,0,0
+20612,Cold Team Timeline Balloon,,,2,6,4,7,0,0,0
+20613,Cold Team Timeline Ice Surface,,,2,6,4,7,0,0,0
+20701,Minion 8,,CityExplore_Name_200031,2,7,1,3,0,0,0
+20702,Driver,,CityExplore_Name_200030,2,7,1,1,0,0,0
+20703,Light Source 4,,CityExplore_Name_light02,2,7,3,5,0,0,0
+20704,Armored Truck,,CityExplore_Name_trunk,2,7,3,7,0,0,0
+20705,Large Chest 1,,CityExplore_Element_BigBox,2,7,2,1,19100272,0,0
+20706,Combat (Minion 8 + Driver),,CityExplore_Name_200034,2,7,4,2,1420706|1|2|0,20701|20702,20701|20702
+20707,Combat (Minion 8),,CityExplore_Name_200031,2,7,4,2,1420707|1|2|0,20701,20701
+20708,Key,,ItemName1117004,2,7,2,3,19100271,0,0
+20709,Armored Truck Mini Theater,,,2,7,4,6,10,0,0
+20710,BUFF Chest,,else_tianshi,2,7,2,3,19109002,0,0
+20711,Billboard,,,2,7,3,7,0,0,0
+20801,Searchlight,,CityExplore_Name_light03,2,8,3,6,0,0,0
+20802,Minion 9,,CityExplore_Name_200035,2,8,1,3,0,0,0
+20803,Combat (Minion 9),,CityExplore_Name_200035,2,8,4,2,1420803|1|2|0,20802,20802
+20804,Chest (Combat Drop),,CityExplore_Element_LilBox,2,8,2,2,19100281,0,0
+20805,Chest (Adjusted to 6),,CityExplore_Element_LilBox,2,6,2,2,19100282,0,0
+20901,Minion 10,,CityExplore_Name_200031,2,9,1,3,0,0,0
+20902,Night Vision Person 3,,CityExplore_Name_200033,2,9,1,3,0,0,0
+20903,Chest (Airship),,CityExplore_Name_hangbox,2,9,3,9,19100132,0,0
+20904,Combat (Minion + Night Vision Person),,CityExplore_Name_200034,2,9,4,2,1420904|1|2|0,20901|20902,20901|20902
+20905,Combat (Minion 10),,CityExplore_Name_200031,2,9,4,2,1420905|1|2|0,20901,20901
+20906,Searchlight Light Source 1,,,2,9,3,4,0,0,0
+20907,Searchlight Light Source 2,,,2,9,3,4,0,0,0
+20908,Chest (Crashing Down),,else_tianshi,2,9,2,3,19109002,0,0
+20909,Airship,,,2,9,3,4,0,0,0
+20912,9-10 Timeline,,,2,9,4,7,0,0,0
+20913,Combat (Night Vision Person),,CityExplore_Name_200033,2,9,4,2,1420913|1|2|0,20902,20902
+20914,Airship Chest Direct Drop,,else_tianshi,2,9,2,3,19109002,0,0
+21001,BOSS (Poison Ivy),Poison Ivy,CharacterName_13138,2,10,1,2,13138,0,0
+21002,Minion 11,,CityExplore_Name_200031,2,10,1,1,0,0,0
+21003,Night Vision Person 4,,CityExplore_Name_200033,2,10,1,1,0,0,0
+21004,Light Source 5,,CityExplore_Name_light01,2,10,3,5,0,0,0
+21005,Light Source 6 (Balloon),,,2,10,3,5,0,0,0
+21006,Hot Air Balloon,,CityExplore_Name_balloon,2,10,3,2,0,0,0
+21007,BUFF Chest,,else_tianshi,2,10,2,3,19109002,0,0
+21008,Small Chest 2 (Changed to Small Chest),,CityExplore_Element_BigBox,2,10,2,2,191002102,0,0
+21009,Large Chest 3,,CityExplore_Element_BigBox,2,10,2,1,191002101,0,0
+21010,Combat (Boss),,CharacterName_13138,2,10,4,3,1421010|1|2|0,21001,21001
+21011,Combat (Boss + Night Vision Person),,CharacterName_13138,2,10,4,3,1421011|1|2|0,21001|21003,21001|21003
+21012,Combat (Boss + Minion),,CharacterName_13138,2,10,4,3,1421012|1|2|0,21001|21002,21001|21002
+21013,Combat (All),,CharacterName_13138,2,10,4,3,1421013|1|2|0,21001|21002|21003,21001|21002|21003
+21015,Airship,,,2,10,3,4,0,0,0
+21016,Bridge,,CityExplore_Name_bridge,2,10,3,8,0,0,0
+21017,10-9 Timeline,,,2,10,4,7,0,0,0
+30101,Mirror Master,Mirror Master,CharacterName_13147,3,1,1,5,0,0,0
+30102,Minion A,League of Shadows Guard,CityExplore_Name_200012,3,1,1,3,0,0,0
+30103,Campfire (Camp),Campfire,CityExplore_Name_fire,3,1,3,1,0,0,0
+30104,Item Chest (Camp),Supply Chest,ItemName1117001,3,1,2,3,19100312,0,0
+30105,Dialogue 1 (Mirror Master),Mirror Master,CharacterName_13147,3,1,4,1,20301,0,0
+30106,Dialogue 2 (Minion A),League of Shadows Guard,CityExplore_Name_200012,3,1,4,1,20302,0,0
+30107,Combat 1 (Minion A),League of Shadows Guard,CityExplore_Name_200012,3,1,4,2,1430107|1|2|0,30102,30102
+30108,Combat 2 (Minion A),League of Shadows Guard,CityExplore_Name_200012,3,1,4,2,1430107|1|2|160000101,0,30102
+30109,Small Chest (Camp),Standard Supply,CityExplore_Element_LilBox,3,1,2,2,19100311,0,0
+30110,Dialogue 3 (Minion A),League of Shadows Guard,CityExplore_Name_200012,3,1,4,1,20303,0,0
+30111,Dialogue (After Minion Death),League of Shadows Guard,CityExplore_Name_200012,3,1,4,1,20304,0,0
+30201,Water (Foot of the Snow Mountain),Ice Surface,CityExplore_Name_lake,3,2,3,3,0,0,0
+30202,Minion A,League of Shadows Guard,CityExplore_Name_200012,3,2,1,3,0,0,0
+30203,Small Chest (Camp),Standard Supply,CityExplore_Element_LilBox,3,2,2,2,19100321,0,0
+30204,Combat 1 (Minion A),League of Shadows Guard,CityExplore_Name_200012,3,2,4,2,1430204|1|2|0,30202,30202
+30205,Dialogue (Enter Level),League of Shadows Guard,CharacterName_13137,3,2,4,1,20307,0,0
+30206,Item Chest (Helipad),Supply Chest,else_tianshi,3,2,2,3,19109003,0,0
+30301,Minion B,Supply Guard,CityExplore_Name_200011,3,3,1,3,0,0,0
+30302,Campfire (Near Point),Campfire,CityExplore_Name_fire,3,3,3,1,0,0,0
+30303,Campfire (Far Point),Campfire,CityExplore_Name_fire,3,3,3,1,0,0,0
+30304,Small Chest (Near Point),Standard Supply,CityExplore_Element_LilBox,3,3,2,2,19100331,0,0
+30306,Combat 1 (Minion B Regular),League of Shadows Guard,CityExplore_Name_200011,3,3,4,2,1430306|1|2|0,30301,30301
+30307,Combat 2 (Minion B Frozen),League of Shadows Guard,CityExplore_Name_200011,3,3,4,2,1430306|1|2|160000101,0,30301
+30308,BUFF Chest,Chest,else_tianshi,3,3,2,3,19109003,0,0
+30401,Water (New Ice Lake),Ice Surface,CityExplore_Name_lake,3,4,3,3,0,0,0
+30402,Campfire (Near Point),Campfire,CityExplore_Name_fire,3,4,3,1,0,0,0
+30403,Campfire (Far Point),Campfire,CityExplore_Name_fire,3,4,3,1,0,0,0
+30404,BOSS (Killer Croc),Killer Croc,CharacterName_13169,3,4,1,2,13169,0,0
+30405,Minion Near Point,Supply Guard,CityExplore_Name_200011,3,4,1,5,0,0,0
+30406,Minion Far Point,Supply Guard,CityExplore_Name_200011,3,4,1,5,0,0,0
+30407,Combat - Boss Only,,CharacterName_13169,3,4,4,3,1430407|1|2|160000301,30404,30404
+30408,Combat - Boss + Minion (1),,CharacterName_13169,3,4,4,3,1430408|1|2|0,30404|30405,30404|30405
+30409,Combat - Boss + Frozen Minion (1),,CharacterName_13169,3,4,4,3,1430408|1|2|160000101,30404,30404|30405
+30410,Combat - Boss + Minion (2),,CharacterName_13169,3,4,4,3,1430410|1|2|0,30404|30405|30406,30404|30405|30406
+30411,Combat - Boss + Frozen Minion (2),,CharacterName_13169,3,4,4,3,1430410|1|2|160000101,30404,30404|30405|30406
+30412,Large Chest (Boss),Deluxe Supply,CityExplore_Element_BigBox,3,4,2,1,19100341,0,0
+30413,Large Chest (Ground),Deluxe Supply,CityExplore_Element_BigBox,3,4,2,1,19100342,0,0
+30414,BUFF Chest (Ice Lake),Chest,else_tianshi,3,4,2,3,19109003,0,0
+30415,Pre-Battle Dialogue (Killer Croc),League of Shadows Guard,CharacterName_13169,3,4,4,1,20305,0,0
+30416,Post-Battle Dialogue (Cold Team),League of Shadows Guard,CharacterName_13137,3,4,4,1,20306,0,0
+30501,Mini Theater (Opening),Mini Theater (Opening),,3,5,4,6,0,0,0
+40101,Hot Air Balloon (Ice Lake),Hot Air Balloon,CityExplore_Name_balloon,4,1,3,2,0,0,0
+40102,Minion A,League of Shadows Guard,CityExplore_Name_200012,4,1,1,3,0,0,0
+40103,Campfire (Camp),Campfire,CityExplore_Name_fire,4,1,3,1,0,0,0
+40104,Shadow (Ice Lake),Shadow,,4,1,3,4,0,0,0
+40105,Chest (Ice Lake),Chest,else_tianshi,4,1,2,3,19109004,0,0
+40106,Dialogue 2 (Minion A),League of Shadows Guard,CityExplore_Name_200012,4,1,4,1,20102,0,0
+40107,Combat 1 (Minion A),League of Shadows Guard,CityExplore_Name_200012,4,1,4,2,1440107|1|2|0,40102,40102
+40108,Combat 2 (Minion A),League of Shadows Guard,CityExplore_Name_200012,4,1,4,2,1440107|1|2|160000101,0,40102
+40109,Small Chest (Camp),Standard Supply,CityExplore_Element_LilBox,4,1,2,2,19100411,0,0
+40110,Dialogue 3 (Minion A),League of Shadows Guard,CityExplore_Name_200012,4,1,4,1,20103,0,0
+40111,Waterfall Display (Flowing),Waterfall,,4,1,3,4,0,0,0
+40112,Waterfall Display (Frozen),Waterfall,,4,1,3,4,0,0,0
+40113,Freeze Gun,,ItemName1117001,4,1,2,4,19100312,0,0
+40201,Climber,Climber,CityExplore_Name_200010,4,2,1,5,0,0,0
+40202,Ice Surface (Foot of the Snow Mountain),Ice Surface,CityExplore_Name_lake,4,2,3,3,0,0,0
+40203,Hot Air Balloon (Foot of the Snow Mountain),Hot Air Balloon,CityExplore_Name_balloon,4,2,3,2,0,0,0
+40204,Item Chest (Foot of the Snow Mountain),Supply Chest,else_tianshi,4,2,2,3,19109003,0,0
+40205,Climbing Footprints,Climbing Footprints,,4,2,3,4,0,0,0
+40206,Dialogue (Climber),Climber,CityExplore_Name_200010,4,2,4,1,20104,0,0
+40301,Minion B,Supply Guard,CityExplore_Name_200011,4,3,1,5,0,0,0
+40302,Mech Soldier A,League Mech-A,CityExplore_Name_204040,4,3,1,3,0,0,0
+40303,Campfire 1 (Research Facility),Campfire,CityExplore_Name_fire,4,3,3,1,0,0,0
+40304,Campfire 2 (Research Facility),Campfire,CityExplore_Name_fire,4,3,3,1,0,0,0
+40305,Item Chest (Research Facility),Supply Chest,ItemName1117000,4,3,2,3,19100431,0,0
+40306,Dialogue (Minion B),Supply Guard,CityExplore_Name_200011,4,3,4,1,20105,0,0
+40307,Combat (Mech Soldier A),League Mech-A,CityExplore_Name_204040,4,3,4,2,1440307|1|2|0,40302,40302
+40308,Large Chest (Research Facility),Deluxe Supply,CityExplore_Element_BigBox,4,3,2,1,19100432,0,0
+40309,Small Chest (Research Facility),Standard Supply,CityExplore_Element_LilBox,4,3,2,2,19100433,0,0
+40310,Item Chest 2 (Research Facility),Supply Chest,else_tianshi,4,3,2,3,19109005,0,0
+40401,Mech Soldier B,League Mech-B,CityExplore_Name_204010,4,4,1,3,0,0,0
+40402,Waterfall,Waterfall,CityExplore_Name_waterfall,4,4,3,3,0,0,0
+40403,Large Chest (Tower),Deluxe Supply,CityExplore_Element_BigBox,4,4,2,1,19100442,0,0
+40405,Combat (Mech Soldier B),League Mech-B,CityExplore_Name_204010,4,4,4,2,1440405|1|2|0,40401,40401
+40406,Small Chest (Tower),Standard Supply,CityExplore_Element_LilBox,4,4,2,2,19100441,0,0
+40407,Hot Air Balloon (Tower),Hot Air Balloon,CityExplore_Name_balloon,4,4,3,2,0,0,0
+40501,Minion C,Bane's Henchman,CityExplore_Name_203021,4,5,1,5,0,0,0
+40502,BOSS (Bane),Bane,CharacterName_13139,4,5,1,2,13139,0,0
+40503,Campfire 1 (Helipad),Campfire,CityExplore_Name_fire,4,5,3,1,0,0,0
+40504,Campfire 2 (Helipad),Campfire,CityExplore_Name_fire,4,5,3,1,0,0,0
+40505,Hot Air Balloon (Helipad),Hot Air Balloon,CityExplore_Name_balloon,4,5,3,2,0,0,0
+40506,Item Chest (Helipad),Supply Chest,else_tianshi,4,5,2,3,19109003,0,0
+40507,Small Chest (Helipad),Standard Supply,CityExplore_Element_LilBox,4,5,2,2,19100451,0,0
+40508,Large Chest (Helipad),Deluxe Supply,CityExplore_Element_BigBox,4,5,2,1,19100452,0,0
+40509,Dialogue (Bane),Bane,CharacterName_13139,4,5,4,1,20402,0,0
+40510,Dialogue 1 (Minion C),Bane's Henchman,CityExplore_Name_203021,4,5,4,1,20107,0,0
+40511,Combat 1 (Bane),Bane,CharacterName_13139,4,5,4,3,1440511|1|7|0,40502|40501,40502|40501
+40512,Combat 2 (Bane - Frozen),Bane,CharacterName_13139,4,5,4,3,1440511|1|9|160000101,40502,40502|40501
+40513,Combat 3 (Bane - Stunned),Bane,CharacterName_13139,4,5,4,3,1440513|1|9|160000201,40502,40502
+40514,Dialogue 2 (Minion C),Bane's Henchman,CityExplore_Name_203021,4,5,4,1,20108,0,0
+40515,Dialogue 3 (Minion C),Bane's Henchman,CityExplore_Name_203021,4,5,4,1,20109,0,0
+40516,Shadow (Helipad),Shadow,,4,5,3,4,0,0,0
+40517,Waterfall Display (Flowing),Waterfall,,4,5,3,4,0,0,0
+40518,Waterfall Display (Frozen),Waterfall,,4,5,3,4,0,0,0
+40519,Post-Battle Dialogue (Cold Team),League of Shadows Guard,CharacterName_13137,4,5,4,1,20403,0,0
+40601,League of Shadows Guard,League of Shadows Guard,CityExplore_Name_203020,4,6,1,1,0,0,0
+40602,Hot Air Balloon (Ice Lake),Hot Air Balloon,CityExplore_Name_balloon,4,6,3,2,0,0,0
+40603,Chest (Ice Lake),Chest,else_tianshi,4,6,2,3,19109006,0,0
+40604,Ice Surface (Ice Lake),Ice Surface,CityExplore_Name_lake,4,6,3,3,0,0,0
+40607,Shadow (Ice Lake),Shadow,,4,6,3,4,0,0,0
+40701,Mini Theater (Opening),Mini Theater (Opening),,4,7,4,6,0,0,0
+50101,Minion 1,pos1,CityExplore_Name_200031,5,1,1,3,0,0,0
+50102,Minion 2,pos2,CityExplore_Name_200032,5,1,1,1,0,0,0
+50103,Combat 1,,CityExplore_Name_200034,5,1,4,2,1450103|1|2|0,50101|50102,50101|50102
+50104,Small Chest 1,pos4,CityExplore_Element_LilBox,5,1,2,2,19100511,0,0
+50105,Light 1,pos3,CityExplore_Name_light03,5,1,3,5,0,0,0
+50201,Minion 3,pos1-7,CityExplore_Name_200032,5,2,1,1,0,0,0
+50202,Minion 4,pos2-8,CityExplore_Name_200031,5,2,1,3,0,0,0
+50203,Combat (Minion 3+4),,CityExplore_Name_200034,5,2,4,2,1450203|1|2|0,50201|50202,50201|50202
+50204,Combat (Minion 3),,CityExplore_Name_200031,5,2,4,2,1450204|1|2|0,50202,50202
+50205,Dialogue 1,,,5,2,4,1,20202,0,0
+50206,Batman,pos4,CharacterName_13102,5,2,1,5,0,0,0
+50207,Light 2,pos3,CityExplore_Name_light01,5,2,3,5,0,0,0
+50208,Small Chest 2,pos5,CityExplore_Element_LilBox,5,2,2,2,19100521,0,0
+50209,Batarang Chest,pos6,ItemName1117002,5,2,2,3,19100522,0,0
+50301,Minion 5,pos1,CityExplore_Name_200031,5,3,1,3,0,0,0
+50302,Minion 6,pos2,CityExplore_Name_200032,5,3,1,3,0,0,0
+50303,Combat (Minion 5),,CityExplore_Name_200031,5,3,4,2,1450303|1|2|0,50301,50301
+50304,Combat (Minion 6),,CityExplore_Name_200032,5,3,4,2,1450304|1|2|0,50302,50302
+50305,Combat (Minion 5+6),,CityExplore_Name_200034,5,3,4,2,1450305|1|2|0,50301|50302,50301|50302
+50306,Small Chest 3,pos5,CityExplore_Element_LilBox,5,3,2,2,19100531,0,0
+50307,Small Chest 4,pos6,CityExplore_Element_LilBox,5,3,2,2,19100532,0,0
+50308,Hot Air Balloon 1,pos4,CityExplore_Name_balloon,5,3,3,2,0,0,0
+50309,Captain Cold,pos8,CharacterName_13137,5,3,1,4,0,0,0
+50310,Dialogue,,,5,3,4,1,20203,0,0
+50311,Item Chest,pos7,else_tianshi,5,3,2,3,19109004,0,0
+50312,Light 3,pos3,CityExplore_Name_light03,5,3,3,5,0,0,0
+50313,Recruit Cold Team,,CharacterName_13137,5,3,4,5,13137,0,0
+50401,Minion 7,pos3,CityExplore_Name_200031,5,4,1,3,0,0,0
+50402,Night Vision Person 1,pos2,CityExplore_Name_200033,5,4,1,1,0,0,0
+50403,Combat (Minion 7 + Night Vision Person 1),,CityExplore_Name_200034,5,4,4,2,1450403|1|2|0,50401|50402,50401|50402
+50404,Light Source,pos1,CityExplore_Name_light01,5,4,3,5,0,0,0
+50405,Small Chest,pos4,CityExplore_Element_LilBox,5,4,2,2,19100401,0,0
+50501,Hot Air Balloon,pos1,CityExplore_Name_balloon,5,5,3,2,0,0,0
+50502,Ice Surface,pos4,CityExplore_Name_lake,5,5,3,3,0,0,0
+50503,Cold Team,pos3,CharacterName_13137,5,5,1,5,0,0,0
+50504,Small Chest 5,pos5,CityExplore_Element_LilBox,5,5,2,2,19100501,0,0
+50505,Item Chest,pos2,else_tianshi,5,5,2,3,19109005,0,0
+50506,Cold Team Timeline Balloon,pos3,,5,5,4,7,0,0,0
+50507,Cold Team Timeline Ice Surface,pos3,,5,5,4,7,0,0,0
+50508,,,,5,5,4,1,20204,0,0
+50601,BOSS (),pos6,CharacterName_13145,5,6,1,2,13145,0,0
+50602,Minion 11,pos5,CityExplore_Name_200031,5,6,1,1,0,0,0
+50603,Night Vision Person 4,pos3,CityExplore_Name_200033,5,6,1,1,0,0,0
+50604,Light Source 5,pos7,CityExplore_Name_light01,5,6,3,5,0,0,0
+50605,Light Source 6 (Balloon),pos1,,5,6,3,5,0,0,0
+50606,Hot Air Balloon,pos2,CityExplore_Name_balloon,5,6,3,2,0,0,0
+50607,BUFF Chest,6,else_tianshi,5,6,2,3,19109006,0,0
+50608,Large Chest 3,6,CityExplore_Element_BigBox,5,6,2,1,19100602,0,0
+50609,Combat (Boss),,CharacterName_13145,5,6,4,3,1450609|1|2|0,50601,50601
+50610,Combat (Boss + Night Vision Person),,CharacterName_13145,5,6,4,3,1450610|1|2|0,50601|50603,50601|50603
+50611,Combat (Boss + Minion),,CharacterName_13145,5,6,4,3,1450611|1|2|0,50601|50602,50601|50602
+50612,Combat (All),,CharacterName_13145,5,6,4,3,1450612|1|2|0,50601|50602|50603,50601|50602|50603
+50613,Dialogue,,,5,6,4,1,20205,0,0
+50701,Mini Theater,,,5,7,4,6,0,0,0
+60101,Minion 1,,CityExplore_Name_200031,6,1,1,3,0,0,0
+60102,Minion 2,,CityExplore_Name_200032,6,1,1,1,0,0,0
+60103,Light Source 1,,,6,1,3,5,0,0,0
+60104,Combat (Minion 1 + 2),,CityExplore_Name_200034,6,1,4,2,1460104|1|2|0,60101|60102,60101|60102
+60105,Mini Theater 1,,,6,11,4,6,9,0,0
+60106,Chest (Combat Drop),,CityExplore_Element_LilBox,6,1,2,2,19100611,0,0
+60201,Minion 3,,CityExplore_Name_200031,6,2,1,3,0,0,0
+60202,Minion 4,,CityExplore_Name_200032,6,2,1,1,0,0,0
+60203,Light Source 2,,CityExplore_Name_light01,6,2,3,5,0,0,0
+60204,Branch Dialogue 1,,,6,2,4,4,0,0,0
+60205,Combat (Minion 3 + 4),,CityExplore_Name_200034,6,2,4,2,1460205|1|2|0,60201|60202,60201|60202
+60206,Combat (Minion 3),,CityExplore_Name_200031,6,2,4,2,1460206|1|2|0,60201,60201
+60207,Batman,,CharacterName_13102,6,2,1,5,0,0,0
+60208,Dialogue 1,,,6,2,4,1,20201,0,0
+60209,Item Chest (Batarang),,ItemName1117002,6,2,2,3,19100621,0,0
+60210,Chest (Combat Drop),,CityExplore_Element_LilBox,6,2,2,2,19100622,0,0
+60301,Hot Air Balloon,,CityExplore_Name_balloon,6,3,3,2,0,0,0
+60302,Minion 5,,CityExplore_Name_200031,6,3,1,3,0,0,0
+60303,Minion 6,,CityExplore_Name_200032,6,3,1,1,0,0,0
+60304,Combat (Minion 5),,CityExplore_Name_200031,6,3,4,2,1460304|1|2|0,60302,60302
+60305,Combat (Minion 5 + 6),,CityExplore_Name_200034,6,3,4,2,1460305|1|2|0,60302|60303,60302|60303
+60306,Small Chest,,CityExplore_Element_LilBox,6,3,2,2,19100631,0,0
+60307,Light Source,,,6,3,3,5,0,0,0
+60308,BUFF Chest,,else_tianshi,6,3,2,3,19109003,0,0
+60401,Mirror Master,,CharacterName_13145,6,4,1,3,0,0,0
+60402,Branch Dialogue 2,,,6,4,4,4,0,0,0
+60403,Combat (Mini Boss),,CharacterName_13145,6,4,4,2,1460403|1|2|0,60401,60401
+60404,Batman,,CharacterName_13102,6,4,1,5,0,0,0
+60405,Dialogue 4,,,6,4,4,1,20401,0,0
+60406,Grapple Chest,,ItemName1117003,6,4,2,3,19100642,0,0
+60407,Item Chest (Batarang),,ItemName1117002,6,4,2,3,19100641,0,0
+60408,Batman (Non-Interactable),,,6,4,1,1,0,0,0
+60409,Chest,,CityExplore_Element_BigBox,6,4,2,1,19100643,0,0
+60501,Minion 7,,CityExplore_Name_200031,6,5,1,3,0,0,0
+60502,Night Vision Person 1,,CityExplore_Name_200033,6,5,1,1,0,0,0
+60503,Combat (Minion 7 + Night Vision Person 1),,CityExplore_Name_200034,6,5,4,2,1460503|1|2|0,60501|60502,60501|60502
+60504,Light Source,,CityExplore_Name_light01,6,5,3,5,0,0,0
+60505,Small Chest,,CityExplore_Element_LilBox,6,5,2,2,19100651,0,0
+60507,BUFF Chest,,else_tianshi,6,5,2,3,19109003,0,0
+60601,Ice Surface,,CityExplore_Name_lake,6,6,3,3,0,0,0
+60602,Hot Air Balloon,,CityExplore_Name_balloon,6,6,3,2,0,0,0
+60603,BUFF Chest,,else_tianshi,6,6,2,3,19109004,0,0
+60604,Light Source 3,,CityExplore_Name_light01,6,6,3,5,0,0,0
+60605,Night Vision Person 2,,CityExplore_Name_200033,6,6,1,1,1460605|1|2|0,10101|10102,10101|10102
+60606,Crocodile Man,,CharacterName_13169,6,6,1,3,0,0,0
+60607,Combat (Crocodile Man + Night Vision Person 2),,CharacterName_13169,6,6,4,2,1460607|1|2|0,60605|60606,60605|60606
+60608,Captain Cold,,CharacterName_13137,6,6,1,4,0,0,0
+60609,Bridge,,CityExplore_Name_bridge,6,6,3,8,0,0,0
+60610,Recruit Cold Team,,CharacterName_13137,6,6,4,5,13137,0,0
+60611,Cold Team Dialogue,,,6,6,4,1,20601,0,0
+60612,Cold Team Timeline Balloon,,,6,6,4,7,0,0,0
+60613,Cold Team Timeline Ice Surface,,,6,6,4,7,0,0,0
+60701,Minion 8,,CityExplore_Name_200031,6,7,1,3,0,0,0
+60702,Driver,,CityExplore_Name_200030,6,7,1,1,0,0,0
+60703,Light Source 4,,CityExplore_Name_light02,6,7,3,5,0,0,0
+60704,Armored Truck,,CityExplore_Name_trunk,6,7,3,7,0,0,0
+60705,Large Chest 1,,CityExplore_Element_BigBox,6,7,2,1,19100672,0,0
+60706,Combat (Minion 8 + Driver),,CityExplore_Name_200034,6,7,4,2,1460706|1|2|0,60701|60702,60701|60702
+60707,Combat (Minion 8),,CityExplore_Name_200031,6,7,4,2,1460707|1|2|0,60701,60701
+60708,Key,,ItemName1117004,6,7,2,3,19100671,0,0
+60709,Armored Truck Mini Theater,,,6,7,4,6,10,0,0
+60710,BUFF Chest,,else_tianshi,6,7,2,3,19109005,0,0
+60711,Billboard,,,6,7,3,7,0,0,0
+60801,Searchlight,,CityExplore_Name_light03,6,8,3,6,0,0,0
+60802,Minion 9,,CityExplore_Name_200035,6,8,1,3,0,0,0
+60803,Combat (Minion 9),,CityExplore_Name_200035,6,8,4,2,1460803|1|2|0,60802,60802
+60804,Chest (Combat Drop),,CityExplore_Element_LilBox,6,8,2,2,19100681,0,0
+60805,Chest (Adjusted to 6),,CityExplore_Element_LilBox,6,6,2,2,19100682,0,0
+60901,Minion 10,,CityExplore_Name_200031,6,9,1,3,0,0,0
+60902,Night Vision Person 3,,CityExplore_Name_200033,6,9,1,3,0,0,0
+60903,Chest (Airship),,CityExplore_Name_hangbox,6,9,3,9,19100132,0,0
+60904,Combat (Minion + Night Vision Person),,CityExplore_Name_200034,6,9,4,2,1460904|1|2|0,60901|60902,60901|60902
+60905,Combat (Minion 10),,CityExplore_Name_200031,6,9,4,2,1460905|1|2|0,60901,60901
+60906,Searchlight Light Source 1,,,6,9,3,4,0,0,0
+60907,Searchlight Light Source 2,,,6,9,3,4,0,0,0
+60908,Chest (Crashing Down),,else_tianshi,6,9,2,3,19109007,0,0
+60909,Airship,,,6,9,3,4,0,0,0
+60912,9-10 Timeline,,,6,9,4,7,0,0,0
+60913,Combat (Night Vision Person),,CityExplore_Name_200033,6,9,4,2,1460913|1|2|0,60902,60902
+60914,Airship Chest Direct Drop,,else_tianshi,6,9,2,3,19109007,0,0
+61001,BOSS (Poison Ivy),Poison Ivy,CharacterName_13138,6,10,1,2,13138,0,0
+61002,Minion 11,,CityExplore_Name_200031,6,10,1,1,0,0,0
+61003,Night Vision Person 4,,CityExplore_Name_200033,6,10,1,1,0,0,0
+61004,Light Source 5,,CityExplore_Name_light01,6,10,3,5,0,0,0
+61005,Light Source 6 (Balloon),,,6,10,3,5,0,0,0
+61006,Hot Air Balloon,,CityExplore_Name_balloon,6,10,3,2,0,0,0
+61007,BUFF Chest,,else_tianshi,6,10,2,3,19109006,0,0
+61008,Small Chest 2 (Changed to Small Chest),,CityExplore_Element_BigBox,6,10,2,2,191006102,0,0
+61009,Large Chest 3,,CityExplore_Element_BigBox,6,10,2,1,191006101,0,0
+61010,Combat (Boss),,CharacterName_13138,6,10,4,3,1461010|1|2|0,61001,61001
+61011,Combat (Boss + Night Vision Person),,CharacterName_13138,6,10,4,3,1461011|1|2|0,61001|61003,61001|61003
+61012,Combat (Boss + Minion),,CharacterName_13138,6,10,4,3,1461012|1|2|0,61001|61002,61001|61002
+61013,Combat (All),,CharacterName_13138,6,10,4,3,1461013|1|2|0,61001|61002|61003,61001|61002|61003
+61015,Airship,,,6,10,3,4,0,0,0
+61016,Bridge,,CityExplore_Name_bridge,6,10,3,8,0,0,0
+61017,10-9 Timeline,,,6,10,4,7,0,0,0

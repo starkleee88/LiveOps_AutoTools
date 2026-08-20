@@ -1,0 +1,63 @@
+﻿ID,GroupId,O,TaskName,TrigType,TrigCondition1,Reward,Amount,isActive
+id,Associated Fund Group,Task Name,Task Name,"Trigger Condition Type  
+1. Complete Main Story Chapter - Level",Trigger Condition Parameter 1,Reward ID,Quantity,"Hidden Status  
+Xiao Leng:  
+1 - Show  
+0 - Hide  "
+index,int,O,string,int,int,int,int,
+10010,9301,Complete Main Story %s  ,RechargeFund_Task01,1,106,111202,1000,1
+10020,9301,Complete Main Story %s  ,RechargeFund_Task01,1,312,111202,1000,1
+10030,9301,Complete Main Story %s  ,RechargeFund_Task01,1,530,111202,1000,1
+10040,9301,Complete Main Story %s  ,RechargeFund_Task01,1,730,111202,1000,1
+10045,9301,Complete Main Story %s  ,RechargeFund_Task01,1,830,111202,1000,1
+10050,9301,Complete Main Story %s  ,RechargeFund_Task01,1,930,111202,1000,1
+10055,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1030,111202,1000,1
+10060,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1130,111202,1000,1
+10070,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1230,111202,1000,1
+10080,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1330,111202,1000,1
+10090,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1430,111202,1000,1
+10100,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1530,111202,1000,1
+10110,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1630,111202,1000,1
+10120,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1730,111202,1000,1
+10130,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1830,111202,1000,1
+10140,9301,Complete Main Story %s  ,RechargeFund_Task01,1,1930,111202,1000,1
+11010,9302,Complete Main Story %s  ,RechargeFund_Task01,1,2015,111202,2000,1
+11020,9302,Complete Main Story %s  ,RechargeFund_Task01,1,2030,111202,2000,1
+11030,9302,Complete Main Story %s  ,RechargeFund_Task01,1,2115,111202,2000,1
+11040,9302,Complete Main Story %s  ,RechargeFund_Task01,1,2130,111202,2000,1
+11050,9302,Complete Main Story %s  ,RechargeFund_Task01,1,2215,111202,2000,1
+11060,9302,Complete Main Story %s  ,RechargeFund_Task01,1,2230,111202,2000,1
+11070,9302,Complete Main Story %s  ,RechargeFund_Task01,1,2315,111202,2000,1
+11080,9302,Complete Main Story %s  ,RechargeFund_Task01,1,2330,111202,2000,1
+12010,9303,Complete Main Story %s  ,RechargeFund_Task01,1,2415,111202,2000,1
+12020,9303,Complete Main Story %s  ,RechargeFund_Task01,1,2430,111202,2000,1
+12030,9303,Complete Main Story %s  ,RechargeFund_Task01,1,2515,111202,2000,1
+12040,9303,Complete Main Story %s  ,RechargeFund_Task01,1,2530,111202,2000,1
+12050,9303,Complete Main Story %s  ,RechargeFund_Task01,1,2615,111202,2000,1
+12060,9303,Complete Main Story %s  ,RechargeFund_Task01,1,2630,111202,2000,1
+12070,9303,Complete Main Story %s  ,RechargeFund_Task01,1,2715,111202,2000,1
+12080,9303,Complete Main Story %s  ,RechargeFund_Task01,1,2730,111202,2000,1
+13010,9304,Complete Main Story %s  ,RechargeFund_Task01,1,2815,111202,2000,1
+13020,9304,Complete Main Story %s  ,RechargeFund_Task01,1,2830,111202,2000,1
+13030,9304,Complete Main Story %s  ,RechargeFund_Task01,1,2925,111202,2000,1
+13040,9304,Complete Main Story %s  ,RechargeFund_Task01,1,2930,111202,2000,1
+13050,9304,Complete Main Story %s  ,RechargeFund_Task01,1,3015,111202,2000,1
+13060,9304,Complete Main Story %s  ,RechargeFund_Task01,1,3030,111202,2000,1
+13070,9304,Complete Main Story %s  ,RechargeFund_Task01,1,3115,111202,2000,1
+13080,9304,Complete Main Story %s  ,RechargeFund_Task01,1,3130,111202,2000,1
+14010,9305,Complete Main Story %s  ,RechargeFund_Task01,1,3215,111202,2000,1
+14020,9305,Complete Main Story %s  ,RechargeFund_Task01,1,3230,111202,2000,1
+14030,9305,Complete Main Story %s  ,RechargeFund_Task01,1,3315,111202,2000,1
+14040,9305,Complete Main Story %s  ,RechargeFund_Task01,1,3415,111202,2000,1
+14050,9305,Complete Main Story %s  ,RechargeFund_Task01,1,3515,111202,2000,1
+14060,9305,Complete Main Story %s  ,RechargeFund_Task01,1,3530,111202,2000,1
+14070,9305,Complete Main Story %s  ,RechargeFund_Task01,1,3615,111202,2000,1
+14080,9305,Complete Main Story %s  ,RechargeFund_Task01,1,3630,111202,2000,1
+15010,9306,Complete Main Story %s  ,RechargeFund_Task01,1,3715,111202,2000,1
+15020,9306,Complete Main Story %s  ,RechargeFund_Task01,1,3730,111202,2000,1
+15030,9306,Complete Main Story %s  ,RechargeFund_Task01,1,3815,111202,2000,1
+15040,9306,Complete Main Story %s  ,RechargeFund_Task01,1,3830,111202,2000,1
+15050,9306,Complete Main Story %s  ,RechargeFund_Task01,1,3915,111202,2000,1
+15060,9306,Complete Main Story %s  ,RechargeFund_Task01,1,3930,111202,2000,1
+15070,9306,Complete Main Story %s  ,RechargeFund_Task01,1,4015,111202,2000,1
+15080,9306,Complete Main Story %s  ,RechargeFund_Task01,1,4030,111202,2000,1

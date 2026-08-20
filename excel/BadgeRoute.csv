@@ -1,0 +1,753 @@
+﻿RouteID,PositionID,O,PositionX,PositionY
+ID,Point ID,Note,Point X Coordinate,Point Y Coordinate
+index,int,,int,int
+1,1,Superman Badge,380,98
+1,2,Superman Badge,230,210
+1,3,Superman Badge,0,280
+1,4,Superman Badge,-230,210
+1,5,Superman Badge,-380,98
+1,6,Superman Badge,0,-10
+1,7,Superman Badge,230,-81
+1,8,Superman Badge,140,-212
+1,9,Superman Badge,0,-315
+1,10,Superman Badge,-175,-192
+2,1,Batman Badge,-269,163
+2,2,Batman Badge,-504,21
+2,3,Batman Badge,-329,-130
+2,4,Batman Badge,-154,-58
+2,5,Batman Badge,0,-198
+2,6,Batman Badge,154,-58
+2,7,Batman Badge,329,-130
+2,8,Batman Badge,504,21
+2,9,Batman Badge,269,163
+2,10,Batman Badge,0,31
+3,1,Wonder Woman Badge,-413,162
+3,2,Wonder Woman Badge,-310,-11
+3,3,Wonder Woman Badge,-176,-11
+3,4,Wonder Woman Badge,-79,-207
+3,5,Wonder Woman Badge,79,-207
+3,6,Wonder Woman Badge,176,-11
+3,7,Wonder Woman Badge,310,-11
+3,8,Wonder Woman Badge,413,162
+3,9,Wonder Woman Badge,178,162
+3,10,Wonder Woman Badge,0,26
+4,1,The Flash Badge,-99,151
+4,2,The Flash Badge,165,388
+4,3,The Flash Badge,85,187
+4,4,The Flash Badge,225,187
+4,5,The Flash Badge,134,43
+4,6,The Flash Badge,293,43
+4,7,The Flash Badge,-200,-350
+4,8,The Flash Badge,-50,-102
+4,9,The Flash Badge,-202,-102
+4,10,The Flash Badge,0,31
+6,1,Martian Manhunter Badge,-92,113
+6,2,Martian Manhunter Badge,-246,69
+6,3,Martian Manhunter Badge,-401,25
+6,4,Martian Manhunter Badge,-92,-63
+6,5,Martian Manhunter Badge,-6,-341
+6,6,Martian Manhunter Badge,92,-63
+6,7,Martian Manhunter Badge,395,25
+6,8,Martian Manhunter Badge,240,69
+6,9,Martian Manhunter Badge,86,113
+6,10,Martian Manhunter Badge,-6,321
+8,1,Doctor Fate Badge,-420,44
+8,2,Doctor Fate Badge,-78,44
+8,3,Doctor Fate Badge,-124,-151
+8,4,Doctor Fate Badge,-167,-335
+8,5,Doctor Fate Badge,167,-335
+8,6,Doctor Fate Badge,124,-151
+8,7,Doctor Fate Badge,78,44
+8,8,Doctor Fate Badge,420,44
+8,9,Doctor Fate Badge,0,142
+8,10,Doctor Fate Badge,0,299
+9,1,Nightwing Badge,-214,-94
+9,2,Nightwing Badge,-602,212
+9,3,Nightwing Badge,-394,212
+9,4,Nightwing Badge,-90,65
+9,5,Nightwing Badge,0,212
+9,6,Nightwing Badge,90,64
+9,7,Nightwing Badge,394,212
+9,8,Nightwing Badge,602,212
+9,9,Nightwing Badge,214,-94
+9,10,Nightwing Badge,0,-251
+10,1,Superboy Badge,-119,278
+10,2,Superboy Badge,-301,278
+10,3,Superboy Badge,-434,129
+10,4,Superboy Badge,-247,-95
+10,5,Superboy Badge,0,-350
+10,6,Superboy Badge,247,-95
+10,7,Superboy Badge,434,129
+10,8,Superboy Badge,301,278
+10,9,Superboy Badge,119,278
+10,10,Superboy Badge,0,97
+11,1,Kid Flash Badge,-211,-359
+11,2,Kid Flash Badge,-82,-240
+11,3,Kid Flash Badge,40,-124
+11,4,Kid Flash Badge,235,-10
+11,5,Kid Flash Badge,-180,-87
+11,6,Kid Flash Badge,48,39
+11,7,Kid Flash Badge,235,196
+11,8,Kid Flash Badge,-180,88
+11,9,Kid Flash Badge,-48,196
+11,10,Kid Flash Badge,104,327
+13,1,Cyborg Badge,329,-87
+13,2,Cyborg Badge,329,-226
+13,3,Cyborg Badge,-236,-226
+13,4,Cyborg Badge,-343,-87
+13,5,Cyborg Badge,-343,135
+13,6,Cyborg Badge,-236,274
+13,7,Cyborg Badge,329,274
+13,8,Cyborg Badge,329,135
+13,9,Cyborg Badge,183,135
+13,10,Cyborg Badge,0,12
+14,1,Constantine Badge,-295,-64
+14,2,Constantine Badge,-150,132
+14,3,Constantine Badge,0,329
+14,4,Constantine Badge,150,132
+14,5,Constantine Badge,295,-64
+14,6,Constantine Badge,109,-64
+14,7,Constantine Badge,208,-201
+14,8,Constantine Badge,0,-201
+14,9,Constantine Badge,-208,-201
+14,10,Constantine Badge,0,76
+15,1,Red Hood Badge,-341,160
+15,2,Red Hood Badge,-437,41
+15,3,Red Hood Badge,-271,-53
+15,4,Red Hood Badge,-89,-141
+15,5,Red Hood Badge,0,-229
+15,6,Red Hood Badge,89,-141
+15,7,Red Hood Badge,271,-53
+15,8,Red Hood Badge,437,41
+15,9,Red Hood Badge,341,160
+15,10,Red Hood Badge,0,11
+18,1,Firestorm Badge,-300,209
+18,2,Firestorm Badge,-93,188
+18,3,Firestorm Badge,127,290
+18,4,Firestorm Badge,345,188
+18,5,Firestorm Badge,430,0
+18,6,Firestorm Badge,345,-188
+18,7,Firestorm Badge,127,-290
+18,8,Firestorm Badge,-93,-188
+18,9,Firestorm Badge,-300,-209
+18,10,Firestorm Badge,-363,12
+19,1,Green Arrow Badge,322,294
+19,2,Green Arrow Badge,114,209
+19,3,Green Arrow Badge,-142,104
+19,4,Green Arrow Badge,-443,-25
+19,5,Green Arrow Badge,-142,-150
+19,6,Green Arrow Badge,114,-255
+19,7,Green Arrow Badge,322,-340
+19,8,Green Arrow Badge,191,-25
+19,9,Green Arrow Badge,259,126
+19,10,Green Arrow Badge,0,1
+20,1,Robin Badge,-192,-202
+20,2,Robin Badge,-192,26
+20,3,Robin Badge,-192,257
+20,4,Robin Badge,-40,257
+20,5,Robin Badge,111,257
+20,6,Robin Badge,222,207
+20,7,Robin Badge,274,103
+20,8,Robin Badge,222,3
+20,9,Robin Badge,30,-33
+20,10,Robin Badge,286,-206
+21,1,Zatanna Badge,-225,-212
+21,2,Zatanna Badge,-203,-4
+21,3,Zatanna Badge,-426,130
+21,4,Zatanna Badge,-240,205
+21,5,Zatanna Badge,0,205
+21,6,Zatanna Badge,240,205
+21,7,Zatanna Badge,426,130
+21,8,Zatanna Badge,210,-4
+21,9,Zatanna Badge,240,-212
+21,10,Zatanna Badge,0,-212
+22,1,Starfire Badge,-391,-240
+22,2,Starfire Badge,-319,-14
+22,3,Starfire Badge,-539,145
+22,4,Starfire Badge,-267,145
+22,5,Starfire Badge,-177,370
+22,6,Starfire Badge,-87,145
+22,7,Starfire Badge,185,145
+22,8,Starfire Badge,-35,-14
+22,9,Starfire Badge,37,-240
+22,10,Starfire Badge,-177,-112
+31,1,Lex Luthor Badge,-70,62
+31,2,Lex Luthor Badge,-30,201
+31,3,Lex Luthor Badge,10,342
+31,4,Lex Luthor Badge,-210,342
+31,5,Lex Luthor Badge,-250,201
+31,6,Lex Luthor Badge,-290,62
+31,7,Lex Luthor Badge,-330,-79
+31,8,Lex Luthor Badge,-110,-79
+31,9,Lex Luthor Badge,110,-79
+31,10,Lex Luthor Badge,340,-79
+33,1,Sinestro Badge,-170,-173
+33,2,Sinestro Badge,-290,94
+33,3,Sinestro Badge,-94,144
+33,4,Sinestro Badge,-180,270
+33,5,Sinestro Badge,0,305
+33,6,Sinestro Badge,180,270
+33,7,Sinestro Badge,94,144
+33,8,Sinestro Badge,290,94
+33,9,Sinestro Badge,170,-173
+33,10,Sinestro Badge,0,-274
+35,1,Bizarro Badge,-380,98
+35,2,Bizarro Badge,-230,210
+35,3,Bizarro Badge,0,280
+35,4,Bizarro Badge,230,210
+35,5,Bizarro Badge,380,98
+35,6,Bizarro Badge,0,-10
+35,7,Bizarro Badge,-230,-81
+35,8,Bizarro Badge,-140,-212
+35,9,Bizarro Badge,0,-315
+35,10,Bizarro Badge,175,-192
+36,1,Raven Badge,-198,160
+36,2,Raven Badge,-453,226
+36,3,Raven Badge,-313,-78
+36,4,Raven Badge,-116,-181
+36,5,Raven Badge,0,-277
+36,6,Raven Badge,116,-181
+36,7,Raven Badge,313,-78
+36,8,Raven Badge,453,226
+36,9,Raven Badge,198,160
+36,10,Raven Badge,0,0
+38,1,Poison Ivy Badge,-134,136
+38,2,Poison Ivy Badge,-245,-41
+38,3,Poison Ivy Badge,-387,-271
+38,4,Poison Ivy Badge,-118,-231
+38,5,Poison Ivy Badge,118,-231
+38,6,Poison Ivy Badge,387,-271
+38,7,Poison Ivy Badge,245,-41
+38,8,Poison Ivy Badge,134,136
+38,9,Poison Ivy Badge,0,328
+38,10,Poison Ivy Badge,0,-24
+39,1,Bane Badge,-186,244
+39,2,Bane Badge,-248,108
+39,3,Bane Badge,-96,-52
+39,4,Bane Badge,-152,-261
+39,5,Bane Badge,0,-312
+39,6,Bane Badge,152,-261
+39,7,Bane Badge,96,-52
+39,8,Bane Badge,248,108
+39,9,Bane Badge,186,244
+39,10,Bane Badge,0,108
+40,1,Gorilla Grodd Badge,-217,-337
+40,2,Gorilla Grodd Badge,-326,-186
+40,3,Gorilla Grodd Badge,-250,140
+40,4,Gorilla Grodd Badge,-125,115
+40,5,Gorilla Grodd Badge,0,362
+40,6,Gorilla Grodd Badge,125,115
+40,7,Gorilla Grodd Badge,250,140
+40,8,Gorilla Grodd Badge,326,-186
+40,9,Gorilla Grodd Badge,217,-337
+40,10,Gorilla Grodd Badge,0,-100
+41,1,Killer Frost Badge,-312,187
+41,2,Killer Frost Badge,-172,21
+41,3,Killer Frost Badge,-312,-152
+41,4,Killer Frost Badge,-92,-131
+41,5,Killer Frost Badge,8,-362
+41,6,Killer Frost Badge,108,-131
+41,7,Killer Frost Badge,328,-152
+41,8,Killer Frost Badge,188,21
+41,9,Killer Frost Badge,328,187
+41,10,Killer Frost Badge,8,301
+48,1,Penguin Badge,-282,-178
+48,2,Penguin Badge,-155,-42
+48,3,Penguin Badge,-100,113
+48,4,Penguin Badge,-282,171
+48,5,Penguin Badge,-63,278
+48,6,Penguin Badge,129,239
+48,7,Penguin Badge,235,113
+48,8,Penguin Badge,267,-81
+48,9,Penguin Badge,267,-256
+48,10,Penguin Badge,23,-185
+51,1,Deathstroke Badge,220,258
+51,2,Deathstroke Badge,0,343
+51,3,Deathstroke Badge,-220,258
+51,4,Deathstroke Badge,-320,22
+51,5,Deathstroke Badge,-220,-216
+51,6,Deathstroke Badge,0,-301
+51,7,Deathstroke Badge,110,-71
+51,8,Deathstroke Badge,217,-114
+51,9,Deathstroke Badge,330,142
+51,10,Deathstroke Badge,0,22
+52,1,Green Lantern - Hal Jordan Badge,162,180
+52,2,Green Lantern - Hal Jordan Badge,280,295
+52,3,Green Lantern - Hal Jordan Badge,-280,295
+52,4,Green Lantern - Hal Jordan Badge,-162,180
+52,5,Green Lantern - Hal Jordan Badge,-245,25
+52,6,Green Lantern - Hal Jordan Badge,-162,-130
+52,7,Green Lantern - Hal Jordan Badge,-280,-245
+52,8,Green Lantern - Hal Jordan Badge,280,-245
+52,9,Green Lantern - Hal Jordan Badge,162,-130
+52,10,Green Lantern - Hal Jordan Badge,245,25
+71,1,Two Face Badge,-136,300
+71,2,Two Face Badge,-310,116
+71,3,Two Face Badge,-310,-126
+71,4,Two Face Badge,-136,-312
+71,5,Two Face Badge,136,-312
+71,6,Two Face Badge,310,-126
+71,7,Two Face Badge,310,116
+71,8,Two Face Badge,136,300
+71,9,Two Face Badge,0,166
+71,10,Two Face Badge,0,-20
+70,1,Green Lantern - Jessica Badge,-336,-245
+70,2,Green Lantern - Jessica Badge,-160,-60
+70,3,Green Lantern - Jessica Badge,-160,100
+70,4,Green Lantern - Jessica Badge,-336,280
+70,5,Green Lantern - Jessica Badge,0,280
+70,6,Green Lantern - Jessica Badge,336,280
+70,7,Green Lantern - Jessica Badge,160,100
+70,8,Green Lantern - Jessica Badge,160,-60
+70,9,Green Lantern - Jessica Badge,336,-245
+70,10,Green Lantern - Jessica Badge,0,-165
+87,1,Pandora Badge,-230,297
+87,2,Pandora Badge,-320,155
+87,3,Pandora Badge,-259,-209
+87,4,Pandora Badge,-158,-318
+87,5,Pandora Badge,158,-318
+87,6,Pandora Badge,259,-209
+87,7,Pandora Badge,320,155
+87,8,Pandora Badge,230,297
+87,9,Pandora Badge,0,260
+87,10,Pandora Badge,0,130
+94,1,White Lantern - Kyle Raynor,174,-142
+94,2,White Lantern - Kyle Raynor,324,-38
+94,3,White Lantern - Kyle Raynor,278,132
+94,4,White Lantern - Kyle Raynor,168,255
+94,5,White Lantern - Kyle Raynor,0,308
+94,6,White Lantern - Kyle Raynor,-168,255
+94,7,White Lantern - Kyle Raynor,-278,132
+94,8,White Lantern - Kyle Raynor,-324,-38
+94,9,White Lantern - Kyle Raynor,-174,-142
+94,10,White Lantern - Kyle Raynor,0,-270
+95,1,Green Lantern - Jon Stewart Badge,178,-234
+95,2,Green Lantern - Jon Stewart Badge,290,-82
+95,3,Green Lantern - Jon Stewart Badge,290,106
+95,4,Green Lantern - Jon Stewart Badge,178,260
+95,5,Green Lantern - Jon Stewart Badge,0,318
+95,6,Green Lantern - Jon Stewart Badge,-178,260
+95,7,Green Lantern - Jon Stewart Badge,-290,106
+95,8,Green Lantern - Jon Stewart Badge,-290,-82
+95,9,Green Lantern - Jon Stewart Badge,-178,-234
+95,10,Green Lantern - Jon Stewart Badge,0,-290
+96,1,Star Sapphire - Carol Ferris Badge,101,156
+96,2,Star Sapphire - Carol Ferris Badge,-2,389
+96,3,Star Sapphire - Carol Ferris Badge,-105,156
+96,4,Star Sapphire - Carol Ferris Badge,-404,31
+96,5,Star Sapphire - Carol Ferris Badge,-105,-93
+96,6,Star Sapphire - Carol Ferris Badge,-2,-326
+96,7,Star Sapphire - Carol Ferris Badge,101,-93
+96,8,Star Sapphire - Carol Ferris Badge,400,31
+96,9,Star Sapphire - Carol Ferris Badge,220,31
+96,10,Star Sapphire - Carol Ferris Badge,-2,31
+97,1,Blue Beetle Badge,-130,261
+97,2,Blue Beetle Badge,-105,117
+97,3,Blue Beetle Badge,-214,9
+97,4,Blue Beetle Badge,-214,-154
+97,5,Blue Beetle Badge,-114,-298
+97,6,Blue Beetle Badge,114,-298
+97,7,Blue Beetle Badge,214,-154
+97,8,Blue Beetle Badge,214,9
+97,9,Blue Beetle Badge,105,117
+97,10,Blue Beetle Badge,130,261
+98,1,Mera Badge,-213,-241
+98,2,Mera Badge,-232,-50
+98,3,Mera Badge,-213,197
+98,4,Mera Badge,-97,56
+98,5,Mera Badge,0,-123
+98,6,Mera Badge,0,297
+98,7,Mera Badge,97,56
+98,8,Mera Badge,213,197
+98,9,Mera Badge,232,-50
+98,10,Mera Badge,213,-241
+5,1,Aquaman Badge,-81,-374
+5,2,Aquaman Badge,-362,-158
+5,3,Aquaman Badge,-234,39
+5,4,Aquaman Badge,-134,186
+5,5,Aquaman Badge,,412
+5,6,Aquaman Badge,134,186
+5,7,Aquaman Badge,234,39
+5,8,Aquaman Badge,362,-158
+5,9,Aquaman Badge,81,-374
+5,10,Aquaman Badge,0,0
+7,1,Shazam Badge,380,98
+7,2,Shazam Badge,230,210
+7,3,Shazam Badge,0,280
+7,4,Shazam Badge,-230,210
+7,5,Shazam Badge,-380,98
+7,6,Shazam Badge,0,-10
+7,7,Shazam Badge,230,-81
+7,8,Shazam Badge,140,-212
+7,9,Shazam Badge,0,-315
+7,10,Shazam Badge,-175,-192
+49,1,Oceanmaster Badge,350,382
+49,2,Oceanmaster Badge,377,71
+49,3,Oceanmaster Badge,321,-79
+49,4,Oceanmaster Badge,230,-208
+49,5,Oceanmaster Badge,,-150
+49,6,Oceanmaster Badge,-230,-208
+49,7,Oceanmaster Badge,-325,-79
+49,8,Oceanmaster Badge,-377,71
+49,9,Oceanmaster Badge,-350,382
+49,10,Oceanmaster Badge,,90
+109,1,General Zod Badge,-255,300
+109,2,General Zod Badge,-85,300
+109,3,General Zod Badge,85,300
+109,4,General Zod Badge,250,300
+109,5,General Zod Badge,82,124
+109,6,General Zod Badge,-87,-52
+109,7,General Zod Badge,-255,-228
+109,8,General Zod Badge,-85,-228
+109,9,General Zod Badge,85,-228
+109,10,General Zod Badge,250,-228
+110,1,Cheshire Badge,220,258
+110,2,Cheshire Badge,0,343
+110,3,Cheshire Badge,-220,258
+110,4,Cheshire Badge,-320,22
+110,5,Cheshire Badge,-220,-216
+110,6,Cheshire Badge,0,-301
+110,7,Cheshire Badge,110,-71
+110,8,Cheshire Badge,217,-114
+110,9,Cheshire Badge,330,142
+110,10,Cheshire Badge,0,22
+32,1,Joker Badge,-162,-145
+32,2,Joker Badge,-140,-47
+32,3,Joker Badge,-311,182
+32,4,Joker Badge,-121,55
+32,5,Joker Badge,24,262
+32,6,Joker Badge,121,55
+32,7,Joker Badge,311,182
+32,8,Joker Badge,140,-47
+32,9,Joker Badge,162,-145
+32,10,Joker Badge,,-268
+114,1,Hugo Strange Badge,-350,190
+114,2,Hugo Strange Badge,-250,190
+114,3,Hugo Strange Badge,-280,250
+114,4,Hugo Strange Badge,-70,250
+114,5,Hugo Strange Badge,0,270
+114,6,Hugo Strange Badge,80,250
+114,7,Hugo Strange Badge,285,250
+114,8,Hugo Strange Badge,260,190
+114,9,Hugo Strange Badge,350,190
+114,10,Hugo Strange Badge,0,-290
+117,1,Punchline,-360,270
+117,2,Punchline,-122,80
+117,3,Punchline,-69,-30
+117,4,Punchline,-334,-310
+117,5,Punchline,5,-93
+117,6,Punchline,345,-310
+117,7,Punchline,89,-30
+117,8,Punchline,135,80
+117,9,Punchline,370,270
+117,10,Punchline,5,270
+118,1,The Bride Badge,410,15
+118,2,The Bride Badge,399,-256
+118,3,The Bride Badge,55,-415
+118,4,The Bride Badge,-254,-256
+118,5,The Bride Badge,-258,15
+118,6,The Bride Badge,-410,377
+118,7,The Bride Badge,-77,381
+118,8,The Bride Badge,240,218
+118,9,The Bride Badge,220,0
+118,10,The Bride Badge,55,-59
+108,1,Bloodsport Badge,302,217
+108,2,Bloodsport Badge,204,382
+108,3,Bloodsport Badge,-204,382
+108,4,Bloodsport Badge,-302,217
+108,5,Bloodsport Badge,-314,-33
+108,6,Bloodsport Badge,-127,-177
+108,7,Bloodsport Badge,-99,-333
+108,8,Bloodsport Badge,99,-333
+108,9,Bloodsport Badge,127,-177
+108,10,Bloodsport Badge,314,-33
+121,1,Dr. Phosphorus Badge,-417,0
+121,2,Dr. Phosphorus Badge,-314,282
+121,3,Dr. Phosphorus Badge,0,428
+121,4,Dr. Phosphorus Badge,314,282
+121,5,Dr. Phosphorus Badge,417,0
+121,6,Dr. Phosphorus Badge,314,-282
+121,7,Dr. Phosphorus Badge,0,-435
+121,8,Dr. Phosphorus Badge,0,-47
+121,9,Dr. Phosphorus Badge,185,-48
+121,10,Dr. Phosphorus Badge,0,228
+100,1,Jarson,-269,163
+100,2,Jarson,-504,21
+100,3,Jarson,-329,-130
+100,4,Jarson,-154,-58
+100,5,Jarson,0,-198
+100,6,Jarson,154,-58
+100,7,Jarson,329,-130
+100,8,Jarson,504,21
+100,9,Jarson,269,163
+100,10,Jarson,0,31
+120,1,Weasel,0,400
+120,2,Weasel,-352,200
+120,3,Weasel,-369,-118
+120,4,Weasel,-163,-35
+120,5,Weasel,-75,-347
+120,6,Weasel,75,-347
+120,7,Weasel,163,-35
+120,8,Weasel,369,-118
+120,9,Weasel,352,200
+120,10,Weasel,0,103
+99,1,Supergirl Badge,359,140
+99,2,Supergirl Badge,228,276
+99,3,Supergirl Badge,,276
+99,4,Supergirl Badge,-228,276
+99,5,Supergirl Badge,-359,140
+99,6,Supergirl Badge,,44
+99,7,Supergirl Badge,221,-22
+99,8,Supergirl Badge,115,-131
+99,9,Supergirl Badge,,-254
+99,10,Supergirl Badge,-181,-152
+119,1,Vixen Badge,-156,212
+119,2,Vixen Badge,-296,378
+119,3,Vixen Badge,-325,-80
+119,4,Vixen Badge,-141,-197
+119,5,Vixen Badge,-89,-367
+119,6,Vixen Badge,78,-367
+119,7,Vixen Badge,130,-195
+119,8,Vixen Badge,313,-78
+119,9,Vixen Badge,285,373
+119,10,Vixen Badge,143,215
+126,1,Vigilante Route,355,185
+126,2,Vigilante Route,438,36
+126,3,Vigilante Route,347,-120
+126,4,Vigilante Route,217,-250
+126,5,Vigilante Route,0,-286
+126,6,Vigilante Route,-217,-250
+126,7,Vigilante Route,-347,-120
+126,8,Vigilante Route,-438,36
+126,9,Vigilante Route,-355,185
+126,10,Vigilante Route,0,-25
+134,1,Judomaster Route,382,0
+134,2,Judomaster Route,236,325
+134,3,Judomaster Route,-236,325
+134,4,Judomaster Route,-382,0
+134,5,Judomaster Route,-236,-325
+134,6,Judomaster Route,236,-325
+134,7,Judomaster Route,227,93
+134,8,Judomaster Route,-191,160
+134,9,Judomaster Route,-42,-235
+134,10,Judomaster Route,0,0
+131,1,Nubia Route,-134,365
+131,2,Nubia Route,-342,242
+131,3,Nubia Route,-311,-83
+131,4,Nubia Route,-163,-291
+131,5,Nubia Route,-2,-384
+131,6,Nubia Route,159,-291
+131,7,Nubia Route,310,-78
+131,8,Nubia Route,335,237
+131,9,Nubia Route,133,365
+131,10,Nubia Route,-2,-143
+132,1,Yara Flor Route,0,305
+132,2,Yara Flor Route,-105,115
+132,3,Yara Flor Route,-320,70
+132,4,Yara Flor Route,-165,-95
+132,5,Yara Flor Route,-200,-315
+132,6,Yara Flor Route,0,-215
+132,7,Yara Flor Route,210,-320
+132,8,Yara Flor Route,165,-95
+132,9,Yara Flor Route,335,70
+132,10,Yara Flor Route,105,115
+113,1,Guy Gardner Route,-223,169
+113,2,Guy Gardner Route,-83,164
+113,3,Guy Gardner Route,-162,0
+113,4,Guy Gardner Route,-88,-119
+113,5,Guy Gardner Route,-205,-185
+113,6,Guy Gardner Route,211,-185
+113,7,Guy Gardner Route,71,-119
+113,8,Guy Gardner Route,165,0
+113,9,Guy Gardner Route,76,164
+113,10,Guy Gardner Route,209,169
+116,1,Mister Terrific (DCU) Route,271,263
+116,2,Mister Terrific (DCU) Route,366,83
+116,3,Mister Terrific (DCU) Route,340,-156
+116,4,Mister Terrific (DCU) Route,139,-352
+116,5,Mister Terrific (DCU) Route,-128,-354
+116,6,Mister Terrific (DCU) Route,-339,-162
+116,7,Mister Terrific (DCU) Route,-364,76
+116,8,Mister Terrific (DCU) Route,-267,265
+116,9,Mister Terrific (DCU) Route,0,375
+116,10,Mister Terrific (DCU) Route,0,-40
+112,1,Swamp Thing Route,-253,-271
+112,2,Swamp Thing Route,-342,-130
+112,3,Swamp Thing Route,-267,111
+112,4,Swamp Thing Route,-114,400
+112,5,Swamp Thing Route,114,400
+112,6,Swamp Thing Route,267,111
+112,7,Swamp Thing Route,342,-130
+112,8,Swamp Thing Route,253,-271
+112,9,Swamp Thing Route,136,-130
+112,10,Swamp Thing Route,0,31
+127,1,Peacemaker Route,-222,325
+127,2,Peacemaker Route,-289,143
+127,3,Peacemaker Route,-364,-71
+127,4,Peacemaker Route,-195,-192
+127,5,Peacemaker Route,0,-319
+127,6,Peacemaker Route,189,-192
+127,7,Peacemaker Route,362,-69
+127,8,Peacemaker Route,298,133
+127,9,Peacemaker Route,228,328
+127,10,Peacemaker Route,-1,332
+136,1,Superman - Legacy Route,365,150
+136,2,Superman - Legacy Route,241,258
+136,3,Superman - Legacy Route,0,258
+136,4,Superman - Legacy Route,-241,258
+136,5,Superman - Legacy Route,-365,150
+136,6,Superman - Legacy Route,-149,89
+136,7,Superman - Legacy Route,54,32
+136,8,Superman - Legacy Route,218,-12
+136,9,Superman - Legacy Route,-4,-263
+136,10,Superman - Legacy Route,-156,-92
+135,1,Harley Quinn - Criminal Jester Route,-269,163
+135,2,Harley Quinn - Criminal Jester Route,-504,21
+135,3,Harley Quinn - Criminal Jester Route,-329,-130
+135,4,Harley Quinn - Criminal Jester Route,-154,-58
+135,5,Harley Quinn - Criminal Jester Route,0,-198
+135,6,Harley Quinn - Criminal Jester Route,154,-58
+135,7,Harley Quinn - Criminal Jester Route,329,-130
+135,8,Harley Quinn - Criminal Jester Route,504,21
+135,9,Harley Quinn - Criminal Jester Route,269,163
+135,10,Harley Quinn - Criminal Jester Route,0,31
+130,1,Batman Beyond Route,-269,163
+130,2,Batman Beyond Route,-504,21
+130,3,Batman Beyond Route,-329,-130
+130,4,Batman Beyond Route,-154,-58
+130,5,Batman Beyond Route,0,-198
+130,6,Batman Beyond Route,154,-58
+130,7,Batman Beyond Route,329,-130
+130,8,Batman Beyond Route,504,21
+130,9,Batman Beyond Route,269,163
+130,10,Batman Beyond Route,0,31
+129,1,Batwoman Route,-269,163
+129,2,Batwoman Route,-504,21
+129,3,Batwoman Route,-329,-130
+129,4,Batwoman Route,-154,-58
+129,5,Batwoman Route,0,-198
+129,6,Batwoman Route,154,-58
+129,7,Batwoman Route,329,-130
+129,8,Batwoman Route,504,21
+129,9,Batwoman Route,269,163
+129,10,Batwoman Route,0,31
+150,1,Silver Banshee Route,-269,163
+150,2,Silver Banshee Route,-504,21
+150,3,Silver Banshee Route,-329,-130
+150,4,Silver Banshee Route,-154,-58
+150,5,Silver Banshee Route,0,-198
+150,6,Silver Banshee Route,154,-58
+150,7,Silver Banshee Route,329,-130
+150,8,Silver Banshee Route,504,21
+150,9,Silver Banshee Route,269,163
+150,10,Silver Banshee Route,0,31
+111,1,Doctor Poison Route,135,250
+111,2,Doctor Poison Route,-100,95
+111,3,Doctor Poison Route,105,-50
+111,4,Doctor Poison Route,-90,-185
+111,5,Doctor Poison Route,0,-400
+111,6,Doctor Poison Route,90,-185
+111,7,Doctor Poison Route,-105,-50
+111,8,Doctor Poison Route,95,100
+111,9,Doctor Poison Route,-135,250
+111,10,Doctor Poison Route,0,350
+128,1,Booster Gold Route,-269,163
+128,2,Booster Gold Route,-504,21
+128,3,Booster Gold Route,-329,-130
+128,4,Booster Gold Route,-154,-58
+128,5,Booster Gold Route,0,-198
+128,6,Booster Gold Route,154,-58
+128,7,Booster Gold Route,329,-130
+128,8,Booster Gold Route,504,21
+128,9,Booster Gold Route,269,163
+128,10,Booster Gold Route,0,31
+133,1,Artemis Route,-218,173
+133,2,Artemis Route,-391,120
+133,3,Artemis Route,-325,-21
+133,4,Artemis Route,-159,-110
+133,5,Artemis Route,3,-329
+133,6,Artemis Route,172,-99
+133,7,Artemis Route,331,-17
+133,8,Artemis Route,400,128
+133,9,Artemis Route,221,173
+133,10,Artemis Route,0,-39
+167,1,Lobo Route,-156,173
+167,2,Lobo Route,-88,295
+167,3,Lobo Route,136,341
+167,4,Lobo Route,275,151
+167,5,Lobo Route,131,-56
+167,6,Lobo Route,8,-51
+167,7,Lobo Route,-24,60
+167,8,Lobo Route,-49,-121
+167,9,Lobo Route,-101,-189
+167,10,Lobo Route,-184,-296
+168,1,Ruthye (DCU) Route,-65,325
+168,2,Ruthye (DCU) Route,-40,205
+168,3,Ruthye (DCU) Route,-205,-20
+168,4,Ruthye (DCU) Route,-200,-130
+168,5,Ruthye (DCU) Route,-70,-305
+168,6,Ruthye (DCU) Route,70,-305
+168,7,Ruthye (DCU) Route,205,-125
+168,8,Ruthye (DCU) Route,205,-20
+168,9,Ruthye (DCU) Route,40,204
+168,10,Ruthye (DCU) Route,0,0
+166,1,Supergirl (DCU) Route,-50,251
+166,2,Supergirl (DCU) Route,-221,251
+166,3,Supergirl (DCU) Route,-343,134
+166,4,Supergirl (DCU) Route,-175,-57
+166,5,Supergirl (DCU) Route,0,-257
+166,6,Supergirl (DCU) Route,179,-57
+166,7,Supergirl (DCU) Route,341,134
+166,8,Supergirl (DCU) Route,224,251
+166,9,Supergirl (DCU) Route,50,251
+166,10,Supergirl (DCU) Route,0,50
+34,1,Black Adam Badge,-71,364
+34,2,Black Adam Badge,-168,180
+34,3,Black Adam Badge,-143,13
+34,4,Black Adam Badge,-229,-260
+34,5,Black Adam Badge,-95,-153
+34,6,Black Adam Badge,77,-11
+34,7,Black Adam Badge,218,109
+34,8,Black Adam Badge,174,254
+34,9,Black Adam Badge,215,352
+34,10,Black Adam Badge,0,150
+169,1,Black Lightning Route,-270,210
+169,2,Black Lightning Route,-190,130
+169,3,Black Lightning Route,-290,145
+169,4,Black Lightning Route,-175,-10
+169,5,Black Lightning Route,0,-330
+169,6,Black Lightning Route,175,-10
+169,7,Black Lightning Route,290,145
+169,8,Black Lightning Route,190,130
+169,9,Black Lightning Route,270,210
+169,10,Black Lightning Route,0,65
+137,1,Absolute Wonder Woman Route,-269,163
+137,2,Absolute Wonder Woman Route,-504,21
+137,3,Absolute Wonder Woman Route,-329,-130
+137,4,Absolute Wonder Woman Route,-154,-58
+137,5,Absolute Wonder Woman Route,0,-198
+137,6,Absolute Wonder Woman Route,154,-58
+137,7,Absolute Wonder Woman Route,329,-130
+137,8,Absolute Wonder Woman Route,504,21
+137,9,Absolute Wonder Woman Route,269,163
+137,10,Absolute Wonder Woman Route,0,31
+138,1,Absolute Batman Route,-269,163
+138,2,Absolute Batman Route,-504,21
+138,3,Absolute Batman Route,-329,-130
+138,4,Absolute Batman Route,-154,-58
+138,5,Absolute Batman Route,0,-198
+138,6,Absolute Batman Route,154,-58
+138,7,Absolute Batman Route,329,-130
+138,8,Absolute Batman Route,504,21
+138,9,Absolute Batman Route,269,163
+138,10,Absolute Batman Route,0,31
+139,1,Absolute Superman Route,-269,163
+139,2,Absolute Superman Route,-504,21
+139,3,Absolute Superman Route,-329,-130
+139,4,Absolute Superman Route,-154,-58
+139,5,Absolute Superman Route,0,-198
+139,6,Absolute Superman Route,154,-58
+139,7,Absolute Superman Route,329,-130
+139,8,Absolute Superman Route,504,21
+139,9,Absolute Superman Route,269,163
+139,10,Absolute Superman Route,0,31

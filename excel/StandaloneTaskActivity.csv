@@ -1,0 +1,5 @@
+ActivityID,ScoreRewardTable,TaskInfoTable,CollectionID,VideoCG,TabCount,TaskCountPerTab,SfxBgLoop,SfxSelect,SfxFlight,AudioCollect,LangTitle,LangAdDesc,LangTaskGroupPrefix,LangOverTime,LangLobbyTitle,LobbyIcon
+Activity ID,Score Reward Table,Task Info Table,Collection ID,Video CG,Tab Count,Task Count Per Tab,SFX BG Loop,SFX Select,SFX Flight,Audio Collect,Language Title,Language Ad Desc,Language Tab Prefix,Language Overtime,Language Lobby Title,Lobby Icon
+index,string,string,int,string,int,int,string,string,string,string,string,string,string,string,string,string
+1,StandaloneTaskScoreReward.csv,StandaloneTaskInfo.csv,201,201_CollectionSale_Video.mp4,3,3,VX_NoviceWindow_bg_Loop,VX_UI_BattlePassLevelItem_01,VX_XmasSignInPanel_flight,SE_UI_Batmobile_Collect_Tones,Standalone_TitleDesc,Standalone_AD,Standalone_TaskGroup,Standalone_OverTime,Standalone_Title,ui_newplayer_img_entrance
+

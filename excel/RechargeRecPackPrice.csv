@@ -1,0 +1,10 @@
+﻿ID,LowerLimit,UpperLimit,PriceAdjust
+ID,"Floor Price
+Wang Yuxuan:
+Equality Allowed, Unit: Cents","Ceiling Price
+Wang Yuxuan:
+Equality Not Allowed, Unit: Cents",Gear Adjustment
+int,int,int,int
+1,0,9999,50
+2,9999,19899,110
+3,19899,,120

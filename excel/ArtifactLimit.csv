@@ -1,0 +1,9 @@
+﻿BaseQuality,O,Star
+Ally Quality,Note,"Star requirements for equipping
+0 means not allowed to equip"
+index,O,int
+1,D,0
+2,C,0
+3,B,8
+4,A,8
+5,S,8

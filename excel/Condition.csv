@@ -1,0 +1,166 @@
+﻿Key,Function,O,O,O,O,O,O,O,O,FuncId
+ID,Implementation Class,,,Param1,Param2,Param3,Param4,Param5,Param6,Feature Flag
+index,string,Note,TargetPoint,Param,Param,Param,Param,Param,Param,int
+1,AdventureCountCheck,Complete {TargetPoint} level to {Param1} chapter {Param2} point (status),Numerical Value,number,number,,,,,
+2,HallLevelCheck,The lobby core is upgraded to {TargetPoint} level (status) (obsolete),Numerical Value,,,,,,,
+3,AFKRewardCount,Receive idle reward {TargetPoint} times (action),Numerical Value,,,,,,,
+4,AFKResourceCount,The accumulated output of idle is {TargetPoint} {Param1} (action) (obsolete),Numerical Value,Resource ID,,,,,,
+5,RoomResourceCount,The lobby produces {TargetPoint} {Param1} (actions) in total (obsolete),Numerical Value,Resource ID,,,,,,
+6,LoginDaysCount,Accumulated login {TargetPoint} days (action),Numerical Value,,,,,,,1601
+7,DailyMissionActiveCheck,Get the daily task activity value {TargetPoint} (status) (obsolete),Numerical Value,,,,,,,
+8,WeeklyMissionActiveCheck,Get the weekly task activity value {TargetPoint} (status) (obsolete),Numerical Value,,,,,,,
+9,AnyEquipDevelopCount,Perform {TargetPoint} enhancements (actions) on any equipment slot (obsolete),Numerical Value,,,,,,,500
+10,EquipLevelCheck,Possess {TargetPoint} equipment slots with an enhancement level of {Param1} (status) (obsolete),Numerical Value,Numerical Value,,,,,,500
+11,QuickAFKCount,Use quick idle {TargetPoint} times (action),Numerical Value,,,,,,,
+12,BattleCount,Perform {TargetPoint} times {Param1} battles (actions),Numerical Value,Combat type enum,,,,,,
+13,PlayerPropConditionCheck,Player {Param1} item ID reaches {TargetPoint} (status),Numerical Value,Tool ID,,,,,,
+14,AnyHeroDevelopLevelCount,Perform {TargetPoint} upgrades on any hero (action),Numerical Value,,,,,,,
+15,AnyHeroDevelopStarCount,Perform {TargetPoint} star upgrades on any hero (action),Numerical Value,,,,,,,
+16,AnyHeroDevelopQualityCount,Upgrade any hero {TargetPoint} times (action) (obsolete),Numerical Value,,,,,,,
+17,HeroVanishQualityCount,Decompose {Param1} quality hero fragments {TargetPoint} (action),Numerical Value,Numerical Value,,,,,,
+18,TheHeroQualityCountCheck,{Param1}The quality of the hero has reached {TargetPoint} level (status),Numerical Value,Hero ID,,,,,,
+19,TheHeroLevelCountCheck,{Param1}The hero’s level has reached {TargetPoint} level (status),Numerical Value,Hero ID,,,,,,
+20,TheHeroStarCountCheck,{Param1}The hero’s star level has reached {TargetPoint} level (status),Numerical Value,Hero ID,,,,,,
+21,HasHeroQualityCheck,Have {TargetPoint} heroes of {Param1} quality or above (status),Numerical Value,Numerical Value,,,,,,
+22,HasHeroStarCheck,Have {TargetPoint} heroes with {Param1} stars or above (status),Numerical Value,Numerical Value,,,,,,
+23,HasHeroLevelCheck,Have {TargetPoint} heroes of {Param1} level or above (status),Numerical Value,Numerical Value,,,,,,
+24,HasHeroNumberCheck,Owns {TargetPoint} heroes (status),Numerical Value,,,,,,,
+25,PlayerLevelConditionCheck,The team reaches {TargetPoint} level (status) (Abandoned),Numerical Value,,,,,,,
+26,AdventureChapterCheck,Complete the level to chapter {TargetPoint} (status),Numerical Value,,,,,,,
+27,HasOneHeroLevelCheck,Have 1 hero (status) above {TargetPoint} level,Numerical Value,,,,,,,
+28,DrawCardCount,Perform {TargetPoint} card draws (actions),Numerical Value,,,,,,,
+29,TotalDiamondCount,Accrued {TargetPoint} diamonds (status),Numerical Value,,,,,,,
+30,TowerLevelCheck,Challenge the Diverse Fusion {Param1} Tower to Complete the {TargetPoint} Level (Status),Numerical Value,Tower ID,,,,,,710
+31,RoomLevelCheck,Star Laboratory has {TargetPoint} {Param1} level {Param2} rooms (status) (abandoned),Numerical Value,Number,Room ID,,,,,
+32,ElseworldClearCount,Clear another world {TargetPoint} times (action),Numerical Value,,,,,,,1500
+33,ReserveLeagueSeatCheck,Reserve center opens {TargetPoint} positions (status),Numerical Value,,,,,,,
+34,ReserveLeagueSettleCheck,{TargetPoint} allies are stationed in the reserve center (status),Numerical Value,,,,,,,
+35,ReserveLeagueLeaderCheck,Reserve team captains are all upgraded to {TargetPoint} level (status),Numerical Value,,,,,,,
+36,EquipSlotCheck,Open {TargetPoint} chip slots (status),Numerical Value,,,,,,,500
+37,EquipChipLevelCheck,Equip {TargetPoint} chips of {Param1} level (status),Numerical Value,Chip Level,,,,,,500
+38,ShopPurchaseCount,Purchase {Param1} store goods {TargetPoint} times (action),Numerical Value,Store ID,,,,,,
+39,CityExploreClearCheck,Complete {TargetPoint} times in the exploration instance {Param1} (status),Numerical Value,Explore copy number,,,,,,1800
+40,CityExploreCollectCheck,Collect all treasure chests in {TargetPoint} exploration dungeons (status),Numerical Value,,,,,,,1800
+41,AllyRelationCountCheck,Unlock {TargetPoint} hero bonds (status),Numerical Value,,,,,,,
+42,AllyRelationFullCheck,Unlock all bonds (status) of {TargetPoint} heroes,Numerical Value,,,,,,,
+43,AllyRelationCheck,Unlock the hero bond (status) numbered {Param1},Numeric Value (default is 1),Hero Bond ID,,,,,,
+44,WarworldBattleCount,Participate in trapped beast arena battle {TargetPoint} times (action),Numerical Value,,,,,,,720
+45,WarworldBattleWinCount,Win {TargetPoint} times in the Beast Arena battle (action),Numerical Value,,,,,,,720
+46,YuhunWearCheck,Wear {TargetPoint} equipment of {Param1} quality or above (status),Numerical Value,Equipment Quality ID,Equipment Level,,,,,
+47,YuhunSuitCheck,Activate {TargetPoint} equipment set effects (status),Numerical Value,,,,,,,
+48,DramaUnlockCount,Unlock {TargetPoint} Duan Xiao Theater (Action),Numerical Value,,,,,,,
+49,HasHeroFactionCheck,Has {TargetPoint} heroes with trait {Param1} (status),Numerical Value,"Trait ID (AllyInfo table, Faction)",,,,,,
+50,HasHeroClassCheck,Has {TargetPoint} heroes with profession {Param1} (status),Numerical Value,"Occupation ID (AllyInfo table, Class)",,,,,,
+51,HasHeroSexCheck,Has {TargetPoint} heroes with gender {Param1} (status),Numerical Value,"Gender ID (AllyInfo table, Sex)",,,,,,
+52,HasHeroCampCheck,Has {TargetPoint} heroes with label {Param1} (status),Numerical Value,"Tag ID(AllyInfo table, Camp)",,,,,,
+53,HasHeroAllyCheck,Owns the specified hero {Param1} (status),Numeric Value (default is 1),"Value (AllyInfo table, AllyID)",,,,,,
+54,AllyActiveRelationCheck,Activate {TargetPoint} tactical resonance (status),Value(AllyActiveRelation),,,,,,,
+55,RealEquipSuitCheck,Wearing {TargetPoint} equipment with {Param1} set (status),Numerical Value,"Suit ID(RealEquipSuit table, ID)",,,,,,500
+56,RealEquipmentEnhanceCheck,{TargetPoint} equipment is enhanced to {Param1} level (status),Numerical Value,Equipment level (RealEquipmentEnhance),,,,,,500
+57,CityExploreAwardCount,Receive {TargetPoint} rewards in the exploration instance (action),Numerical Value,,,,,,,1800
+58,TowerPassCount,Climb the tower and clear {TargetPoint} times (action),Numerical Value,,,,,,,710
+59,StoryChapterCount,"Cleared the plot copy (full level, not small levels) {TargetPoint} times (action)",Value (StoryChapter table),,,,,,,
+60,ElseWorldEnvCount,Clear the different world with the affix {Param1} {TargetPoint} times (action),Numerical Value,"Affix ID (ElseworldEnv table, ID)",,,,,,1500
+61,WarWorldRankCheck,Arena level reaches {TargetPoint} (status),Numeric Value (WarworldRank table),,,,,,,720
+62,ShopBuyCount,Purchase {TargetPoint} items in the store (action),"Value(Shop,ShopItem)",,,,,,,
+63,ShareCardChatCount,Share {TargetPoint} draw results to the chat channel (action),Numerical Value,,,,,,,200
+64,ChatSpeakCount,Speak {TargetPoint} times in local chat channel (action),Numerical Value,,,,,,,200
+65,AddBuddyCheck,Added {TargetPoint} friends in total (status),Numerical Value,,,,,,,440
+66,AddAnyGuideCount,Join any guild (action),Numeric Value (default is 1),,,,,,,2001
+67,GuildQuestionCount,Participate in {TargetPoint} guild answer questions (action),Value(GuildQuestion),,,,,,,2001
+68,GuildLeaseCount,Use guild mercenaries to clear any level {TargetPoint} times (action),Value(GuildLease),,,,,,,2001
+69,GuildAlbumCount,Exchange {TargetPoint} times atlas fragments with guild members (action),Numerical Value,,,,,,,2001
+70,CollectAlbumCount,Collect {TargetPoint} complete albums (action),Numerical Value,,,,,,,2100
+71,DigitalUniverseBaseCount,Basic level clearance {TargetPoint} (action) at a certain level in Top of Time,Numerical Value,,,,,,,7000
+72,DigitalUniversePerfectCount,Perfectly clear a level in the Top of Time and collect all the {TargetPoint} treasure chests (action),Numerical Value,,,,,,,7000
+120,DigitalUniverseLevelsPassed,Pass {TargetPoint} (amount) of the Digital Universe levels specified by {Param},Numerical Value,,,,,,,7000
+73,ShareFBCount,Share {TargetPoint} draw results to Facebook (action),Numerical Value,,,,,,,2000
+74,BossChallengeCount,Challenge any Boss {TargetPoint} times (action),Numerical Value,,,,,,,730
+75,BossLayerCheck,Challenge any boss to reach {TargetPoint} level (status),"Value (BossLv, EvilBossLv table)",,,,,,,730
+76,TrialClearCount,Complete {TargetPoint} trials (action),Numeric Value (TrialChapter table),,,,,,,2200
+77,CollectionLevelCheck,The total level of the collection reaches {TargetPoint} level (status),Numerical Value,,,,,,,2300
+78,CollectionNumCheck,Owns {TargetPoint} collections (status),Numerical Value,,,,,,,2300
+79,CollectionSkillCheck,The skill level of any collection reaches {TargetPoint} level (status),Numerical Value,,,,,,,2300
+80,GuildLeaseLikeCheck,The total number of player likes reaches {TargetPoint} times,Numerical Value,,,,,,,2001
+90,DailyLoginCheck,Log in to {TargetPoint} times per day/week (complete after logging in) (action),Numerical Value,,,,,,,1601
+91,AnyEquipLevelCount,Enhance any equipment {TargetPoint} times (action),Numerical Value,,,,,,,500
+92,AnyCollectionLevelCount,Perform {TargetPoint} upgrades on any collection (action),Numerical Value,,,,,,,2300
+93,PoolGachaCount,Draw cards {TargetPoint} times from {Param} card pool (action),Numerical Value,Card Pool ID,,,,,,470
+94,TroubleOrMainCount,Challenge {TargetPoint} sub-main plot or glitch crisis,Numerical Value,,,,,,,2600
+95,DispatchCount,Conducted {TargetPoint} team dispatches,Numerical Value,,,,,,,
+201,BadgeActivationCheck,Activate badges for {TargetPoint} allies,Numerical Value,,,,,,,740
+202,BadgeLevelCheck,{TargetPoint} allies have badges reaching {Param1} level,Numerical Value,Numerical Value,,,,,,740
+203,CrisisWatchEnterCount,Entered {TargetPoint} crisis monitoring level,Numerical Value,,,,,,,740
+204,CrisisWatchClearCount,Accumulated basic clearance of {TargetPoint} crisis monitoring levels,Numerical Value,,,,,,,740
+205,CrisisWatchStarCount,Accumulated {TargetPoint} stars in crisis monitoring,Numerical Value,,,,,,,740
+206,CrisisWatchAllClearCount,Complete all levels in a crisis monitoring theme {TargetPoint} times,Numerical Value,,,,,,,740
+207,CrisisWatchAllStarCount,Earn {Param1} stars {TargetPoint} times in a crisis monitoring topic,Numerical Value,Numerical Value,,,,,,740
+208,CrisisWatchScoreCheck,The highest crisis monitoring challenge score in history reached {TargetPoint} points,Numerical Value,,,,,,,740
+209,TroubleStarCount,Earn {TargetPoint} stars during troubleshooting,Numerical Value,,,,,,,740
+210,TroubleLevelCheck,"In troubleshooting, complete the {TargetPoint} level to {Param1} chapter {Param2} point (status)",Numerical Value,Numerical Value,Numerical Value,,,,,740
+301,TaskCondition1,[Recommended gift pack] Clear the main story level,1,Chapter ID,Point Number,,,,,
+302,TaskCondition2,[Recommended gift pack] Clear the tower climbing level,1,Tower ID,Point Number,,,,,710
+303,TaskCondition3,[Recommended for gift packs] Draw cards from a certain card pool n times,1,Card Pool ID,Number of Times,,,,,
+304,TaskCondition4,[Recommended for gift packs] Draw X quality cards Y times,1,Quality,Number of Times,,,,,470
+305,TaskCondition5,"[Recommended gift pack] X Y quality allies reach Z level, backpack breakthrough stone stock",1,Number,Quality,Level,Breakthrough Stone Item ID,Breakthrough stone quantity,,470
+306,TaskCondition6,"[Recommended gift pack] X number of allies with Y quality reaching Z star rating, number of universal fragments",1,Number,Quality,Star Rating,Universal fragment prop ID,Universal Shard Quantity,,
+307,TaskCondition7,"[Recommended gift pack] X pieces of Y-quality equipment reaching level Z, the number of equipment experience items",1,Number,Quality,Class,Level,Equipment experience item ID,Quantity of equipment experience props,
+308,TaskCondition8,[Recommended gift pack] Obtain quality N equipment for the Mth time,1,Number of Times,Quality,Class,,,,500
+309,TaskCondition9,"[Recommended for gift packs] X collections of Y quality reaching level Z, the number of experience items in the collection",1,Number,Quality,Level,Collection experience prop ID,Collection experience props,,2300
+310,TaskCondition10,[Recommended gift pack] Failed the designated level in the main line N times,1,Chapter ID,Point Number,Number of Times,,,,
+311,TaskCondition11,[Recommended gift pack] Failed to climb the designated level of the tower N times,1,Tower ID,Point Number,Number of Times,,,,710
+312,TaskCondition12,[Recommended gift pack] Every time you clear the different world X times,# of Times,,,,,,,1500
+313,TaskCondition13,[Recommended gift pack] Clear different worlds a total of X times,1,Number of Times,,,,,,1500
+314,TaskCondition14,[Recommended gift pack] Every time you fail the main level level N times,# of Times,,,,,,,
+315,TaskCondition15,[Recommended gift pack] Every time you fail the tower climbing level N times,# of Times,,,,,,,710
+316,TaskCondition16,[Recommended for gift packs] Explore and collect all dungeons to clear the level,1,Copy ID,,,,,,
+317,TaskCondition17,[Recommended for gift pack] Plot completed and pushed,1,Story Copy ID,,,,,,
+318,TaskCondition18,[Recommended gift pack] Complete Twisted Dream X times,1,Number of Times,,,,,,
+319,TaskCondition19,[Recommended for gift packs] Through the corresponding digital space,1,Digital Space Copy ID,,,,,,
+320,TaskCondition20,[Recommended gift pack] Clear all levels of the event copy,1,Activity Copy ID,,,,,,
+321,TaskCondition21,[Recommended gift pack] Haven’t logged into the game for X hours,1,"Time, Unit (s)",,,,,,
+322,TaskCondition22,[Recommended gift pack] X hours of unpaid games,1,"Time, Unit (s)",,,,,,
+323,TaskCondition23,[Recommended gift pack] Fail X times in World of War,1,Number of Times,,,,,,
+324,TaskCondition24,[Recommended for gift packs] Obtain the designated ID hero,1,Hero ID,,,,,,
+325,TaskCondition25,[Recommended for gift packs] Probability to push gift packs when the specified interface is opened,1,Panel-Name,Probability Parameters,,,,,
+326,TaskCondition26,[Recommended for gift packs] Fuzzy level level,1,Chapter ID (0 means fuzzy),Level (0 means blur),Fuzzy value lower limit,Upper limit of fuzzy value,,,
+327,TaskCondition27,[Recommended for gift packs] Failed to blur level,# of Times,Chapter ID (0 means fuzzy),Level (0 means blur),Fuzzy value lower limit,Upper limit of fuzzy value,,,
+328,TaskCondition28,[Recommended for gift packs] Draw cards every N times,# of Times,Card Pool ID,,,,,,
+329,TaskCondition29,Players are active during the period from {Param1} to {Param1} (online or through the main story),Numeric Value (default is 1),Turn On Time,End Time,,,,,
+330,TaskCondition30,Indicates that the skill level of N collections has reached M level,1,Collection Skill Level,Number of Collections,Warehouse inspection prop ID,Tool quantity,,,2300
+331,TaskCondition31,Indicates that N hero badges with quality Q have reached level M.,1,Badge Level,Number of Heroes,heroic qualities,Warehouse inspection prop ID,Tool quantity,,
+332,TaskCondition32,"[Recommended for gift packs] Number drawing statistics are for card drawing behavior, not for card pools",# of Times,"Card type (0=any, 1=normal draw, 2=advanced draw)",,,,,,
+101,ActivityAlly1,Challenge {TargetPoint} times {Param}Boss,Numeric Value (default is 1),ActivityAllyBoss - BossID,,,,,,9804
+102,ActivityAlly2,Challenge any boss in {TargetPoint} {Param} events,Numeric Value (default is 1),ActivityAllyFuncSub - ActivityID,,,,,,9804
+103,ActivityAlly3,Consume {TargetPoint} {Param} props,Numeric Value (default is 1),Item ID,,,,,,9804
+104,ActivityAlly4,Challenge {Param}Boss to reach {TargetPoint} score,Numeric Value (default is 1),ActivityAllyBoss - BossID,,,,,,9804
+105,ActivityAlly5,"During the event, collect team dispatch rewards {TargetPoint} times",Numeric Value (default is 1),,,,,,,9804
+106,ActivityAlly6,"During the event period, the {Param} ally room mini-game reaches {TargetPoint} points",Numeric Value (default is 1),Corresponding mini-game ID,,,,,,9804
+107,GetActivePoint,Get {TargetPoint} daily active points,Score,,,,,,,9804
+108,CollectionGachaTimes,Conduct {TargetPoint} draws in collection events,Score,,,,,,,9804
+109,ActivityAllyMiniGameScoreCnt,"During the event period, {Param} room mini-games reached {Param} points {TargetPoint} times",Frequency,Mini game ID,Fraction,,,,,9804
+110,ActivityAllyTowerCnt,Complete all tower climbing levels in the current period,# of Towers 3,Tower gameplay ID (ActivityAllySub table id),,,,,,9804
+401,InfArenaBattle,Participate in gladiator arena battle {TargetPoint} times (action),Numerical Value,,,,,,,750
+402,InfArenaWin,Win {TargetPoint} times in Gladiator Arena battles (action),Numerical Value,,,,,,,750
+403,NoviceDraw1,Use passwords or diamonds to draw cards N times,N,,,,,,,
+404,NoviceDraw2,Use advanced password N times,N,,,,,,,
+405,NoviceGetHero,Get {0} {1} cards or {2} cards,{0},{1},{2},,,,,
+406,NoviceStarHero,Upgrade {0} {1} cards or {2} cards to {3} stars,{0},{1},{2},{3},,,,
+501,ItemSell01,[For selling props] The room corresponding to the unlocked blueprint {TargetPoint},Room ID,,,,,,,
+502,ItemSell02,[Items for sale] The corresponding artifact has reached full stars,Artifact ID,,,,,,,
+503,ItemSell03,[Props for sale] The decoration item has been activated,Room ID,Layer ID,,,,,,
+601,ActivityRankPoint,Points earned in event leaderboard tasks,Numerical Value,Ranking Type,,,,,,2900
+150,ArtifactEnhanceCount,Strengthen any artifact {TargetPoint} times (action),Numerical Value,,,,,,,3200
+151,ArtifactRiseStarCount,Upgrade any artifact {TargetPoint} times (action),Numerical Value,,,,,,,3200
+152,ArtifactQualityCheck,Possess {TargetPoint} artifacts (status) of quality {Param1} or above,Numerical Value,Quality,,,,,,3200
+153,ArtifactStarCheck,Have {TargetPoint} artifacts (status) with stars above {Param1},Numerical Value,Star Rating,,,,,,3200
+154,ArtifactRankCheck,Possess {TargetPoint} artifacts (status) of {Param1} or higher level,Numerical Value,Class,,,,,,3200
+155,ArtifactDrawCount,Perform artifact extraction {TargetPoint} times (action),Numerical Value,,,,,,,3200
+170,ActivityBPFactionScore,Accumulate points that reach {TargetPoint} points (param1) camp,Numerical Value,"Alignment - 1 strength, 2 agility, 3 wisdom","If it is the first task chain, it needs to be equipped with 1",,,,,
+701,GuildContributedAreas,Contributed in {TargetPoint} guild areas (param1),Numerical Value,Number of Contributed Areas,,,,,,
+710,RechargeCount,Amount of times the player has made a real money purchase,Numerical Value,Number of Purchases,,,,,,
+801,LogicalAnd,Logical and for Task conditions,Numerical Value,Task ID,Task ID,Task ID,Task ID,Task ID,Task ID,
+113,ItemCountIsLessThan,Count of {TargetPoint} Item is less than {Param1} Amount,Numerical Value,Item ID,,,,,,
+114,AmountSpentOverTime,Check to see if {targetPoint} purchase Amount was made within the last {param1} days,Numerical Value,Days,,,,,,
+115,NumberOfPurchasesOverTime,Check to see if {targetPoint} purchases were made within the last {param1} days,Numerical Value,Days,,,,,,
+116,MedianAmountSpentOverTime,Check to see if Median price point between {param1} and {param2} is within {param3} Days,Numerical Value,Lower Bound,Higher Bound,Days,,,,

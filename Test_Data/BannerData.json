@@ -1,0 +1,14 @@
+{
+  "TargetDir": "C:\\Users\\gear\\Desktop\\LiveOps_AutoTool\\Test_Data",
+  "Banners": [
+    {
+      "BannerID": "170",
+      "PopUpID": "70",
+      "HeroName": "General Zod s10 24h Banner",
+      "AllyId": "13209",
+      "GachaJumpId": "1111348",
+      "StartTime": "20260715_000000",
+      "EndTime": ""
+    }
+  ]
+}

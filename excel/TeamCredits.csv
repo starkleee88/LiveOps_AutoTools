@@ -1,0 +1,814 @@
+﻿ID,DivisionLocKey,TitleLocKey,FullName
+ID,Division or company,Person's role,Person's full name
+int,string,string,string
+0,DC WORLDS COLLIDE,,
+1,WB Games San Francisco,,
+2,,"VP, Studio Head",
+3,,,Katelynd Lavallee
+4,,Executive Producer,
+5,,,Nick Parkinson
+6,,Director of Product,
+7,,,Hendrick Sukardi
+8,,Director of Engineering,
+9,,,Jason Nolen
+10,,Director of Design,
+11,,,Tony Perkins
+12,Discipline Leads,,
+13,,Art Director,
+14,,,Roland Herran
+15,,"Art Director, VFX",
+16,,,David Mosher
+17,,Engineering Manager,
+18,,,David Grem Armstrong
+19,,Lead Product Manager,
+20,,,Alexander Thompson
+21,,"Lead Producer, Live Operations",
+22,,,Fuzzy Gerdes
+23,,Senior Production Manager,
+24,,,Omar Woodley
+25,,"Manager, Art Outsourcing",
+26,,,Samantha Riccio
+27,,QA Manager,
+28,,,Amber Crouch
+29,Design,,
+30,,Lead Designer,
+31,,,Daniel Parke
+32,,,Benjamin A. Montoya
+33,,"Advanced Designer, Economy",
+34,,,Andy Donovan
+35,,"Advanced Designer, Systems",
+36,,,David Roberts
+37,,"Designer, Technical",
+38,,,Kate Smith
+39,,Designer,
+40,,,Darryl Jenkins
+41,,"Designer, Narrative",
+42,,,Sarah McKague
+43,,Game Designer III,
+44,,,Clark Wyatt
+45,,Game Designer II,
+46,,,Laura Berman
+47,,,Brayton Matheson
+48,,Game Designer I,
+49,,,Justin Deeb
+50,UI/UX,,
+51,,"Advanced Designer, UI/UX",
+52,,,Matthew Jue
+53,,,Amy Rodriguez
+54,,"Senior Designer, UI/UX",
+55,,,Sheka Jurado
+56,,"Senior Artist, UI",
+57,,,Eunjung June Kim
+58,Engineering,,
+59,,Advanced Software Engineer,
+60,,,Matt Leffler
+61,,,Michael Fox
+62,,,Michael Yantosca
+63,,"Advanced Software Engineer, Rendering",
+64,,,Bill Flugrath
+65,,Lead Software Engineer,
+66,,,Ryan Walters
+67,,,Tom Wilhelm
+68,,Senior Software Engineer,
+69,,,Zachary Charnock
+70,,,Ryan Hallisey
+71,,,Matthew Guntner
+72,,"Senior Software Engineer, Rendering",
+73,,,Chris Oates
+74,,"Senior Software Engineer, Build",
+75,,,Steven Donald Fransen
+76,,Associate Software Engineer,
+77,,,Jack Randmaa
+78,,Software Engineer III,
+79,,,Aaron Porter
+80,Art,,
+81,,Senior Animator,
+82,,,Aaron Hwang
+83,,"Senior Artist, Concept",
+84,,,Wangjie Li
+85,,"Artist, Characters",
+86,,,Josiah D. Martinez
+87,Product Management,,
+88,,Lead Product Manager,
+89,,,Nihit Sinha
+90,,Senior Product Manager,
+91,,,Jackie Lee
+92,,,Jacob Rosenberg
+93,,Senior Data Analyst,
+94,,,Margalit Aliza Wollner
+95,Production,,
+96,,Senior Producer,
+97,,,Beejey Enriquez
+98,,,Christopher Rose
+99,,Producer,
+100,,,Kevin Chen
+101,,,Sean Conlin
+102,,Technical Producer,
+103,,,Daniel Pangelina
+104,,Associate Producer,
+105,,,Nicole Downing
+106,Quality Assurance,,
+107,,Lead Quality Assurance Analyst,
+108,,,Richard Wojdynski
+109,,Senior Quality Assurance Tester,
+110,,,Gabriel A. Harrison
+111,,Quality Assurance Analyst,
+112,,,Michael Gonos
+113,,Special Thanks,
+114,,,"Hazel Kelly, Isao Kogure, Aaron Weingarten, David Fong,"
+115,,,"David Haddad, Doug Regen, Giovanni Ducati, Graham Gilreath, Jill Hu,"
+116,,,"Justin Webb, Katie Johnson, Kirk Sexton, Matt Anderson, Max Lin,"
+117,,,"Nathan Forget, PJ Johnson, Reed Albertsen, Steve Marshall,"
+118,,,"Tom Casey, Tommy Suh, Verity Davis, Yumi Cheung, Alejandro Ayala,"
+119,,,"Diego Benitez, Mateo Aristizabal, Wilson Rafael Pereira, Emilio Diaz,"
+120,,,"Alessandra Rosso, Charlie Hopkins, Cristina Ji, Kevin Brennan,"
+121,,,"Phil Chapman, Richard Smyers, Bill Buesing, Mick Cielesz, Michael Lee,"
+122,,,"Wenli Zhuang, Xu Fei, Zhu Xiaolin, Ding Xuanren, Sun Qian"
+123,WB Games San Diego,,
+124,,Senior Advanced Software Engineer,
+125,,,Danny Bernal
+126,,Advanced Software Engineer,
+127,,,Abdul Algharbi
+128,,Lead Designer,
+129,,,Alex Neyman
+130,,"Designer, UX",
+131,,,Yuka Ninohira
+132,,Lead Product Manager,
+133,,,Min T. Htet
+134,,Senior Product Manager,
+135,,,Daniel Riddle
+136,,Lead Technical Artist,
+137,,,Bryce Knight
+138,WB Games New York,,
+139,Senior Leadership,,
+140,,"Vice President, Platform Technology & Studio Head",
+141,,,Steven Flenory
+142,,Executive Producer,
+143,,,Elliott Haase
+144,,"Director of Engineering, Platform",
+145,,,Brad LaFountain
+146,,"Director of Engineering, Engine",
+147,,,Jeff Close
+148,,"Director of Engineering, Software",
+149,,,Chris White
+150,,Director of Shared Services,
+151,,,Greg Cleveland
+152,Game Services,,
+153,,Lead Software Engineer,
+154,,,Andrew Kaiser
+155,,,David Roberts
+156,,Engineering,
+157,,,Diane Agnan
+158,,,Gabriel Bouyssou
+159,,,Corey DeLuca
+160,,,Kellin Fitzpatrick
+161,,,Will Macaluso
+162,,,Denys Podliesnyi
+163,,,Alex Rollins
+164,,,Lane Shapiro
+165,,,Andrey Taran
+166,,,Samuel Wang
+167,,Frontend Engineering,
+168,,,Julian Andres Couto Leodriguez
+169,,,Alejandro Jahzeel Esau Tapia Bueno
+170,,,Charles Clayton
+171,,,Jack Letourneau
+172,,,Alexandre Moraes
+173,,,Vince Roti
+174,,Release Producer,
+175,,,Nicholas Cesare
+176,,Quality Assurance,
+177,,,Chantz Baudoux
+178,,,Carly Cole
+179,,,Phillip Duce
+180,Product,,
+181,,Engineering,
+182,,,Adaeze Ezekwerre
+183,,,Steve Wenzke
+184,Network Services,,
+185,,Lead Software Engineer,
+186,,,Graylin Kim
+187,,Engineering,
+188,,,Chris Badalucco
+189,,,Chris Bebry
+190,,,Lee Burnette
+191,,,Ashtalakshmi Thiagarajan
+192,,,Eric Wiggins
+193,,Quality Assurance,
+194,,,Sri Natarajan
+195,Title Services,,
+196,,Lead Software Engineer,
+197,,,Matt Wilson
+198,,Engineering,
+199,,,Edisson Ballesteros
+200,,,David Czarnecki
+201,,,Seba Mora
+202,,,Kyle O'Neill
+203,,,Collin White
+204,Central Operations,,
+205,,Manager of Engineering,
+206,,,Jarrod Thomisee
+207,,Platform Operations,
+208,,,Stuart Karp
+209,,,Mike Kozicky
+210,,,Njock Ndip
+211,,,David Ramsden
+212,,,Aaron Westendorf
+213,,Studio Operations,
+214,,,Eric Ali
+215,,,Zojer Bowers
+216,,,Robert Kunz
+217,,,Alex Wojcik
+218,Tools,,
+219,,Advanced Software Engineer,
+220,,,Matt Weislley
+221,,Engineering,
+222,,,Jennifer Altavilla
+223,,,David Andrade
+224,,,Chris DiGiuseppe
+225,,,James Mason
+226,,,Jared Vargason
+227,Live Operations,,
+228,,Engineering,
+229,,,Allison Arthur
+230,,,Taeho Kang
+231,,,Abi Nand Kumar
+232,,,Alex Morris
+233,Engine,,
+234,,Engineering,
+235,,,Christopher Ettner
+236,,,Brian Ernst
+237,,,Michael Kuklinski
+238,,,Adam Lippman
+239,,,Aaron Meadows
+240,,,Kristal Meyer
+241,,,Eric Sauer
+242,,,Jarrod Swartz
+243,,Producer,
+244,,,JJ Lee
+245,Character Tech,,
+246,,"Technical Director, Character Animation",
+247,,,Darren Perianen
+248,,Technical Artist,
+249,,,Jorge Tomas
+250,Production,,
+251,,Producer,
+252,,,Sara Jordan
+253,,,Trevor Traub
+254,,,Jason Schaefer
+255,,,Jesse Sparhawk
+256,,,Edwin Yee
+257,,Operations Producer,
+258,,,Brennan Settles
+259,,Lead Technical Account Manager,
+260,,,Brett McNeff
+261,,Technical Account Manager,
+262,,,Michael Burden
+263,,,Aaron Cabreja
+264,,,Matthew Ferens
+265,,,Mark Speedy
+266,Support,,
+267,,"Manager, External Partnerships",
+268,,,Nathan Oni
+269,,Office Administrator,
+270,,,Jennifer Towne
+271,,Associate Project Manager,
+272,,,Elfaeya Phoenix
+273,Shared Services,,
+274,,"Manager, Engineering",
+275,,,Andrew Wood
+276,,Engineering,
+277,,,Mike Beasley
+278,,,Jason Bohbot
+279,,,Adam Borchert
+280,,,Stephen Heed
+281,,,Viktor Ignatov
+282,,,Helmutz Mbachan
+283,,,Sam Salorio
+284,,,Kris Sanders
+285,,,Constantine Sarris
+286,,,Andrew Smiley
+287,,Operations,
+288,,,Max Carlaftes
+289,,,Nova Joseph
+290,,,Alex Renna
+291,,,Trung Vu
+292,,Studio,
+293,,,Joseph Harrington
+294,,Project Management,
+295,,,Cicely Hong
+296,,,Nikki Huang
+297,,,Ryan Werner
+298,,Procurement,
+299,,,Rebecca Evans
+300,,,Hnin Oo
+301,,,Asia Sharp
+302,WB Central Game Technology,,
+303,,Vice President,
+304,,,Gary Lake-Schaal
+305,,Principal Software Engineer,
+306,,,Hrudesh Doke
+307,,Director of Programming,
+308,,,Benoit Thomas
+309,,Compliance Program Manager,
+310,,,Andrew Patrick
+311,San Francisco Studio IT,,
+312,,Manager,
+313,,,Alexander Baker
+314,,Sr. System Administrator,
+315,,,Dave Narick
+316,,Sr. Network Technician,
+317,,,James Baldwin
+318,,Infrastructure Engineer,
+319,,,Kris Sanders
+320,,Desktop Support Analyst,
+321,,,Derek Cuenca
+322,Analytics & Publishing Technology,,
+323,,"Vice President, Analytics & Publishing Technology",
+324,,,Matt Howell
+325,,Executive Assistant,
+326,,,Kim Lalljee
+327,,Principal Data Scientist,
+328,,,Brendan Sinnott
+329,,"Senior Director, Data Strategy",
+330,,,Kenneth Yu
+331,,"Lead Product Manager, Analytics Platform",
+332,,,Suresh Voruganti
+333,,"Senior Product Manager, Publishing Analytics",
+334,,,Matthew Cangialosi
+335,,Program Manager,
+336,,,Mike Roush
+337,,"Lead Technical Project Manager, Integration",
+338,,,Aarne Valikangas
+339,,"Senior Technical Project Manager, Integration",
+340,,,Jill Conto
+341,,"Technical Project Manager, Integration",
+342,,,Myriam Feygin
+343,,"Director, Platform and Operations",
+344,,,Leon Shaigorodsky
+345,,"Manager, Data Engineering team",
+346,,,Karthik Kadiyam
+347,,Senior Data Engineer,
+348,,,Phil Adetiloye
+349,,Senior Software Engineer,
+350,,,Eric Rutherford
+351,,Senior Big Data Engineer,
+352,,,Vikas Ambati
+353,,"Technical Director, Architecture, Security & Compliance",
+354,,,Daniel Racanelli
+355,,"Technical Director, Platform Architecture",
+356,,,Kurt Larson
+357,,"Lead, Data Architecture and Management",
+358,,,Rich Snelling
+359,,Operations Manager,
+360,,,Jason Champion
+361,,Advanced DevOps Engineer,
+362,,,Kristafer Nicaj
+363,,Data Engineering Support Specialist,
+364,,,Sampat Ponnaganti
+365,,Technical Producer,
+366,,,Dragan Topic
+367,,Lead DevOps Engineer,
+368,,,Eric Remington
+369,,Advanced Software Engineer,
+370,,,Chad Corbin
+371,,"Director, Data Science & Publishing Insights",
+372,,,Shawn Connor
+373,,Senior Data Scientist,
+374,,,Rachael Eagle
+375,,Data Scientist,
+376,,,Francesco Sguanci
+377,,Associate Data Scientist,
+378,,,Emely Cedano
+379,,Senior Analyst,
+380,,,Alyson Hecht
+381,,"Manager, Business Intelligence",
+382,,,Brianna Zhao
+383,,Data Analyst,
+384,,,Alvaro Hu
+385,,Analytics Engineer,
+386,,,Steven Adeneye
+387,,Senior Data Scientist,
+388,,,Mina Yi
+389,,Senior Analyst,
+390,,,Greg Naifeh
+391,,Lead Analytics Engineer,
+392,,,Kerri Brandt
+393,,Analytics Engineer,
+394,,,Dheemanth Konduru
+395,,BI Developer,
+396,,,Maria Robison
+397,,Advanced Data Engineer,
+398,,,Jean-Michel Cabrera
+399,,Senior Game Analyst,
+400,,,Phil Cadman
+401,,Lead Game Analyst,
+402,,,David Crosman
+403,,"Senior Product Manager, Game Analytics",
+404,,,Brian Hsieh
+405,,Director of Player Network Strategy & Design,
+406,,,Cedric Verstraete
+407,,"Senior Product Manager, Direct Distribution",
+408,,,Dustin Jacobsen
+409,,"Senior Product Manager, O&O Promotions",
+410,,,Steven Burks
+411,,"Product Manager, CDP & Player Graph",
+412,,,Dewey Robbins
+413,,Lead UX Designer,
+414,,,Timothy O’Rourke
+415,,Sr. Application Developer,
+416,,,Bartosz Balazinski
+417,,Program Manager,
+418,,,Seavey Bowdoin
+419,,Advanced Application Developer,
+420,,,Chan-Tse Catherine
+421,,Technical Project Manager,
+422,,,Jasmine Chao
+423,,Game Analyst,
+424,,,Daniel Allinson
+425,,Lead DevOps Engineer,
+426,,,Eric Remington
+427,,"Data Engineer, CDP",
+428,,,Moad Esrhyer
+429,,Database Admin,
+430,,,Syed Faizan ul haq
+431,,Game Analyst,
+432,,,Rodriguez Fernando
+433,,"Senior Manager, GA",
+434,,,Stephane Gayraud
+435,,UX Designer,
+436,,,William Hall
+437,,BI Developer,
+438,,,Siddharth Jha
+439,,Game Analyst,
+440,,,Jon-Paul LaFrance
+441,,Game Analyst,
+442,,,Jordan Craig-Wood
+443,,"Analytics Engineer, CDP Audiences",
+444,,,Karan Sangha
+445,,Data Scientist,
+446,,,Jason Schwartz
+447,,Database Admin,
+448,,,Adarsh Tripathi
+449,,Analytics Engineer,
+450,,,Atchyuth Vaddineni
+451,,Database Admin,
+452,,,Sai Varma
+453,,ETL Developer,
+454,,,Saroja Velamati
+455,WB Games Marketing,,
+456,,"EVP, Global Marketing",
+457,,,Melissa Bell
+458,,"Director, Brand Marketing",
+459,,,George Manis
+460,,"Senior Manager, Brand and Mobile Product Marketing",
+461,,,Tanya Bush
+462,,Marketing Manager III,
+463,,,Nancy Muta
+464,Integrated Communications,,
+465,,"Director, Integrated Communications",
+466,,,Maral Kaloustian
+467,,"Manager, Integrated Communications",
+468,,,Eva Chiang
+469,Performance Marketing,,
+470,,"VP, Mobile Publishing",
+471,,,Jenny Taran
+472,,"Director, UA",
+473,,,Charles Yi
+474,,,Dylan Swift
+475,,,Kenny Xu
+476,,"Senior Manager, UA",
+477,,,Shannon Wang
+478,,"Sr. Analyst, UA",
+479,,,Olivia Bouchet
+480,,"Sr Analyst, UA & Owned Media",
+481,,,Chris Mallada
+482,,Marketing Manager III,
+483,,,Fausto Gortaire
+484,,"Senior Director, Ad Monetization & Cross Promotion",
+485,,,Aaron Chan
+486,,"Senior Analyst, Ad Monetization",
+487,,,Matthew Branick
+488,,"Director, CRM",
+489,,,Jason Stoller
+490,,"Senior Analyst, CRM",
+491,,,Joshua Polen
+492,,"Analyst, CRM",
+493,,,Mandee Myers
+494,,"Senior Analyst, Market Intelligence",
+495,,,Rachel Khaw
+496,Community Operations,,
+497,,"Senior Manager, Social Media",
+498,,,Julian Mehlfeld
+499,,"Manager, Social Media",
+500,,,Ash Sevilla
+501,,,Jason Kwan
+502,,"Associate Manager, Community",
+503,,,Tevin Sukhai
+504,,"Manager, Livestreaming",
+505,,,Ryan Ross
+506,Creative Services,,
+507,,"Senior Director, Creative Operations and Production",
+508,,,Jorge Cantero
+509,,Project Manager,
+510,,,Danielle Canonigo
+511,,Project Coordinator,
+512,,,Jennifer Haddad
+513,,Motion Designer,
+514,,,Alex Deakin
+515,,Mobile Creative Director,
+516,,,Aron Lusen
+517,,Artist,
+518,,,D.C. Slider
+519,,Graphic Designer II,
+520,,,Calvin Mo
+521,,Artist,
+522,,,Jordan Turk
+523,,Graphic Designer I,
+524,,,Keun Yoo
+525,,"Artist, Capture",
+526,,,Mathieu Da Silva-Martin
+527,,Motion Designer,
+528,,,Moe Forouhar
+529,,Art Director,
+530,,,Preto Murara
+531,,Project Coordinator,
+532,,,Theo De Coninck
+533,,"Director, Influencer Relations",
+534,,,Alan Johnson
+535,,"Senior Manager, Influencer Relations",
+536,,,Kelly Egan
+537,,"Manager, Influencer Relations",
+538,,,Jordan Neinken
+539,,Senior Product Marketing Manager,
+540,,,Natalie Wei
+541,,Product Marketing Manager,
+542,,,Ben Preciado
+543,Partner Relations & Program Management,,
+544,,Head of Partner Relations & Program Management,
+545,,,Mark Panelo
+546,,"Manager, Partner Relations",
+547,,,Jessica Sit
+548,,Marketing Manager II,
+549,,,Warren Bacal
+550,,Program Manager,
+551,,,Isha Banks
+552,,"Senior Manager, Media Planning",
+553,,,Jackie Bunda
+554,,"Manager, Media Planning",
+555,,,Heather Brezny
+556,"WB Games, First Party Ops.",,
+557,,"Manager, Mobile Distribution",
+558,,,Kendell Burton
+559,,Sr. Submissions Specialist,
+560,,,Ashley Singh
+561,"Warner Bros. Games, QA, Localization & Customer Service",,
+562,,"Senior Director, QA, Localization & Customer Service",
+563,,,Ian Rowsell
+564,,QA Director,
+565,,,Remy Julita
+566,,"Senior Manager, QA, Localization & Customer Service",
+567,,,Justin Parker
+568,Quality Assurance,,
+569,,QA Manager,
+570,,,Jason Beck
+571,,Program Manager,
+572,,,Tommy Indriets
+573,,QA Supervisor,
+574,,,Joshua Sherwood
+575,,QA Coordinator,
+576,,,David Kadadihi
+577,,,Jacob Merrette
+578,,,Jake Smyth
+579,,,Neil Desrochers
+580,,QA Lead,
+581,,,Ryan Skwarka-Smith
+582,,QA Tester,
+583,,,Jonathan Jr Pinard Lefebvre
+584,,,Juan David Vargas Herhuay
+585,,,Minh Khang Le Nguyen
+586,Certification,,
+587,,QA Manager,
+588,,,Jean-François Gauthier
+589,,"Project Manager, Accessibility",
+590,,,Sean Rajjab
+591,,Accessibility QA Lead,
+592,,,Catherine Proulx
+593,,QA Accessibility Senior Tester,
+594,,,Kyle Smith
+595,,QA Accessibility Tester,
+596,,,Athiban Kandasamy
+597,,,Emile Tremblay
+598,Live QA,,
+599,,QA Supervisor,
+600,,,Brian Cox
+601,,,Julien Laroque
+602,Liveops,,
+603,,QA Coordinator,
+604,,,Jake Smyth
+605,,Senior QA Tester,
+606,,,Gabriel Joly
+607,Customer Service (QACS),,
+608,,Supervisor,
+609,,,Ann Savannah Augustin
+610,Analytics Quality Assurance,,
+611,,"QA Manager, Analytics",
+612,,,Adria Glenn
+613,,"QA Lead, Analytics",
+614,,,Carlo Gazzola
+615,,,Marilou Hebert-Mazuch
+616,,,Nicolas Daviault
+617,,,Philip Mercier
+618,,Senior QA Data Analyst,
+619,,,David Luu
+620,,,Jihoo Park
+621,,QA Senior Tester,
+622,,,José Morao
+623,,QA Analytics Tester,
+624,,,Alex Philavong
+625,,,Amar Draa
+626,,,Kevin De Nobrega-Rodrigues
+627,,,Moustafa Chamli
+628,,,Sophie Prescott
+629,Support Helpdesk,,
+630,,"Manager, CS Tools & Systems",
+631,,,Eric Norris
+632,,Helpdesk Systems Administrator,
+633,,,Philippe Cadieux
+634,,Senior Customer Service Helpdesk Technician,
+635,,,Jessica Stamp
+636,,QA Helpdesk Technician,
+637,,,Maxime Lafrenière
+638,,,Michael Grout
+639,Warner Bros. Games Localization,,
+640,,Localization Director,
+641,,,Adolfo Gómez-Urda Montijano
+642,,Senior Localization Project Manager,
+643,,,Laura Sánchez Gutiérrez
+644,,Localization Project Manager,
+645,,,Lígia Teixeira
+646,,,Perry Mainville
+647,,,Tiziana Albanese
+648,,Translation Project Manager,
+649,,,Adam Dąbrowski
+650,,LQA Project Manager,
+651,,,Raquel Maestre
+652,,"Technical Specialist, Localization",
+653,,,Fei Dong
+654,KEYWORDS STUDIOS,,
+655,,Language Specialist,
+656,,,Abril Borja Galaviz
+657,,,Bazilio de Oliveira
+658,,,Jean-François Rey
+659,,,Jelena Maedler
+660,Warner Bros. Games Customer Support,,
+661,,"Director, Customer Support",
+662,,,Georgis Saba
+663,,"Senior Manager, Customer Service",
+664,,,Matthew Pinaud
+665,,"Manager, Customer Service Operations",
+666,,,Sidney Chatfield
+667,,"CS Operations Quality, Workforce and Vendor Manager",
+668,,,Imad Kassem
+669,,Customer Service Product Lead,
+670,,,William Harding
+671,,Customer Service Product Specialist,
+672,,,Alan Regulski
+673,,,Jason Donovan
+674,,,Kevin Johnston
+675,,,Marcin Szotrowski
+676,,,Nick Zalis
+677,,,Nicolas Pezzolesi
+678,,,Timothy Sprague
+679,,CS Data Specialist,
+680,,,Paul Woolley
+681,Side,,
+682,,"Global Director, LQA",
+683,,,Maxim Mizin
+684,,"Manager, LQA",
+685,,,Steve Paredes
+686,,"Project Manager, LQA",
+687,,,Alexander Solesa
+688,,"Senior Lead, LQA",
+689,,,Francesca Caracci
+690,,Language Specialist,
+691,,,Cecilia Marangon
+692,,"Senior Tester, LQA",
+693,,,Antonio García Ruiz
+694,,,Damian Pulit
+695,,,Xizhi Yin
+696,,"Tester, LQA",
+697,,,Aimeric Dureau-Nadeau
+698,,,Andrea Alicino
+699,,,Aurélien Kern
+700,,,Janina Maß
+701,,,Luiz Kozak
+702,,,Pablo Vasquez
+703,Elevated Play,,
+704,,Project Lead,
+705,,,John Lorenz Borja
+706,,QA Tester,
+707,,,Lawrence Borromeo
+708,,,Frederick Ferrer
+709,,,Jimuel Valenzuela
+710,,,Julius Deuna
+711,,,John Leo Jovita
+712,,,Keesmet Gorostiza
+713,,,Domini Destura
+714,,,Marc Ruel Valeros
+715,DC Comics,,
+716,,"Executive Vice President, Global Franchise - Global Brands & Experiences",
+717,,,Meghan Maro
+718,,"President, Publisher & Chief Creative Officer",
+719,,,Jim Lee
+720,,Senior Vice President & General Manager,
+721,,,Anne DePies
+722,,"Creative Director, Interactive",
+723,,,Randy Ma
+724,,"Creative Associate, Interactive",
+725,,,Reid Weston
+726,Globant,,
+727,,Studio Lead,
+728,,,Kevin Janzen
+729,,VP Technology,
+730,,,Gonzalo Ordeix
+731,,VP Delivery,
+732,,,Alejandro Mario Lopez
+733,,VP Business Development,
+734,,,Paxton Lazar
+735,,Technical Director,
+736,,,Lucia Lauria
+737,,Delivery Director,
+738,,,Carolina Risotto
+739,,Delivery Manager,
+740,,,Ana Maria Lopez
+741,,Project Manager,
+742,,,Catalina Solari
+743,,Sr Engineer Lead,
+744,,,Egon Araujo
+745,,,Togo Sepulveda
+746,,Sr Engineer,
+747,,,Alec Capetillo
+748,,,Gonzalo Daroch
+749,,,Pedro Matuck
+750,,,Rodrigo Quintano
+751,,,Wilson Rafael
+752,,,Rafael Giordanno
+753,,,Jesus Gonzalez
+754,,Ssr. Engineer,
+755,,,Claudio Leiva
+756,,,Issac Ochoa
+757,,,Remi Dalessandro
+758,,,Piero Barbieri
+759,,,Serge Shautsou
+760,,,Maximiliano Zamora
+761,,,Francisco Abarca
+762,,,Francisca Riffo
+763,,Technical Artist,
+764,,,Sebastian Paredes
+765,,Ssr VFX Artist,
+766,,,Ian Genskowsky (Chang)
+767,,,Esteban Diaz
+768,,Sr Game Designer,
+769,,,Rodrigo Acuna
+770,,,Vitor Salvador
+771,,Ssr Game Designer,
+772,,,Sebastian Vega
+773,,,Vitor Silvestre
+774,,,David Torres
+775,,,Marcio Toledo
+776,,Ssr. UI Artist,
+777,,,Esteban Rivadeneira
+778,,Sr. UX Designer,
+779,,,Matias Somonte
+780,,,Natalia Alfonso
+781,,Ssr. UX Designer,
+782,,,Santiago Escamilla
+783,,Ssr. Product Manager,
+784,,,Ignacia Caballero
+785,,Lead QA,
+786,,,Paula Brites
+787,,Sr. QA,
+788,,,Ignacio Munoz
+789,,Ssr. QA,
+790,,,Pedro Gonzalez
+791,,Jr. QA,
+792,,,Damian Bordad
+793,Somatone,,
+794,,CEO,
+795,,,AnnaLyn Griffin
+796,,Creative & Techincal Director,
+797,,,Dale Crowley
+798,,Music Director & Composer,
+799,,,John Hoge
+800,,Technical Sound Design Lead,
+801,,,Marika Perlmutter
+802,,Technical Sound Designer,
+803,,,Michael Sweet
+804,,,Raúl Ibarra Aranda
+805,,,Saúl Ramos
+806,,Special Thanks,
+807,,,"Brandon Cord, Brian Bosworth, Dawn Berden, Gabriel Goldwasser,"
+808,,,"Henry Rull, Jacy Wu, Jennifer Prickett, Jessi Reid, Joe McCormick,"
+809,,,"Jon Hanson, Linda Ly, Maria Waters, Nathaniel Mordo, Nicole Abuid,"
+810,,,"Riccardo Fabi, Sandy Liew"

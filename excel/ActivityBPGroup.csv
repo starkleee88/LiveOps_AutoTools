@@ -1,0 +1,4 @@
+﻿ActivityID,O,ChooseHero,InitialHero,PayDiamond,LevelExp,ExchangeScore,ExchangeReward,BuyDiamonds,PackId
+Activity ID,Note,ActivityBPHeroID,Default Hero,Diamond Unlock Cost,Experience Per Level,XP Exchange Amount,XP Exchange Reward,XP Required To Buy Diamonds,RechargeOtherPackID
+index,O,array-int,int,int,int,int,int,int,int
+18001,Harley Quinn,13199,13199,12000,150,450,198001001,500,1800101

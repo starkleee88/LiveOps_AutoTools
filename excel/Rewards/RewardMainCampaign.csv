@@ -1,0 +1,8 @@
+﻿Key,RewardID,O,HitType,Weight,RuleParams,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,Content,Quantity,Type,O
+,Reward ID,Note,Randomization,Weights,depricated?,item ID,Amount,Open method,item ID 2,Amount 2,Open method 2,item ID 3,Amount 3,Open method 3,item ID 4,Amount 4,Open method 4,item ID 5,Amount 5,Open method 5,item ID 6,Amount 6,Open method 6,item ID 7,Amount 7,Open method 7,item ID 8,Amount 8,Open method 8,item ID 9,Amount 9,Open method 9,Notes
+index,int,O,int,int,array-int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,O
+9130066,19130066,PLACEHOLDER New Idle Awards (For Display) - Chapter 66,1,,,1113003,1,,111203,1,,111201,1,,,,,,,,,,,,,,,,,,,,
+9130067,19130067,PLACEHOLDER,1,,,1113003,1,,111203,1,,111201,1,,,,,,,,,,,,,,,,,,,,
+9130068,19130068,PLACEHOLDER,1,,,1113003,1,,111203,1,,111201,1,,,,,,,,,,,,,,,,,,,,
+9130069,19130069,PLACEHOLDER,1,,,1113003,1,,111203,1,,111201,1,,,,,,,,,,,,,,,,,,,,
+9130070,19130070,PLACEHOLDER,1,,,1113003,1,,111203,1,,111201,1,,,,,,,,,,,,,,,,,,,,

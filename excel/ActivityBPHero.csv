@@ -1,0 +1,4 @@
+﻿ID,O,GroupId,HeroPieceId
+Hero ID,Note,ActivityBPReward ID,Hero Fragment ID
+int,O,int,int
+13199,Harley Quinn,13199,1113199

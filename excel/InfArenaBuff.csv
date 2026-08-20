@@ -1,0 +1,54 @@
+﻿Key,Date,buffid,buffdesc,O
+ID,Date,Buffs corresponding to seasonal rules,Buff description,Note
+index,string,int,string,O
+1,20231210_000000,220040201,BuffName220040201,"When all allies on the team have the same trait, the team gains 20% damage increase and damage reduction"
+2,20231224_000000,220040401,BuffName220040401,"When allies in the party include 3 classes: Tank, Output, and Assist, the whole team gets 20% damage increase and damage reduction"
+3,20240107_000000,220040301,BuffName220040301,"When all allies in the team belong to 3 different traits, the whole team receives 20% damage increase and damage reduction"
+4,20240121_000000,220040201,BuffName220040201,"When all allies on the team have the same trait, the team gains 20% damage increase and damage reduction"
+5,20240204_000000,220040401,BuffName220040401,"When allies in the party include 3 classes: Tank, Output, and Assist, the whole team gets 20% damage increase and damage reduction"
+6,20240218_000000,220040301,BuffName220040301,"When all allies in the team belong to 3 different traits, the whole team receives 20% damage increase and damage reduction"
+7,20250101_000000,0,No buff,
+8,20250128_000000,220040301,BuffName220040301,"When all allies in the team belong to 3 different traits, the whole team receives 20% damage increase and damage reduction"
+9,20250211_000000,220040201,BuffName220040201,"When all allies on the team have the same trait, the team gains 20% damage increase and damage reduction"
+10,20250225_000000,220040901,BuffName220040901,"Every Character with a Debuff Tag will have their Attack, Defense and HP increased by 50%"
+11,20250311_000000,220040401,BuffName220040401,"When allies in the party include 3 classes: Tank, Output, and Assist, the whole team gets 20% damage increase and damage reduction"
+12,20250325_000000,220040301,BuffName220040301,"When all allies in the team belong to 3 different traits, the whole team receives 20% damage increase and damage reduction"
+13,20250408_000000,220041001,BuffName220041001,"Every Character with a Sacrifice Tag will have their Attack, Defense and HP increased by 50%"
+14,20250422_000000,220040201,BuffName220040201,"When all allies on the team have the same trait, the team gains 20% damage increase and damage reduction"
+15,20250506_000000,220040401,BuffName220040401,"When allies in the party include 3 classes: Tank, Output, and Assist, the whole team gets 20% damage increase and damage reduction"
+16,20250520_000000,220040301,BuffName220040301,"When all allies in the team belong to 3 different traits, the whole team receives 20% damage increase and damage reduction"
+17,20250603_000000,220041101,BuffName220041101,"When damaged by your own ally, team gains 1 stack of hard hit"
+18,20250617_000000,220040201,BuffName220040201,"When all allies on the team have the same trait, the team gains 20% damage increase and damage reduction"
+19,20250701_000000,220040401,BuffName220040401,"When allies in the party include 3 classes: Tank, Output, and Assist, the whole team gets 20% damage increase and damage reduction"
+20,20250715_000000,220040301,BuffName220040301,"When all allies in the team belong to 3 different traits, the whole team receives 20% damage increase and damage reduction"
+21,20250729_000000,220040201,BuffName220040201,"When all allies on the team have the same trait, the team gains 20% damage increase and damage reduction"
+22,20250812_000000,220041201,BuffName220041201,Physical damage reduced by 70%. Characters with the Dampen Tag have 100% increased HP/Def/Atk.
+23,20250826_000000,220041501,BuffName220041501,"When a character applies Armor Break, also apply 1 Stack of Sturdy Armor to themselves for 2 Turns. Characters in the Anti-Hero camp have their HP/DEF/ATK increased by 50%"
+24,20250909_000000,220041401,BuffName220041401,"Whenever Fragile is applied, apply 1 additional stack of Fragile for 2 Turns. Characters in the Anti-Hero camp have their HP/DEF/ATK increased by 50%"
+25,20250923_000000,220041301,BuffName220041301,Judomaster's Ultimate Cost reduced to 1 Energy Point. Characters in the Anti-Hero camp have their HP/DEF/ATK increased by 100%
+26,20251007_000000,220041601,BuffName220041601,"When a character attacks with Superpower Damage, they gain 1 Stack of Slow and Weaken for 2 Turns. Characters in the Anti-Hero camp have their HP/DEF/ATK increased by 100%"
+27,20251021_000000,220041701,BuffName220041701,In-Battle Growth characters gain 50 additional Speed and a 50% increase to Heal Bonus. Poison characters have their HP/DEF/ATK increased by 50%.
+28,20251104_000000,220041801,BuffName220041801,"The first time Cheshire's Poison is added to an enemy, 5 additional stacks are added. Poison characters have their HP/DEF/ATK increased by 50%."
+29,20251118_000000,220041901,BuffName220041901,All Poison damage has 100% increased Crit Rate. Poison characters have their HP/DEF/ATK increased by 100%.
+30,20251201_000000,220042001,BuffName220042001,All Poison damage dealt to enemies heals allies for 50% of the damage they would deal. Poison characters have their HP/DEF/ATK increased by 100%.
+31,20251215_000000,220042101,BuffName220042101,Characters who have Detonated will Freeze for 1 additional Turn when Frozen. +50% Atk/Def/HP for characters who have the Frostbite or Burn tags.
+32,20251229_000000,220042201,BuffName220042201,"When a Character does an Assist attack, they also apply 2 Stacks of Frostbite. +50% Atk/Def/HP for characters who have the Frostbite or Burn tags."
+33,20260112_000000,220042301,BuffName220042301,"Detonations cause 2 stacks of Burn to be applied to a random enemy. +100% Atk/Def/HP for characters who have the Frostbite or Burn tags."
+34,20260126_000000,220042401,BuffName220042401,"While a Character is Frozen, any Burn applied to them will apply 2 additional Stacks of Burn. +100% Atk/Def/HP for characters who have the Frostbite or Burn tags."
+35,20260210_000000,220042501,BuffName220042501,"Every time an ally debuffs(count stacks) the enemy, it temporarily gains +10% to its base damage for 2 Turns. +50% Atk/Def/HP for Characters who have the Debuffs tag."
+36,20260224_000000,220042601,BuffName220042601,"Dispel now also grants a random buff to the ally for each debuff stack it removes, lasting 2 turns. +50% Atk/Def/HP for Characters who have the Debuffs tag."
+37,20260310_000000,220042701,BuffName220042701,"Characters who miss their attack will now be affected by 1 stack of a random debuff (Bleed, Poison, Burn, Frostbite). +100% Att/Def/Hp for Characters who have the Debuffs Tag."
+38,20260324_000000,220042801,BuffName220042801,"All Characters with Debuffs now take an extra 20% damage. +100% Att/Def/Hp for Characters who have the Debuffs Tag."
+39,20260407_000000,220042901,BuffName220042901,"Every time an ally defeats the enemy, it temporarily gains +25% to its base damage until the end of the match. \n+50% Att/Def/Hp for Characters who have the Redirect Tag. \nSuperpower dmg is Reduced by -25%."
+40,20260421_000000,220043001,BuffName220043001,"Each applied Stun applies 8 stacks of Armor Break for 2 turn. \n+50% Att/Def/Hp for Characters who have the Redirect Tag. \nSuperpower dmg is Reduced by -25%."
+41,20260505_000000,220043101,BuffName220043101,"Every first time an ally is defeated, grant 4 energy to the ally team. \n+100% Att/Def/Hp for Characters who have the Redirect Tag. \nSuperpower dmg is Reduced by -50%."
+42,20260519_000000,220043201,BuffName220043201,"All characters with the Redirect buff apply double the number of stacks for the redirected debuffs. \n+100% Att/Def/Hp for Characters who have the Redirect or Control Tag."
+43,20260602_000000,220043301,BuffName220043301,"The Main Man takes over the Elite Arena. Lobo cannot be Silenced, Stunned, or Frozen. \n+50% Att/Def/Hp for Characters who have the Shatter Tag."
+44,20260612_000000,220043401,BuffName220043401,"Burn, Frostbite, Bleed, and Poison only deal 50% of their damage to allies. Counterattacks do 60% more Dmg. \n+50% Att/Def/Hp for Characters who have the Shatter Tag."
+45,20260616_000000,220043601,BuffName220043601,"The Yellow Sun Rises at the beginning of the Battle. Physical Dmg is increased by 50%. \n+100% Att/Def/Hp for Characters who have the Shatter or Kryptonian Tag."
+46,20260630_000000,220043501,BuffName220043501,"When an ally applies Stacks of Shock, they are doubled. \n+100% Att/Def/Hp for Characters who have the Shatter or Shock Tag."
+47,20260710_000000,220043301,BuffName220043301,"The Main Man takes over the Elite Arena. Lobo cannot be Silenced, Stunned, or Frozen. \n+50% Att/Def/Hp for Characters who have the Shatter Tag."
+48,20260714_000000,220043601,BuffName220043601,"The Yellow Sun Rises at the beginning of the Battle. Physical Dmg is increased by 50%. \n+100% Att/Def/Hp for Characters who have the Shatter or Kryptonian Tag."
+49,20260804_000000,220043701,BuffName220043701,"[Notfinal] Whenever an Amazonian or Absolute ally does an AoE attack, all allies gain a Stack of Redirect. \n+50% Att/Def/Hp for Characters who have the Absolute or Amazon Tag."
+50,20260818_000000,220043801,BuffName220043801,"[Notfinal] Buffs and debuffs applied by allied Kryptonians or Absolute allies are doubled. \n+50% Att/Def/Hp for Characters who have the Absolute or Kryptonian Tag."
+51,20260901_000000,220043901,BuffName220043901,"[Notfinal] Reduces the cooldown of Ultimate attacks by 1 turn for Absolute allies. \n+100% Att/Def/Hp for Characters who have the Absolute Tag."

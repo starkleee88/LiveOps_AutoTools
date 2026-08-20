@@ -1,0 +1,55 @@
+﻿LevelId,AreaId,LocalizationName,Name,AreaType,PreArea,CamPos
+Attribution copy number,Area serial number,name description id,area name,"Area Type
+Keyang-Li Keyang:
+1-Normal Area
+2-Starting Area
+3-BOSS Area",Source area,camera position
+int,int,string,string,int,array-int,array-int
+1,1,CityExplore_Area101,camp,1,0,1
+1,2,CityExplore_Area102,At the foot of the snow mountain,1,0,2
+1,3,CityExplore_Area103,graduate School,1,0,3
+1,4,CityExplore_Area104,Tower,1,0,4
+1,5,CityExplore_Area105,tarmac,3,4|2,51|52
+1,6,CityExplore_Area106,ice lake,1,0,6
+1,7,,small theater area,2,0,7
+2,1,CityExplore_Area201,,1,0,1
+2,2,CityExplore_Area202,,1,0,1
+2,3,CityExplore_Area203,,1,0,1
+2,4,CityExplore_Area204,,1,0,1
+2,5,CityExplore_Area205,,1,0,1
+2,6,CityExplore_Area206,,1,0,1
+2,7,CityExplore_Area207,,1,0,1
+2,8,CityExplore_Area208,,1,0,1
+2,9,CityExplore_Area209,,1,0,1
+2,10,CityExplore_Area210,,3,0,1
+2,11,,small theater area,2,0,1
+3,1,CityExplore_Area101,,1,0,1
+3,2,CityExplore_Area102,,1,0,1
+3,3,CityExplore_Area103,,1,0,1
+3,4,CityExplore_Area106,,3,0,1
+3,5,,small theater area,2,0,1
+4,1,CityExplore_Area101,camp,1,0,1
+4,2,CityExplore_Area102,At the foot of the snow mountain,1,0,2
+4,3,CityExplore_Area103,graduate School,1,0,3
+4,4,CityExplore_Area104,tower,1,0,4
+4,5,CityExplore_Area105,tarmac,3,4|2,51|52
+4,6,CityExplore_Area106,ice lake,1,0,6
+4,7,,small theater area,2,0,7
+5,1,CityExplore_Area211,,1,0,1
+5,2,CityExplore_Area204,,1,0,1
+5,3,CityExplore_Area203,,1,0,1
+5,4,CityExplore_Area205,,1,0,1
+5,5,CityExplore_Area206,,1,0,1
+5,6,CityExplore_Area210,,3,0,1
+5,7,,small theater area,2,0,1
+6,1,CityExplore_Area201,,1,0,1
+6,2,CityExplore_Area202,,1,0,1
+6,3,CityExplore_Area203,,1,0,1
+6,4,CityExplore_Area204,,1,0,1
+6,5,CityExplore_Area205,,1,0,1
+6,6,CityExplore_Area206,,1,0,1
+6,7,CityExplore_Area207,,1,0,1
+6,8,CityExplore_Area208,,1,0,1
+6,9,CityExplore_Area209,,1,0,1
+6,10,CityExplore_Area210,,3,0,1
+6,11,,小剧场区域,2,0,1

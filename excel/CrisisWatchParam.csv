@@ -1,0 +1,4 @@
+Key,Value,note,O
+Name,Value,Remarks,O
+string,array-string,string,
+SeasonDuration,604800,1 Week,Season duration in seconds

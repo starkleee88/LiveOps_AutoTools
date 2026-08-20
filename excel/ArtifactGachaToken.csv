@@ -1,0 +1,4 @@
+﻿TokenID,,BuyItemId,BuyItemNum,CostItemId,CostItemNum,MaxNum
+Purchase Setting ID,Note,Redeem lottery token ID,Number of lottery tokens to be exchanged,Type of item to consume,Price per visit,Maximum number per week
+index,,int,int,int,int,int
+11,Diamond purchase,1123100,1,111202,200,90

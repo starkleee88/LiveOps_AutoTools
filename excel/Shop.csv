@@ -1,0 +1,155 @@
+﻿ID,ShopType,ShopSort,ShopName,ShopIcon,ShopRuleDes,OpenActivity,OpenChapter,OpenStage,CloseChapter,CloseStage,OpenBossLV,CloseBossLV,RefreshCD,RefreshTimes,RefreshPriceItem,RefreshPrice,RefreshPriceGrow,FuncId,
+Shop ID,"Store Type
+Each type corresponds to 1 kind of store. For example, adventure store, XX store;
+When adding a new store, add new enumeration value (need to synchronize enumeration value and entry location with front and backend)
+Current enumeration value
+1.adventure store
+2. Undecided
+3.Otherworldly store
+4.Arena Store
+5.Evil Advent Store
+6.S Event Store (free)
+7.Guild Store
+8.S Event Shop (Paid)",Store Sorting,Loc Name,"Store Icon (First checked, Second default)",Loc Desc,Hero Campaign ID,Chapter Req,Stage Req,Chapter Req,Stage Req,"Boss, Boss Level","Boss, Boss Level","Refresh Time. Mutually Exclusive w/ RefreshBD
+1. natural time refresh. Cycles according to a fixed cycle
+Three seed types
+ A. Daily refreshment Fill in the way: XX hours - XX minutes, such as 13h-00m daily refreshment at 13;00
+ B. Weekly Refresh Week X Refresh Fill in the way: Week X-XX hours-XX minutes, such as 2w-13h-00m, refresh at 13:00 every week 2. Note: Sunday to Saturday for 0w-6w
+ C. Refresh on the Xth day of each month Fill in the form: Xth day - XX hours - XX minutes, e.g. 13d-13h-00m, refresh at 13:00 on the 13th of each month.
+ Allow multiple refreshes in one cycle. Avoid filling different types into 1 cell, if incorrectly filled, only the type with the highest priority will be recognized, w＞d＞h","Number of refreshes
+白东辰:
+Follow the VIP table if you are affected by VIPs",Item Used to Refresh,How Many,"Refresh Variation. Mutually Exclusive w/ Refresh Price
+
+Example: 1|4;10|5;30|6
+
+This means that for the 1st to 9th times, the cost is 4; for the 10th to 29th times, the cost is 5; and for 30 times or more, the cost is 6.",Feature Flag,
+index,int,int,string,string,string,int,int,int,int,int,int,int,array-string,int,int,int,2darray-int,int,
+1101,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,,,5,30,,,0h-00m,,,,,0,
+1102,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,5,30,7,30,,,0h-00m,,,,,0,
+1103,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,7,30,9,30,,,0h-00m,,,,,0,
+1104,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,9,30,12,30,,,0h-00m,,,,,0,
+1105,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,12,30,14,30,,,0h-00m,,,,,0,
+1106,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,14,30,17,30,,,0h-00m,,,,,0,
+1107,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,17,30,19,30,,,0h-00m,,,,,0,
+1108,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,19,30,21,30,,,0h-00m,,,,,0,
+1109,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,21,30,23,30,,,0h-00m,,,,,0,
+1110,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,23,30,28,30,,,0h-00m,,,,,0,
+1111,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,28,30,31,30,,,0h-00m,,,,,0,
+1112,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,31,30,37,30,,,0h-00m,,,,,0,
+1113,1,1,shopname1101,ui_shop_img_blackbox_,shoprefresh,,37,30,42,30,,,0h-00m,,,,,0,
+1114,1,1,shopname1101,ui_shop_img_blackbox_,,,42,30,,,,,0h-00m,,,,,0,
+1701,3,5,shopname1701,ui_shop_img_blackbox_,,,5,9,,,,,0w-0h-00m,,,,,1500,Elseworld
+1801,4,4,shopname1801,ui_shop_img_blackbox_,,,5,3,,,,,0w-0h-00m,,,,,720,Warworld
+1901,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,3,6,4,21,,,0h-00m,3,111202,,1|10;2|20;3|30,730,Evil Falls
+1902,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,4,21,7,30,,,0h-00m,3,111202,,1|20;2|40;3|60,730,Evil Falls
+1903,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,7,30,10,30,,,0h-00m,3,111202,,1|40;2|80;3|120,730,Evil Falls
+1904,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,10,30,13,30,,,0h-00m,3,111202,,1|60;2|120;3|180,730,Evil Falls
+1905,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,13,30,18,30,,,0h-00m,3,111202,,1|100;2|200;3|300,730,Evil Falls
+1906,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,18,30,22,30,,,0h-00m,3,111202,,1|150;2|300;3|450,730,Evil Falls
+1907,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,22,30,25,30,,,0h-00m,3,111202,,1|200;2|400;3|600,730,Evil Falls
+1908,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,25,30,29,30,,,0h-00m,3,111202,,1|250;2|500;3|750,730,Evil Falls
+1909,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,29,30,34,30,,,0h-00m,3,111202,,1|300;2|600;3|900,730,Evil Falls
+1910,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,34,30,40,30,,,0h-00m,3,111202,,1|400;2|800;3|1200,730,Evil Falls
+1911,5,3,shopname1901,ui_shop_img_blackbox_,shoprefresh,,40,30,48,30,,,0h-00m,3,111202,,1|500;2|1000;3|1500,730,Evil Falls
+1912,5,3,shopname1901,ui_shop_img_blackbox_,,,48,30,,,,,0h-00m,3,111202,,1|600;2|1200;3|1800,730,Evil Falls
+3001,6,100,shopname3001,ui_shop_img_blackbox_,shopruledes3001,10002,,,,,,,,,,,,0,Cyborg Event
+3002,6,100,shopname3002,ui_shop_img_blackbox_,shopruledes3002,10102,,,,,,,,,,,,0,Deathstroke Activity
+8001,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8001,,,,,,,,,,,,0,Collection Event - Airplane
+8002,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8002,,,,,,,,,,,,0,Stash Event - Lex Armor
+8003,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8003,,,,,,,,,,,,0,Stash Event - Parallax Monster
+8004,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8004,,,,,,,,,,,,0,Stash Event - Green Lantern Battery
+8006,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8006,,,,,,,,,,,,0,Collectible Event - Haunted Tank
+8007,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8007,,,,,,,,,,,,0,Collectible Event - Krypto the Superdog
+8008,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8008,,,,,,,,,,,,0,Collectible Event - Energy Disruptor
+8009,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8009,,,,,,,,,,,,0,Collectible Event - Sethe
+8010,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8010,,,,,,,,,,,,0,Collectible Event - Parallax (rerun)
+8011,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8011,,,,,,,,,,,,0,Collectible Event - Green Lantern Battery (rerun)
+8012,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8012,,,,,,,,,,,,0,Collectible Event - Phantom Zone Projector
+8013,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8013,,,,,,,,,,,,0,Collectible Event - Lex Armor (rerun)
+8014,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8014,,,,,,,,,,,,0,Collectible Event - Jerry the Winged Horse
+18007,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,18007,,,,,,,,,,,,0,Collectible Event - Krypto the Superdog rerun
+18012,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,18012,,,,,,,,,,,,0,Collectible Event - Phantom Porjector rerun
+8017,7,200,shopnameAnniversary,ui_shop_img_blackbox_,,8017,,,,,,,,,,,,0,Anniversary Event
+8018,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8015,,,,,,,,,,,,0,Collectible Event - Spacehog
+8019,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8018,,,,,,,,,,,,0,Collectible Event - Lex Armor (rerun)
+8021,7,200,shopname8001,ui_shop_img_blackbox_,shopruledes8001,8021,,,,,,,,,,,,0,Collectible Event - Reanimated Pegasus
+3003,6,100,shopname3003,ui_shop_img_blackbox_,,10202,,,,,,,,,,,,0,Sinestro Event
+8020,14,200,shopnameStandalone,ui_shop_img_blackbox_,,8019,,,,,,,,,,,,0,Standalone 1 s11
+3004,8,101,shopname3004,ui_shop_img_blackbox_,,10202,,,,,,,,,,,,0,Sinestro Event
+4001,11,6,shopname4001,ui_shop_img_blackbox_,,,11,15,,,,,1d-0h-00m,,,,,750,Unrestricted Arena
+2003,12,7,shopname5001,ui_shop_img_blackbox_,,,4,9,,,,,0w-0h-00m,,,,,2003,Guild Store
+3005,6,100,shopname3003,ui_shop_img_blackbox_,,10302,,,,,,,,,,,,0,Martian Manhunter Event
+3006,8,101,shopname3004,ui_shop_img_blackbox_,,10302,,,,,,,,,,,,0,Martian Manhunter Event
+3007,6,100,shopname3003,ui_shop_img_blackbox_,,10402,,,,,,,,,,,,0,Sinestro
+3008,8,101,shopname3004,ui_shop_img_blackbox_,,10402,,,,,,,,,,,,0,Sinestro
+3009,6,100,shopname3003,ui_shop_img_blackbox_,,10502,,,,,,,,,,,,0,Hal Jordan Event
+3010,8,101,shopname3004,ui_shop_img_blackbox_,,10502,,,,,,,,,,,,0,Hal Jordan Event
+3011,6,100,shopname3011,ui_shop_img_blackbox_,,10602,,,,,,,,,,,,0,Kyle's Combo Event
+3012,8,101,shopname3012,ui_shop_img_blackbox_,,10602,,,,,,,,,,,,0,Kyle's Portfolio Activity
+3013,6,100,shopname3003,ui_shop_img_blackbox_,,10702,,,,,,,,,,,,0,Sinestro
+3014,8,101,shopname3004,ui_shop_img_blackbox_,,10702,,,,,,,,,,,,0,Sinestro
+3015,6,100,shopname3003,ui_shop_img_blackbox_,,10802,,,,,,,,,,,,0,Sinestro
+3016,8,101,shopname3004,ui_shop_img_blackbox_,,10802,,,,,,,,,,,,0,Sinestro
+6001,9,300,shopname6001,ui_shop_img_blackbox_,,,6,30,,,,,,,,,,3300,Lobby Skin Shop
+3017,6,100,shopname3003,ui_shop_img_blackbox_,,10902,,,,,,,,,,,,0,Doctor Fate
+3018,8,101,shopname3004,ui_shop_img_blackbox_,,10902,,,,,,,,,,,,0,Doctor Fate
+3019,6,100,shopname3019,ui_shop_img_blackbox_,,11002,,,,,,,,,,,,0,The Bride
+3020,8,101,shopname3020,ui_shop_img_blackbox_,,11002,,,,,,,,,,,,0,The Bride
+3021,6,100,shopname3021,ui_shop_img_blackbox_,,11102,,,,,,,,,,,,0,Superman DCU
+3022,8,101,shopname3022,ui_shop_img_blackbox_,,11102,,,,,,,,,,,,0,Superman DCU
+3023,6,100,shopname3023,ui_shop_img_blackbox_,,11202,,,,,,,,,,,,0,Peacemaker
+3024,8,101,shopname3024,ui_shop_img_blackbox_,,11202,,,,,,,,,,,,0,Peacemaker
+3025,6,100,shopname3025,ui_shop_img_blackbox_,,11302,,,,,,,,,,,,0,Swamp Thing
+3026,8,101,shopname3026,ui_shop_img_blackbox_,,11302,,,,,,,,,,,,0,Swamp Thing
+3027,6,100,shopname3027,ui_shop_img_blackbox_,,11402,,,,,,,,,,,,0,Aquaman
+3028,8,101,shopname3028,ui_shop_img_blackbox_,,11402,,,,,,,,,,,,0,Aquaman
+3029,6,100,shopname3003,ui_shop_img_blackbox_,,11502,,,,,,,,,,,,0,Sinestro Re-Run
+3030,8,101,shopname3004,ui_shop_img_blackbox_,,11502,,,,,,,,,,,,0,Sinestro Re-Run
+3033,6,100,shopname3021,ui_shop_img_blackbox_,,11702,,,,,,,,,,,,0,Superman DCU Re-Run
+3034,8,101,shopname3022,ui_shop_img_blackbox_,,11702,,,,,,,,,,,,0,Superman DCU Re-Run
+3031,6,100,shopname3005,ui_shop_img_blackbox_,,11602,,,,,,,,,,,,0,General Zod
+3032,8,101,shopname3006,ui_shop_img_blackbox_,,11602,,,,,,,,,,,,0,General Zod
+3035,6,100,shopname3035,ui_shop_img_blackbox_,,11802,,,,,,,,,,,,0,The Joker
+3036,8,101,shopname3036,ui_shop_img_blackbox_,,11802,,,,,,,,,,,,0,The Joker
+3037,6,100,shopname3003,ui_shop_img_blackbox_,,11902,,,,,,,,,,,,0,Sinestro Re-Run
+3038,8,101,shopname3004,ui_shop_img_blackbox_,,11902,,,,,,,,,,,,0,Sinestro Re-Run
+3039,6,100,shopname3039,ui_shop_img_blackbox_,,12002,,,,,,,,,,,,0,Nubia
+3040,8,101,shopname3040,ui_shop_img_blackbox_,,12002,,,,,,,,,,,,0,Nubia
+3041,6,100,shopname3041,ui_shop_img_blackbox_,,12102,,,,,,,,,,,,0,Black Adam
+3042,8,101,shopname3042,ui_shop_img_blackbox_,,12102,,,,,,,,,,,,0,Black Adam
+3043,6,100,shopname3027,ui_shop_img_blackbox_,,12202,,,,,,,,,,,,0,Aquaman
+3044,8,101,shopname3028,ui_shop_img_blackbox_,,12202,,,,,,,,,,,,0,Aquaman
+3045,6,100,shopname3039,ui_shop_img_blackbox_,,12302,,,,,,,,,,,,0,Nubia
+3046,8,101,shopname3040,ui_shop_img_blackbox_,,12302,,,,,,,,,,,,0,Nubia
+3047,6,100,shopname3047,ui_shop_img_blackbox_,,12402,,,,,,,,,,,,0,Artemis
+3048,8,101,shopname3048,ui_shop_img_blackbox_,,12402,,,,,,,,,,,,0,Artemis
+3049,6,100,shopname3041,ui_shop_img_blackbox_,,12502,,,,,,,,,,,,0,Black Adam
+3050,8,101,shopname3042,ui_shop_img_blackbox_,,12502,,,,,,,,,,,,0,Black Adam
+3051,6,100,shopname3041,ui_shop_img_blackbox_,,12602,,,,,,,,,,,,0,Artemis
+3052,8,101,shopname3042,ui_shop_img_blackbox_,,12602,,,,,,,,,,,,0,Artemis
+3053,6,100,shopname3053,ui_shop_img_blackbox_,,12702,,,,,,,,,,,,0,Lobo
+3054,8,101,shopname3054,ui_shop_img_blackbox_,,12702,,,,,,,,,,,,0,Lobo
+3055,6,100,shopname3055,ui_shop_img_blackbox_,,12802,,,,,,,,,,,,0,BlackLightning
+3056,8,101,shopname3056,ui_shop_img_blackbox_,,12802,,,,,,,,,,,,0,BlackLightning
+3057,6,100,shopname3057,ui_shop_img_blackbox_,,12902,,,,,,,,,,,,0,SupergirlDCU
+3058,8,101,shopname3058,ui_shop_img_blackbox_,,12902,,,,,,,,,,,,0,SupergirlDCU
+3059,6,100,shopname3011,ui_shop_img_blackbox_,,13007,,,,,,,,,,,,0,WhiteLantern
+3060,8,101,shopname3012,ui_shop_img_blackbox_,,13007,,,,,,,,,,,,0,WhiteLantern
+3061,6,100,shopname3055,ui_shop_img_blackbox_,,13102,,,,,,,,,,,,0,BlackLightning_Rerun
+3062,8,101,shopname3056,ui_shop_img_blackbox_,,13102,,,,,,,,,,,,0,BlackLightning_Rerun
+3063,6,100,shopname3057,ui_shop_img_blackbox_,,13202,,,,,,,,,,,,0,SupergirlDCU
+3064,8,101,shopname3058,ui_shop_img_blackbox_,,13202,,,,,,,,,,,,0,SupergirlDCU
+3065,6,100,shopname3053,ui_shop_img_blackbox_,,13302,,,,,,,,,,,,0,Lobo Rerun
+3066,8,101,shopname3054,ui_shop_img_blackbox_,,13302,,,,,,,,,,,,0,Lobo Rerun
+3067,6,100,shopname3067,ui_shop_img_blackbox_,,13402,,,,,,,,,,,,0,Absolute Wonder Woman
+3068,8,101,shopname3068,ui_shop_img_blackbox_,,13402,,,,,,,,,,,,0,Absolute Wonder Woman
+3069,6,100,shopname3069,ui_shop_img_blackbox_,,13502,,,,,,,,,,,,0,Absolute Superman
+3070,8,101,shopname3070,ui_shop_img_blackbox_,,13502,,,,,,,,,,,,0,Absolute Superman
+3071,6,100,shopname3071,ui_shop_img_blackbox_,,13702,,,,,,,,,,,,0,Absolute Batman
+3072,8,101,shopname3072,ui_shop_img_blackbox_,,13702,,,,,,,,,,,,0,Absolute Batman
+3073,6,100,shopname3073,ui_shop_img_blackbox_,,13802,,,,,,,,,,,,0,Booster Gold
+3074,8,101,shopname3074,ui_shop_img_blackbox_,,13802,,,,,,,,,,,,0,Booster Gold
+3075,6,100,shopname3055,ui_shop_img_blackbox_,,13902,,,,,,,,,,,,0,Black Lightning
+3076,8,101,shopname3056,ui_shop_img_blackbox_,,13902,,,,,,,,,,,,0,Black Lightning
+3077,6,100,shopname3041,ui_shop_img_blackbox_,,14002,,,,,,,,,,,,0,Black Adam
+3078,8,101,shopname3042,ui_shop_img_blackbox_,,14002,,,,,,,,,,,,0,Black Adam

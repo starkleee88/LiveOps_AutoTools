@@ -1,0 +1,24 @@
+﻿Id,O,O,AddBpScore
+Task ID,Note,Note,Increase BP Points
+index,,,int
+1800101,Log in to the game,,50
+1800102,Get 50 daily active points in the public security maintenance plan,,50
+1800103,Get 100 daily active points in the public security maintenance plan,,50
+1800111,Obtain {0} points of strength trait points,20,50
+1800112,Obtain {0} points of strength trait points,50,50
+1800113,Obtain {0} points of strength trait points,100,50
+1800114,Obtain {0} points of strength trait points,200,50
+1800115,Obtain {0} points of strength trait points,350,50
+1800116,Obtain {0} points of strength trait points,500,50
+1800121,Get {0} points of wisdom trait points,20,50
+1800122,Get {0} points of wisdom trait points,50,50
+1800123,Get {0} points of wisdom trait points,100,50
+1800124,Get {0} points of wisdom trait points,200,50
+1800125,Get {0} points of wisdom trait points,350,50
+1800126,Get {0} points of wisdom trait points,500,50
+1800131,Get {0} points of agility trait points,20,50
+1800132,Get {0} points of agility trait points,50,50
+1800133,Get {0} points of agility trait points,100,50
+1800134,Get {0} points of agility trait points,200,50
+1800135,Get {0} points of agility trait points,350,50
+1800136,Get {0} points of agility trait points,500,50

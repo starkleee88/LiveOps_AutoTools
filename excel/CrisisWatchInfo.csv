@@ -1,0 +1,30 @@
+﻿Id,InfoType,O,Title1,Title2,Icon,Desc
+ID,Type,Note,Title 1,Title 2,Icon,Description
+index,int,,string,string,string,string
+1,1,Piranha,CrisisWatch_Title1_1,CrisisWatch_Title2_1,1913805,SkillName191380501
+2,1,immune poisoning,CrisisWatch_Title1_2,CrisisWatch_Title2_3,1313804,CrisisWatch_Desc3
+3,1,Harley Quinn-Skills,CrisisWatch_Title1_1,CrisisWatch_Title2_5,1314202,CrisisWatch_Desc5
+4,1,Catwoman-Skills,CrisisWatch_Title1_1,CrisisWatch_Title2_4,1311702,CrisisWatch_Desc4
+5,1,be charmed,CrisisWatch_Title1_1,CrisisWatch_Title2_6,1913806,CrisisWatch_Desc6
+6,1,Piranha,CrisisWatch_Title1_2,CrisisWatch_Title2_1,1913805,SkillName191380501
+7,1,immune poisoning,CrisisWatch_Title1_3,CrisisWatch_Title2_3,1313804,CrisisWatch_Desc3
+8,1,self-destruct,CrisisWatch_Title1_1,CrisisWatch_Title2_8,1920001,SkillName192000201
+9,3,Suicide Squad - Synergy,CrisisWatch_Title1_2,CrisisWatch_Title2_7,101921,CrisisWatch_Desc7
+10,1,Deadshot,CrisisWatch_Title1_3,CrisisWatch_Title2_9,1315002,CrisisWatch_Desc9
+11,1,King Shark,CrisisWatch_Title1_3,CrisisWatch_Title2_10,1312902,CrisisWatch_Desc10
+12,1,Boomerang,CrisisWatch_Title1_3,CrisisWatch_Title2_11,1314403,CrisisWatch_Desc11
+13,1,Harley Quinn,CrisisWatch_Title1_3,CrisisWatch_Title2_12,1314204,CrisisWatch_Desc12
+14,1,Killer Croc,CrisisWatch_Title1_3,CrisisWatch_Title2_13,1316903,CrisisWatch_Desc13
+15,1,racing mechanism,CrisisWatch_Title1_1,CrisisWatch_Title2_14,1930001,CrisisWatch_Desc14
+16,3,numbness,CrisisWatch_Title1_2,CrisisWatch_Title2_15,101931,CrisisWatch_Desc15
+17,1,Bane's opening halo,CrisisWatch_Title1_3,CrisisWatch_Title2_16,1313903,CrisisWatch_Desc16
+18,1,Bizarro ultimate move,CrisisWatch_Title1_3,CrisisWatch_Title2_17,1313503,CrisisWatch_Desc17
+19,1,Ice Environment Buff,CrisisWatch_Title1_1,CrisisWatch_Title2_18,1940001,CrisisWatch_Desc18
+20,1,fire aura buff1,CrisisWatch_Title1_2,CrisisWatch_Title2_19,1940002,CrisisWatch_Desc19
+21,1,fire aura buff2,CrisisWatch_Title1_2,CrisisWatch_Title2_20,1940002,CrisisWatch_Desc20
+22,1,Sacrifice Enemy Def Spell,CrisisWatch_Title1_1,SkillName1950002,131-04,CrisisWatch_Desc21
+23,1,Sacrifice Ally Strong Atk Spell,CrisisWatch_Title1_1,SkillName1950003,131-04,CrisisWatch_Desc22
+24,1,Sacrifice Ally Strong Atk Spell,CrisisWatch_Title1_2,SkillName1950003,131-04,CrisisWatch_Desc22
+25,1,Sacrifice Ally Strong Atk Spell,CrisisWatch_Title1_3,SkillName1950003,131-04,CrisisWatch_Desc22
+26,1,Sacrifice HP Zap,CrisisWatch_Title1_1,SkillName1951406,131-04,CrisisWatch_Desc23
+27,1,Sacrifice HP Zap,CrisisWatch_Title1_2,SkillName1951406,131-04,CrisisWatch_Desc23

@@ -1,0 +1,43 @@
+﻿ActivityID,RiddleID,,Condition1,Condition2,Condition3,Param,AnswerID,UnlockDialog,CollectDialog,CollectReward,AskText,AnswerText,RiddleText1,RiddleText2,RiddleText3,RiddleText4,RiddleImg
+Activity ID,Riddle ID,Note,"Unlock Condition - 
+Pre Riddle","Unlock Condition - 
+# of Days To Open","Unlock Condition - 
+Level","Unlock Condition - 
+Level Parameters",Answer ID,"Trigger Dialogue
+When Unlocked","Trigger Dialogue
+When Collecting","Reward
+Collected",Help Text,Answer Text,Riddle Title Text,"Riddle Question
+Text","Answer Location
+Text","Private Chat
+Reply Text",Riddle Image
+int,int,,int,int,int,int,int,string,string,int,string,string,string,string,string,string,string
+101,1,Batgirl's Room - Bookshelf,,2,2,3,1,60131,60161,19120609,RiddleDialog_101_701,RiddleDialog_101_704_1,RiddleText21,RiddleQuestion_101_501,RiddleText36,RiddleDialog_101_704_1,ui_riddle_hero_bg01
+101,2,Batgirl's Room-Gordon Clippings,,1,2,3,2,,60162,19120610,RiddleDialog_101_702,RiddleDialog_101_705_2,RiddleText22,RiddleQuestion_101_502,RiddleText37,RiddleDialog_101_705_2,ui_riddle_hero_bg02
+101,3,Catwoman's room-wine,,5,2,4,3,60134,60163,19120611,RiddleDialog_101_703,RiddleDialog_101_706_3,RiddleText23,RiddleQuestion_101_503,RiddleText38,RiddleDialog_101_706_3,ui_riddle_hero_bg03
+101,4,Catwoman's Room-Mirror,,4,2,4,4,60133,60164,19120612,RiddleDialog_101_701,RiddleDialog_101_704_4,RiddleText24,RiddleQuestion_101_504,RiddleText39,RiddleDialog_101_704_4,ui_riddle_hero_bg04
+101,5,Catwoman Room-Rose,,3,2,4,5,60132,,19120613,RiddleDialog_101_702,RiddleDialog_101_705_5,RiddleText25,RiddleQuestion_101_505,RiddleText40,RiddleDialog_101_705_5,ui_riddle_hero_bg05
+101,6,Hall of Justice - Statue,,1,3,1,6,,60165,19120614,RiddleDialog_101_703,RiddleDialog_101_706_6,RiddleText26,RiddleQuestion_101_506,RiddleText41,RiddleDialog_101_706_6,ui_riddle_hero_bg06
+101,7,Lobby-billboard,,2,,,7,60131,,19120615,RiddleDialog_101_701,RiddleDialog_101_704_7,RiddleText27,RiddleQuestion_101_516,RiddleText42,RiddleDialog_101_704_7,ui_riddle_hero_bg07
+101,8,Collection-Tiger model,,5,1,415,8,60134,60166,19120616,RiddleDialog_101_702,RiddleDialog_101_705_8,RiddleText28,RiddleQuestion_101_508,RiddleText43,RiddleDialog_101_705_8,ui_riddle_hero_bg08
+101,9,Hall Archives Area-Personal Archives,,4,,,9,60133,60167,19120617,RiddleDialog_101_703,RiddleDialog_101_706_9,RiddleText29,RiddleQuestion_101_509,RiddleText44,RiddleDialog_101_706_9,ui_riddle_hero_bg09
+101,10,Hall-Black Cat,,1,,,10,,60168,19120618,RiddleDialog_101_701,RiddleDialog_101_704_10,RiddleText30,RiddleQuestion_101_510,RiddleText45,RiddleDialog_101_704_10,ui_riddle_hero_bg10
+101,11,Hall-Multiverse,,3,,,11,60132,60169,19120619,RiddleDialog_101_702,RiddleDialog_101_705_11,RiddleText31,RiddleQuestion_101_511,RiddleText46,RiddleDialog_101_705_11,ui_riddle_hero_bg11
+101,12,Exploration Dungeon-Waterfall,,3,2,4,12,60132,,19120620,RiddleDialog_101_703,RiddleDialog_101_706_12,RiddleText32,RiddleQuestion_101_513,RiddleText47,RiddleDialog_101_706_12,ui_riddle_hero_bg12
+101,13,Arena,,2,1,503,13,60131,,19120621,RiddleDialog_101_701,RiddleDialog_101_704_13,RiddleText33,RiddleQuestion_101_512,RiddleText48,RiddleDialog_101_704_13,ui_riddle_hero_bg13
+101,14,Mainline Dungeon or Adventure Earth-Airship,,5,,,14,60134,60170,19120622,RiddleDialog_101_702,RiddleDialog_101_705_14,RiddleText34,RiddleQuestion_101_514,RiddleText49,RiddleDialog_101_705_14,ui_riddle_hero_bg14
+101,15,Mall-Drone,,4,1,203,15,60133,60171,19120623,RiddleDialog_101_703,RiddleDialog_101_706_15,RiddleText35,RiddleQuestion_101_515,RiddleText50,RiddleDialog_101_706_15,ui_riddle_hero_bg15
+102,1,Hall-Black Cat,,1,,,10,,60168,19120628,RiddleDialog_101_701,RiddleDialog_101_704_10,RiddleText21,RiddleQuestion_101_510,RiddleText42,RiddleDialog_101_704_10,ui_riddle_hero_bg01
+102,6,Evil is coming interface - Ultraman,,1,1,306,16,,,19120627,RiddleDialog_101_702,RiddleHelp_1,RiddleText26,RiddleQuestion_1,RiddleAnswer_1,RiddleHelp_1,ui_riddle_hero_bg06
+102,10,Paid collection interface-Batmobile,,1,1,415,21,,60166,19120626,RiddleDialog_101_703,RiddleHelp_6,RiddleText30,RiddleQuestion_6,RiddleAnswer_6,RiddleHelp_6,ui_riddle_hero_bg10
+102,2,Tower climbing interface,,2,1,403,26,60131,60161,19120631,RiddleDialog_101_701,RiddleHelp_11,RiddleText22,RiddleQuestion_11,RiddleAnswer_11,RiddleHelp_11,ui_riddle_hero_bg02
+102,7,Hall of Justice - Statue,,2,3,1,6,60131,60165,19120630,RiddleDialog_101_702,RiddleDialog_101_706_6,RiddleText27,RiddleQuestion_101_506,RiddleText41,RiddleDialog_101_706_6,ui_riddle_hero_bg07
+102,13,Batgirl's Room-Gordon Clippings,,2,2,3,2,60131,60162,19120629,RiddleDialog_101_703,RiddleDialog_101_705_2,RiddleText33,RiddleQuestion_101_502,RiddleText37,RiddleDialog_101_705_2,ui_riddle_hero_bg13
+102,5,Lobby-billboard,,3,,,7,60132,,19120634,RiddleDialog_101_701,RiddleDialog_101_704_7,RiddleText25,RiddleQuestion_101_516,RiddleText49,RiddleDialog_101_704_7,ui_riddle_hero_bg05
+102,11,Arena,,3,1,503,13,60132,,19120633,RiddleDialog_101_702,RiddleDialog_101_704_13,RiddleText31,RiddleQuestion_101_512,RiddleText48,RiddleDialog_101_704_13,ui_riddle_hero_bg11
+102,12,Catwoman's room-wine,,3,2,4,3,60132,60163,19120632,RiddleDialog_101_703,RiddleDialog_101_706_3,RiddleText32,RiddleQuestion_101_503,RiddleText38,RiddleDialog_101_706_3,ui_riddle_hero_bg12
+102,4,Hall-Multiverse,,4,,,11,60133,60169,19120637,RiddleDialog_101_701,RiddleDialog_101_705_11,RiddleText24,RiddleQuestion_101_511,RiddleText46,RiddleDialog_101_705_11,ui_riddle_hero_bg04
+102,9,Evil Advent Interface-Superwoman,,4,1,306,18,60133,,19120636,RiddleDialog_101_702,RiddleHelp_2,RiddleText29,RiddleQuestion_2,RiddleAnswer_2,RiddleHelp_2,ui_riddle_hero_bg09
+102,15,Reserve Team-Resonance Crystal,,4,1,630,24,60133,60170,19120635,RiddleDialog_101_703,RiddleHelp_9,RiddleText35,RiddleQuestion_9,RiddleAnswer_9,RiddleHelp_9,ui_riddle_hero_bg15
+102,3,Mall-Drone,,5,1,203,15,60134,60171,19120640,RiddleDialog_101_701,RiddleDialog_101_706_15,RiddleText23,RiddleQuestion_101_515,RiddleText50,RiddleDialog_101_706_15,ui_riddle_hero_bg03
+102,8,Ranking-top player,,5,1,421,25,60134,60167,19120638,RiddleDialog_101_702,RiddleHelp_10,RiddleText28,RiddleQuestion_10,RiddleAnswer_10,RiddleHelp_10,ui_riddle_hero_bg08
+102,14,Exploration Dungeon-Waterfall,,5,2,4,12,60134,60164,19120639,RiddleDialog_101_703,RiddleDialog_101_706_12,RiddleText34,RiddleQuestion_101_513,RiddleText47,RiddleDialog_101_706_12,ui_riddle_hero_bg14

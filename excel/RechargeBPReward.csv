@@ -1,0 +1,409 @@
+﻿InfoID,InfoLevel,O,Param,InfoShow,PayPriceShow,FreeReward,PayReward,PayNum,LimitNum,SkuId
+ID,Tier Field - Reward Identifier,Type - Remarks 1. Hero,star rating,The Tier Seen After Reaching,Visible Gift Pack Prices for This Tier and Below,Free Reward ID,Paid Gift Pack Reward ID,Paid Gift Pack Price,Purchase Limit,SKU ID from RechargeSKU.csv
+index,index,O,int,int,int,int,int,int,int,string
+9999,11,"Hero BP - General, Custom Display Only",5,71,31,199991011,199991031,100499,5,characterupgrade5
+9999,21,"Hero BP - General, Custom Display Only",6,71,41,199991012,199991032,100499,2,characterupgrade5
+9999,31,"Hero BP - General, Custom Display Only",7,71,51,199991013,199991033,101999,2,characterupgrade20
+9999,41,"Hero BP - General, Custom Display Only",8,71,61,199991014,199991034,104999,2,characterupgrade50
+9999,51,"Hero BP - General, Custom Display Only",9,71,71,199991015,199991035,104999,2,characterupgrade50
+9999,61,"Hero BP - General, Custom Display Only",10,71,71,199991016,199991036,109999,3,characterupgrade100
+9999,71,"Hero BP - General, Custom Display Only",11,111,111,199991017,199991037,109999,4,characterupgrade100
+9999,81,"Hero BP - General, Custom Display Only",12,111,111,199991018,199991038,104999,3,characterupgrade50
+9999,91,"Hero BP - General, Custom Display Only",13,111,111,199991019,199991039,109999,2,characterupgrade100
+9999,101,"Hero BP - General, Custom Display Only",14,111,111,199991020,199991040,109999,4,characterupgrade100
+9999,111,"Hero BP - General, Custom Display Only",15,111,111,199991021,199991041,109999,2,characterupgrade100
+9901,11,Hero BP - Superman  ,5,61,31,19901011,19901031,100499,10,characterupgrade5
+9901,21,Hero BP - Superman  ,6,61,41,19901012,19901032,100499,2,characterupgrade5
+9901,31,Hero BP - Superman  ,7,61,51,19901013,19901033,101999,2,characterupgrade20
+9901,41,Hero BP - Superman  ,8,61,61,19901014,19901034,104999,3,characterupgrade50
+9901,51,Hero BP - Superman  ,9,61,61,19901015,19901035,104999,3,characterupgrade50
+9901,61,Hero BP - Superman  ,10,111,81,19901016,19901036,109999,3,characterupgrade100
+9901,71,Hero BP - Superman  ,11,111,91,19901017,19901037,109999,2,characterupgrade100
+9901,81,Hero BP - Superman  ,12,111,101,19901018,19901038,109999,2,characterupgrade100
+9901,91,Hero BP - Superman  ,13,111,111,19901019,19901039,109999,2,characterupgrade100
+9901,101,Hero BP - Superman  ,14,111,111,19901020,19901040,109999,2,characterupgrade100
+9901,111,Hero BP - Superman  ,15,111,111,19901021,19901041,109999,2,characterupgrade100
+9902,11,Hero BP - Wonder Woman  ,5,61,31,19902011,19902031,100499,10,characterupgrade5
+9902,21,Hero BP - Wonder Woman  ,6,61,41,19902012,19902032,100499,2,characterupgrade5
+9902,31,Hero BP - Wonder Woman  ,7,61,51,19902013,19902033,101999,2,characterupgrade20
+9902,41,Hero BP - Wonder Woman  ,8,61,61,19902014,19902034,104999,3,characterupgrade50
+9902,51,Hero BP - Wonder Woman  ,9,61,61,19902015,19902035,104999,3,characterupgrade50
+9902,61,Hero BP - Wonder Woman  ,10,111,81,19902016,19902036,109999,3,characterupgrade100
+9902,71,Hero BP - Wonder Woman  ,11,111,91,19902017,19902037,109999,2,characterupgrade100
+9902,81,Hero BP - Wonder Woman  ,12,111,101,19902018,19902038,109999,2,characterupgrade100
+9902,91,Hero BP - Wonder Woman  ,13,111,111,19902019,19902039,109999,2,characterupgrade100
+9902,101,Hero BP - Wonder Woman  ,14,111,111,19902020,19902040,109999,2,characterupgrade100
+9902,111,Hero BP - Wonder Woman  ,15,111,111,19902021,19902041,109999,2,characterupgrade100
+9903,11,Hero BP - The Flash  ,5,61,31,19903011,19903031,100499,10,characterupgrade5
+9903,21,Hero BP - The Flash  ,6,61,41,19903012,19903032,100499,2,characterupgrade5
+9903,31,Hero BP - The Flash  ,7,61,51,19903013,19903033,101999,2,characterupgrade20
+9903,41,Hero BP - The Flash  ,8,61,61,19903014,19903034,104999,3,characterupgrade50
+9903,51,Hero BP - The Flash  ,9,61,61,19903015,19903035,104999,3,characterupgrade50
+9903,61,Hero BP - The Flash  ,10,111,81,19903016,19903036,109999,3,characterupgrade100
+9903,71,Hero BP - The Flash  ,11,111,91,19903017,19903037,109999,2,characterupgrade100
+9903,81,Hero BP - The Flash  ,12,111,101,19903018,19903038,109999,2,characterupgrade100
+9903,91,Hero BP - The Flash  ,13,111,111,19903019,19903039,109999,2,characterupgrade100
+9903,101,Hero BP - The Flash  ,14,111,111,19903020,19903040,109999,2,characterupgrade100
+9903,111,Hero BP - The Flash  ,15,111,111,19903021,19903041,109999,2,characterupgrade100
+9904,11,Hero BP - Doctor Fate  ,5,61,31,19904011,19904031,100499,10,characterupgrade5
+9904,21,Hero BP - Doctor Fate  ,6,61,41,19904012,19904032,100499,2,characterupgrade5
+9904,31,Hero BP - Doctor Fate  ,7,61,51,19904013,19904033,101999,2,characterupgrade20
+9904,41,Hero BP - Doctor Fate  ,8,61,61,19904014,19904034,104999,3,characterupgrade50
+9904,51,Hero BP - Doctor Fate  ,9,61,61,19904015,19904035,104999,3,characterupgrade50
+9904,61,Hero BP - Doctor Fate  ,10,111,81,19904016,19904036,109999,3,characterupgrade100
+9904,71,Hero BP - Doctor Fate  ,11,111,91,19904017,19904037,109999,2,characterupgrade100
+9904,81,Hero BP - Doctor Fate  ,12,111,101,19904018,19904038,109999,2,characterupgrade100
+9904,91,Hero BP - Doctor Fate  ,13,111,111,19904019,19904039,109999,2,characterupgrade100
+9904,101,Hero BP - Doctor Fate  ,14,111,111,19904020,19904040,109999,2,characterupgrade100
+9904,111,Hero BP - Doctor Fate  ,15,111,111,19904021,19904041,109999,2,characterupgrade100
+9905,11,Hero BP - Cyborg  ,5,61,31,19905020,19905031,100499,10,characterupgrade5
+9905,21,Hero BP - Cyborg  ,6,61,41,19905021,19905032,100499,2,characterupgrade5
+9905,31,Hero BP - Cyborg  ,7,61,51,19905022,19905033,101999,2,characterupgrade20
+9905,41,Hero BP - Cyborg  ,8,61,61,19905023,19905034,104999,3,characterupgrade50
+9905,51,Hero BP - Cyborg  ,9,61,61,19905024,19905035,104999,3,characterupgrade50
+9905,61,Hero BP - Cyborg  ,10,111,81,19905025,19905036,109999,3,characterupgrade100
+9905,71,Hero BP - Cyborg  ,11,111,91,19905026,19905037,109999,2,characterupgrade100
+9905,81,Hero BP - Cyborg  ,12,111,101,19905027,19905038,109999,2,characterupgrade100
+9905,91,Hero BP - Cyborg  ,13,111,111,19905028,19905039,109999,2,characterupgrade100
+9905,101,Hero BP - Cyborg  ,14,111,111,19905029,19905040,109999,2,characterupgrade100
+9905,111,Hero BP - Cyborg  ,15,111,111,19905030,19905041,109999,2,characterupgrade100
+9906,11,Hero BP - Luthor  ,5,61,31,19906011,19906031,100499,10,characterupgrade5
+9906,21,Hero BP - Luthor  ,6,61,41,19906012,19906032,100499,2,characterupgrade5
+9906,31,Hero BP - Luthor  ,7,61,51,19906013,19906033,101999,2,characterupgrade20
+9906,41,Hero BP - Luthor  ,8,61,61,19906014,19906034,104999,3,characterupgrade50
+9906,51,Hero BP - Luthor  ,9,61,61,19906015,19906035,104999,3,characterupgrade50
+9906,61,Hero BP - Luthor  ,10,111,81,19906016,19906036,109999,3,characterupgrade100
+9906,71,Hero BP - Luthor  ,11,111,91,19906017,19906037,109999,2,characterupgrade100
+9906,81,Hero BP - Luthor  ,12,111,101,19906018,19906038,109999,2,characterupgrade100
+9906,91,Hero BP - Luthor  ,13,111,111,19906019,19906039,109999,2,characterupgrade100
+9906,101,Hero BP - Luthor  ,14,111,111,19906020,19906040,109999,2,characterupgrade100
+9906,111,Hero BP - Luthor  ,15,111,111,19906021,19906041,109999,2,characterupgrade100
+9907,11,Hero BP - Deathstroke  ,5,61,31,19907011,19907031,100499,10,characterupgrade5
+9907,21,Hero BP - Deathstroke  ,6,61,41,19907012,19907032,100499,2,characterupgrade5
+9907,31,Hero BP - Deathstroke  ,7,61,51,19907013,19907033,101999,2,characterupgrade20
+9907,41,Hero BP - Deathstroke  ,8,61,61,19907014,19907034,104999,3,characterupgrade50
+9907,51,Hero BP - Deathstroke  ,9,61,61,19907015,19907035,104999,3,characterupgrade50
+9907,61,Hero BP - Deathstroke  ,10,111,81,19907016,19907036,109999,3,characterupgrade100
+9907,71,Hero BP - Deathstroke  ,11,111,91,19907017,19907037,109999,2,characterupgrade100
+9907,81,Hero BP - Deathstroke  ,12,111,101,19907018,19907038,109999,2,characterupgrade100
+9907,91,Hero BP - Deathstroke  ,13,111,111,19907019,19907039,109999,2,characterupgrade100
+9907,101,Hero BP - Deathstroke  ,14,111,111,19907020,19907040,109999,2,characterupgrade100
+9907,111,Hero BP - Deathstroke  ,15,111,111,19907021,19907041,109999,2,characterupgrade100
+9908,11,Hero BP - Sinestro  ,5,61,31,19908051,19908071,100499,10,characterupgrade5
+9908,21,Hero BP - Sinestro  ,6,61,41,19908052,19908072,100999,2,characterupgrade10
+9908,31,Hero BP - Sinestro  ,7,61,51,19908053,19908073,101999,2,characterupgrade20
+9908,41,Hero BP - Sinestro  ,8,61,61,19908054,19908074,104999,3,characterupgrade50
+9908,51,Hero BP - Sinestro  ,9,61,61,19908055,19908075,104999,3,characterupgrade50
+9908,61,Hero BP - Sinestro  ,10,111,81,19908056,19908076,104999,3,characterupgrade50
+9908,71,Hero BP - Sinestro  ,11,111,91,19908057,19908077,104999,2,characterupgrade50
+9908,81,Hero BP - Sinestro  ,12,111,101,19908058,19908078,109999,2,characterupgrade100
+9908,91,Hero BP - Sinestro  ,13,111,111,19908059,19908079,109999,2,characterupgrade100
+9908,101,Hero BP - Sinestro  ,14,111,111,19908060,19908080,109999,2,characterupgrade100
+9908,111,Hero BP - Sinestro  ,15,111,111,19908061,19908081,109999,2,characterupgrade100
+9909,11,Hero BP - Martian Manhunter  ,5,61,31,19909011,19909031,100499,10,characterupgrade5
+9909,21,Hero BP - Martian Manhunter  ,6,61,41,19909012,19909032,100499,2,characterupgrade5
+9909,31,Hero BP - Martian Manhunter  ,7,61,51,19909013,19909033,101999,2,characterupgrade20
+9909,41,Hero BP - Martian Manhunter  ,8,61,61,19909014,19909034,104999,3,characterupgrade50
+9909,51,Hero BP - Martian Manhunter  ,9,61,61,19909015,19909035,104999,3,characterupgrade50
+9909,61,Hero BP - Martian Manhunter  ,10,111,81,19909016,19909036,109999,3,characterupgrade100
+9909,71,Hero BP - Martian Manhunter  ,11,111,91,19909017,19909037,109999,2,characterupgrade100
+9909,81,Hero BP - Martian Manhunter  ,12,111,101,19909018,19909038,109999,2,characterupgrade100
+9909,91,Hero BP - Martian Manhunter  ,13,111,111,19909019,19909039,109999,2,characterupgrade100
+9909,101,Hero BP - Martian Manhunter  ,14,111,111,19909020,19909040,109999,2,characterupgrade100
+9909,111,Hero BP - Martian Manhunter,15,111,111,19909021,19909041,109999,2,characterupgrade100
+9910,11,Hero BP - Green Lantern - Hal,5,61,31,19910011,19910031,100499,6,characterupgrade5
+9910,21,Hero BP - Green Lantern - Hal,6,61,41,19910012,19910032,100999,3,characterupgrade10
+9910,31,Hero BP - Green Lantern - Hal,7,61,51,19910013,19910033,101999,1,characterupgrade20
+9910,41,Hero BP - Green Lantern - Hal,8,61,61,19910014,19910034,104999,1,characterupgrade50
+9910,51,Hero BP - Green Lantern - Hal,9,61,61,19910015,19910035,104999,1,characterupgrade50
+9910,61,Hero BP - Green Lantern - Hal,10,111,81,19910016,19910036,104999,1,characterupgrade50
+9910,71,Hero BP - Green Lantern - Hal,11,111,91,19910017,19910037,104999,1,characterupgrade50
+9910,81,Hero BP - Green Lantern - Hal,12,111,101,19910018,19910038,109999,1,characterupgrade100
+9910,91,Hero BP - Green Lantern - Hal,13,111,111,19910019,19910039,109999,1,characterupgrade100
+9910,101,Hero BP - Green Lantern - Hal,14,111,111,19910020,19910040,109999,1,characterupgrade100
+9910,111,Hero BP - Green Lantern - Hal,15,111,111,19910021,19910041,109999,1,characterupgrade100
+9911,11,Hero BP - Blue Beetle,5,61,31,19911011,19911031,100499,6,characterupgrade5
+9911,21,Hero BP - Blue Beetle,6,61,41,19911012,19911032,100999,3,characterupgrade10
+9911,31,Hero BP - Blue Beetle,7,61,51,19911013,19911033,101999,1,characterupgrade20
+9911,41,Hero BP - Blue Beetle,8,61,61,19911014,19911034,104999,1,characterupgrade50
+9911,51,Hero BP - Blue Beetle,9,61,61,19911015,19911035,104999,1,characterupgrade50
+9911,61,Hero BP - Blue Beetle,10,111,81,19911016,19911036,104999,1,characterupgrade50
+9911,71,Hero BP - Blue Beetle,11,111,91,19911017,19911037,104999,1,characterupgrade50
+9911,81,Hero BP - Blue Beetle,12,111,101,19911018,19911038,109999,1,characterupgrade100
+9911,91,Hero BP - Blue Beetle,13,111,111,19911019,19911039,109999,1,characterupgrade100
+9911,101,Hero BP - Blue Beetle,14,111,111,19911020,19911040,109999,1,characterupgrade100
+9911,111,Hero BP - Blue Beetle,15,111,111,19911021,19911041,109999,1,characterupgrade100
+9912,11,Hero BP - Supergirl,5,61,31,19912011,19912031,100499,6,characterupgrade5
+9912,21,Hero BP - Supergirl,6,61,41,19912012,19912032,100999,3,characterupgrade10
+9912,31,Hero BP - Supergirl,7,61,51,19912013,19912033,101999,1,characterupgrade20
+9912,41,Hero BP - Supergirl,8,61,61,19912014,19912034,104999,1,characterupgrade50
+9912,51,Hero BP - Supergirl,9,61,61,19912015,19912035,104999,1,characterupgrade50
+9912,61,Hero BP - Supergirl,10,111,81,19912016,19912036,104999,1,characterupgrade50
+9912,71,Hero BP - Supergirl,11,111,91,19912017,19912037,104999,1,characterupgrade50
+9912,81,Hero BP - Supergirl,12,111,101,19912018,19912038,109999,1,characterupgrade100
+9912,91,Hero BP - Supergirl,13,111,111,19912019,19912039,109999,1,characterupgrade100
+9912,101,Hero BP - Supergirl,14,111,111,19912020,19912040,109999,1,characterupgrade100
+9912,111,Hero BP - Supergirl,15,111,111,19912021,19912041,109999,1,characterupgrade100
+9913,11,Hero BP - Peacemaker,5,61,31,19913011,19913031,100499,6,characterupgrade5
+9913,21,Hero BP - Peacemaker,6,61,41,19913012,19913032,100999,3,characterupgrade10
+9913,31,Hero BP - Peacemaker,7,61,51,19913013,19913033,101999,1,characterupgrade20
+9913,41,Hero BP - Peacemaker,8,61,61,19913014,19913034,104999,1,characterupgrade50
+9913,51,Hero BP - Peacemaker,9,61,61,19913015,19913035,104999,1,characterupgrade50
+9913,61,Hero BP - Peacemaker,10,111,81,19913016,19913036,104999,1,characterupgrade50
+9913,71,Hero BP - Peacemaker,11,111,91,19913017,19913037,104999,1,characterupgrade50
+9913,81,Hero BP - Peacemaker,12,111,101,19913018,19913038,109999,1,characterupgrade100
+9913,91,Hero BP - Peacemaker,13,111,111,19913019,19913039,109999,1,characterupgrade100
+9913,101,Hero BP - Peacemaker,14,111,111,19913020,19913040,109999,1,characterupgrade100
+9913,111,Hero BP - Peacemaker,15,111,111,19913021,19913041,109999,1,characterupgrade100
+9914,11,Hero BP - Swamp Thing,5,61,31,19914011,19914031,100499,6,characterupgrade5
+9914,21,Hero BP - Swamp Thing,6,61,41,19914012,19914032,100999,3,characterupgrade10
+9914,31,Hero BP - Swamp Thing,7,61,51,19914013,19914033,101999,1,characterupgrade20
+9914,41,Hero BP - Swamp Thing,8,61,61,19914014,19914034,104999,1,characterupgrade50
+9914,51,Hero BP - Swamp Thing,9,61,61,19914015,19914035,104999,1,characterupgrade50
+9914,61,Hero BP - Swamp Thing,10,111,81,19914016,19914036,104999,1,characterupgrade50
+9914,71,Hero BP - Swamp Thing,11,111,91,19914017,19914037,104999,1,characterupgrade50
+9914,81,Hero BP - Swamp Thing,12,111,101,19914018,19914038,109999,1,characterupgrade100
+9914,91,Hero BP - Swamp Thing,13,111,111,19914019,19914039,109999,1,characterupgrade100
+9914,101,Hero BP - Swamp Thing,14,111,111,19914020,19914040,109999,1,characterupgrade100
+9914,111,Hero BP - Swamp Thing,15,111,111,19914021,19914041,109999,1,characterupgrade100
+9915,11,Hero BP - Aquaman,5,61,31,1971310545,1971310556,100499,6,characterupgrade5
+9915,21,Hero BP - Aquaman,6,61,41,1971310546,1971310557,100999,3,characterupgrade10
+9915,31,Hero BP - Aquaman,7,61,51,1971310547,1971310558,101999,1,characterupgrade20
+9915,41,Hero BP - Aquaman,8,61,61,1971310548,1971310559,104999,1,characterupgrade50
+9915,51,Hero BP - Aquaman,9,61,61,1971310549,1971310560,104999,1,characterupgrade50
+9915,61,Hero BP - Aquaman,10,111,81,1971310550,1971310561,104999,1,characterupgrade50
+9915,71,Hero BP - Aquaman,11,111,91,1971310551,1971310562,104999,1,characterupgrade50
+9915,81,Hero BP - Aquaman,12,111,101,1971310552,1971310563,109999,1,characterupgrade100
+9915,91,Hero BP - Aquaman,13,111,111,1971310553,1971310564,109999,1,characterupgrade100
+9915,101,Hero BP - Aquaman,14,111,111,1971310554,1971310565,109999,1,characterupgrade100
+9915,111,Hero BP - Aquaman,15,111,111,1971310555,1971310566,109999,1,characterupgrade100
+9916,11,Hero BP - Kyle,5,61,31,19916011,19916031,100499,6,characterupgrade5
+9916,21,Hero BP - Kyle,6,61,41,19916012,19916032,100999,3,characterupgrade10
+9916,31,Hero BP - Kyle,7,61,51,19916013,19916033,101999,1,characterupgrade20
+9916,41,Hero BP - Kyle,8,61,61,19916014,19916034,104999,1,characterupgrade50
+9916,51,Hero BP - Kyle,9,61,61,19916015,19916035,104999,1,characterupgrade50
+9916,61,Hero BP - Kyle,10,111,81,19916016,19916036,104999,1,characterupgrade50
+9916,71,Hero BP - Kyle,11,111,91,19916017,19916037,104999,1,characterupgrade50
+9916,81,Hero BP - Kyle,12,111,101,19916018,19916038,109999,1,characterupgrade100
+9916,91,Hero BP - Kyle,13,111,111,19916019,19916039,109999,1,characterupgrade100
+9916,101,Hero BP - Kyle,14,111,111,19916020,19916040,109999,1,characterupgrade100
+9916,111,Hero BP - Kyle,15,111,111,19916021,19916041,109999,1,characterupgrade100
+9941,11,Hero BP - Batman,3,81,31,19941011,19941031,100499,1,characterupgrade5
+9941,21,Hero BP - Batman,4,81,41,19941012,19941032,100999,10,characterupgrade10
+9941,31,Hero BP - Batman,5,81,51,19941013,19941033,100999,2,characterupgrade10
+9941,41,Hero BP - Batman,6,81,61,19941014,19941034,101999,2,characterupgrade20
+9941,51,Hero BP - Batman,7,81,71,19941015,19941035,101999,2,characterupgrade20
+9941,61,Hero BP - Batman,8,81,81,19941016,19941036,104999,2,characterupgrade50
+9941,71,Hero BP - Batman,9,81,81,19941017,19941037,104999,2,characterupgrade50
+9941,81,Hero BP - Batman,10,131,101,19941018,19941038,104999,3,characterupgrade50
+9941,91,Hero BP - Batman,11,131,111,19941019,19941039,104999,2,characterupgrade50
+9941,101,Hero BP - Batman,12,131,121,19941020,19941040,104999,2,characterupgrade50
+9941,111,Hero BP - Batman,13,131,131,19941021,19941041,104999,2,characterupgrade50
+9941,121,Hero BP - Batman,14,131,131,19941022,19941042,104999,2,characterupgrade50
+9941,131,Hero BP - Batman,15,131,131,19941023,19941043,104999,2,characterupgrade50
+9942,11,Hero BP - Constantine,3,81,31,19942011,19942031,100499,1,characterupgrade5
+9942,21,Hero BP - Constantine,4,81,41,19942012,19942032,100999,10,characterupgrade10
+9942,31,Hero BP - Constantine,5,81,51,19942013,19942033,100999,2,characterupgrade10
+9942,41,Hero BP - Constantine,6,81,61,19942014,19942034,101999,2,characterupgrade20
+9942,51,Hero BP - Constantine,7,81,71,19942015,19942035,101999,2,characterupgrade20
+9942,61,Hero BP - Constantine,8,81,81,19942016,19942036,104999,2,characterupgrade50
+9942,71,Hero BP - Constantine,9,81,81,19942017,19942037,104999,2,characterupgrade50
+9942,81,Hero BP - Constantine,10,131,101,19942018,19942038,104999,3,characterupgrade50
+9942,91,Hero BP - Constantine,11,131,111,19942019,19942039,104999,2,characterupgrade50
+9942,101,Hero BP - Constantine,12,131,121,19942020,19942040,104999,2,characterupgrade50
+9942,111,Hero BP - Constantine,13,131,131,19942021,19942041,104999,2,characterupgrade50
+9942,121,Hero BP - Constantine,14,131,131,19942022,19942042,104999,2,characterupgrade50
+9942,131,Hero BP - Constantine,15,131,131,19942023,19942043,104999,2,characterupgrade50
+9943,11,Hero BP - Superboy,3,81,31,19943011,19943031,100499,1,characterupgrade5
+9943,21,Hero BP - Superboy,4,81,41,19943012,19943032,100999,10,characterupgrade10
+9943,31,Hero BP - Superboy,5,81,51,19943013,19943033,100999,2,characterupgrade10
+9943,41,Hero BP - Superboy,6,81,61,19943014,19943034,101999,2,characterupgrade20
+9943,51,Hero BP - Superboy,7,81,71,19943015,19943035,101999,2,characterupgrade20
+9943,61,Hero BP - Superboy,8,81,81,19943016,19943036,104999,2,characterupgrade50
+9943,71,Hero BP - Superboy,9,81,81,19943017,19943037,104999,2,characterupgrade50
+9943,81,Hero BP - Superboy,10,131,101,19943018,19943038,104999,3,characterupgrade50
+9943,91,Hero BP - Superboy,11,131,111,19943019,19943039,104999,2,characterupgrade50
+9943,101,Hero BP - Superboy,12,131,121,19943020,19943040,104999,2,characterupgrade50
+9943,111,Hero BP - Superboy,13,131,131,19943021,19943041,104999,2,characterupgrade50
+9943,121,Hero BP - Superboy,14,131,131,19943022,19943042,104999,2,characterupgrade50
+9943,131,Hero BP - Superboy,15,131,131,19943023,19943043,104999,2,characterupgrade50
+9944,11,Hero BP - Green Arrow,3,81,31,19944011,19944031,100499,1,characterupgrade5
+9944,21,Hero BP - Green Arrow,4,81,41,19944012,19944032,100999,10,characterupgrade10
+9944,31,Hero BP - Green Arrow,5,81,51,19944013,19944033,100999,2,characterupgrade10
+9944,41,Hero BP - Green Arrow,6,81,61,19944014,19944034,101999,2,characterupgrade20
+9944,51,Hero BP - Green Arrow,7,81,71,19944015,19944035,101999,2,characterupgrade20
+9944,61,Hero BP - Green Arrow,8,81,81,19944016,19944036,104999,2,characterupgrade50
+9944,71,Hero BP - Green Arrow,9,81,81,19944017,19944037,104999,2,characterupgrade50
+9944,81,Hero BP - Green Arrow,10,131,101,19944018,19944038,104999,3,characterupgrade50
+9944,91,Hero BP - Green Arrow,11,131,111,19944019,19944039,104999,2,characterupgrade50
+9944,101,Hero BP - Green Arrow,12,131,121,19944020,19944040,104999,2,characterupgrade50
+9944,111,Hero BP - Green Arrow,13,131,131,19944021,19944041,104999,2,characterupgrade50
+9944,121,Hero BP - Green Arrow,14,131,131,19944022,19944042,104999,2,characterupgrade50
+9944,131,Hero BP - Green Arrow,15,131,131,19944023,19944043,104999,2,characterupgrade50
+9945,11,Hero BP - Grodd,3,81,31,19945011,19945031,100499,1,characterupgrade5
+9945,21,Hero BP - Grodd,4,81,41,19945012,19945032,100999,10,characterupgrade10
+9945,31,Hero BP - Grodd,5,81,51,19945013,19945033,100999,2,characterupgrade10
+9945,41,Hero BP - Grodd,6,81,61,19945014,19945034,101999,2,characterupgrade20
+9945,51,Hero BP - Grodd,7,81,71,19945015,19945035,101999,2,characterupgrade20
+9945,61,Hero BP - Grodd,8,81,81,19945016,19945036,104999,2,characterupgrade50
+9945,71,Hero BP - Grodd,9,81,81,19945017,19945037,104999,2,characterupgrade50
+9945,81,Hero BP - Grodd,10,131,101,19945018,19945038,104999,3,characterupgrade50
+9945,91,Hero BP - Grodd,11,131,111,19945019,19945039,104999,2,characterupgrade50
+9945,101,Hero BP - Grodd,12,131,121,19945020,19945040,104999,2,characterupgrade50
+9945,111,Hero BP - Grodd,13,131,131,19945021,19945041,104999,2,characterupgrade50
+9945,121,Hero BP - Grodd,14,131,131,19945022,19945042,104999,2,characterupgrade50
+9945,131,Hero BP - Grodd,15,131,131,19945023,19945043,104999,2,characterupgrade50
+9960,11,Hero BP - The Bride,5,61,31,199091042,199091053,100499,6,characterupgrade5
+9960,21,Hero BP - The Bride,6,61,41,199091043,199091054,100999,3,characterupgrade10
+9960,31,Hero BP - The Bride,7,61,51,199091044,199091055,101999,1,characterupgrade20
+9960,41,Hero BP - The Bride,8,61,61,199091045,199091056,104999,1,characterupgrade50
+9960,51,Hero BP - The Bride,9,61,61,199091046,199091057,104999,1,characterupgrade50
+9960,61,Hero BP - The Bride,10,111,81,199091047,199091058,104999,1,characterupgrade50
+9960,71,Hero BP - The Bride,11,111,91,199091048,199091059,104999,1,characterupgrade50
+9960,81,Hero BP - The Bride,12,111,101,199091049,199091060,109999,1,characterupgrade100
+9960,91,Hero BP - The Bride,13,111,111,199091050,199091061,109999,1,characterupgrade100
+9960,101,Hero BP - The Bride,14,111,111,199091051,199091062,109999,1,characterupgrade100
+9960,111,Hero BP - The Bride,15,111,111,199091052,199091063,109999,1,characterupgrade100
+9961,11,Hero BP - Superman DCU,5,61,31,199091064,199091075,100499,6,characterupgrade5
+9961,21,Hero BP - Superman DCU,6,61,41,199091065,199091076,100999,3,characterupgrade10
+9961,31,Hero BP - Superman DCU,7,61,51,199091066,199091077,101999,1,characterupgrade20
+9961,41,Hero BP - Superman DCU,8,61,61,199091067,199091078,104999,1,characterupgrade50
+9961,51,Hero BP - Superman DCU,9,61,61,199091068,199091079,104999,1,characterupgrade50
+9961,61,Hero BP - Superman DCU,10,111,81,199091069,199091080,104999,1,characterupgrade50
+9961,71,Hero BP - Superman DCU,11,111,91,199091070,199091081,104999,1,characterupgrade50
+9961,81,Hero BP - Superman DCU,12,111,101,199091071,199091082,109999,1,characterupgrade100
+9961,91,Hero BP - Superman DCU,13,111,111,199091072,199091083,109999,1,characterupgrade100
+9961,101,Hero BP - Superman DCU,14,111,111,199091073,199091084,109999,1,characterupgrade100
+9961,111,Hero BP - Superman DCU,15,111,111,199091074,199091085,109999,1,characterupgrade100
+9964,11,Hero BP - General Zod,5,61,31,19964001,19964012,100499,6,characterupgrade5
+9964,21,Hero BP - General Zod,6,61,41,19964002,19964013,100999,3,characterupgrade10
+9964,31,Hero BP - General Zod,7,61,51,19964003,19964014,101999,1,characterupgrade20
+9964,41,Hero BP - General Zod,8,61,61,19964004,19964015,104999,1,characterupgrade50
+9964,51,Hero BP - General Zod,9,61,61,19964005,19964016,104999,1,characterupgrade50
+9964,61,Hero BP - General Zod,10,111,81,19964006,19964017,104999,1,characterupgrade50
+9964,71,Hero BP - General Zod,11,111,91,19964007,19964018,104999,1,characterupgrade50
+9964,81,Hero BP - General Zod,12,111,101,19964008,19964019,109999,1,characterupgrade100
+9964,91,Hero BP - General Zod,13,111,111,19964009,19964020,109999,1,characterupgrade100
+9964,101,Hero BP - General Zod,14,111,111,19964010,19964021,109999,1,characterupgrade100
+9964,111,Hero BP - General Zod,15,111,111,19964011,19964022,109999,1,characterupgrade100
+9965,11,Hero BP - The Joker,5,61,31,19965001,19965012,100499,6,characterupgrade5
+9965,21,Hero BP - The Joker,6,61,41,19965002,19965013,100999,3,characterupgrade10
+9965,31,Hero BP - The Joker,7,61,51,19965003,19965014,101999,1,characterupgrade20
+9965,41,Hero BP - The Joker,8,61,61,19965004,19965015,104999,1,characterupgrade50
+9965,51,Hero BP - The Joker,9,61,61,19965005,19965016,104999,1,characterupgrade50
+9965,61,Hero BP - The Joker,10,111,81,19965006,19965017,104999,1,characterupgrade50
+9965,71,Hero BP - The Joker,11,111,91,19965007,19965018,104999,1,characterupgrade50
+9965,81,Hero BP - The Joker,12,111,101,19965008,19965019,109999,1,characterupgrade100
+9965,91,Hero BP - The Joker,13,111,111,19965009,19965020,109999,1,characterupgrade100
+9965,101,Hero BP - The Joker,14,111,111,19965010,19965021,109999,1,characterupgrade100
+9965,111,Hero BP - The Joker,15,111,111,19965011,19965022,109999,1,characterupgrade100
+9966,11,Hero BP - Nubia,5,61,31,19966011,19966031,100499,6,characterupgrade5
+9966,21,Hero BP - Nubia,6,61,41,19966012,19966032,100999,3,characterupgrade10
+9966,31,Hero BP - Nubia,7,61,51,19966013,19966033,101999,1,characterupgrade20
+9966,41,Hero BP - Nubia,8,61,61,19966014,19966034,104999,1,characterupgrade50
+9966,51,Hero BP - Nubia,9,61,61,19966015,19966035,104999,1,characterupgrade50
+9966,61,Hero BP - Nubia,10,111,81,19966016,19966036,104999,1,characterupgrade50
+9966,71,Hero BP - Nubia,11,111,91,19966017,19966037,104999,1,characterupgrade50
+9966,81,Hero BP - Nubia,12,111,101,19966018,19966038,109999,1,characterupgrade100
+9966,91,Hero BP - Nubia,13,111,111,19966019,19966039,109999,1,characterupgrade100
+9966,101,Hero BP - Nubia,14,111,111,19966020,19966040,109999,1,characterupgrade100
+9966,111,Hero BP - Nubia,15,111,111,19966021,19966041,109999,1,characterupgrade100
+9967,11,Hero BP - Black Adam,5,61,31,19967011,19967031,100499,6,characterupgrade5
+9967,21,Hero BP - Black Adam,6,61,41,19967012,19967032,100999,3,characterupgrade10
+9967,31,Hero BP - Black Adam,7,61,51,19967013,19967033,101999,1,characterupgrade20
+9967,41,Hero BP - Black Adam,8,61,61,19967014,19967034,104999,1,characterupgrade50
+9967,51,Hero BP - Black Adam,9,61,61,19967015,19967035,104999,1,characterupgrade50
+9967,61,Hero BP - Black Adam,10,111,81,19967016,19967036,104999,1,characterupgrade50
+9967,71,Hero BP - Black Adam,11,111,91,19967017,19967037,104999,1,characterupgrade50
+9967,81,Hero BP - Black Adam,12,111,101,19967018,19967038,109999,1,characterupgrade100
+9967,91,Hero BP - Black Adam,13,111,111,19967019,19967039,109999,1,characterupgrade100
+9967,101,Hero BP - Black Adam,14,111,111,19967020,19967040,109999,1,characterupgrade100
+9967,111,Hero BP - Black Adam,15,111,111,19967021,19967041,109999,1,characterupgrade100
+9968,11,Hero BP - Artemis,5,61,31,19968011,19968031,100499,6,characterupgrade5
+9968,21,Hero BP - Artemis,6,61,41,19968012,19968032,100999,3,characterupgrade10
+9968,31,Hero BP - Artemis,7,61,51,19968013,19968033,101999,1,characterupgrade20
+9968,41,Hero BP - Artemis,8,61,61,19968014,19968034,104999,1,characterupgrade50
+9968,51,Hero BP - Artemis,9,61,61,19968015,19968035,104999,1,characterupgrade50
+9968,61,Hero BP - Artemis,10,111,81,19968016,19968036,104999,1,characterupgrade50
+9968,71,Hero BP - Artemis,11,111,91,19968017,19968037,104999,1,characterupgrade50
+9968,81,Hero BP - Artemis,12,111,101,19968018,19968038,109999,1,characterupgrade100
+9968,91,Hero BP - Artemis,13,111,111,19968019,19968039,109999,1,characterupgrade100
+9968,101,Hero BP - Artemis,14,111,111,19968020,19968040,109999,1,characterupgrade100
+9968,111,Hero BP - Artemis,15,111,111,19968021,19968041,109999,1,characterupgrade100
+9969,11,Hero BP - Lobo,5,61,31,19969011,19969031,100499,6,characterupgrade5
+9969,21,Hero BP - Lobo,6,61,41,19969012,19969032,100999,3,characterupgrade10
+9969,31,Hero BP - Lobo,7,61,51,19969013,19969033,101999,1,characterupgrade20
+9969,41,Hero BP - Lobo,8,61,61,19969014,19969034,104999,1,characterupgrade50
+9969,51,Hero BP - Lobo,9,61,61,19969015,19969035,104999,1,characterupgrade50
+9969,61,Hero BP - Lobo,10,111,81,19969016,19969036,104999,1,characterupgrade50
+9969,71,Hero BP - Lobo,11,111,91,19969017,19969037,104999,1,characterupgrade50
+9969,81,Hero BP - Lobo,12,111,101,19969018,19969038,109999,1,characterupgrade100
+9969,91,Hero BP - Lobo,13,111,111,19969019,19969039,109999,1,characterupgrade100
+9969,101,Hero BP - Lobo,14,111,111,19969020,19969040,109999,1,characterupgrade100
+9969,111,Hero BP - Lobo,15,111,111,19969021,19969041,109999,1,characterupgrade100
+9970,11,Hero BP - BlackLightning,5,61,31,19970011,19970031,100499,6,characterupgrade5
+9970,21,Hero BP - BlackLightning,6,61,41,19970012,19970032,100999,3,characterupgrade10
+9970,31,Hero BP - BlackLightning,7,61,51,19970013,19970033,101999,1,characterupgrade20
+9970,41,Hero BP - BlackLightning,8,61,61,19970014,19970034,104999,1,characterupgrade50
+9970,51,Hero BP - BlackLightning,9,61,61,19970015,19970035,104999,1,characterupgrade50
+9970,61,Hero BP - BlackLightning,10,111,81,19970016,19970036,104999,1,characterupgrade50
+9970,71,Hero BP - BlackLightning,11,111,91,19970017,19970037,104999,1,characterupgrade50
+9970,81,Hero BP - BlackLightning,12,111,101,19970018,19970038,109999,1,characterupgrade100
+9970,91,Hero BP - BlackLightning,13,111,111,19970019,19970039,109999,1,characterupgrade100
+9970,101,Hero BP - BlackLightning,14,111,111,19970020,19970040,109999,1,characterupgrade100
+9970,111,Hero BP - BlackLightning,15,111,111,19970021,19970041,109999,1,characterupgrade100
+9971,11,Hero BP - Supergirl DCU,5,61,31,19998011,19998022,100499,6,characterupgrade5
+9971,21,Hero BP - Supergirl DCU,6,61,41,19998012,19998023,100999,3,characterupgrade10
+9971,31,Hero BP - Supergirl DCU,7,61,51,19998013,19998024,101999,1,characterupgrade20
+9971,41,Hero BP - Supergirl DCU,8,61,61,19998014,19998025,104999,1,characterupgrade50
+9971,51,Hero BP - Supergirl DCU,9,61,61,19998015,19998026,104999,1,characterupgrade50
+9971,61,Hero BP - Supergirl DCU,10,111,81,19998016,19998027,104999,1,characterupgrade50
+9971,71,Hero BP - Supergirl DCU,11,111,91,19998017,19998028,104999,1,characterupgrade50
+9971,81,Hero BP - Supergirl DCU,12,111,101,19998018,19998029,109999,1,characterupgrade100
+9971,91,Hero BP - Supergirl DCU,13,111,111,19998019,19998030,109999,1,characterupgrade100
+9971,101,Hero BP - Supergirl DCU,14,111,111,19998020,19998031,109999,1,characterupgrade100
+9971,111,Hero BP - Supergirl DCU,15,111,111,19998021,19998032,109999,1,characterupgrade100
+9972,11,Hero BP - Absolute Superman,5,61,31,19982011,19982022,100499,6,characterupgrade5
+9972,21,Hero BP - Absolute Superman,6,61,41,19982012,19982023,100999,3,characterupgrade10
+9972,31,Hero BP - Absolute Superman,7,61,51,19982013,19982024,101999,1,characterupgrade20
+9972,41,Hero BP - Absolute Superman,8,61,61,19982014,19982025,104999,1,characterupgrade50
+9972,51,Hero BP - Absolute Superman,9,61,61,19982015,19982026,104999,1,characterupgrade50
+9972,61,Hero BP - Absolute Superman,10,111,81,19982016,19982027,104999,1,characterupgrade50
+9972,71,Hero BP - Absolute Superman,11,111,91,19982017,19982028,104999,1,characterupgrade50
+9972,81,Hero BP - Absolute Superman,12,111,101,19982018,19982029,109999,1,characterupgrade100
+9972,91,Hero BP - Absolute Superman,13,111,111,19982019,19982030,109999,1,characterupgrade100
+9972,101,Hero BP - Absolute Superman,14,111,111,19982020,19982031,109999,1,characterupgrade100
+9972,111,Hero BP - Absolute Superman,15,111,111,19982021,19982032,109999,1,characterupgrade100
+9973,11,Hero BP - Absolute Wonder Woman,5,61,31,19973011,19973031,100499,6,characterupgrade5
+9973,21,Hero BP - Absolute Wonder Woman,6,61,41,19973012,19973032,100499,3,characterupgrade5
+9973,31,Hero BP - Absolute Wonder Woman,7,61,51,19973013,19973033,101999,1,characterupgrade20
+9973,41,Hero BP - Absolute Wonder Woman,8,61,61,19973014,19973034,104999,1,characterupgrade50
+9973,51,Hero BP - Absolute Wonder Woman,9,61,61,19973015,19973035,104999,1,characterupgrade50
+9973,61,Hero BP - Absolute Wonder Woman,10,111,81,19973016,19973036,104999,1,characterupgrade50
+9973,71,Hero BP - Absolute Wonder Woman,11,111,91,19973017,19973037,104999,1,characterupgrade50
+9973,81,Hero BP - Absolute Wonder Woman,12,111,101,19973018,19973038,109999,1,characterupgrade100
+9973,91,Hero BP - Absolute Wonder Woman,13,111,111,19973019,19973039,109999,1,characterupgrade100
+9973,101,Hero BP - Absolute Wonder Woman,14,111,111,19973020,19973040,109999,1,characterupgrade100
+9973,111,Hero BP - Absolute Wonder Woman,15,111,111,19973021,19973041,109999,1,characterupgrade100
+9974,11,Hero BP - Absolute Batman,5,61,31,19974011,19974031,100499,6,characterupgrade5
+9974,21,Hero BP - Absolute Batman,6,61,41,19974012,19974032,100499,3,characterupgrade5
+9974,31,Hero BP - Absolute Batman,7,61,51,19974013,19974033,101999,1,characterupgrade20
+9974,41,Hero BP - Absolute Batman,8,61,61,19974014,19974034,104999,1,characterupgrade50
+9974,51,Hero BP - Absolute Batman,9,61,61,19974015,19974035,104999,1,characterupgrade50
+9974,61,Hero BP - Absolute Batman,10,111,81,19974016,19974036,104999,1,characterupgrade50
+9974,71,Hero BP - Absolute Batman,11,111,91,19974017,19974037,104999,1,characterupgrade50
+9974,81,Hero BP - Absolute Batman,12,111,101,19974018,19974038,109999,1,characterupgrade100
+9974,91,Hero BP - Absolute Batman,13,111,111,19974019,19974039,109999,1,characterupgrade100
+9974,101,Hero BP - Absolute Batman,14,111,111,19974020,19974040,109999,1,characterupgrade100
+9974,111,Hero BP - Absolute Batman,15,111,111,19974021,19974041,109999,1,characterupgrade100
+9975,11,Hero BP - Booster Gold,5,61,31,19975011,19975031,100499,6,characterupgrade5
+9975,21,Hero BP - Booster Gold,6,61,41,19975012,19975032,100999,3,characterupgrade10
+9975,31,Hero BP - Booster Gold,7,61,51,19975013,19975033,101999,1,characterupgrade20
+9975,41,Hero BP - Booster Gold,8,61,61,19975014,19975034,104999,1,characterupgrade50
+9975,51,Hero BP - Booster Gold,9,61,61,19975015,19975035,104999,1,characterupgrade50
+9975,61,Hero BP - Booster Gold,10,111,81,19975016,19975036,104999,1,characterupgrade50
+9975,71,Hero BP - Booster Gold,11,111,91,19975017,19975037,104999,1,characterupgrade50
+9975,81,Hero BP - Booster Gold,12,111,101,19975018,19975038,109999,1,characterupgrade100
+9975,91,Hero BP - Booster Gold,13,111,111,19975019,19975039,109999,1,characterupgrade100
+9975,101,Hero BP - Booster Gold,14,111,111,19975020,19975040,109999,1,characterupgrade100
+9975,111,Hero BP - Booster Gold,15,111,111,19975021,19975041,109999,1,characterupgrade100

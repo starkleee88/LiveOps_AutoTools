@@ -1,0 +1,20 @@
+﻿ID,O,Content,O,O,JumpId,O
+Guild Dynamic ID,Behavior,References String on SourceCommonDesc,String Params,Text Description,Jump Button (optional),Jump Comment
+index,,string,,,int32,
+101,Player joins guild,DynamicName1,,"【Nathaniel】Joined the guild, welcome new members!",,
+102,Players leave the guild on their own or passively,DynamicName2,,【Nathaniel】does not agree with the guild and regrets leaving.,,
+103,The president takes the initiative to transfer,DynamicName3,,"The transfer of the president is successful, welcome [Nathaniel] to be elected as the new president!",,
+104,The president is not online for a long time and is passively transferred.,DynamicName4,,"The original president did not handle the guild affairs on the 14th, and the original administrator [Nathaniel] was automatically elected as the new president.",,
+105,Guild upgrade,DynamicName5,,"After everyone’s continuous efforts, the guild level has been upgraded to [Level 3], congratulations!",,
+201,Boss Repel Reward Threshold Passed,DynamicName201,0=repel damage % progress amount,Your league unlocked a <color=#17B058>Repel Reward</color> by pushing {0}'s Repel Damage past {1}%.,7004,
+202,Area 1 Unlocks (CUT),DynamicName202,,<color=#17B058>{0}</color> has unlocked. Grab your league and go save the day!,7002,
+203,Area 2 Unlocks  (CUT),DynamicName203,,<color=#17B058>{0}</color> has unlocked. Confront your foe!,7003,
+204,Area 3 (Boss) Unlocks  (CUT),DynamicName204,,<color=#17B058>{0}</color> has unlocked. Repel {1} now!,7004,
+205,Sector Skill Trigger w/in 2 Stability,DynamicName205,"0=skill name, 1=area name, 2=sector number",Sector Skill: <color=#17b058>{0}</color> in {1}-{2} is almost ready to activate! Help out now!,,Ideally this would be to the 7002 or 7003 where this sector skill is almost ready.
+206,Sector Skill Triggered - Repel Damage,DynamicName206,"0=skill name, 1=player name, 2=area name, 3=sector number, 4=repel damage amount",{0} triggered by <color=#88B1FF>{1}</color> in {2}-{3}! It dealt the Challenge Boss {4} Repel Damage!,,I think we might want a jump target for the Area List (so folks go there and then see the banner for sector skill play)
+207,Sector Skill Triggered - Total Points,DynamicName207,"0=skill name, 1=player name, 2=area name, 3=sector number, 4=score amount",{0} triggered by <color=#88B1FF>{1}</color> in {2}-{3}! It added {4} to your league’s total.,,I think we might want a jump target for the Area List (so folks go there and then see the banner for sector skill play)
+208,Boss Defeated,DynamicName208,"0=boss name, 1=kill boss score",{0} has been defeated! Everyone gained <color=#FAA520>{1}</color> bonus points.,7004,
+209,24hr Warning (CUT),DynamicName209,0=challenge end time (player localized),This challenge ends at <color=#88B1FF>{0}</color>. Time for the final push!,7001,
+210,New Difficulty Unlocked,DynamicName210,"0=total guild battle points, 1=new difficulty level unlocked",Your league reached {0} Battle Points and unlocked <color=#17b058>Difficulty Level {1}</color>!,7001,
+211,new player best in area,DynamicName211,"0=player name, 1=score, 2=area name, 3=sector number",<color=#88B1FF>{0}</color> earned {1} Battle Points in {2}-{3}.,7004,
+212,new player best in boss area,DynamicName212,"0=player name, 1=score, 2=boss name, 3=area name",<color=#88B1FF>{0}</color> earned {1} Battle Points against {2} in {3}.,7004,

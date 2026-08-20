@@ -1,0 +1,13 @@
+﻿Key,O,RankType,ShowPersonNum,Duration,RewardMail,ForgetMail,ShowPic,Title,Desc,GroupType
+Leaderboard ID,Notes,"Leaderboard Type
+Tang Yuliang:
+1 Beast Arena
+2 Total Tower Floors
+3 Total Ally Points",Display Count,Duration/Days,Reward Email,Resend Email,Displayed Illustration,Title,Description,"Group Type:
+1 Normal generated
+2 Merged generated
+3 both cases"
+index,O,int,int,int,int,int,string,string,string,int
+13001,7-Day Arena Ranking,1,500,7,42,,ui_icon_heroheadillustration13102,NewServer_PVPRankTitle,NewServer_PVPRankDesc,1
+13002,7-Day Tower Ranking,2,500,7,43,,ui_icon_heroheadillustration13115,NewServer_PataRankTitle,NewServer_PataRankDesc,1
+13003,15-Day Ally Points Ranking,3,500,7,44,41,ui_icon_heroheadillustration13121,NewServer_JifenRankTitle,NewServer_JifenRankDesc,1

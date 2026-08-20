@@ -1,0 +1,6 @@
+﻿ID,Reward,Amount,RewardNew,AmountNew
+id,ID,Quantity,ID,Quantity
+index,int,int,int,int
+1,13119,1,13119,1
+2,111202,288,18110401,1
+3,111202,288,1112141,1

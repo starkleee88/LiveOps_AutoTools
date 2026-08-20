@@ -1,0 +1,13 @@
+ID,O,O,EnemyPower,LogicPos,EnemyInfo,O,LogicPos,EnemyInfo,O,LogicPos,EnemyInfo,O,LogicPos,EnemyInfo,O,LogicPos,EnemyInfo,O,EnemyInfo,LogicPos,O,CollectionId,CollectionSkillLevel,CollectionId,CollectionSkillLevel,CollectionId,CollectionSkillLevel
+id,The level to which it belongs,The level to which it belongs,Total enemy power,Enemy logical position 1,Enemy 1 ID,Note,Enemy logical position 2,Enemy 2 ID,Note,Enemy logical position 3,Enemy 3 ID,Note,Enemy logical position 4,Enemy 4 ID,Note,Enemy logical position 5,Enemy 5 ID,Note,Enemy 6 ID,Enemy logical position 6,Note,Collection ID,Collection skill level,Collection ID,Collection skill level,Collection ID,Collection skill level
+index,O,O,int,int,int,O,int,int,O,int,int,O,int,int,O,int,int,O,int,int,O,int,int,int,int,int,int
+303101,Digital Universe,Digital Universe-Level 31-Battle 1,100,4,30310104,Superman-B,5,30310105,Nightwing-A,6,30310106,Superboy-A,7,30310107,Two-Face,8,30310108,Robin-A,,,,,,,,,
+303102,Digital Universe,Digital Universe-Level 31-Battle 2,100,4,30310204,Cyborg-B,5,30310205,Bane-A,6,30310206,Green Arrow-A,7,30310207,Batman-A,8,30310208,Raven-B,,,,,,,,,
+303103,Digital Universe,Digital Universe-Level 31-Battle 3,100,4,30310304,Penguin-A,5,30310305,Gorilla Grodd-A,6,30310306,Robin-A,7,30310307,Poison Ivy-A,8,30310308,Firestorm-A,,,,,,,,,
+303104,Digital Universe,Digital Universe-Level 31-Battle 4,100,4,30310404,Nightwing-A,5,30310405,GL John-C,6,30310406,Two-Face,7,30310407,Killer Frost-A,8,30310408,Robin-A,,,,,,,,,
+303105,Digital Universe,Digital Universe-Level 31-Battle 5,100,4,30310504,Lex Luthor-S,5,30310505,Bizarro-A,6,30310506,Constantine-A,7,30310507,The Flash-S,8,30310508,Zatanna-A,,,,,,,,,
+303106,Digital Universe,Digital Universe-Level 31-Battle 6,100,4,30310604,Bane-A,5,30310605,Bizarro-A,6,30310606,Green Arrow-A,7,30310607,Superboy-A,8,30310608,Two-Face,,,,,,,,,
+303107,Digital Universe,Digital Universe-Level 31-Battle 7,100,4,30310704,Bizarro-A,5,30310705,Lex Luthor-S,6,30310706,Constantine-A,7,30310707,Wonder Woman-S,8,30310708,Zatanna-A,,,,,,,,,
+303108,Digital Universe,Digital Universe-Level 31-Battle 8,100,4,30310804,Pandora-A,5,30310805,Nightwing-A,6,30310806,Deathstroke-B,7,30310807,Superboy-B,8,30310808,Killer Frost-A,,,,,,,,,
+303109,Digital Universe,Digital Universe-Level 31-Battle 9,100,4,30310904,Penguin-A,5,30310905,Gorilla Grodd-A,6,30310906,Starfire-A,7,30310907,Zatanna-A,8,30310908,Poison Ivy-A,,,,,,,,,
+303110,Digital Universe,Digital Universe-Level 31-Battle 10,100,4,30311004,GL John-C,5,30311005,Bizarro-A,6,30311006,Constantine-A,7,30311007,Sinestro,8,30311008,Zatanna-A,,,,,,,,,

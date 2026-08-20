@@ -1,0 +1,27 @@
+﻿Id,LevelId,ElementId,O,StartTime,IntervalTime,Localization,Content,LifeTime,,
+Bubble number,Attribution copy number,attribution element,Remark,"Starting time
+Keyang-Li Keyang:
+Unit: seconds","Interval time
+Keyang-Li Keyang:
+Unit: seconds",dialogue id,Bubble content,"Duration
+Keyang-Li Keyang:
+Unit: seconds",,
+int,int,int,O,int,int,string,string,int,Appearance conditions,end condition
+101,1,10101,Mirror Master,1,9999,CityExploreBubble_101,"Lenny, I'm here!",9999,elemental birth,Conversation completed
+102,1,10102,Eye of Heaven Guard,4,9999,CityExploreBubble_102,Such terrible weather...luckily there is a fire!,9999,The element is moved to posA,"Elemental death, bonfire extinguished"
+103,1,10201,climber,1,9999,CityExploreBubble_103,Ouch…it hurts!,5,Hot Air Balloon-10203 Entering State 3,
+104,1,10301,Material guard,1,9999,CityExploreBubble_104,It's so cold! My campfire!,5,Element moves to posA,element freeze
+105,1,10302,Mecha Armor,1,5,CityExploreBubble_105,Intruder spotted! Close all roads!,5,elemental birth,
+106,1,10401,Mecha Soldier B,1,5,CityExploreBubble_106,Intruder confirmed! No access!,5,elemental birth,
+107,1,10501,Bain Henchman,1,9999,CityExploreBubble_107,I feel dizzy...what should I do?,5,Hot Air Balloon-10505 Entering State 3,
+108,1,10501,Bain Henchman,5,9999,CityExploreBubble_108,"Just waiting for your order, boss!",5,elemental birth,
+109,1,10502,Bain,1,9999,CityExploreBubble_109,"Someone's breaking in, get ready to fight!",4,elemental birth,
+110,1,10501,Bain Henchman,1,9999,CityExploreBubble_110,Ahhhh…,5,element freeze,
+111,1,10201,climber,1,5,CityExploreBubble_111,"Hey, we can’t get through ahead because the ice has cracked.",5,elemental birth,"Elemental stun, ice freezing"
+112,1,10201,climber,1,9999,CityExploreBubble_112,I really underestimated you!,5,The ice surface is frozen and the element is not dizzy,
+113,1,10201,climber,1,9999,CityExploreBubble_113,Do you have an ice axe for mountaineering?,5,Get an ice ax,Bane dies
+114,1,10601,Constantine,1,5,CityExploreBubble_114,The supplies will fall into the water...what should I do?,5,elemental birth,The ice freezes or the balloon falls into the water
+115,1,10601,Constantine,1,9999,CityExploreBubble_115,What bad luck! You got there first...,5,Ice surface frozen,
+116,1,10101,Mirror Master,1,9999,CityExploreBubble_116,"Get them, boss!",3,get cryo gun,
+117,1,10601,Constantine,1,9999,CityExploreBubble_117,"Now, no one of us can get it!",5,Balloon falling into water,
+118,1,10102,天眼守卫,1,9999,CityExploreBubble_110,啊啊啊……,5,元素冻结,

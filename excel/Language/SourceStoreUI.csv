@@ -1,0 +1,29 @@
+﻿Key,Module,Explanation,en
+Index,Function Module,Description,English
+string,,,string
+Superfan_title,Superfan Pack,Top Left Title,DC Super Fan Pack
+Superfan_subtitle,Superfan Pack,Top Left Subtitle,Choose your favorite Character!
+Superfan_character_subtitle,Superfan Pack,Title Above Character Selector,Choose a <color=#FF4036>Legendary</color> or <color=#FAA520>Epic</color> Character to add to your team!
+Superfan_skill_title,Superfan Pack,Title Above Skills,Character Skills
+SuperFan_PopupTitle,Superfan Pack,Popup Title,Choose your favorite Character!
+SuperFan_BriefInfo,Superfan Pack,Popup Info,     
+Superfan_character_title,Superfan Pack,text Below Stars,Pick your favorite Character to activate the Offer.
+SuperFan_icon,Superfan Pack,Home Screen Icon Name,Super Fan Pack
+Superfan_Rule_Title,Superfan Pack,Info Popup Title,DC Super Fan Pack
+Superfan_Rule_Desc,Superfan Pack,Info Popup Description,"This is a one time only Offer where you can choose your favorite DC Character to instantly add to your roster!\n\nTap the + inside the frame to go to the Character Selector, tap the Character icon to make your selection, and then tap Confirm to finalize your choice. If you want to change the selected Character, tap the Refresh button on the top right of their portrait. \n\nIf you choose a Character you already have, you will instead receive Fragments for that Character that can be used to Rank them up as follows:\n\n60 Legendary Character Fragments <b>or</b>\n40 Epic Character Fragments"
+Superfan_none_selected_error,Superfan Pack,Error Message When No Character Selected,Please select a Character to continue with the Offer
+Superfan_Character_Owned,Superfan Pack,Text Message When Character Owned,"Since this Character is already in your roster, you will receive Character Fragments instead."
+Wish_Popup_Msg,Wish,Message for Wish Popup,Every first purchase of the day grants a Wish for free rewards!\nMake 12 Wishes in 12 days to get tons of value in the Wish rewards!\nGo make your Wish now!
+Wish_Popup_Title,Wish,Title for Wish Popup,You earned a Wish!
+Func_MotherBoxStore,IAP Store,Store Title,Mother Box
+Func_LeveingStore,IAP Store,Store Title,Leveling
+Func_BadgesStore,IAP Store,Store Title,Badges
+Func_ArtifactStore,IAP Store,Store Title,Artifact
+Func_ReinforcementStore,IAP Store,Store Title,Reinforcements
+Func_GearStore,IAP Store,Store Title,Equipment
+Func_ReinforcementAndGearStore,IAP Store,Store Title,Reinforcements & Equipment
+JusticeGang_Store_Title,IAP Store,Store Title,Justice Gang Limited Offer
+JusticeGang_Popup_Title,Justice Gang Ads Pop Up,Title,"You Got An Upgrade, Kid!"
+JusticeGang_Popup_Subtitle,Justice Gang Ads Pop Up,Subtitle,The Justice Gang doesn't need any tanks where they're going! \nWho will you recruit to join?
+JusticeGang_Popup_Desc,Justice Gang Ads Pop Up,Description,"Stack Dampen, chain attack Parademons, and build your ultimate Superpower team around Mr. Terrific's Synergy to dominate all threats!"
+LanternTeam_Store_Title,IAP Store,Store Title,Lantern Team Limited Offer

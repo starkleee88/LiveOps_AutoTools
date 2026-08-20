@@ -1,0 +1,5 @@
+﻿ID,O,RewardID,Quantity,DailyCap,FuncId
+ID,Note,Reward or item ID,Quantity of the reward to grant,"How many times a day a player can receive this reward.
+Resets as midnight UTC",Admon FuncId
+int,O,int,int,int,
+1,IronSource Reward Video,111202,20,10,20004

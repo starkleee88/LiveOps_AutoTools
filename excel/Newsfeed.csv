@@ -1,0 +1,23 @@
+ID,ElementType,BgImage,FgObject,TitleLocKey,DescLocKey,BadgeType,BadgeLocKey,StartTime,EndTime,FuncID,Priority,JumpID,ShowCount,NumParams,StringParams
+ID,"Element
+1 - Character Small
+2 - Character Large
+3 - Event Small 
+4 - Event Large
+5 - IAP Small
+6 - IAP Large
+7 - Season Small
+8 - Season Large",Background Image,Foreground Object,Title,Description,"Badge Type
+1 - None
+2 - New
+3 - Hot
+4 - Live",Badge,Start Time,End Time,FuncID,Priority,Jump to ID,Seen by Player,Num Params,String Params
+index,int,string,string,string,string,int,string,string,string,int,int,int,int,array-int,array-string
+101,1,ui_activityally_img_zz_big_bg_13106,ui_cardpool_13151,RechargePack_13151,StoreDes9409,3,char_badge_1,20241231_000000,20261231_000001,450,1,1206,10,13151,buff_1270201_name|buff_1950401_name
+102,2,ui_activityally_img_zz_big_bg_13194,ui_icon_heroheadillustration13101,Func_chaoren,Trial101Intro,1,char_badge_2,20250512_000000,20250630_000001,1000,1,101,1,13101, BadgeSkillName13103
+103,3,ui_activityally_img_zz_big_bg_13194,ui_icon_heroheadwhole13131,CrisisWatchUI01,CrisisWatchChapterDesc04,1,char_badge_2,20250512_000000,20250630_000001,740,2,137,1,,
+104,4,ui_activityally_legendary_img_boss_bg_13218,ui_activityally_img_qd_light03_13218,AllyActivity_Info13218,AllyActivity_110,4,char_badge_1,20241231_000000,20250630_000001,470,2,1122,1,,
+105,5,ui_activityally_img_zz_big_bg_13152,ui_rechargetotal_img_bg09,ContextualIAP_Label_Sweet,PayStore_Banner_New01,2,char_badge_1,20241231_000000,20250630_000001,7000,3,1206,1,9100104,
+106,6,ui_activityally_img_zz_big_bg_13152,ui_rechargetotal_img_bg09,ContextualIAP_Label_Amazing,StoreDes9422,3,char_badge_1,20241231_000000,20250630_000001,7000,3,1206,1,9100107,
+107,7,ui_activityally_img_zz_big_bg_13194,ui_activityally_img_qd_hero01_13106,InfArenaSeasonReward,RuleDescription1_201,4,char_badge_1,20241231_000000,20261231_000001,410,4,99701,1,111202|100|0|0,
+108,8,ui_activityally_img_zz_big_bg_13106,ui_cardpool_1,Temp_MessionComplete,RuleDescription1_202,3,char_badge_1,20241231_000000,20261231_000001,2501,4,501,1,111202|1000|1113113|10,

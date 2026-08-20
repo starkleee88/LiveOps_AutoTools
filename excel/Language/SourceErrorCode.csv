@@ -1,0 +1,773 @@
+﻿Key,Module,Explanation,en,Version
+"NOTE: SourceErrorCode.csv and LocalizationErrorCode.csv are unique. Editing them may require manually updating ""hard-coded"" strings in the app binary. Please consult Engineering before making changes.",功能模块,说明,英文,O
+string,,,string,版本
+ERROR_CODE_1,错误提示,,Unknown.,OBT版本
+ERROR_CODE_2,错误提示,,Already exists.,OBT版本
+ERROR_CODE_3,错误提示,,Empty,OBT版本
+ERROR_CODE_4,错误提示,,Not found,OBT版本
+ERROR_CODE_5,错误提示,,Allocation error.,OBT版本
+ERROR_CODE_6,错误提示,,Not initialized,OBT版本
+ERROR_CODE_7,错误提示,,Not available,OBT版本
+ERROR_CODE_8,错误提示,,Continue execution.,OBT版本
+ERROR_CODE_9,错误提示,,Insufficient items consumed.,OBT版本
+ERROR_CODE_10,错误提示,,Failed to import.,OBT版本
+ERROR_CODE_11,错误提示,,Waiting.,OBT版本
+ERROR_CODE_12,错误提示,,Invalid parameters.,OBT版本
+ERROR_CODE_13,错误提示,,Resource file format/content is incorrect.,OBT版本
+ERROR_CODE_14,错误提示,,Invalid parameters.,OBT版本
+ERROR_CODE_15,错误提示,,Integer overflow.,OBT版本
+ERROR_CODE_17,错误提示,,"String does not contain letters, Chinese characters, or numbers.",OBT版本
+ERROR_CODE_18,错误提示,,Does not exist.,OBT版本
+ERROR_CODE_20,错误提示,,tdrc++ error. Please check string record.,OBT版本
+ERROR_CODE_21,错误提示,,Server overload.,OBT版本
+ERROR_CODE_22,错误提示,,Already exists.,OBT版本
+ERROR_CODE_23,错误提示,,Exceeded range.,OBT版本
+ERROR_CODE_24,错误提示,,System is busy.,OBT版本
+ERROR_CODE_25,错误提示,,Duplicate.,OBT版本
+ERROR_CODE_26,错误提示,,At maximum.,OBT版本
+ERROR_CODE_27,错误提示,,Invalid state machine status.,OBT版本
+ERROR_CODE_28,错误提示,,Already full.,OBT版本
+ERROR_CODE_29,错误提示,,Actor offline.,OBT版本
+ERROR_CODE_30,错误提示,,Time out.,OBT版本
+ERROR_CODE_31,错误提示,,Contains sensitive words.,OBT版本
+ERROR_CODE_32,错误提示,,Not found,OBT版本
+ERROR_CODE_33,错误提示,,ACL forbidden.,OBT版本
+ERROR_CODE_34,错误提示,,Account not activated.,OBT版本
+ERROR_CODE_35,错误提示,,Contains invalid characters.,OBT版本
+ERROR_CODE_36,错误提示,,Account not verified.,OBT版本
+ERROR_CODE_37,错误提示,,Not available yet,OBT版本
+ERROR_CODE_38,错误提示,,Configuration not found.,OBT版本
+ERROR_CODE_39,错误提示,,Resource parameter error.,OBT版本
+ERROR_CODE_40,错误提示,,Incorrect quantity.,OBT版本
+ERROR_CODE_42,,,An issue has been detected with your account. Please contact Customer Support.,
+ERROR_CODE_101,账号封禁中,,Your account has been banned. Please contact Support.,OBT版本
+ERROR_CODE_102,非全局白名单,,"Sorry, but you haven't qualified for this beta yet!",OBT版本
+ERROR_CODE_103,非区服白名单,,Server is undergoing maintenance. Check the notice for more details.,OBT版本
+ERROR_CODE_104,Token异常,,Your log in details have expired. Please log in again.,OBT版本
+ERROR_CODE_105,Token过期,,Your log in details have expired. Please log in again.,OBT版本
+ERROR_CODE_201,错误提示,,You don't have this Character.,OBT版本
+ERROR_CODE_301,错误提示,,Character does not exist.,OBT版本
+ERROR_CODE_400,错误提示,,Room does not exist.,OBT版本
+ERROR_CODE_401,错误提示,,You cannot collect production from this room.,OBT版本
+ERROR_CODE_402,错误提示,,There is no production.,OBT版本
+ERROR_CODE_404,错误提示,,Requirement(s) for construction not met.,OBT版本
+ERROR_CODE_405,错误提示,,Insufficient construction items.,OBT版本
+ERROR_CODE_406,错误提示,,This room is already at maximum level. Cannot level up.,OBT版本
+ERROR_CODE_407,错误提示,,Insufficient items for level up.,OBT版本
+ERROR_CODE_408,错误提示,,You have no free attempts.,OBT版本
+ERROR_CODE_409,错误提示,,Requirement not met. Cannot level up.,OBT版本
+ERROR_CODE_411,错误提示,,This room cannot be leveled up.,OBT版本
+ERROR_CODE_412,错误提示,,Room status error.,OBT版本
+ERROR_CODE_414,错误提示,,Requirement not met. Cannot repair.,OBT版本
+ERROR_CODE_415,错误提示,,Requirement(s) for leveling up the Solar Hub not met.,OBT版本
+ERROR_CODE_416,错误提示,,This room cannot be moved.,OBT版本
+ERROR_CODE_417,错误提示,,The Solar Hub doesn't have enough Solar Energy.,OBT版本
+ERROR_CODE_500,错误提示,,Mail not found.,OBT版本
+ERROR_CODE_501,错误提示,,No attachments,OBT版本
+ERROR_CODE_502,错误提示,,Subject is too long.,OBT版本
+ERROR_CODE_503,错误提示,,Content is too long.,OBT版本
+ERROR_CODE_508,错误提示,,Failed to send mail.,OBT版本
+ERROR_CODE_509,错误提示,,Failed to read mail.,OBT版本
+ERROR_CODE_510,错误提示,,Failed to delete mail.,OBT版本
+ERROR_CODE_511,错误提示,,Failed to read attachment.,OBT版本
+ERROR_CODE_601,错误提示,,Backpack full.,OBT版本
+ERROR_CODE_602,错误提示,,Item does not exist.,OBT版本
+ERROR_CODE_701,错误提示,,The text entered contains sensitive word(s). Please re-enter!,OBT版本
+ERROR_CODE_1103,错误提示,,Character has already reached the maximum Level.,OBT版本
+ERROR_CODE_1104,错误提示,,Character has already reached the maximum Rank.,OBT版本
+ERROR_CODE_1208,错误提示,,Insufficient Power.,OBT版本
+Unity_Text_020,错误提示,,M,OBT版本
+Unity_Text_021,错误提示,,D,OBT版本
+Unity_Text_022,错误提示,,H,OBT版本
+ERROR_CODE_2001,封禁提示,,Your account has been suspended due to one or more violation(s).,OBT版本
+ERROR_CODE_2002,封禁提示,,Your account has been suspended due to one or more violation(s). It will be reactivated on {0}.,OBT版本
+ERROR_CODE_2003,封禁提示,,Account error occurred. Please log in to the game again.,OBT版本
+ERROR_CODE_2004,封禁提示,,You have been restricted from changing your nickname. Restriction will end on {0}.,OBT版本
+ERROR_CODE_750,错误提示,,Shop error.,OBT版本
+ERROR_CODE_751,错误提示,,Shop configuration failed.,OBT版本
+ERROR_CODE_752,错误提示,,Shop parameter error.,OBT版本
+ERROR_CODE_753,错误提示,,Shop condition(s) not met.,OBT版本
+ERROR_CODE_754,错误提示,,Insufficient currency.,OBT版本
+ERROR_CODE_755,错误提示,,Insufficient items.,OBT版本
+ERROR_CODE_756,错误提示,,Shop item purchase failed.,OBT版本
+ERROR_CODE_757,错误提示,,Shop refresh error.,OBT版本
+ERROR_CODE_758,错误提示,,Failed to add item(s).,OBT版本
+ERROR_CODE_759,错误提示,,Failed to deduct currency.,OBT版本
+ERROR_CODE_100000,错误提示,,Insufficient required items.,OBT版本
+ERROR_CODE_301223,错误提示,,Elseworld battle attribute verification failed.,OBT版本
+ERROR_CODE_301302,错误提示,,Failed to load server data. Please try again later.,OBT版本
+ERROR_CODE_301304,错误提示,,Your account is already logged in on another device.,OBT版本
+ERROR_CODE_301305,错误提示,,Your character has been suspended due to one or more violation(s).,OBT版本
+ERROR_CODE_301306,错误提示,,Nickname not allowed. Please re-enter!,OBT版本
+ERROR_CODE_301307,错误提示,,This nickname is already registered!,OBT版本
+ERROR_CODE_301308,错误提示,,Nickname too long. Maximum of 16 characters!,OBT版本
+ERROR_CODE_301309,错误提示,,Client setting exceeds the upper limit,OBT版本
+ERROR_CODE_301310,错误提示,,Disconnected by the system.,OBT版本
+ERROR_CODE_301317,错误提示,,Character banned and disconnected by the system.,OBT版本
+ERROR_CODE_301318,错误提示,,Nickname cannot be empty!,OBT版本
+ERROR_CODE_301319,错误提示,,Nickname contains invalid characters or spaces!,OBT版本
+ERROR_CODE_301407,错误提示,,"The battle data is abnormal, please exit and try again",OBT版本
+ERROR_CODE_301700,错误提示,,"Insufficient Characters, can not be built.",OBT版本
+ERROR_CODE_301701,错误提示,,Room does not exist.,OBT版本
+ERROR_CODE_301702,错误提示,,You cannot collect production from this room.,OBT版本
+ERROR_CODE_301703,错误提示,,There is no production.,OBT版本
+ERROR_CODE_301704,错误提示,,Requirement(s) for construction not met.,OBT版本
+ERROR_CODE_301705,错误提示,,Insufficient construction items.,OBT版本
+ERROR_CODE_301706,错误提示,,This room is already at maximum level. Cannot level up.,OBT版本
+ERROR_CODE_301707,错误提示,,Insufficient items for level up.,OBT版本
+ERROR_CODE_301708,错误提示,,You have no free attempts.,OBT版本
+ERROR_CODE_301709,错误提示,,Insufficient rooms. Failed to level up.,OBT版本
+ERROR_CODE_301710,错误提示,,Failed to level up room. Incorrect progress.,OBT版本
+ERROR_CODE_301711,错误提示,,Stage requirement not met. Failed to level up.,OBT版本
+ERROR_CODE_301712,错误提示,,Failed to level up room. Required Solar Hub level not met.,OBT版本
+ERROR_CODE_301713,错误提示,,No free construction queue available,OBT版本
+ERROR_CODE_301714,错误提示,,This room cannot be leveled up.,OBT版本
+ERROR_CODE_301715,错误提示,,Room status error.,OBT版本
+ERROR_CODE_301716,错误提示,,You have the maximum number of construction queues.,OBT版本
+ERROR_CODE_301717,错误提示,,Requirement(s) for repairs not met.,OBT版本
+ERROR_CODE_301718,错误提示,,Requirement(s) for leveling up the Solar Hub not met.,OBT版本
+ERROR_CODE_301719,错误提示,,This room cannot be moved.,OBT版本
+ERROR_CODE_301720,错误提示,,The Solar Hub doesn't have enough Solar Energy.,OBT版本
+ERROR_CODE_301721,错误提示,,It's not collection time yet.,OBT版本
+ERROR_CODE_301722,错误提示,,Invalid room production parameters.,OBT版本
+ERROR_CODE_301723,错误提示,,Solar Hub feature not yet available.,OBT版本
+ERROR_CODE_301724,错误提示,,Room feature type error.,OBT版本
+ERROR_CODE_301725,错误提示,,Character level restriction for stationing in room.,OBT版本
+ERROR_CODE_301726,错误提示,,This character is restricted from stationing in this room.,OBT版本
+ERROR_CODE_301727,错误提示,,Invalid room x coordinates.,OBT版本
+ERROR_CODE_301728,错误提示,,Invalid room y coordinates.,OBT版本
+ERROR_CODE_301729,错误提示,,Room area is occupied.,OBT版本
+ERROR_CODE_301730,错误提示,,Quantity of diamonds does not match.,OBT版本
+ERROR_CODE_301731,错误提示,,You have used speed ups the maximum number of times.,OBT版本
+ERROR_CODE_301732,错误提示,,Solar energy value distribution error.,OBT版本
+ERROR_CODE_301733,错误提示,,"Insufficient Characters, can not be built.",OBT版本
+ERROR_CODE_301801,错误提示,,General main stage error.,OBT版本
+ERROR_CODE_301802,错误提示,,Main stage not yet unlocked.,OBT版本
+ERROR_CODE_301803,错误提示,,Main stage data not online.,OBT版本
+ERROR_CODE_301804,错误提示,,Main stage cycle has reset. Retrieving new main stage info required.,OBT版本
+ERROR_CODE_301807,错误提示,,Main stage not yet available.,OBT版本
+ERROR_CODE_301808,错误提示,,Main stage configuration failed.,OBT版本
+ERROR_CODE_301809,错误提示,,Main stage parameter error.,OBT版本
+ERROR_CODE_301810,错误提示,,Requirement(s) for this main stage info not met.,OBT版本
+ERROR_CODE_301811,错误提示,,Failed to add item to main stage.,OBT版本
+ERROR_CODE_301812,错误提示,,Failed to remove item from main stage.,OBT版本
+ERROR_CODE_301813,错误提示,,Main stage battle result error.,OBT版本
+ERROR_CODE_301814,错误提示,,Main stage reward selection error.,OBT版本
+ERROR_CODE_301815,错误提示,,General Elseworld error.,OBT版本
+ERROR_CODE_301816,错误提示,,Elseworld,OBT版本
+ERROR_CODE_301817,错误提示,,Elseworld data not online.,OBT版本
+ERROR_CODE_301818,错误提示,,Elseworld cycle has reset. Retrieving new Elseworld info required.,OBT版本
+ERROR_CODE_301819,错误提示,,Elseworld,OBT版本
+ERROR_CODE_301820,错误提示,,Elseworld,OBT版本
+ERROR_CODE_301821,错误提示,,Elseworld not yet available.,OBT版本
+ERROR_CODE_301822,错误提示,,Elseworld configuration failed.,OBT版本
+ERROR_CODE_301823,错误提示,,Elseworld parameter error.,OBT版本
+ERROR_CODE_301824,错误提示,,Requirement(s) for this Elseworld info not met.,OBT版本
+ERROR_CODE_301825,错误提示,,Failed to add item to Elseworld.,OBT版本
+ERROR_CODE_301826,错误提示,,Failed to remove item from Elseworld.,OBT版本
+ERROR_CODE_301827,错误提示,,Elseworld team initialization error.,OBT版本
+ERROR_CODE_301828,错误提示,,Elseworld team rebirth error.,OBT版本
+ERROR_CODE_301829,错误提示,,Elseworld battle result error.,OBT版本
+ERROR_CODE_301830,错误提示,,Elseworld reward selection error.,OBT版本
+ERROR_CODE_301831,错误提示,,Elseworld error.,OBT版本
+ERROR_CODE_301832,错误提示,,Memory allocation error.,OBT版本
+ERROR_CODE_301833,错误提示,,Failed to read database.,OBT版本
+ERROR_CODE_301834,错误提示,,Unable to find object. Reconnect failed.,OBT版本
+ERROR_CODE_301835,错误提示,,Please log in again. Disconnected by the system.,OBT版本
+ERROR_CODE_301836,错误提示,,Convergence Crisis stage not yet unlocked.,OBT版本
+ERROR_CODE_301837,错误提示,,Already cleared Convergence Crisis stage.,OBT版本
+ERROR_CODE_301870,错误提示,,Too many parameters. Limit exceeded.,OBT版本
+ERROR_CODE_301871,错误提示,,There are negative values in parameters.,OBT版本
+ERROR_CODE_301872,错误提示,,Failed to insert chip.,OBT版本
+ERROR_CODE_301873,错误提示,,Failed to enhance chip slot.,OBT版本
+ERROR_CODE_301874,错误提示,,Unable to find the chip.,OBT版本
+ERROR_CODE_301875,错误提示,,Chip is in use.,OBT版本
+ERROR_CODE_301876,Error message,,Failed to unlock Slot.,OBT版本
+ERROR_CODE_301877,错误提示,,Character does not exist.,OBT版本
+ERROR_CODE_301878,Error message,,Character is already in the Slot.,OBT版本
+ERROR_CODE_301879,错误提示,,Character level does not match.,OBT版本
+ERROR_CODE_301880,错误提示,,Character level restriction.,OBT版本
+ERROR_CODE_301881,错误提示,,Character has reached the maximum level restriction.,OBT版本
+ERROR_CODE_301882,错误提示,,Character rank does not match.,OBT版本
+ERROR_CODE_301883,错误提示,,Character rank restriction.,OBT版本
+ERROR_CODE_301884,错误提示,,Character rank is at maximum value.,OBT版本
+ERROR_CODE_301885,错误提示,,Invalid character rank.,OBT版本
+ERROR_CODE_301886,错误提示,,Invalid character tier.,OBT版本
+ERROR_CODE_301887,错误提示,,Character tier does not match.,OBT版本
+ERROR_CODE_301888,错误提示,,Requirement error for character retraining.,OBT版本
+ERROR_CODE_301889,错误提示,,Insufficient Character synthesis items.,OBT版本
+ERROR_CODE_301890,错误提示,,Character already owned.,OBT版本
+ERROR_CODE_301891,错误提示,,Character fragments exchange.,OBT版本
+ERROR_CODE_301892,错误提示,,Character fragments restricted.,OBT版本
+ERROR_CODE_301893,错误提示,,Cannot exchange character fragments.,OBT版本
+ERROR_CODE_301894,错误提示,,Fragments cannot be changed.,OBT版本
+ERROR_CODE_301895,错误提示,,Character leveling shares the same level restrictions.,OBT版本
+ERROR_CODE_301896,错误提示,,Emblem is already activated.,OBT版本
+ERROR_CODE_301897,错误提示,,Failed to activate emblem.,OBT版本
+ERROR_CODE_301898,错误提示,,Failed to activate emblem.,OBT版本
+ERROR_CODE_301899,错误提示,,Failed to enhance emblem.,OBT版本
+ERROR_CODE_301900,错误提示,,Failed to enhance emblem.,OBT版本
+ERROR_CODE_302001,错误提示,,Already at maximum number of Chips.,OBT版本
+ERROR_CODE_302101,错误提示,,You have been muted.,OBT版本
+ERROR_CODE_302102,错误提示,,Messages have been sent too frequently. Please wait and try again later.,OBT版本
+ERROR_CODE_302201,错误提示,,Mail not found.,OBT版本
+ERROR_CODE_302202,错误提示,,Mail has been deleted,OBT版本
+ERROR_CODE_302203,错误提示,,Failed to read attachment.,OBT版本
+ERROR_CODE_302204,错误提示,,You're trying to delete an unclaimed mail.,OBT版本
+ERROR_CODE_302205,错误提示,,Failed to send mail. Mailbox is full.,OBT版本
+ERROR_CODE_302206,错误提示,,Failed to send mail. Too many rewards sent.,OBT版本
+ERROR_CODE_302207,错误提示,,Failed to send mail. Unable to serialize.,OBT版本
+ERROR_CODE_302208,错误提示,,Failed to send mail. Text content is too long.,OBT版本
+ERROR_CODE_302301,错误提示,,Friend limit has been reached!,OBT版本
+ERROR_CODE_302302,错误提示,,Already added as friend!,OBT版本
+ERROR_CODE_302303,错误提示,,Friend request already sent!,OBT版本
+ERROR_CODE_302304,错误提示,,The player's friend request limit has been reached!,OBT版本
+ERROR_CODE_302305,错误提示,,Blocklist is full.,OBT版本
+ERROR_CODE_302306,错误提示,,The number of characters in remark exceeds the limit!,OBT版本
+ERROR_CODE_302307,错误提示,,The player's friend limit has been reached!,OBT版本
+ERROR_CODE_302501,错误提示,,Reward does not exist in reward pool.,OBT版本
+ERROR_CODE_302502,错误提示,,Reward ID does not exist in reward pool.,OBT版本
+ERROR_CODE_302503,错误提示,,The ID does not have a reward in the reward pool.,OBT版本
+ERROR_CODE_302504,错误提示,,Nested rewards are at maximum value.,OBT版本
+ERROR_CODE_302601,错误提示,,Mission is empty.,OBT版本
+ERROR_CODE_302602,错误提示,,Cannot collect reward for this mission.,OBT版本
+ERROR_CODE_302603,错误提示,,Daily mission has expired.,OBT版本
+ERROR_CODE_302604,错误提示,,Weekly mission has expired.,OBT版本
+ERROR_CODE_302605,错误提示,,Error refreshing daily missions.,OBT版本
+ERROR_CODE_302606,错误提示,,Error refreshing weekly missions.,OBT版本
+ERROR_CODE_302707,错误提示,,Reward has been collected,OBT版本
+ERROR_CODE_302801,错误提示,,Performing actions too frequently.,OBT版本
+ERROR_CODE_302802,错误提示,,At max number of reports.,OBT版本
+ERROR_CODE_302803,错误提示,,Report feature not available.,OBT版本
+ERROR_CODE_302804,错误提示,,Please enter reason for your report.,OBT版本
+ERROR_CODE_302805,错误提示,,Report exceeds character limit.,OBT版本
+ERROR_CODE_303001,错误提示,,Cannot collect reward!,OBT版本
+ERROR_CODE_303002,错误提示,,Reward already collected!,OBT版本
+ERROR_CODE_303101,错误提示,,General equipment error.,OBT版本
+ERROR_CODE_303102,错误提示,,Equipment attribute configuration failed.,OBT版本
+ERROR_CODE_303103,错误提示,,Equipment attribute not found.,OBT版本
+ERROR_CODE_303104,错误提示,,Equipment quantity exceeded limit.,OBT版本
+ERROR_CODE_303105,错误提示,,Player data error.,OBT版本
+ERROR_CODE_303106,错误提示,,Character equipment data not found.,OBT版本
+ERROR_CODE_303107,错误提示,,Current slot is empty.,OBT版本
+ERROR_CODE_303108,错误提示,,Parameter error.,OBT版本
+ERROR_CODE_303109,错误提示,,Equipment does not exist.,OBT版本
+ERROR_CODE_303110,错误提示,,Equipment has been equipped.,OBT版本
+ERROR_CODE_303111,错误提示,,Equipment slot error.,OBT版本
+ERROR_CODE_303112,错误提示,,Failed to send mail.,OBT版本
+ERROR_CODE_303113,错误提示,,Equipment is locked.,OBT版本
+ERROR_CODE_303114,错误提示,,Equipment cannot be exchanged.,OBT版本
+ERROR_CODE_303115,错误提示,,Insufficient Equipment Experience.,OBT版本
+ERROR_CODE_303116,错误提示,,Equipment has been fully enhanced.,OBT版本
+ERROR_CODE_303201,错误提示,,General payment error.,OBT版本
+ERROR_CODE_303202,错误提示,,Payment callback error.,OBT版本
+ERROR_CODE_303203,错误提示,,Wallet configuration failed.,OBT版本
+ERROR_CODE_303204,错误提示,,Wallet parameter error.,OBT版本
+ERROR_CODE_303205,错误提示,,Wallet retrieval error.,OBT版本
+ERROR_CODE_303206,错误提示,,Session allocation error.,OBT版本
+ERROR_CODE_303207,错误提示,,Wallet virtual currency deduction error.,OBT版本
+ERROR_CODE_303208,错误提示,,Wallet virtual currency gift error.,OBT版本
+ERROR_CODE_303209,错误提示,,Wallet virtual currency inquiry error.,OBT版本
+ERROR_CODE_303210,错误提示,,Wallet insufficient virtual currency error.,OBT版本
+ERROR_CODE_303301,错误提示,,General payment error.,OBT版本
+ERROR_CODE_303302,错误提示,,Payment status error.,OBT版本
+ERROR_CODE_303303,错误提示,,Payment data not online.,OBT版本
+ERROR_CODE_303305,错误提示,,Payment session error.,OBT版本
+ERROR_CODE_303307,错误提示,,Payment not available yet.,OBT版本
+ERROR_CODE_303308,错误提示,,Payment configuration failed.,OBT版本
+ERROR_CODE_303309,错误提示,,Payment parameter error.,OBT版本
+ERROR_CODE_303310,错误提示,,Requirement(s) for this payment info not met.,OBT版本
+ERROR_CODE_303311,错误提示,,Failed to add item to payment.,OBT版本
+ERROR_CODE_303312,错误提示,,Failed to remove item from payment.,OBT版本
+ERROR_CODE_303313,错误提示,,Signature does not match.,OBT版本
+ERROR_CODE_303401,错误提示,,General Diamond Store error.,OBT版本
+ERROR_CODE_303402,错误提示,,Relevant configuration not found.,OBT版本
+ERROR_CODE_303403,错误提示,,Diamond Store not available yet.,OBT版本
+ERROR_CODE_303404,错误提示,,Item not yet unlocked.,OBT版本
+ERROR_CODE_303405,错误提示,,Failed to deduct required resource.,OBT版本
+ERROR_CODE_303406,错误提示,,Parameter error.,OBT版本
+ERROR_CODE_303407,错误提示,,Item cannot be bought.,OBT版本
+ERROR_CODE_303408,错误提示,,Failed to add item.,OBT版本
+ERROR_CODE_303409,错误提示,,Configuration failed.,OBT版本
+ERROR_CODE_303410,错误提示,,This item is already sold out.,OBT版本
+ERROR_CODE_303411,错误提示,,Can only purchase {0} time(s) at the moment.,OBT版本
+ERROR_CODE_303501,错误提示,,General purchase error.,OBT版本
+ERROR_CODE_303502,错误提示,,Configuration failed.,OBT版本
+ERROR_CODE_303503,错误提示,,Failed to add item.,OBT版本
+ERROR_CODE_303504,错误提示,,Purchase not available yet.,OBT版本
+ERROR_CODE_303505,错误提示,,Diamond purchase not available yet.,OBT版本
+ERROR_CODE_303506,错误提示,,Client pass-through data error.,OBT版本
+ERROR_CODE_303510,错误提示,,Data does not match. Please close the interface and try again.,OBT版本
+ERROR_CODE_303520,错误提示,,Direct purchase pack data error.,OBT版本
+ERROR_CODE_303521,错误提示,,Pack feature is not available yet.,OBT版本
+ERROR_CODE_303522,错误提示,,Could not find this pack.,OBT版本
+ERROR_CODE_303523,错误提示,,This pack is no longer available.,OBT版本
+ERROR_CODE_303524,错误提示,,This pack isn't available yet.,OBT版本
+ERROR_CODE_303525,错误提示,,Max number of packs have already been purchased.,OBT版本
+ERROR_CODE_303526,错误提示,,Pack purchase type error occurred.,OBT版本
+ERROR_CODE_303530,错误提示,,Recommended pack data error.,OBT版本
+ERROR_CODE_303531,错误提示,,Recommended pack feature is not available yet.,OBT版本
+ERROR_CODE_303532,错误提示,,Recommended pack cannot be bought.,OBT版本
+ERROR_CODE_303533,错误提示,,Could not find pack group data.,OBT版本
+ERROR_CODE_303534,错误提示,,Triggered pack quantity exceeded maximum.,OBT版本
+ERROR_CODE_303557,错误提示,,Claimed,OBT版本
+ERROR_CODE_303601,错误提示,,Database operation timed out.,OBT版本
+ERROR_CODE_303602,错误提示,,Failed to retrieve database.,OBT版本
+ERROR_CODE_303603,错误提示,,Forcibly canceled.,OBT版本
+ERROR_CODE_303604,错误提示,,Failed to allocate node.,OBT版本
+ERROR_CODE_303701,错误提示,,Rank processing request timed out.,OBT版本
+ERROR_CODE_303901,错误提示,,Reward not supported.,OBT版本
+ERROR_CODE_303902,错误提示,,Reward not yet unlocked.,OBT版本
+ERROR_CODE_303903,错误提示,,Claimed,OBT版本
+ERROR_CODE_303904,错误提示,,Challenge target not found.,OBT版本
+ERROR_CODE_303905,错误提示,,Season not available yet.,OBT版本
+ERROR_CODE_304001,错误提示,,Battle transfer timed out.,OBT版本
+ERROR_CODE_304002,错误提示,,Cannot find battle process.,OBT版本
+ERROR_CODE_304101,错误提示,,Pack time passed.,OBT版本
+ERROR_CODE_304201,错误提示,,This item is already sold out.,OBT版本
+ERROR_CODE_304401,错误提示,,The current recruitment has expired.,OBT版本
+ERROR_CODE_304407,Gacha,"Thrown if the server is responding slowly, and multiple Gacha pulls happen simultaneously","Recruitment already in progress, please try again.",SL
+ERROR_CODE_305101,错误提示,,The number of characters is less than 5.,OBT版本
+ERROR_CODE_306101,错误提示,,This character cannot be withdrawn.,OBT版本
+ERROR_CODE_306102,错误提示,,Obtain this character to unlock.,OBT版本
+ERROR_CODE_306103,错误提示,,The Collection System is unavailable in Character Trials.,OBT版本
+ERROR_CODE_304801,错误提示,,General Gallery System error.,OBT版本
+ERROR_CODE_304802,错误提示,,Cannot find Gallery data.,OBT版本
+ERROR_CODE_304803,错误提示,,Cannot find corresponding Gallery ID.,OBT版本
+ERROR_CODE_304804,错误提示,,Invalid Illustration Fragment ID.,OBT版本
+ERROR_CODE_304805,错误提示,,Invalid Gallery ID.,OBT版本
+ERROR_CODE_304806,错误提示,,Amount less than 0.,OBT版本
+ERROR_CODE_304807,错误提示,,Insufficient Illustration Fragments.,OBT版本
+ERROR_CODE_304808,错误提示,,Gallery collection completed.,OBT版本
+ERROR_CODE_304809,错误提示,,Gallery collection incomplete.,OBT版本
+ERROR_CODE_304810,错误提示,,Illustration Fragment has been assembled on the drawing board.,OBT版本
+ERROR_CODE_304811,错误提示,,Illustration Fragment has not been assembled on the drawing board.,OBT版本
+ERROR_CODE_304814,错误提示,,Exchange request does not match.,OBT版本
+ERROR_CODE_304815,错误提示,,In-battle sharing already executed.,OBT版本
+ERROR_CODE_305090,错误提示,,Exchange request already exists.,OBT版本
+ERROR_CODE_305092,错误提示,,Exchange request not found.,OBT版本
+ERROR_CODE_305093,错误提示,,Exchange request does not match.,OBT版本
+ERROR_CODE_305091,错误提示,,Please collect the obtained illustration fragment first.,OBT版本
+ERROR_CODE_305094,错误提示,,Illustration fragment information not found.,OBT版本
+ERROR_CODE_305001,Error message,,Unable to query League data. Please try again.,OBT版本
+ERROR_CODE_305002,Error message,,No current League. Please try again.,OBT版本
+ERROR_CODE_305003,Error message,,League name is already taken. Please try again.,OBT版本
+ERROR_CODE_305004,Error message,,Already joined League.,OBT版本
+ERROR_CODE_305005,Error message,,The League name you have entered is too short. Please try again.,OBT版本
+ERROR_CODE_305006,Error message,,The League name you have entered is too long. Please try again.,OBT版本
+ERROR_CODE_305007,Error message,,The League name you have entered contains sensitive words. Please remove the offending words and try again.,OBT版本
+ERROR_CODE_305008,Error message,,The League recruitment information you have entered is too short. Please try again.,OBT版本
+ERROR_CODE_305009,Error message,,The League recruitment information you have entered is too long. Please try again.,OBT版本
+ERROR_CODE_305010,Error message,,The League recruitment information you have entered contains sensitive words. Please remove the offending words and try again.,OBT版本
+ERROR_CODE_305011,Error message,,The League notice you have entered is too short. Please try again.,OBT版本
+ERROR_CODE_305012,Error message,,The League notice you have entered is too long. Please try again.,OBT版本
+ERROR_CODE_305013,Error message,,The League notice you have entered contains sensitive words. Please remove the offending words and try again.,OBT版本
+ERROR_CODE_305014,Error message,,Please select the correct League review type.,OBT版本
+ERROR_CODE_305015,Error message,,League has closed applications. Please select another.,OBT版本
+ERROR_CODE_305016,Error message,,League has reached the maximum number of members. Please select another.,OBT版本
+ERROR_CODE_305017,Error message,,League has hit the maximum number of applicants. Please try again.,OBT版本
+ERROR_CODE_305018,Error message,,League member does not exist. Please try again.,OBT版本
+ERROR_CODE_305019,Error message,,Player is not among the League's current list of applicants. Please try again.,OBT版本
+ERROR_CODE_305020,Error message,,Cannot accept application as player is currently a member of another League.,OBT版本
+ERROR_CODE_305021,Error message,,You must transfer leadership of the League before leaving it.,OBT版本
+ERROR_CODE_305022,Error message,,You do not have League leader rights and cannot perform the action.,OBT版本
+ERROR_CODE_305023,Error message,,You do not have League leader or administrator rights and cannot perform the action.,OBT版本
+ERROR_CODE_305024,Error message,,The other party is the League leader. Cannot perform action.,OBT版本
+ERROR_CODE_305025,Error message,,The other party is not a regular member. Cannot perform action.,OBT版本
+ERROR_CODE_305026,Error message,,The other party is not an administrator. Cannot perform action.,OBT版本
+ERROR_CODE_305027,Error message,,Exceeded maximum number of League administrators. Cannot perform action.,OBT版本
+ERROR_CODE_305028,Error message,,Exceeded maximum number of languages. Cannot perform action.,OBT版本
+ERROR_CODE_305029,Error message,,Exceeded maximum number of tags. Cannot perform action.,OBT版本
+ERROR_CODE_305030,Error message,,You have not selected the minimum number of tags. Cannot perform the action.,OBT版本
+ERROR_CODE_305031,错误提示,,The application list is full. Cannot perform action.,OBT版本
+ERROR_CODE_305032,错误提示,,You have already answered this question. Please try again.,OBT版本
+ERROR_CODE_305033,Error message,,Current League tag does not exist.,OBT版本
+ERROR_CODE_305034,Error message,,Current League language does not exist.,OBT版本
+ERROR_CODE_305035,Error message,,Current League name contains sensitive words.,OBT版本
+ERROR_CODE_305051,错误提示,,Current mercenary slot is not open. Please make progress in the Main Stages.,OBT版本
+ERROR_CODE_305052,错误提示,,The mercenary has already been hired. Please choose from the remaining mercenaries.,OBT版本
+ERROR_CODE_305053,错误提示,,This mercenary is not available yet.,OBT版本
+ERROR_CODE_305054,错误提示,,The number of current mercenaries has reached the limit.,OBT版本
+ERROR_CODE_305055,错误提示,,The current mercenary has reached their hiring limit.,OBT版本
+ERROR_CODE_305056,错误提示,,The current mercenary is not employed.,OBT版本
+ERROR_CODE_305057,错误提示,,Already given a Like to mercenary.,OBT版本
+ERROR_CODE_304606,错误提示,,You cannot collect this frequently. Please try again later.,OBT版本
+ERROR_CODE_41,错误提示,,Duplicate insert primary key.,OBT版本
+ERROR_CODE_43,错误提示,,Packing failed.,OBT版本
+ERROR_CODE_44,错误提示,,Unpacking failed.,OBT版本
+ERROR_CODE_46,错误提示,,Null pointer.,OBT版本
+ERROR_CODE_47,错误提示,,Selectall packet return lost.,OBT版本
+ERROR_CODE_48,错误提示,,Lua script error.,OBT版本
+ERROR_CODE_49,错误提示,,Redis return is null.,OBT版本
+ERROR_CODE_50,错误提示,,Redis return error.,OBT版本
+ERROR_CODE_51,错误提示,,Redis return type error.,OBT版本
+ERROR_CODE_52,错误提示,,There is a problem with Redis status data.,OBT版本
+ERROR_CODE_53,错误提示,,Redis str is null.,OBT版本
+ERROR_CODE_54,错误提示,,No Redis data.,OBT版本
+ERROR_CODE_55,错误提示,,Wait for RPC to return.,OBT版本
+ERROR_CODE_1000,错误提示,,Server Framework,OBT版本
+ERROR_CODE_201001,错误提示,,Failed to create epoll.,OBT版本
+ERROR_CODE_201002,错误提示,,Failed to edit epoll.,OBT版本
+ERROR_CODE_201003,错误提示,,Fcntl system call failed.,OBT版本
+ERROR_CODE_201004,错误提示,,Asynchronous I/O will block.,OBT版本
+ERROR_CODE_201005,错误提示,,Disconnected from browser.,OBT版本
+ERROR_CODE_201006,错误提示,,I/O operation error.,OBT版本
+ERROR_CODE_201007,错误提示,,Illegal JSON format.,OBT版本
+ERROR_CODE_201008,错误提示,,HTTP package parsing error.,OBT版本
+ERROR_CODE_201009,错误提示,,Operation handling error.,OBT版本
+ERROR_CODE_201010,错误提示,,Illegal HTTP request.,OBT版本
+ERROR_CODE_201011,错误提示,,Error converting JSON to PB.,OBT版本
+ERROR_CODE_201012,错误提示,,Protobuf serialization error.,OBT版本
+ERROR_CODE_201013,错误提示,,Error sending HTTP message to IDIPSVR.,OBT版本
+ERROR_CODE_201014,错误提示,,Error sending HTTP message to browser.,OBT版本
+ERROR_CODE_201015,错误提示,,Epollwait returned no event.,OBT版本
+ERROR_CODE_201016,错误提示,,Illegal HTTP format.,OBT版本
+ERROR_CODE_201017,错误提示,,No new data sent to cli.,OBT版本
+ERROR_CODE_201018,错误提示,,HTTP can terminate.,OBT版本
+ERROR_CODE_201019,错误提示,,No connection information.,OBT版本
+ERROR_CODE_201020,错误提示,,DNS parsing error.,OBT版本
+ERROR_CODE_201021,错误提示,,Request parameter missing.,OBT版本
+ERROR_CODE_201022,错误提示,,Request validation failed.,OBT版本
+ERROR_CODE_301001,错误提示,,Convergence Crisis stage not yet unlocked.,OBT版本
+ERROR_CODE_301002,错误提示,,Convergence Crisis stage already cleared.,OBT版本
+ERROR_CODE_301003,错误提示,,Convergence Crisis battle verification failed.,OBT版本
+ERROR_CODE_301004,错误提示,,Incorrect Convergence Crisis parameters.,OBT版本
+ERROR_CODE_301005,错误提示,,Convergence Crisis already unlocked.,OBT版本
+ERROR_CODE_301006,错误提示,,There are characters that do not meet requirements in your lineup.,OBT版本
+ERROR_CODE_301007,错误提示,,Data not found.,OBT版本
+ERROR_CODE_301008,错误提示,,You don't have any rewards to collect.,OBT版本
+ERROR_CODE_301009,错误提示,,Currently not within the accessible time.,OBT版本
+ERROR_CODE_301201,错误提示,,General Elseworld error.,OBT版本
+ERROR_CODE_301202,错误提示,,Elseworld status error.,OBT版本
+ERROR_CODE_301203,错误提示,,Elseworld data not online.,OBT版本
+ERROR_CODE_301204,错误提示,,Elseworld cycle has reset. New Elseworld info must be retrieved.,OBT版本
+ERROR_CODE_301205,错误提示,,Elseworld reset error.,OBT版本
+ERROR_CODE_301206,错误提示,,Elseworld stage generation error.,OBT版本
+ERROR_CODE_301207,错误提示,,Elseworld has not been activated.,OBT版本
+ERROR_CODE_301208,错误提示,,Elseworld configuration error.,OBT版本
+ERROR_CODE_301209,错误提示,,Elseworld parameter error.,OBT版本
+ERROR_CODE_301210,错误提示,,Elseworld info requirements met.,OBT版本
+ERROR_CODE_301211,错误提示,,Failed to add item to Elseworld.,OBT版本
+ERROR_CODE_301212,错误提示,,Failed to remove item from Elseworld.,OBT版本
+ERROR_CODE_301213,错误提示,,Elseworld team initialization error.,OBT版本
+ERROR_CODE_301214,错误提示,,Elseworld team rebirth error.,OBT版本
+ERROR_CODE_301215,错误提示,,Elseworld battle result error.,OBT版本
+ERROR_CODE_301216,错误提示,,Elseworld reward selection error.,OBT版本
+ERROR_CODE_301217,错误提示,,Elseworld Combat Power attribute error.,OBT版本
+ERROR_CODE_301218,错误提示,,Elseworld character attribute error.,OBT版本
+ERROR_CODE_301219,错误提示,,Elseworld reward generation error.,OBT版本
+ERROR_CODE_301220,错误提示,,Elseworld transport generation error.,OBT版本
+ERROR_CODE_301221,错误提示,,Error saving Elseworld client data.,OBT版本
+ERROR_CODE_301222,错误提示,,Elseworld battle verification failed.,OBT版本
+ERROR_CODE_301300,错误提示,,Player,OBT版本
+ERROR_CODE_301301,错误提示,,Memory allocation error.,OBT版本
+ERROR_CODE_301303,错误提示,,Unable to find object. Reconnection failed.,OBT版本
+ERROR_CODE_301311,错误提示,,Community rewards already collected.,OBT版本
+ERROR_CODE_301312,错误提示,,Community rewards not available yet.,OBT版本
+ERROR_CODE_301313,错误提示,,Score rewards already collected.,OBT版本
+ERROR_CODE_301314,错误提示,,Cannot skip tutorial.,OBT版本
+ERROR_CODE_301402,错误提示,,Call timed out.,OBT版本
+ERROR_CODE_301403,错误提示,,Failed to insert context.,OBT版本
+ERROR_CODE_301404,错误提示,,Only uses data reported by the client. Battle process not called.,OBT版本
+ERROR_CODE_301405,错误提示,,No available battle process found.,OBT版本
+ERROR_CODE_301406,错误提示,,Parameter input error.,OBT版本
+ERROR_CODE_301501,错误提示,,Character does not exist.,OBT版本
+ERROR_CODE_301502,错误提示,,Character is in crystal slot.,OBT版本
+ERROR_CODE_301503,错误提示,,Character level does not match.,OBT版本
+ERROR_CODE_301504,错误提示,,Character level restricted.,OBT版本
+ERROR_CODE_301505,错误提示,,Character has reached the maximum level limit.,OBT版本
+ERROR_CODE_301506,错误提示,,Character rank does not match.,OBT版本
+ERROR_CODE_301507,错误提示,,Character rank restricted.,OBT版本
+ERROR_CODE_301508,错误提示,,Character rank exceeded.,OBT版本
+ERROR_CODE_301509,错误提示,,Invalid character rank.,OBT版本
+ERROR_CODE_301510,错误提示,,Invalid character tier.,OBT版本
+ERROR_CODE_301511,错误提示,,Character tier does not match.,OBT版本
+ERROR_CODE_301512,错误提示,,Character rebirth condition error.,OBT版本
+ERROR_CODE_301513,错误提示,,Insufficient character synthesis items.,OBT版本
+ERROR_CODE_301514,错误提示,,Character already obtained.,OBT版本
+ERROR_CODE_301515,错误提示,,Character fragments dismantled.,OBT版本
+ERROR_CODE_301516,错误提示,,Character fragment character restricted.,OBT版本
+ERROR_CODE_301517,错误提示,,Cannot dismantle character fragments.,OBT版本
+ERROR_CODE_301518,错误提示,,Fragments cannot be converted.,OBT版本
+ERROR_CODE_301519,错误提示,,Character leveling shares the same level restrictions.,OBT版本
+ERROR_CODE_301805,错误提示,,Main stage reset failed.,OBT版本
+ERROR_CODE_301806,错误提示,,Main stage character already used.,OBT版本
+ERROR_CODE_301901,错误提示,,General shop error.,OBT版本
+ERROR_CODE_301902,错误提示,,Shop configuration error.,OBT版本
+ERROR_CODE_301903,错误提示,,Shop parameter error.,OBT版本
+ERROR_CODE_301904,错误提示,,Shop refresh error.,OBT版本
+ERROR_CODE_301905,错误提示,,Random shop item error.,OBT版本
+ERROR_CODE_301906,错误提示,,Shop item addition error.,OBT版本
+ERROR_CODE_301907,错误提示,,Shop item removal error.,OBT版本
+ERROR_CODE_301908,错误提示,,Item conditions not met.,OBT版本
+ERROR_CODE_301909,错误提示,,Shop refresh error.,OBT版本
+ERROR_CODE_301910,错误提示,,Shop purchase error.,OBT版本
+ERROR_CODE_302209,错误提示,,Too many mail recipients.,OBT版本
+ERROR_CODE_302210,错误提示,,Too many mail attachments.,OBT版本
+ERROR_CODE_302308,错误提示,,This player is on your blocklist and cannot be added as a friend.,OBT版本
+ERROR_CODE_302309,错误提示,,You are on this player's blocklist. You cannot add them as a friend.,OBT版本
+ERROR_CODE_302310,错误提示,,"You cannot accept this request, as it is not on your friend request list.",OBT版本
+ERROR_CODE_302311,错误提示,,You are not friends.,OBT版本
+ERROR_CODE_302312,错误提示,,Your friend has yet to configure their defensive lineup.,OBT版本
+ERROR_CODE_302313,错误提示,,The player's friend limit has been reached!,OBT版本
+ERROR_CODE_302401,错误提示,,Not unlocked. You cannot collect this yet.,OBT版本
+ERROR_CODE_302402,错误提示,,Reward has been collected.,OBT版本
+ERROR_CODE_302701,错误提示,,Server cannot find player data.,OBT版本
+ERROR_CODE_302702,错误提示,,You cannot begin a stage while already in another stage.,OBT版本
+ERROR_CODE_302703,错误提示,,You cannot launch this stage as it has not been unlocked.,OBT版本
+ERROR_CODE_302704,错误提示,,You cannot reset this stage as it has not been started.,OBT版本
+ERROR_CODE_302705,错误提示,,The submitted archive is too long.,OBT版本
+ERROR_CODE_302706,错误提示,,Chest element ID error. Cannot collect reward.,OBT版本
+ERROR_CODE_302708,错误提示,,Player has reached chest limit.,OBT版本
+ERROR_CODE_302709,错误提示,,Invalid stage ID.,OBT版本
+ERROR_CODE_302710,错误提示,,Character recruitment limit reached.,OBT版本
+ERROR_CODE_302711,错误提示,,Insufficient items.,OBT版本
+ERROR_CODE_303003,错误提示,,Openid error.,OBT版本
+ERROR_CODE_303117,错误提示,,Insufficient Coins.,OBT版本
+ERROR_CODE_303211,错误提示,,Purchase context error.,OBT版本
+ERROR_CODE_303212,错误提示,,Purchase operation data error.,OBT版本
+ERROR_CODE_303213,错误提示,,Purchase order type error.,OBT版本
+ERROR_CODE_303214,错误提示,,Protocol RPC timeout.,OBT版本
+ERROR_CODE_303507,错误提示,,Payment order configuration error.,OBT版本
+ERROR_CODE_303535,错误提示,,Specified pack not found.,OBT版本
+ERROR_CODE_303536,错误提示,,Pack is on cooldown.,OBT版本
+ERROR_CODE_303550,错误提示,,Growth Fund clearance error.,OBT版本
+ERROR_CODE_303551,错误提示,,Growth Fund feature is not available yet.,OBT版本
+ERROR_CODE_303552,错误提示,,Abnormal Growth Fund data.,OBT版本
+ERROR_CODE_303553,错误提示,,Abnormal Growth Fund configuration.,OBT版本
+ERROR_CODE_303554,错误提示,,Abnormal Growth Fund parameters.,OBT版本
+ERROR_CODE_303555,错误提示,,Growth Fund not purchased.,OBT版本
+ERROR_CODE_303556,错误提示,,Growth Fund already purchased.,OBT版本
+ERROR_CODE_303558,错误提示,,Growth Fund rewards cannot be collected.,OBT版本
+ERROR_CODE_303559,错误提示,,Cannot purchase Growth Fund. Replenish your Diamonds.,OBT版本
+ERROR_CODE_303570,错误提示,,Third-party payment item not found.,OBT版本
+ERROR_CODE_303571,错误提示,,Abnormal third-party payment parameters.,OBT版本
+ERROR_CODE_303572,错误提示,,Abnormal third-party payment configuration.,OBT版本
+ERROR_CODE_303580,错误提示,,Failed to obtain player purchase rebate data.,OBT版本
+ERROR_CODE_303581,错误提示,,Purchase rebate. You don't have any rewards to collect.,OBT版本
+ERROR_CODE_303582,错误提示,,Purchase rebate. Please try again.,OBT版本
+ERROR_CODE_303583,错误提示,,Purchase rebate. The event has ended.,OBT版本
+ERROR_CODE_303907,错误提示,,Not in any matching pool.,OBT版本
+ERROR_CODE_304102,错误提示,,Processing on cooldown.,OBT版本
+ERROR_CODE_304103,错误提示,,Already collected.,OBT版本
+ERROR_CODE_304202,错误提示,,Channel ID mismatch.,OBT版本
+ERROR_CODE_304203,错误提示,,Channel does not exist.,OBT版本
+ERROR_CODE_304204,错误提示,,Failed to exit channel.,OBT版本
+ERROR_CODE_304205,错误提示,,Channel is already full.,OBT版本
+ERROR_CODE_304206,错误提示,,Failed to join channel.,OBT版本
+ERROR_CODE_304207,错误提示,,Chat target does not exist.,OBT版本
+ERROR_CODE_304301,错误提示,,This chapter hasn't started yet.,OBT版本
+ERROR_CODE_304302,错误提示,,This chapter has already ended.,OBT版本
+ERROR_CODE_304303,错误提示,,This chapter is not available yet.,OBT版本
+ERROR_CODE_304304,错误提示,,The chapter has not been completed yet.,OBT版本
+ERROR_CODE_304305,错误提示,,Chapter chest reward has already been collected.,OBT版本
+ERROR_CODE_304306,错误提示,,This stage has already been cleared.,OBT版本
+ERROR_CODE_304307,错误提示,,The previous stage has not been cleared yet.,OBT版本
+ERROR_CODE_304308,错误提示,,This stage hasn't started yet.,OBT版本
+ERROR_CODE_304309,错误提示,,This stage is already over.,OBT版本
+ERROR_CODE_304402,错误提示,,This card pool has not opened yet.,OBT版本
+ERROR_CODE_304403,错误提示,,Card pool type doesn't exist.,OBT版本
+ERROR_CODE_304501,错误提示,,Feature hasn't been activated.,OBT版本
+ERROR_CODE_304502,错误提示,,Failed to retrieve boss.,OBT版本
+ERROR_CODE_304503,错误提示,,Boss data not found.,OBT版本
+ERROR_CODE_304504,错误提示,,Failed to start Evil Falls battle.,OBT版本
+ERROR_CODE_304505,错误提示,,Evil Falls Boss refreshed!,OBT版本
+ERROR_CODE_304601,错误提示,,Player data error.,OBT版本
+ERROR_CODE_304602,错误提示,,Abnormal configuration data.,OBT版本
+ERROR_CODE_304603,错误提示,,Configuration not found.,OBT版本
+ERROR_CODE_304604,错误提示,,Main stage retrieval error.,OBT版本
+ERROR_CODE_304605,错误提示,,Quick income quantity has reached the limit.,OBT版本
+ERROR_CODE_304701,错误提示,,Player data error.,OBT版本
+ERROR_CODE_304702,错误提示,,Configuration not found.,OBT版本
+ERROR_CODE_304703,错误提示,,Parameter error.,OBT版本
+ERROR_CODE_304704,错误提示,,This periodic reward has not refreshed.,OBT版本
+ERROR_CODE_304705,错误提示,,Reward already collected.,OBT版本
+ERROR_CODE_304812,错误提示,,Transaction information already exists.,OBT版本
+ERROR_CODE_304813,错误提示,,Transaction information not found.,OBT版本
+ERROR_CODE_304901,错误提示,,BP data not found.,OBT版本
+ERROR_CODE_304902,错误提示,,BP not activated.,OBT版本
+ERROR_CODE_304903,错误提示,,This BP is not available yet.,OBT版本
+ERROR_CODE_304904,错误提示,,Parameter Error: pay_level,OBT版本
+ERROR_CODE_304905,错误提示,,Cannot purchase.,OBT版本
+ERROR_CODE_304906,错误提示,,This reward is invalid.,OBT版本
+ERROR_CODE_304907,错误提示,,This reward has already been collected.,OBT版本
+ERROR_CODE_304908,错误提示,,Invalid Public Security Plan level.,OBT版本
+ERROR_CODE_304909,错误提示,,Public Security Plan level is not at max.,OBT版本
+ERROR_CODE_304910,错误提示,,Insufficient level experience.,OBT版本
+ERROR_CODE_304911,错误提示,,Not enough Activity.,OBT版本
+ERROR_CODE_304912,错误提示,,Invalid level increase.,OBT版本
+ERROR_CODE_304913,错误提示,,Diamond quantity exceeded.,OBT版本
+ERROR_CODE_304914,错误提示,,Invalid Diamond quantity.,OBT版本
+ERROR_CODE_304915,错误提示,,Cannot purchase levels.,OBT版本
+ERROR_CODE_304916,错误提示,,Purchase configuration not found.,OBT版本
+ERROR_CODE_304917,错误提示,,Invalid purchase parameters.,OBT版本
+ERROR_CODE_301912,Error message,The corresponding collection has been unlocked and no purchase is required.,Reinforcement already unlocked.,OBT版本
+ERROR_CODE_301913,错误提示,不需要这么多藏品碎片,Quantity owned has already met the activation condition. No purchase required.,OBT版本
+ERROR_CODE_305102,Error message,,Reinforcement data not found.,OBT版本
+ERROR_CODE_305103,Error message,,Reinforcement already unlocked.,OBT版本
+ERROR_CODE_305104,Error message,,Reinforcement not yet unlocked.,OBT版本
+ERROR_CODE_305105,Error message,,Insufficient Reinforcement level.,OBT版本
+ERROR_CODE_305106,Error message,,Insufficient Reinforcement unlock items.,OBT版本
+ERROR_CODE_305107,Error message,,Failed to deduct Reinforcement unlock items.,OBT版本
+ERROR_CODE_305108,Error message,,Invalid Reinforcement ID.,OBT版本
+ERROR_CODE_305109,Error message,,Reinforcement Upgrade consumable not found.,OBT版本
+ERROR_CODE_305110,Error message,,Insufficient Reinforcement Upgrade items.,OBT版本
+ERROR_CODE_305111,Error message,,Failed to deduct Reinforcement Upgrade item.,OBT版本
+ERROR_CODE_305112,Error message,,Reinforcement level is already at maximum.,OBT版本
+ERROR_CODE_305113,Error message,,Reinforcement Skill level up consumable not found.,OBT版本
+ERROR_CODE_305114,Error message,,Insufficient Reinforcement Skill level up items.,OBT版本
+ERROR_CODE_305115,Error message,,Failed to deduct Reinforcement Skill upgrade item.,OBT版本
+ERROR_CODE_305116,Error message,,Reinforcement Skill level is already at maximum.,OBT版本
+ERROR_CODE_305117,Error message,,Reinforcement attribute bonus configuration error.,OBT版本
+ERROR_CODE_305202,错误提示,,Already started another stage.,OBT版本
+ERROR_CODE_305203,错误提示,,Stage configuration not found.,OBT版本
+ERROR_CODE_305204,错误提示,,Stage not yet unlocked.,OBT版本
+ERROR_CODE_305205,错误提示,,This stage has not been started.,OBT版本
+ERROR_CODE_305206,错误提示,,Element not found or is not in this stage.,OBT版本
+ERROR_CODE_305208,错误提示,,Sacrifice choice is invalid. Make another selection.,OBT版本
+ERROR_CODE_305209,错误提示,,Cannot full skip with an empty team. Make a new one.,OBT版本
+ERROR_CODE_301820,错误提示,,Character level requirement not met. Unable to enter the stage!,OBT版本
+ERROR_CODE_305306,错误提示,,Activity is not available yet.,OBT版本
+ERROR_CODE_305704,错误提示,,It's not time to collect yet.,OBT版本
+ERROR_CODE_305401,错误提示,,Replay does not exist. Please wait for replay update.,OBT版本
+ERROR_CODE_305402,错误提示,,Replay version too low. Please wait for replay update.,OBT版本
+ERROR_CODE_305705,错误提示,,You cannot collect this frequently. Please try again later.,OBT版本
+ERROR_CODE_303537,错误提示,,The item has expired and cannot be purchased.,OBT版本
+ERROR_CODE_303596,错误提示,,Item cannot be purchased.,OBT版本
+ERROR_CODE_306000,错误提示,,The stage has been reset for this week. Please return to the Lobby and enter Crisis Watch again.,OBT版本
+ERROR_CODE_305313,错误提示,英雄主活动未开,Event not available yet.,OBT版本
+ERROR_CODE_305314,错误提示,找不到boss数据,Cannot challenge at the moment.,OBT版本
+ERROR_CODE_305315,错误提示,boss战斗开始失败,Cannot enter battle. Please try again.,OBT版本
+ERROR_CODE_305316,错误提示,活动已关闭,The event has ended.,OBT版本
+ERROR_CODE_305317,错误提示,boss获取积分失败,Event results error. Unable to retrieve points.,OBT版本
+ERROR_CODE_305318,错误提示,boss积分奖励已领取,Cannot collect the same rewards again.,OBT版本
+ERROR_CODE_305319,错误提示,boss积分不够，无法领取该奖励,Reward collection requirements not met.,OBT版本
+ERROR_CODE_305320,错误提示,活动数据不存在,Unable to find relevant data.,OBT版本
+ERROR_CODE_305301,错误提示,限时签到数据未找到,Unable to find relevant data.,OBT版本
+ERROR_CODE_305302,错误提示,限时签到活动未开放,Event not available yet.,OBT版本
+ERROR_CODE_305303,错误提示,限时签到奖励未解锁,Reward not yet unlocked.,OBT版本
+ERROR_CODE_305304,错误提示,限时签到奖励已经领取,Reward already collected.,OBT版本
+ERROR_CODE_305305,错误提示,限时签到配置错误,Abnormal configuration data.,OBT版本
+ERROR_CODE_305306,错误提示,活动未开放,Event not available yet.,OBT版本
+ERROR_CODE_305307,错误提示,英雄预告数据未找到,Unable to find relevant data.,OBT版本
+ERROR_CODE_305308,错误提示,英雄预告活动未开放,Event not available yet.,OBT版本
+ERROR_CODE_305309,错误提示,英雄预告奖励未解锁,Reward not yet unlocked.,OBT版本
+ERROR_CODE_305310,错误提示,英雄预告奖励已经领取,Reward already collected.,OBT版本
+ERROR_CODE_305311,错误提示,英雄预告配置错误,Abnormal configuration data.,OBT版本
+ERROR_CODE_305312,错误提示,新手月签到活动已经结束 ,The event has ended.,OBT版本
+ERROR_CODE_301408,错误提示,,There are characters that do not meet requirements in your lineup.,OBT版本
+ERROR_CODE_303118,错误提示,,Recycle Equipment feature is not available yet.,OBT版本
+ERROR_CODE_305902,,,Mission is already dispatched.,OBT版本
+ERROR_CODE_305903,,,A character is already dispatched in another mission.,OBT版本
+ERROR_CODE_305911,错误提示,派遣时间不足,Dispatch mission incomplete.,OBT版本
+ERROR_CODE_305913,错误提示,派遣连点提示,Dispatch mission rewards already collected.,OBT版本
+ERROR_CODE_306301,错误提示,小游戏重复领奖,Reward already collected.,OBT版本
+ERROR_CODE_307301,错误提示,藏品活动-奖池不存在,Reward already collected.,OBT版本
+ERROR_CODE_307302,错误提示,藏品活动-该层奖励不存在,Data error.,OBT版本
+ERROR_CODE_307303,错误提示,藏品活动-该次奖励不存在,Data error.,OBT版本
+ERROR_CODE_307304,错误提示,"藏品活动-抽奖时,选择错误奖励",Data error.,OBT版本
+ERROR_CODE_307305,错误提示,"藏品活动-抽奖时,选择错误层",Data error.,OBT版本
+ERROR_CODE_307306,错误提示,"藏品活动-抽奖时,选择错误格",Data error.,OBT版本
+ERROR_CODE_307307,错误提示,藏品活动-无法进入下一层,Unable to enter the next phase.,OBT版本
+ERROR_CODE_305350,错误提示,藏品活动-购买次数已达到上线,At max purchase attempts.,OBT版本
+ERROR_CODE_303540,错误提示,英雄BP,Data error.,OBT版本
+ERROR_CODE_303541,错误提示,英雄BP,Event not available yet.,OBT版本
+ERROR_CODE_303542,错误提示,英雄BP,Data error.,OBT版本
+ERROR_CODE_303543,错误提示,英雄BP,The event has ended.,OBT版本
+ERROR_CODE_303544,错误提示,英雄BP,Reward already collected.,OBT版本
+ERROR_CODE_303545,错误提示,英雄BP,Reward collection requirements not met.,OBT版本
+ERROR_CODE_303546,错误提示,英雄BP,At maximum.,OBT版本
+ERROR_CODE_302607,错误提示,任务异常,Mission status error.,OBT版本
+ERROR_CODE_302608,错误提示,任务异常,Reward already collected.,OBT版本
+ERROR_CODE_305340,错误提示,塞尼斯托活动,Failed to start battle.,OBT版本
+ERROR_CODE_305341,错误提示,塞尼斯托活动,Current stage does not need resetting.,OBT版本
+ERROR_CODE_305342,错误提示,塞尼斯托活动,This stage has not been started.,OBT版本
+ERROR_CODE_305343,错误提示,塞尼斯托活动,This stage is already over.,OBT版本
+ERROR_CODE_305344,错误提示,塞尼斯托活动,Key character is missing from lineup.,OBT版本
+ERROR_CODE_306401,错误提示,高阶PVP,Unlock condition(s) not met.,OBT版本
+ERROR_CODE_306402,错误提示,高阶PVP,Configuration undefined.,OBT版本
+ERROR_CODE_306403,错误提示,高阶PVP,Reward collection requirement(s) not met.,OBT版本
+ERROR_CODE_306404,错误提示,高阶PVP,Reward already collected.,OBT版本
+ERROR_CODE_306405,错误提示,高阶PVP,Season has entered the off-season phase to await the next season.,OBT版本
+ERROR_CODE_306406,错误提示,高阶PVP,Matchmaking target not found.,OBT版本
+ERROR_CODE_306407,错误提示,高阶PVP,Matchmaking session already exists.,OBT版本
+ERROR_CODE_306408,错误提示,高阶PVP,Matchmaking session has expired.,OBT版本
+ERROR_CODE_306409,错误提示,高阶PVP,The number of daily matchmaking attempts has reached the limit.,OBT版本
+ERROR_CODE_306410,错误提示,高阶PVP,Failed to configure deployment order.,OBT版本
+ERROR_CODE_306411,错误提示,高阶PVP,Player does not exist.,OBT版本
+ERROR_CODE_306412,错误提示,高阶PVP,Prediction stage has expired.,OBT版本
+ERROR_CODE_306413,错误提示,高阶PVP,Predictions for the current stage already made.,OBT版本
+ERROR_CODE_306414,Error message,High level PVP,Victors Arena resetting.,OBT版本
+ERROR_CODE_306415,错误提示,高阶PVP,Lineup size error.,OBT版本
+ERROR_CODE_306416,错误提示,高阶PVP,Battle process communication error.,OBT版本
+ERROR_CODE_306417,错误提示,高阶PVP, Battle record does not exist.,OBT版本
+ERROR_CODE_306418,错误提示,高阶PVP,Hero does not exist.,OBT版本
+ERROR_CODE_301316,错误提示,登录,Server has reached its registration limit.,OBT版本
+ERROR_CODE_301524,错误提示,羁绊解锁,This bond has been activated.,OBT版本
+ERROR_CODE_305326,错误提示,谜语人活动,Reward already collected.,OBT版本
+ERROR_CODE_305070,Error message - General can't do challenge,Gve,Unable to participate in League Challenge this week. Please try again next week.,OBT版本
+ERROR_CODE_305071,错误提示,Gve,Area Settings error. Please try again later.,OBT版本
+ERROR_CODE_305072,错误提示,Gve,Tactic Settings error. Please try again later.,OBT版本
+ERROR_CODE_305073,错误提示,Gve,Difficulty Settings error. Please try again later.,OBT版本
+ERROR_CODE_305074,错误提示,Gve,Battle error. Please try again later.,OBT版本
+ERROR_CODE_305075,错误提示,Gve,Initialization error. Please try again later.,OBT版本
+ERROR_CODE_305076,错误提示,Gve,Reward not yet unlocked. Please try again later.,OBT版本
+ERROR_CODE_305077,错误提示,Gve,Reward already collected. Please try again later.,OBT版本
+ERROR_CODE_305078,Error message - Changed league this cycle,Gve,Unable to join an active challenge when you change leagues. The next starts in {0}.,OBT版本
+ERROR_CODE_305079,Error message - No active challenge cycle,Gve,There is no active League Challenge right now. The next one starts in {0}.,OBT版本
+ERROR_CODE_301914,错误提示,道具出售,Failed to sell.,OBT版本
+ERROR_CODE_307530,错误提示,神器售卖,Data error. Unable to purchase.,OBT版本
+ERROR_CODE_307531,错误提示,神器售卖,Data error. Unable to purchase.,OBT版本
+ERROR_CODE_307532,错误提示,神器售卖,Maximum number of purchases reached.,OBT版本
+ERROR_CODE_307533,错误提示,神器售卖,Purchase data error.,OBT版本
+ERROR_CODE_307534,错误提示,神器售卖神器卡池数据未找到,Prize pool data error.,OBT版本
+ERROR_CODE_307535,错误提示,神器售卖-神器卡池配置未找到,Prize pool data error.,OBT版本
+ERROR_CODE_307602,错误提示,Character Files reward already claimed,Reward already claimed.,OBT版本
+ERROR_CODE_305912,错误提示,派遣,You don't have any missions to collect now.,OBT版本
+ERROR_CODE_301915,错误提示,大厅皮肤售卖,You already own all decorations in this theme.,OBT版本
+ERROR_CODE_301916,错误提示,大厅皮肤售卖,This decoration is no longer available.,OBT版本
+ERROR_CODE_307801,Error message,Coordinated operations,Unable to Simulate as another Simulation is already running.,OBT版本
+ERROR_CODE_307802,Error message,Coordinated operations,Unable to Simulate as you have uncollected rewards.,OBT版本
+ERROR_CODE_307803,错误提示,协同作战_挑战次数,You have already reached today's purchase limit. Unable to continue purchasing.,OBT版本
+ERROR_CODE_307804,Error message,Coordinated operations,Unable to start battle as the Simulation has already been defeated or has expired.,OBT版本
+ERROR_CODE_307805,Error message,Coordinated operations,Failed to start battle.,OBT版本
+ERROR_CODE_307806,Error message,Coordinated operations,Simulation not initialized yet.,OBT版本
+ERROR_CODE_307807,Error message,Coordinated operations,Simulation has been defeated or has expired.,OBT版本
+ERROR_CODE_307808,Error message,Coordinated operations,Already assisted with this Simulation.,OBT版本
+ERROR_CODE_307809,Error message,Coordinated operations,Rewarded Assists have already been expended.,OBT版本
+ERROR_CODE_307810,Error message,Coordinated operations,Cannot assist for free as Rewarded Assists have not been expended.,OBT版本
+ERROR_CODE_307811,Error message,Coordinated operations,Insufficient Simulation Attempts.,OBT版本
+ERROR_CODE_307812,Error message,Coordinated operations,An assist has already been initiated. Unable to assist again.,OBT版本
+ERROR_CODE_307813,Error message,Coordinated operations,Unable to assist as the Simulation has been defeated or has expired.,OBT版本
+ERROR_CODE_307814,Error message,Coordinated operations,Unable to collect rewards as the Simulation is still running and has not expired.,OBT版本
+ERROR_CODE_307815,Error message,Coordinated operations,Unable to collect rewards as the Simulation is still running and has not expired.,OBT版本
+ERROR_CODE_307816,Error message,Coordinated operations,Reward already collected.,OBT版本
+ERROR_CODE_307817,错误提示,Coordinated operations,Feature is not available yet,OBT版本
+ERROR_CODE_307818,错误提示,Coordinated operations,You do not receive this invitation.,OBT版本
+ERROR_CODE_307509,错误提示,神器,The Artifact Manual has been activated,OBT版本
+ERROR_CODE_307506,错误提示,神器,Artifact material enhancment is at maximum level.,OBT版本
+ERROR_CODE_307510,错误提示,神器,Processing Artifact tier reset.,OBT版本
+ERROR_CODE_307505,错误提示,神器,Artifact is maximum rank.,OBT版本
+ERROR_CODE_307511,错误提示,神器,The artifact rank has already increased.,OBT版本
+ERROR_CODE_304208,CS/Chat,Player was muted by CS,Account muted.,
+ERROR_CODE_302314,Friend/Request, Dirty message request, Friend request message has sensitive words.,
+ERROR_CODE_304209,Chat,Player is blocked by target player,Player is blocked by target player.,
+ERROR_CODE_304210,Chat,Player is not a friend of a target player,Player is not a friend of a target player.,
+ERROR_CODE_400005,Error message,Guild Notice cannot be empty.,Guild Notice cannot be empty.,
+ERROR_CODE_304211,Chat,Chat message did not pass automatic chat moderation,Messages cannot contain inappropriate language. Please review your message for offensive text and try again.,
+ERROR_CODE_301409,Error message,failed battle skip requirements,Unable to skip this battle.,
+ERROR_CODE_4001,Error message,Account already linked and reward given,User has already been rewarded for linking.,
+ERROR_CODE_4002,Error message,Trying to get reward without linking the account,User is trying to get the reward without linking.,
+ERROR_CODE_307901,Error message,Player tries to buy a retry with no retry left,Maximum number of resets reached for the current period. Unable to purchase.,
+ERROR_CODE_307902,Error message,Player tries to buy a retry with zero score,You can only reset a challenge after you have made at least one attempt.,
+ERROR_CODE_301601,Error message,Player tries to start a battle without the required trial character,You must include the Trial character before you can start the Fight.,
+ERROR_CODE_56,Error message,Trying to access a temporarily unavailable feature,Feature temporarily unavailable.,
+ERROR_CODE_400401,Error message,Player tried to redeem a code but an unspecified error ocurred,The code is invalid,
+ERROR_CODE_400402,Error message,The owner has redeemed too many codes,Redemption limit reached for this code campaign,
+ERROR_CODE_400403,Error message,Redemption code was redeemed but a consumer of that code campaign failed to be awarded,The code is invalid,
+ERROR_CODE_400404,Error message,Code couldn't be created (For autogenerated codes like referal codes),Failed to create the code,
+ERROR_CODE_400405,Error message,Could not find a code to redeem for user,The code is invalid,
+ERROR_CODE_400406,Error message,The code is already redeemed,The code has already been redeemed,
+ERROR_CODE_400407,Error message,The code campaign is expired,The code has expired,
+ERROR_CODE_301911,Error message,The user attempts to interact with an expired event shop ,The event has ended,
+ERROR_CODE_305058,Error message,Error message - Title Operation failure,Permission change failed. Try again.,

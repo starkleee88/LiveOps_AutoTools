@@ -1,0 +1,7 @@
+﻿BattleID,,EnemyGroup,SystemAlly,UsefulAlly,IsAuto,EnemyPower,AllyPower,BattleScene,SystemHeroPosition
+BattleID,Notes,Corresponding lineup in the enemygroup table,"System recommended heroes, associated with BattleAllyInfo table",ID of the characters that can be deployed,"0 Cannot autobattle
+1 Can autobattle",Enemy Energy Rules,Ally Energy Rules,Battle Scene Name,System role position
+index,,int,arry-int,arry-int,int,int,int,string,arry-int
+1,,150101,15010103|15010102,13127|13138|13171|13141|13143|13145,1,8,5,Battle_ForeverEvil_1,1|2
+2,,150102,15010202|15010203,13142|13150|13169|13129|13144,1,11,11,Battle_CentralCity_1,1|4
+3,,150103,15010303|15010304,13142|13150|13169|13129|13144,1,11,11,Battle_CentralCity_1,1|4

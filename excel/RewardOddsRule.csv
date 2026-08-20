@@ -1,0 +1,12 @@
+﻿RewardID,O,ShowOdds,RuleID
+Reward ID,Description,Display the % odds of receiving at least one of a given item,Rule ID to display for Reward
+index,string,int,int
+0,Default Rule for Rewards/Chest Display,0,110000
+19232001,LCTE Chest 01,1,19232001
+19232002,LCTE Chest 02,1,19232002
+19232003,LCTE Chest 03,1,19232003
+19232004,LCTE Chest 04,1,19232004
+19232005,LCTE Chest 05,1,19232005
+19232006,LCTE Chest 06,1,19232006
+19232007,LCTE Chest 07,1,19232007
+19232008,LCTE Chest 08,1,19232008

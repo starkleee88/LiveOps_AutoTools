@@ -1,0 +1,3 @@
+ID,ModelID,O,O,MonsterType,Faction,Class,IsHero,Quality,BasicCastPriority,SkillIDs,SkillIDsBossWarning,Hp_Bar,Level,LevelSpecial,Star,Size,Prop,PropMulti,PropPlus,DynamicLevel,O,O,O,O,O,O,O,O
+Enemy ID,Model ID,Note,Note,Type,Faction,Class,Whether they are a hero or not,Quality,Basic ultimate skill casting priority,Skills owned by the character,Skills that need to be hinted to the player,HP bar,Level,Level difference,Star,Scale,Attribute,Extra attributes,Extra attributes,Dynamic level mark,Attack,Defense,HP,Speed,,,,
+index,int,O,O,int,int,int,int,int,int,array-int,array-int,int,int,int,int,int,2darray-int,2darray-int,2darray-int,int,6|,;10|,;2|,;18|,,,,

@@ -1,0 +1,9 @@
+﻿Id,Dialog,GuestId,MainPosId,GuestPosId
+Room ID,Dialog ID,Guest ID,Main Character Location ID,Guest Location ID
+index,int,int,int,int
+1,50001,13109,103,104
+2,50002,13138,203,204
+3,50003,13101,303,304
+4,50004,13126,403,404
+7,50007,13122,706,707
+8,50008,13104,806,807

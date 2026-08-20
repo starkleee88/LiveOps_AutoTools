@@ -1,0 +1,9 @@
+﻿Quality,QualityName,Gongming_LevelUp,VanishStar,O,O,
+CS,C,CS,Only when reaching X star level can it be used as star upgrade material,O,O,
+index,string,int,int,,,
+1,AllyQualityName1,0,,Uncommon,,The resonance crystal data is to be determined and will be added later
+2,AllyQualityName2,2,3,Rare,C,
+3,AllyQualityName3,2,3,Elite,B,
+4,AllyQualityName4,2,,Epic,A,
+5,AllyQualityName5,3,,Legendary,S,
+6,AllyQualityName6,3,,Mythic,S+,

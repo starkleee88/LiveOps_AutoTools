@@ -1,0 +1,5 @@
+﻿ID,O,CloseTime,MainIcon
+id,Activity ID,closing time,Main interface icon
+index,O,int,string
+1,新手七日登录,180,ui_activity_icon01
+2,新手十四日登录,180,ui_activity_icon02

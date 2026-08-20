@@ -1,0 +1,4 @@
+﻿ActivityID,,ShopItemId
+Activity ID,Note,Product ID corresponding to the event
+index,,int
+15000,Summer's Red Furniture,60010002

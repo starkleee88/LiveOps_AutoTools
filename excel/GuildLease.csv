@@ -1,0 +1,6 @@
+﻿LeaseID,AdventureChapterLimit,AdventureStageLimit,LeaseNotOpen,O,LeaseEmptyState,O
+Lease ID,Chapter Unlock,Stage Unlock,Lease Locked Text,Note,Lease Empty Text,Note
+index,int,int,string,,string,
+1,1,1,LeaseNotOpen1,,LeaseEmptyState1,
+2,5,30,LeaseNotOpen2,,LeaseEmptyState2,
+3,7,30,LeaseNotOpen3,,LeaseEmptyState3,

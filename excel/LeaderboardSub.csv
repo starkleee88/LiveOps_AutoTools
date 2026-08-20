@@ -1,0 +1,106 @@
+﻿ID,SubID,SubBoardName,O,Num,Param,Unlock,Progress,PopupPhoto,InitializeValue,OrderRule
+Main Leaderboard ID,Sub-Leaderboard ID,Sub-Leaderboard Name,O,"Number of Rankings (Backend Statistics)
+Author:
+The frontend scrolling bar displays rankings for 500 people, so at least 500 should be recorded.","Parameter
+Author:
+For tower climbing, fill in the IDs of the same type of tower in order.",Level Unlock Conditions,Progress Description,Face-Off Boss Image,"Initial Value
+Author:
+1. Mainline Instance [Chapter ID, Level Progress]
+2. Mainline Hard [Star Count]
+3. Development Points [Points]
+4. Fusion Crisis [Tower ID, Level], for total level leaderboard [Total Levels, 0]
+5. Evil Descends [Boss Level, Progress (Percentage)]","Sorting Rule
+Author:
+0 - Descending
+1 - Ascending"
+int,int,string,,int,array-int,int,string,string,array-int,array-int
+1,1,Leaderboard_SubBoardName1_1,Mainline Instance - Mainline Instance,500,,421,Leaderboard_SubBoardProgress1_1,,0|0,0|0
+2,1,Leaderboard_SubBoardName2_1,Mainline Hard - Mainline Hard,500,,930,Leaderboard_SubBoardProgress2_1,,0,0
+3,1,Leaderboard_SubBoardName3_1,Development Points - Development Points,500,,421,Leaderboard_SubBoardProgress3_1,,0,0
+4,1,Leaderboard_SubBoardName4_1,Fusion Crisis - Total Leaderboard,500,,421,Leaderboard_SubBoardProgress4_1,,0|0,0|0
+4,2,Tower_name_Central,Fusion Crisis - Central City,500,2,421,Leaderboard_SubBoardProgress4_2,,1|0,0|0
+4,3,Tower_name_Keystone,Fusion Crisis - Keystone City,500,3,421,Leaderboard_SubBoardProgress4_2,,1|0,0|0
+4,4,Tower_name_Metropolis,Fusion Crisis - Metropolis,500,4,421,Leaderboard_SubBoardProgress4_2,,1|0,0|0
+4,5,Tower_name_Star,Fusion Crisis - Star City,500,5,421,Leaderboard_SubBoardProgress4_2,,1|0,0|0
+4,6,Tower_name_Fawcett,Fusion Crisis - Fawcett City,500,6,421,Leaderboard_SubBoardProgress4_2,,1|0,0|0
+5,1,Leaderboard_SubBoardName5_1,Evil Descends - Ultraman,500,,421,Leaderboard_SubBoardProgress5,ui_Leaderboard_boss01,1|0,0|0
+5,2,Leaderboard_SubBoardName5_2,Evil Descends - Johnny Quick,500,,421,Leaderboard_SubBoardProgress5,ui_Leaderboard_boss03,1|0,0|0
+5,3,Leaderboard_SubBoardName5_3,Evil Descends - Superwoman,500,,421,Leaderboard_SubBoardProgress5,ui_Leaderboard_boss02,1|0,0|0
+5,4,Leaderboard_SubBoardName5_4,Evil Descends - Deathstorm,500,,421,Leaderboard_SubBoardProgress5,ui_Leaderboard_boss04,1|0,0|0
+5,5,Leaderboard_SubBoardName5_5,Evil Descends - Power Ring,500,,421,Leaderboard_SubBoardProgress5,ui_Leaderboard_boss05,1|0,0
+5,6,Leaderboard_SubBoardName5_6,Evil Descends - Owlman,500,,421,Leaderboard_SubBoardProgress5,ui_Leaderboard_boss06,1|0,0
+201,1,MiniGame_NormalRank,Identity Recognition - Regular Leaderboard,10000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,2,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,3,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,4,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,5,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,6,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,7,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,8,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,9,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,10,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,11,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,12,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,13,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,14,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+201,15,ActivityMiniGame_RankName,Identity Recognition - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,1,MiniGame_NormalRank,Archery Training - Regular Leaderboard,10000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,2,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,3,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,4,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,5,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,6,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,7,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,8,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,9,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,10,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,11,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,12,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,13,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,14,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+202,15,ActivityMiniGame_RankName,Archery Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,1,MiniGame_NormalRank,Weapon Training - Regular Leaderboard,10000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,2,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,3,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,4,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,5,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,6,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,7,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,8,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,9,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,10,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,11,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,12,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,13,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,14,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+203,15,ActivityMiniGame_RankName,Weapon Training - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+204,1,MiniGame_NormalRank,Sector Domination - Regular Leaderboard,10000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,2,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,3,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,4,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,5,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,6,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,7,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,8,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,9,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,10,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,11,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,12,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,13,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,14,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+204,15,ActivityMiniGame_RankName,Sector Domination - Season Leaderboard,1000,,206,Leaderboard_BoardSimpleDescribe6,,0|0,0|1
+205,1,MiniGame_NormalRank,Mind Link - Regular Leaderboard,10000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,2,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,3,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,4,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,5,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,6,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,7,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,8,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,9,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,10,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,11,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,12,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,13,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,14,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0
+205,15,ActivityMiniGame_RankName,Mind Link - Season Leaderboard,1000,,206,Leaderboard_SubBoardProgress201,,0,0

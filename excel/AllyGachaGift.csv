@@ -1,0 +1,19 @@
+﻿ID,o,GiftType,EventGachaType,OpenTime,CloseTime,Unlock,Photo,MainBackground,TimeBackground1,TimeBackground2,Model,ModelPosX,ModelRotateY,ModelScale,LightPosX,Title,OutIcon,OutTitle
+Activity ID,Note,"Gift Type - 
+1: Normal (blue)
+2: Advanced (purple w/ pop up
+window
+",Card Pool ID,Start Time,End Time,"Unlock
+ChapterNode",Gift Image,"Main Background 
+Image","Remaining Time 
+Background Image","Remaining Time 
+Background Image 2","Model
+Hero ID",Left & right positions of the model - 100 times the X in the game,"Model 
+Rotation",Model Size - 100 times the in-game size,BG light effect position offset,Gift Title,Outer Icon,Outer Icon Title
+index,,int,array-int,string,string,int,string,string,string,string,int,int,int,int,int,string,string,string
+1001,Wonder Woman,2,21|31,20210815_000000,20211213_000000,530,ui_recharg_img_bannerbg002,ui_recharg_img_popbg01,ui_recharg_img_timetxtbg01,ui_recharg_img_timetxtbg02,13103,-128,0,110,0,GachaGiftTitle1001,ui_recharg_btn_zmfl,GachaGiftTitle1001
+1002,Pandora,2,11|33|34|35,20211216_000000,20211223_000000,530,ui_recharg_img_bannerbg002_panduola,ui_recharg_img_bannerbg001_panduola,ui_recharg_img_timetxtbg01_panduola,ui_recharg_img_timetxtbg02_panduola,13187,-98,270,110,0,GachaGiftTitle1001,ui_recharg_btn_zmfl,GachaGiftTitle1001
+1003,Doctor Fate,2,21|37,20220101_000000,20220115_000000,530,ui_recharg_img_bannerbg002_df,ui_recharg_img_bannerbg001_df,ui_recharg_img_timetxtbg01_df,ui_recharg_img_timetxtbg02_df,13108,-139,9,100,0,GachaGiftTitle1001,ui_recharg_btn_zmfl,GachaGiftTitle1001
+1004,Two-Face,1,11|40,20220116_000000,20220123_000000,530,ui_recharg_img_bannerbg002_13171,ui_recharg_img_bannerbg001_13171,ui_recharg_img_timetxtbg01_13171,ui_recharg_img_timetxtbg02_13171,13171,-128,0,110,175,GachaGiftTitle1001,ui_recharg_btn_zmfl,GachaGiftTitle1001
+1005,Cyborg,2,21|41,20220127_000000,20220206_000000,530,ui_recharg_img_bannerbg002_13113,ui_recharg_img_bannerbg001_13113,ui_recharg_img_timetxtbg01_13113,ui_recharg_img_timetxtbg02_13113,13113,-96,0,95,-60,GachaGiftTitle1001,ui_recharg_btn_zmfl,GachaGiftTitle1001
+1006,Killer Frost,1,11|43,20220217_000000,20220224_000000,530,ui_recharg_img_bannerbg002_13141,ui_recharg_img_bannerbg001_13141,ui_recharg_img_timetxtbg01_13141,ui_recharg_img_timetxtbg02_13141,13141,-125,0,110,65,GachaGiftTitle1001,ui_recharg_btn_zmfl,GachaGiftTitle1001

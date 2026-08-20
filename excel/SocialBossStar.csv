@@ -1,0 +1,9 @@
+﻿Star,ExistTime,Enemy,Weight,Enemy,Weight,Enemy,Weight,O
+Star Rating,Existence time (seconds),Enemy,Weight,Enemy,Weight,Enemy,Weight,Disabled Enemy
+int,int,int,int,int,int,int,int,
+1,1800,13169,100,13128,50,13128,50,13137
+2,3600,13142,100,13147,50,13147,50,13184
+3,14400,13110,100,13115,50,13115,50,13138
+4,14400,13109,100,13140,50,13140,50,13135
+5,43200,13103,100,13104,100,13133,100,
+6,43200,13101,100,13151,100,13131,100,

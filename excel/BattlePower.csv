@@ -1,0 +1,22 @@
+﻿ID,PowerTransform,DefaultPoints,O
+ID,Combat Power Coefficient,Actual Combat Converion,Note
+index,int,int,
+5,1000,1,Final - the final value of life
+9,10000,1,Final - attack
+13,10000,1,Ultimate-Defense
+105,1980000,1,Final-speed
+29,10000,1,Final - armor breaking
+24,10000,10000,hit rate
+25,10000,10000,Dodge rate
+152,5000,10000,Critical hit rate bonus
+153,5000,10000,Resistance to critical hits
+162,3000,10000,Critical hit amplification
+163,3000,10000,Critical hit resistance
+26,5000,10000,Block rate
+28,5000,10000,Accuracy
+27,3000,10000,Block strength
+401,3000,10000,Precise intensity
+271,10000,10000,Increased damage to all systems
+272,10000,10000,Damage reduction for all systems
+33,10000,10000,Reflect rate
+32,10000,10000,Bleed rate

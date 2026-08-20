@@ -1,0 +1,11 @@
+﻿Id,Name,O,AllyId,ItemId,RoomFrame,Dialog,DefaultPosId,DefaultBubble,Reward,CinnabarName,CinnabarItemId,RoomSketch,CinnabarBg,CinnabarBgOffsetX,CinnabarBgOffsetY,CinnabarScale
+Room ID,Name,Name,Ally ID,Unlock Item,Room Base,Dialog,Location ID,Default Bubbles,Decorative award group,Collection item Function name,Collection ID (for displaying obtain method),Room Thumbnail,Background image of collection,Collection background x offset - Divide by 100 for true value,Collection background y offset - Divide by 100 for true value,Collection item scaling - percent
+index,string,O,int,int,string,int,int,string,int,string,int,string,string,int,int,int
+1,CharacterName_13130,Batgirl,13130,0,ui_basement_img_bg01_Batgirl,50001,101,Basement_Bubble1,19148001,Basement_CinnabarName1,1160100,ui_basement_img_bg_bianfunv,ui_basement_img_bg17_Batgirl_big,0,-2200,150
+2,CharacterName_13117,Catwoman,13117,1122002,ui_basement_img_bg01_Catman,50002,201,Basement_Bubble2,19148002,Basement_CinnabarName2,1160200,ui_basement_img_bg_maonv,ui_basement_img_bg03_Catman_big,0,-2500,150
+3,CharacterName_13102,Batman,13102,1122003,ui_basement_img_bg1_Batman,50003,301,Basement_Bubble3,19148003,Basement_CinnabarName3,1160300,ui_basement_img_bg_bianfuxia,ui_basement_img_bg13_Batman_big,0,0,150
+4,CharacterName_13119,Green Arrow,13119,1122004,ui_basement_img_bg01_Greenarrow,50004,401,Basement_Bubble4,19148004,Basement_CinnabarName4,1160400,ui_basement_img_bg_lvjianxia,ui_basement_img_bg04_Greenarrow_big,0,-4850,150
+5,CharacterName_13151,Deathstroke,13151,1122005,ui_basement_img_bg01_Deathstroke,0,501,RoomDialogue1315101,19148005,Basement_CinnabarName5,1160500,ui_basement_img_bg_sangzhong,ui_basement_img_bg07_Deathstroke,0,0,150
+6,CharacterName_13133,Sinestro,13133,1122006,ui_basement_img_bg01_Sinestro,0,601,RoomDialogue1313301,19148006,Basement_CinnabarName6,1160600,ui_basement_img_bg_snst,ui_basement_img_bg02_Sinestro_big,0,-19800,150
+7,CharacterName_13136,Raven,13136,1122007,ui_basement_img_bg01_Raven,50007,701,Basement_Bubble702,19148007,,0,ui_basement_img_bg_ruiwen,,0,0,0
+8,CharacterName_13106,Martian Manhunter,13106,1122008,ui_basement_img_bg01_Manhunter,50008,801,RoomDialogue1310605,19148008,,0,ui_basement_img_bg_hxlr,,0,0,0

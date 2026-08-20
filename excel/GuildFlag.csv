@@ -1,0 +1,25 @@
+﻿ID,FlagType,O,FlagIcon,FlagColor,FlagColor,FlagColor,FlagColor,FlagColor,FlagColor,FlagColor,FlagColor,FlagColor,FlagColor
+Image ID,"Image Type - 
+1: Flag Body
+2: Flag Base Map",Note,Flag Icon,Optional color 1,Optional color 2,Optional color 3,Optional color 4,Optional color 5,Optional color 6,Optional color 7,Optional color 8,Optional color 9,Optional color 10
+index,int,,string,string,string,string,string,string,string,string,string,string,string
+101,1,,ui_guild_icon32,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+102,1,,ui_guild_icon33,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+103,1,,ui_guild_icon34,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+104,1,,ui_guild_icon35,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+105,1,,ui_guild_icon36,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+106,1,,ui_guild_icon37,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+107,1,,ui_guild_icon38,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+108,1,,ui_guild_icon39,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+109,1,,ui_guild_icon40,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+110,1,,ui_guild_icon41,da395b,f656e9,f6d256,56f65e,56b8f6,f65656,f6a156,f6e556,5effb9,b879ff
+201,2,,ui_guild_img_iconbg01,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87
+202,2,,ui_guild_img_iconbg02,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87
+203,2,,ui_guild_img_iconbg03,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87
+204,2,,ui_guild_img_iconbg04,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87
+205,2,,ui_guild_img_iconbg05,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87
+206,2,,ui_guild_img_iconbg06,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87
+207,2,,ui_guild_img_iconbg07,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87
+208,2,,ui_guild_img_iconbg08,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87
+209,2,,ui_guild_img_iconbg09,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87
+210,2,,ui_guild_img_iconbg10,952416,8b3093,a47432,37731e,395288,984d24,ca762c,a48d32,24b375,5f2e87

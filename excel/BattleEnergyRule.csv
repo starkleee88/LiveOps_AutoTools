@@ -1,0 +1,39 @@
+﻿ID,LargeLightStart,SmallLightStart,LargeLightLimit,SmallLightLimit,SmallLightAdd,LargeLightAdd1,LargeLightAdd2,LargeLightAdd3,LargeLightAddE,O
+ID,Large metering tank initial energy,"
+Small metering tank energy initial",Large metering tank upper limit,Small metering tank upper limit,Small metering tank increases each time,Large metering tank added for the first time,Large metering tank added 2 times,Large metering tank added 3 times,"
+Increase each time after the large metering tank",Note
+index,int,int,int,int,int,int,int,int,int,
+1,0,0,8,5,1,3,4,5,5,Our side is 1
+2,0,0,8,5,1,3,4,5,5,Any enemy is 2
+3,0,1,8,5,1,3,4,5,5,Level/small energy bar initial 1
+4,0,2,8,5,1,3,6,6,6,For 4 people level / small energy initial 2
+5,0,3,8,5,1,3,4,5,5,Level/small energy bar initial 3
+6,0,0,8,5,2,3,4,5,5,"For 3-player level / small energy bar, initial 0"
+7,0,0,8,5,3,3,4,5,5,For 2 people level / small energy bar initial 0
+8,3,0,8,5,1,3,4,5,5,
+9,0,2,8,5,2,3,4,5,5,
+10,2,0,8,5,2,3,4,5,5,
+11,0,2,8,5,1,3,4,5,5,
+12,3,2,8,5,1,3,4,5,5,Main line mobs pass our initial stage
+13,2,0,8,5,1,4,5,6,6,Reptower-skill3
+14,3,0,8,5,1,4,5,6,6,Reptower-skill3
+15,6,0,8,5,1,3,4,5,5,For trial purpose
+16,0,4,8,5,1,6,4,5,5,For trial purpose
+17,0,0,8,5,1,6,4,5,5,For trial purpose
+18,0,4,8,5,1,3,4,5,5,For trial purpose
+19,3,0,8,5,1,3,4,5,5,For trial purpose
+20,0,2,8,5,1,6,4,5,5,For trial purpose
+21,3,0,8,5,2,3,4,5,5,Evil Eternal-Johnny Quick-After 4th Floor
+22,0,3,8,5,1,4,5,6,6,New main line BOSS opponent
+23,0,2,8,5,1,3,4,5,5,1-4 our side
+24,0,4,8,5,1,3,4,5,5,1-4 enemies
+25,3,0,8,5,1,3,4,5,5,1-5 enemies
+26,0,1,8,5,2,3,4,5,5,Difficult enemy
+27,0,3,8,5,1,3,4,5,5,[Crisis Monitoring] For 4 people level
+28,0,0,8,5,2,3,4,5,5,[Crisis Monitoring] For 3-person levels
+29,0,2,8,5,2,3,4,5,5,[Crisis Monitoring] For 2 people level
+30,0,4,8,5,2,3,4,5,5,[Digital Space] For single boss use
+31,3,3,8,5,1,3,4,5,5,For trial purpose
+32,4,0,8,5,1,4,4,5,5,For trial purpose
+33,0,0,8,5,1,4,4,5,5,Sinestro climbing tower
+34,0,0,3,6,1,3,3,3,3,GVE-Divine Power Ring Initial 0

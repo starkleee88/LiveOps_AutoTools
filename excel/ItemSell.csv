@@ -1,0 +1,55 @@
+﻿ItemID,O,SellRewardItem,SellRewardNum,Conditionkey,Param,Param,SellBlockDesc
+ItemID of the sellable item,Note,Item received when sold,Number obtained from selling,"Selling conditions
+No value: Can sell once you get it
+Key: Corresponding key in Condition table",Parameter 1,Parameter 2,"Sale interception prompt
+FloatMessage that pops up when the sale does not meet the conditions and is stopped"
+index,O,int,int,int,int,int,string
+1122001,Batgirl Room Blueprints,111202,500,,,,SellBlockDesc_Room
+1122002,Catwoman Room Blueprints,111202,500,501,2,,SellBlockDesc_Room
+1122003,Batman Room Blueprints,111202,500,501,3,,SellBlockDesc_Room
+1122004,Green Arrow Room Blueprints,111202,500,501,4,,SellBlockDesc_Room
+1122005,Deathstroke Room Blueprints,111202,500,501,5,,SellBlockDesc_Room
+1122006,Sinestro Room Blueprints,111202,500,501,6,,SellBlockDesc_Room
+1122007,Raven Room Blueprints,111202,500,501,7,,SellBlockDesc_Room
+1122008,Martian Manhunter Room Blueprints,111202,500,501,8,,SellBlockDesc_Room
+1160703,Raven - Magic Pendant,111202,250,503,7,3,SellBlockDesc_503
+1160706,Raven - Wonder Woman Doll,111202,250,503,7,6,SellBlockDesc_503
+1160707,Raven - Teen Titan Tower Model,111202,250,503,7,7,SellBlockDesc_503
+1160708,Raven - Decorative Belt,111202,250,503,7,8,SellBlockDesc_503
+1160801,Martian Manhunter - Chocolate Chip Cookies,111202,250,503,8,1,SellBlockDesc_503
+1160804,Martian Manhunter - Martian Plant,111202,250,503,8,4,SellBlockDesc_503
+1123001,Enhance Sphere - Red Fragment,1123901,1,502,242001,,SellBlockDesc_502
+1123002,Enhance Sphere - Orange Fragment,1123901,1,502,242002,,SellBlockDesc_502
+1123003,Enhance Sphere - Yellow Fragment,1123901,1,502,242003,,SellBlockDesc_502
+1123004,Enhance Sphere - Green Fragment,1123901,1,502,242004,,SellBlockDesc_502
+1123005,Enhance Sphere - Blue Fragment,1123901,1,502,242005,,SellBlockDesc_502
+1123006,Enhance Sphere - Purple Fragment,1123901,1,502,242006,,SellBlockDesc_502
+1123007,Enhance Sphere - Pink Fragment,1123901,1,502,242007,,SellBlockDesc_502
+1123008,Mega Rod Fragment,1123902,1,502,243001,,SellBlockDesc_502
+1123009,Canary Cry Bomb Fragment,1123902,1,502,243002,,SellBlockDesc_502
+1123010,Wrist Gun Fragment,1123902,1,502,243003,,SellBlockDesc_502
+1123011,Escrima Sticks Fragment,1123902,1,502,243004,,SellBlockDesc_502
+1123012,Bane Venom Fragment,1123902,1,502,243005,,SellBlockDesc_502
+1123013,Lasso of Truth Fragment,1123903,1,502,244001,,SellBlockDesc_502
+1123014,Chaos Crystal Fragment,1123903,1,502,244002,,SellBlockDesc_502
+1123015,Philosopher's Stone Fragment,1123903,1,502,244003,,SellBlockDesc_502
+1123016,Atlantean Helmet Fragment,1123903,1,502,244004,,SellBlockDesc_502
+1123017,Bow of Ra Fragment,1123903,1,502,244005,,SellBlockDesc_502
+1123018,Mirror of Reverie Fragment,1123903,1,502,244006,,SellBlockDesc_502
+1123019,Vial of Velcoro's Blood Fragment,1123903,1,502,244007,,SellBlockDesc_502
+1123020,Krona's Power Gauntlet Fragment,1123903,1,502,244008,,SellBlockDesc_502
+1123021,Screwdriver Helmet Fragment,1123902,1,502,244009,,SellBlockDesc_502
+1123022,Nightshade Perfume Fragment,1123903,1,502,244010,,SellBlockDesc_502
+1123023,Jack-In-The-Box Fragment,1123903,1,502,244011,,SellBlockDesc_502
+1123024,Kryptonian Battle Armor Fragment,1123902,1,502,244012,,SellBlockDesc_502
+1123026,Elite Sphere - Red Fragment,1123902,1,502,243006,,SellBlockDesc_502
+1123027,Elite Sphere - Orange Fragment,1123902,1,502,243007,,SellBlockDesc_502
+1123028,Elite Sphere - Yellow Fragment,1123902,1,502,243008,,SellBlockDesc_502
+1123029,Elite Sphere - Green Fragment,1123902,1,502,243009,,SellBlockDesc_502
+1123030,Elite Sphere - Blue Fragment,1123902,1,502,243010,,SellBlockDesc_502
+1123031,Elite Sphere - Purple Fragment,1123902,1,502,243011,,SellBlockDesc_502
+1123032,Elite Sphere - Pink Fragment,1123902,1,502,243012,,SellBlockDesc_502
+1123033,Bracelets of Submission,1123902,1,502,244014,,SellBlockDesc_502
+1123025,Purple Healing Ray Fragment,1123903,1,502,244013,,SellBlockDesc_502
+1123034,Popcorn Butt Fragment,1123903,1,502,244015,,SellBlockDesc_502
+1123035,Pocket Watch Fragment,1123902,1,502,244016,,SellBlockDesc_502

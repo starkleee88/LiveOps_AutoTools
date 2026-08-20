@@ -1,0 +1,76 @@
+﻿ID,MailType,MailTitle,O,MailContent,O,MailSource,O,MailReward,ExpirationDate
+Base ID,"Email Type
+Shi Yajun:
+1 Personal
+2 Guild
+3 Chip, sent via email attachment when storage limit is reached, default attachment reward not filled
+6 Recharge Mall Related
+14 Expired Item Compensation",Email Title,Notes,Email Content,Notes,Email Source,Notes,Attachment Reward,"Email Validity Period
+Shi Yajun:
+Unit: Days"
+index,int,string,O,string,O,string,O,int,int
+4,3,MailTitle_4,Chip Compensation,MailContent_4,Chip Compensation,MailSource_4,Chip Administrator,,30
+5,4,MailTitle_5,Equipment Compensation,MailContent_5,Equipment Compensation,MailSource_5,Equipment Administrator,,30
+6,5,Warworld_Mailtitle,,Warworld_MailText,,,,,30
+7,6,MailTitle_ThirdPay,Purchase Success Notification,MailContent_ThirdPay,"Dear Adventurer: Your purchased item has been successfully delivered. If you have any issues, please contact official customer service.",MailSource_ThirdPay,System,,30
+8,11,MailTitle_BP,BP Reward Resend,MailContent_BP,BP Current Reward Resend,MailSource_BP,Plan Release Office,,30
+9202,9202,MailTitle_MonthCardPro,Premium Monthly Card Reward Resend,MailContent_MonthCardPro,Premium Monthly Card Reward Resend,MailSource_BP,Monthly Card,,30
+9,12,MailTitle_GuildKick,Guild Kick Email,MailContent_GuildKick,Guild Kick Email,MailSource_GuildKick,Guild Administrator,,30
+10,13,MailTitle_PicFrag,Illustration Fragment Return,MailContent_PicFrag,Illustration Fragment Return,MailSource_PicFrag,Guild Administrator,,30
+11,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_01,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+12,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_02,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+13,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_03,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+14,15,MailTitle_OnlineReward,Online Reward Resend,MailContent_OnlineReward,Online Reward Resend,MailSource_ItemExpired,Warehouse Administrator,,30
+15,16,Mailtitle_Crisiswatch,Crisis Monitor Weekly Ranking Reward,MailContent_Crisiswatch,Crisis Monitor Weekly Ranking Reward,MailSource_ThirdPay,System,,30
+201,201,MailTitle_AllyBoss,Hero Event Boss Resend,MailContent_AllyBoss,Hero Event Boss Resend,MailSource_ItemExpired,Warehouse Administrator,,30
+1004,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_04,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+17,17,MailTitle_SignIn,Newbie Sign-In Compensation,MailContent_SignIn,Newbie Sign-In Compensation,MailSource_ThirdPay,System,,30
+20,20,MailTitle_Dcard,D Card Decomposition Return,MailContent_Dcard,D Card Decomposition Return,MailSource_ItemExpired,Warehouse Administrator,,365
+21,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_05,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+1005,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_1005,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+1901,19,RiddleMail01,Gift from Someone,RiddleMail02,Gift from Someone,RiddleMail03,An Anonymous Summoner,,30
+1902,19,RiddleMail04,[Who Am I] Event Ending Soon,RiddleMail05,[Who Am I] Event Ending Soon,MailSource_1,DCWC Operations Team,,30
+9999,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_1005,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+1006,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_1006,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+8001,14,MailTitle_ItemExpired,Expired Item Compensation - Collection,MailContent_ItemExpired_8001,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+8021,14,MailTitle_ItemExpired,Expired Item Compensation - Collection,MailContent_ItemExpired_8021,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+9998,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_tower,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+202,201,MailTitle_AllyBoss02,[Deathstroke Event] Boss Resend,MailContent_AllyBoss02,Deathstroke Event Boss Resend,MailSource_ItemExpired,Warehouse Administrator,,30
+22,14,MailTitle_ItemExpired,[Deathstroke Event] Token Recovery,MailContent_ItemExpired_101,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+203,201,MailTitle_AllyBoss03,[Sinestro Event] Boss Resend,MailContent_AllyBoss02,Sinestro Event Boss Resend,MailSource_ItemExpired,Warehouse Administrator,,30
+23,14,MailTitle_ItemExpired,[Sinestro Event] Token Recovery,MailContent_ItemExpired_102,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+204,201,MailTitle_AllyBoss04,[Martian Manhunter Event] Boss Resend,MailContent_AllyBoss02,Martian Manhunter Event Boss Resend,MailSource_ItemExpired,Warehouse Administrator,,30
+24,14,MailTitle_ItemExpired,[Martian Manhunter Event] Token Recovery,MailContent_ItemExpired_103,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+205,201,MailTitle_AllyBoss_105,[Hal Jordan Event] Boss Resend,MailContent_AllyBoss02,Hal Jordan Event Boss Resend,MailSource_ItemExpired,Warehouse Administrator,,30
+25,14,MailTitle_ItemExpired,[Hal Jordan Event] Token Recovery,MailContent_ItemExpired_105,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+206,201,MailTitle_AllyBoss_106,[Kyle Rayner Event] Boss Resend,MailContent_AllyBoss02,Hal Jordan Event Boss Resend,MailSource_ItemExpired,Warehouse Administrator,,30
+26,14,MailTitle_ItemExpired,[Kyle Rayner Event] Token Recovery,MailContent_ItemExpired_106,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+701,21,MailTitle_ActivityMiniGame,Mini-Game Event Daily Ranking Reward,MailContent_ActivityMiniGame,Mini-Game Event Daily Ranking Reward,MailSource_ActivityMiniGame,Amusement Park Staff,,30
+702,21,MailTitle_ActivityMiniGameSeason,Mini-Game Event Season Ranking Reward,MailContent_ActivityMiniGameSeason,Mini-Game Event Season Ranking Reward,MailSource_ActivityMiniGame,Amusement Park Staff,,30
+31,21,MailTitle_InfArenaRank,Gladiator Arena - Rank Reward,MailContent_InfArenaRank,Expired Item Recovery Compensation,MailSource_InfArenaGM,Arena Administrator,,30
+32,21,MailTitle_InfArenaGuess,Gladiator Arena - Guessing Reward,MailContent_InfArenaGuess,Expired Item Recovery Compensation,MailSource_InfArenaGM,Arena Administrator,,30
+33,21,MailTitle_InfArenaGuild,Gladiator Arena - Guild Reward,MailContent_InfArenaGuild,Expired Item Recovery Compensation,MailSource_InfArenaGM,Arena Administrator,,30
+34,21,MailTitle_InfArenaPersonRank,Gladiator Arena - Personal Reward,MailContent_InfArenaPersonRank,Expired Item Recovery Compensation,MailSource_InfArenaGM,Arena Administrator,,30
+35,21,MailTitle_InfArenaPersonRank,Gladiator Arena - Personal Reward,MailContent_InfArenaGroup,Gladiator Arena - Personal Reward,MailSource_InfArenaGM,Arena Administrator,,30
+1007,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_06,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+10071,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_05,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+10072,14,MailTitle_ItemExpired,Expired Item Recovery Compensation,MailContent_ItemExpired_05,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+40,22,Mailtitle_Gve,GVE Weekly Ranking Reward,MailContent_Gve,Crisis Monitor Weekly Ranking Reward,MailSource_ThirdPay,System,,30
+41,22,MailTitle_NS_ForgetReward,Leaderboard Reward Resend,MailContent_NS_ForgetReward,Leaderboard Reward Resend,MailSource_1,DCWC Operations Team,,30
+42,22,MailTitle_NS_PVPReward,7-Day Arena Ranking,MailContent_NS_PVPReward,7-Day Arena Ranking,MailSource_1,DCWC Operations Team,,30
+43,22,MailTitle_NS_PataReward,7-Day Tower Ranking,MailContent_NS_PataReward,7-Day Tower Ranking,MailSource_1,DCWC Operations Team,,30
+44,22,MailTitle_NS_JifenReward,15-Day Ally Points Ranking,MailContent_NS_JifenReward,15-Day Ally Points Ranking,MailSource_1,DCWC Operations Team,,30
+45,23,MailTitle_LobbySkin,Laboratory Decoration Conversion,MailContent_LobbySkin,Laboratory Decoration Conversion,MailSource_ThirdPay,System,,30
+18001,18001,MailTitle_ActivityBP,Quality Upgrade Awakening Plan Reward Resend,MailContent_ActivityBP,Quality Upgrade Awakening Plan Reward Resend,MailSource_ActivityBP,Plan Release Office,,30
+46,1,MailTitle_PlayerNetworkLink,,MailContent_PlayerNetworkLink,,MailSource_PlayerNetworkLink,,193000001,30
+47,14,Mailtitle_Gve_UnclaimedRewards,,MailContent_Gve_UnclaimedRewards,,MailSource_ThirdPay,Systems,,30
+50,15,MailTitle_AdmonReward,Admon Completion Reward,MailContent_AdmonReward,Admon Completion Reward,MailSource_AdmonReward,Ad Services,,3
+48,1,MailTitle_CodeRedemption,Code Redemption,MailContent_CodeRedemption,Code Redemption,MailSource_CodeRedemption,DCWC Code Redemption,,30
+51,14,MailTitle_ItemExpired,[Legendary Event] Item Expiration,MailContent_ItemExpired_08,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+207,201,MailTitle_BossRankingReward,[Legendary Event] Boss Ranking Rewards,MailContent_AllyBoss02,[Legendary Event] Boss Ranking Rewards,MailSource_ItemExpired,Warehouse Administrator,,30
+9300,6,MailTitle_ThirdPay,Purchase Success Notification,MailContent_ThirdPay_Rubies,Purchase Receipt For Web Store Rubies Purchase,MailSource_ThirdPay,System,,30
+52,2,MailTitle_ActivityReward,Guild Activity Rewards,MailContent_ActivityRewardRollover,Pending Guild Activity Rewards sent after a rollover,MailSource_GuildKick,Guild Administrator,,30
+53,2,MailTitle_ActivityReward,Guild Activity Rewards,MailContent_ActivityRewardGuildLeave,Pending Guild Activity Rewards sent when the player leaves the guild,MailSource_GuildKick,Guild Administrator,,30
+9310,1,MailTitle_MaxLink,Max Linking reward title,MailContent_MaxLink,Max Linking reward content,MailSource_1,DCWC Operations Team,,30
+54,14,MailTitle_ItemExpired,[Mini Suite gacha] Item Expiration,MailContent_ItemExpired_09,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30
+55,14,MailTitle_ItemExpired,[Anniversary Event] Item Expiration,MailContent_ItemExpired_Anniversary_Event,Expired Item Recovery Compensation,MailSource_ItemExpired,Warehouse Administrator,,30

@@ -1,0 +1,32 @@
+﻿ID,Area,Language,Version,TermsOfUseUrl,PrivatePolicyUrl
+NOTE: This file is currently not being used in DCWC. It is possible that we may want different Terms or Policy URLs based on version or region in the future.,"Region
+Region:
+The corresponding number for different region packages.
+Add as needed.
+
+1: China
+2: Southeast Asia","Language
+Language Code:
+zh-cn Chinese (China)
+en-us English (United States)
+zh-tw Chinese (Taiwan)
+id    Indonesian
+th    Thai
+vi    Vietnamese
+ja    Japanese
+ko    Korean
+fr-fr French (France)
+de-de German (Germany)
+es-es Spanish (Spain)
+it-it Italian (Italy)
+ru    Russian
+pt-br Portuguese (Brazil)
+tr    Turkish
+ar    Arabic
+ms    Malay
+hi    Hindi","Version Number
+※Version Number:
+Each time the TOS or PP changes (as notified by the publishing department),
+the version number of the corresponding package needs to be manually incremented by 1 by the planners,
+as a basis for determining updates.",User Agreement Link,Privacy Policy Link
+index,string,string,int,string,string

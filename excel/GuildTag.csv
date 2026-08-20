@@ -1,0 +1,28 @@
+﻿GuildTagID,O,TagName,TagType,O,TagTypeName
+Tag ID,Note,Tag Name,Tag Type,Note,Tag Type Name
+index,,string,int,,string
+101,Pacifist League,TagName101,1,League Attribute,TagSortName1
+102,Active Participation,TagName102,1,League Attribute,TagSortName1
+103,Let's Do It,TagName103,1,League Attribute,TagSortName1
+104,Beginners Welcome,TagName104,1,League Attribute,TagSortName1
+105,Strong Player Welcome,TagName105,1,League Attribute,TagSortName1
+106,Polite Players Welcome,TagName106,1,League Attribute,TagSortName1
+107,Return Players Welcome,TagName107,1,League Attribute,TagSortName1
+108,Just Join Us,TagName108,1,League Attribute,TagSortName1
+109,All Ages Welcome,TagName109,1,League Attribute,TagSortName1
+110,Casual Players,TagName110,1,League Attribute,TagSortName1
+111,Hardcore Players,TagName111,1,League Attribute,TagSortName1
+112,Enjoys Chatting,TagName112,1,League Attribute,TagSortName1
+113,Prefers Quiet,TagName113,1,League Attribute,TagSortName1
+114,Prefers Lurking,TagName114,1,League Attribute,TagSortName1
+115,Active Atmosphere,TagName115,1,League Attribute,TagSortName1
+116,Event Lover,TagName116,1,League Attribute,TagSortName1
+201,Stage Clearance Genius,TagName201,2,Player Tag,TagSortName2
+202,Recruitment Expert,TagName202,2,Player Tag,TagSortName2
+203,King of the Arena,TagName203,2,Player Tag,TagSortName2
+204,Elseworld Expert,TagName204,2,Player Tag,TagSortName2
+205,Mercenary Master,TagName205,2,Player Tag,TagSortName2
+206,Reinforcement Expert,TagName206,2,Player Tag,TagSortName2
+207,Quiz Specialist,TagName207,2,Player Tag,TagSortName2
+208,Adventure Expert,TagName208,2,Player Tag,TagSortName2
+209,Exploration Expert,TagName209,2,Player Tag,TagSortName2

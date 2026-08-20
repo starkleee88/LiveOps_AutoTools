@@ -1,0 +1,4 @@
+﻿ID,o,NeedStar,NeedItem,NeedItemNum,QualityUpID,QualityUpStar,StarReturnItem,StarReturnItemNum,SkillShow
+Upgrade Ally ID,o,Req. Star Rating for Upgrade,Req. Item for Upgrade,Req. Item # for Upgrade,Ally ID After Upgrade,Star Rating After Upgrade,Star Return Item,Star Return Item #,Skill Display After Upgrade
+index,,int,int,int,int,int,int,array-int,2darray-int
+13142,,8,1113199,40,13199,5,1113142,30|40|50,1314202|1;1314201|1;1314204|1

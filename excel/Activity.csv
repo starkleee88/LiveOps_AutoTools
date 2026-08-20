@@ -1,0 +1,210 @@
+﻿ActivityID,ActivityType,O,StartTime,EndTime,Unlock,UnlockParam,ShowOrder,ActivityTitle,BackGround,Badge,RuleDescKey,OpenType,OpenParam,FuncId
+ActivityID,"ActivityType
+1：Bingo
+2：New ally
+3：Sign in
+4：Allies preview
+5：Newbie Carnival
+6：Collectibles Event
+7：Batman movie event
+8：Resource book activity
+9：Digital Space Event
+10：Trivia Game Event
+11：Allies exchange
+15：Resident lobby skin on the shelves
+16：Show hall skin on the shelves",Remarks,"StarTime
+For the same type of activities, the opening time period can not overlap",EndTime,"Unlock Condition
+Levels, Chapters and such",UnlockParam,"Priority
+Decending order
+Large numbers are listed above","Event Title
+Left tab title",Background image,"Red Dot Type
+Empty: no red dots are displayed
+1: resident red dot, as long as the activity exists on the prompt
+2: history of read red dots (once in a lifetime)
+3: daily read red dots (disappear after checking once a day, quantity changes do not count)
+4: Login read red dot (disappears after each login view once)
+5: Sign-in task red dot (after completing the task and receiving the reward, the red dot disappears)
+Notice: Please check the red dot rules with the program for new activity types, this column is invalid",Rule Descriptions,"OpenType
+Administrator:
+0: Time to read configuration
+1: Permanently open
+2: xxx days after registering xxx people
+3: xxx days after opening (currently no development)",Open Param,Feature Flag
+index,int,,string,string,int,int,int,string,string,int,int,int,int,int
+1001,1,1.0.0_bingo_wonderwoman,20101001_000000,20211213_000000,1,530,1,ActivityBingoTitle01,ui_Bingo_img_bg01,3,,,,9806
+2001,2,1.0.0_newhero_wonderwoman,20101001_000000,20211213_000000,1,530,3,ActivityNewHeroTitle01,ui_recharg_img_wonderwomanbg,2,,,,
+1002,1,1.1.0_bingo_pandora,20250313_000000,20250320_000000,1,530,4,ActivityBingoTitle02,ui_Bingo_img_bg_13187_01,3,,,,9806
+2002,2,1.1.0_newhero_Pandora,20250313_000000,20250327_000000,1,530,3,ActivityNewHeroTitle02,ui_recharg_img_bg_13187,2,,,,
+1003,1,1.2.0_bingo_Doctor Fate,20220101_000000,20220115_000000,1,530,4,ActivityBingoTitle03,ui_Bingo_img_bg_df01,3,,,,9806
+2003,2,1.2.0_newhero_Doctor Fate,20220101_000000,20220115_000000,1,530,3,ActivityNewHeroTitle03,ui_recharg_img_dfbg,2,,,,
+1004,1,1.3.0_bingo_Two-Face,20220116_000000,20220123_000000,1,530,4,ActivityBingoTitle04,ui_Bingo_img_bg_13171_01,3,,,,9806
+2004,2,1.3.0_newhero_Two-Face,20220116_000000,20220123_000000,1,530,3,ActivityNewHeroTitle04,ui_recharg_img_bg_13171,2,,,,
+3001,3,1.X.X_SignIn_Christmas Sign In,20211219_000000,20211229_000000,1,203,4,ActivityXmasSignInTitle01,ui_ActivityTex_xmas_bg12,5,,,,
+4001,4,Trailer_Doctor Fate,20211229_000000,20220101_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+4002,4,2.1_Trailer_Deathstroke Teaser Page,20220228_000000,20220303_000000,1,203,6,ActivityTrailerTitle01,,5,,,,
+4003,4,2.3_Trailer_Senistro Teaser Page,20250224_000000,20250227_000000,1,203,6,ActivityTrailerTitle01,,5,,,,
+4004,4,Trailer_Martian Manhunter Teaser Page,20220425_000000,20220428_000000,1,203,7,ActivityTrailerTitle01,,5,,,,
+4006,4,Trailer Doctor Fate - NEW,20250406_000000,20250410_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+4007,4,Trailer - The Bride,20250519_000000,20250522_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+4008,4,Trailer - Superman DCU,20250707_000000,20250710_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+4009,4,Trailer - Peacemaker,20250825_000000,20250828_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+4010,4,Trailer - Swamp Thing,20251020_000000,20251023_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+5001,3,1.X.X_SignIn_New Year's Day SignIn,20220101_000000,20220111_000000,1,203,5,ActivitySignInBTitle01,ui_newYear_img_bg01,6,,,,
+5002,3,1.X.X_SignIn_Valentine's Day SignIn,20250206_000000,20250216_000000,1,203,5,ActivitySignInBTitle02,ui_valentine_img_bg01,6,,,,
+5003,3,Halloween Sign In Event,20251022_000000,20251101_000000,1,106,5,ActivitySignInBTitle03,ui_halloween_img_bg01,6,,,,
+6001,3,1.3_SignIn_Newbie Month SignIn,20211208_000000,20301209_000000,1,203,998,ActivityMonthSignInTitle01,ui_newplayer_img_bg02,6,,,,1602
+7001,5,2.1_Newbie Carnival,,,1,106,999,ActivityCarnivalTitle01,ui_Carnival_img_bigbg,2,,,,
+101,7,Batman Movie Event,20220303_000000,20220310_000000,1,530,101,RiddleTitle01,ui_newplayer_img_bg02,3,,,,9805
+2006,2,2.3.0_newhero_Jessica,20230210_000000,20230217_000000,1,530,3,ActivityNewHeroTitle06,ui_recharg_img_bg_13170,2,,,,
+1006,1,2.3_bingo_jessica,20230210_000001,20230217_000000,1,530,4,ActivityBingoTitle06,ui_Bingo_img_bg_13170_01,2,,,,9806
+8001,6,2.3_ActivityCollection_Invisible Jet,20220324_000000,20220330_235959,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+8002,6,3.2_ActivityCollection_Lex Armor,20220505_000000,20220511_235959,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+8003,6,3.3_ActivityCollection_Parallax,20250206_000000,20250213_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+8004,6,3.3_ActivityCollection_GL Power Battery,20250403_000000,20250410_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+9001,8,Pre-Battle Training,20250203_000000,20250206_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+10021,9,Digital Universe 1(Season 10 Re-Schedule),20260618_000000,20260624_000000,1,715,4,ActivityDigitalUniverseTitle01,ui_time_img_big_bg,7,602,,,7000
+7002,10,Gotham Carnival,20220317_000000,20301209_000000,1,715,3,ActivityMiniGameTitle01,,4,,,,
+10022,9,Digital Universe 2(Season 10 Re-Schedule),20260702_000000,20260708_000000,1,715,4,ActivityDigitalUniverseTitle01,ui_time_img_big_bg,7,602,,,7000
+2007,2,3.1.0_newhero_Raven,20250213_000000,20250220_000000,1,530,5,ActivityNewHeroTitle07,ui_recharg_img_bg_13136,2,,,,
+1007,1,3.1.0_Bingo_Raven,20250213_000000,20250220_000000,1,530,6,ActivityBingoTitle13136,ui_Bingo_img_bg_13136_01,2,,,,9806
+7003,11,Character Fusion,20220323_000000,20301209_000000,1,421,1,ActivityExchangeTitle,ui_hero_img_boss_big_bg,2,4004,1,,
+102,12,Batman Movie Activity - Beginner's Edition,20000101_000000,20371230_000000,1,530,2,RiddleTitle01,ui_newplayer_img_bg02,3,,1,,9805
+9002,8,Pre-Battle Training 2,20250303_000000,20250306_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+10023,9,Digital Universe 3 (Re-Run s11),20260810_000000,20260815_000000,1,715,4,ActivityDigitalUniverseTitle01,ui_time_img_big_bg,7,602,,,7000
+13001,13,7 Day Arena Ranking - Leaderboard,1,9,1,421,4,NewServer_PVPRankTitle,ui_album_bigbg_01,8,,2,500,720
+13002,13,7-Day Convergence - Leaderboard,1,9,1,421,4,NewServer_PataRankTitle,ui_album_bigbg_01,8,,2,500,711
+13003,13,15 Day Character Rank - Leaderboard,9,17,1,421,4,NewServer_JifenRankTitle,ui_album_bigbg_01,8,,2,500,2901
+10024,9,Digital Universe 4 (Re-Run s11),20260824_000000,20260829_000000,1,715,4,ActivityDigitalUniverseTitle01,ui_time_img_big_bg,7,602,,,7000
+9003,8,Pre-Battle Training 3,20250324_000000,20250327_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+2008,2,3.3.0_newhero_StarSapphire,20240208_000000,20240220_000000,1,530,5,ActivityNewHeroTitle08,ui_recharg_img_bg_13196,2,,,,
+1008,1,3.3.0_bingo_StarSapphire,20240208_000000,20240220_000000,1,530,6,ActivityBingoTitle13196,ui_Bingo_img_bg_13196_01,2,,,,9806
+10025,9,Digital Universe 5 (S9 Re-Schedule),20260416_000000,20260422_000000,1,715,4,ActivityDigitalUniverseTitle01,ui_time_img_big_bg,7,602,,,7000
+14001,14,4.1Artifact - Atlantean Helmet,20250327_000000,20250403_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,3200
+14002,14,4.2Artifact - Bow of Ra,20230214_000000,20230220_235959,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,3200
+14003,14,Artfact - Mirror of Reverie,20250213_000000,20250220_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,3200
+10026,9,Digital Universe  6 (S9 Re-Schedule),20260514_000000,20260520_000000,1,715,4,ActivityDigitalUniverseTitle01,ui_time_img_big_bg,7,602,,,7000
+15000,15,Summer's Red Furniture,20230223_000000,20230302_000000,1,630,6,LobbySkin_Theme3,LobbySkin_Activity_Theme3,3,,,,3300
+2009,2,4.1.0_newhero_JohnStewart,20250130_000000,20250206_000000,1,530,5,ActivityNewHeroTitle09,ui_recharg_img_bg_13195,2,,,,
+1009,1,4.1.0_bingo_JohnStewart,20250130_000000,20250206_000000,1,530,6,ActivityBingoTitle13195,ui_Bingo_img_bg_13195_01,2,,,,9806
+10027,9,Digital Universe 7(S10 Rerun),20260717_000000,20260723_000000,1,715,4,ActivityDigitalUniverseTitle01,ui_time_img_big_bg,7,602,,,7000
+10030,9,Digital Universe 10 (S10 FATAL EXCEPTION Swamp Thing),20260802_000000,20260808_000000,1,1130,4,ActivityDigitalUniverseTitle01,ui_time_img_big_bg,7,602,,,7000
+2010,2,newHero_Mera,20250327_000000,20250410_000000,1,530,5,ActivityNewHeroTitle10,ui_recharg_img_bg_13202,2,,,,
+1010,1,bingo_Mera,20250327_000000,20250403_000000,1,530,6,ActivityBingoTitle13202,ui_Bingo_img_bg_13202_01,2,,,,9806
+18001,1,temp_test_Ryan,20230302_000000,20230309_000000,1,530,6,ActivityBingoTitle13202,ui_Bingo_img_bg_13202_01,2,,,,9806
+4005,4,Trailer_test_Jack,20240508_070000,20240801_000000,1,203,7,ActivityTrailerTitle01,,5,,,,
+9004,8,Pre-Battle Training 4,20250414_000000,20250417_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+2012,2,New Hero - Dr. Phosphorus,20250424_000000,20250430_235959,1,530,5,ActivityNewHeroTitle12,ui_recharg_img_bg_13219,2,,,,
+1011,1,Bingo - Dr. Phosphorus,20250424_000000,20250430_235959,1,530,6,ActivityBingoTitle13219,ui_Bingo_img_bg_13219_01,2,,,,9806
+1012,1,Bingo - The Weasel,20250508_000000,20250514_235959,1,530,6,ActivityBingoTitle13220,ui_Bingo_img_bg_13220_01,2,,,,9806
+9005,8,Battle Training 5,20250505_000000,20250507_235959,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+9006,8,Battle Training 6,20250529_000000,20250531_235959,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+14004,14,Artifact - Vial of Velcoro's Blood,20250515_000000,20250521_235959,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,3200
+2011,2,New Hero - The Weasel,20250508_000000,20250514_235959,1,530,5,ActivityNewHeroTitle11,ui_recharg_img_bg_13220,2,,,,
+8006,6,S3 - Activity Collection - Haunted Tank,20250605_000000,20250615_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+14005,14,Artfact - Krona's Power Gauntlet,20250813_000000,20250820_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,3200
+8007,6,S4 - Activity Collection - Krypto the Superdog,20250814_000000,20250824_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+1013,1,Bingo - Guy Gardner,20250724_000000,20250731_000000,1,530,6,ActivityBingoTitle13213,ui_Bingo_img_bg_13213_01,2,,,,9806
+2013,2,New Hero - Guy Gardner,20250724_000000,20250731_000000,1,530,5,ActivityNewHeroTitle13,ui_recharg_img_bg_13213,2,,,,
+1014,1,Bingo - Mr. Terrific,20250731_000000,20250807_000000,1,530,6,ActivityBingoTitle13216,ui_Bingo_img_bg_13216_01,2,,,,9806
+2014,2,New Hero - Mr. Terrific,20250731_000000,20250807_000000,1,530,5,ActivityNewHeroTitle14,ui_recharg_img_bg_13216,2,,,,
+9007,8,Battle Training 7,20250721_000000,20250724_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+9008,8,Battle Training 8,20250825_000000,20250828_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+1015,1,Bingo - Judomaster,20250918_000000,20250925_000000,1,530,6,ActivityBingoTitle13234,ui_Bingo_img_bg_13234_01,2,,,,9806
+2015,2,New Hero - Judomaster,20250918_000000,20250925_000000,1,530,5,ActivityNewHeroTitle15,ui_recharg_img_bg_13234,2,,,,
+1016,1,Bingo - Vigilante,20250911_000000,20250918_000000,1,530,6,ActivityBingoTitle13226,ui_Bingo_img_bg_13226_01,2,,,,9806
+2016,2,New Hero - Vigilante,20250911_000000,20250918_000000,1,530,5,ActivityNewHeroTitle16,ui_recharg_img_bg_13226,2,,,,
+8008,6,S5 - Activity Collection - Energy Disruptor,20251009_000000,20251019_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+14006,14,Artfact - Screwdriver Helmet,20250911_000000,20250918_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,3200
+1017,1,Bingo - Cheshire,20251106_000000,20251113_000000,1,530,6,ActivityBingoTitle13210,ui_Bingo_img_bg_13210_01,2,,,,9806
+2017,2,New Hero - Cheshire,20251106_000000,20251113_000000,1,530,5,ActivityNewHeroTitle17,ui_recharg_img_bg_13210,2,,,,
+1018,1,Bingo - Doctor Poison,20251113_000000,20251120_000000,1,530,6,ActivityBingoTitle13211,ui_Bingo_img_bg_13211_01,2,,,,9806
+2018,2,New Hero - Doctor Poison,20251113_000000,20251120_000000,1,530,5,ActivityNewHeroTitle18,ui_recharg_img_bg_13211,2,,,,
+15001,19,NECE - Judomaster,20250828_000000,20250904_000000,1,530,6,ActivityNECETitle_15001,,2,,,,9808
+8009,6,S6 - Activity Collection - Sethe,20251204_000000,20251214_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+14007,14,Artfact - Nightshade Perfume,20251118_180000,20251125_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,3200
+9009,8,Battle Training Season 5-1,20250910_000000,20250913_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+9010,8,Battle Training Season 5-2,20250922_000000,20250925_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+14008,14,Artfact - Jack-In-The-Box,20260226_000000,20260305_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,3200
+4011,4,Trailer - Aquaman,20250922_000000,20250925_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+14009,14,Artifact - Kryptonian Battle Armor,20251218_000000,20251225_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,3200
+14010,14,Artifact - Purple Healing Ray,20260416_000000,20260423_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,
+9011,8,Battle Training Season 6-1,20251103_000000,20251106_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+9012,8,Battle Training Season 6-2,20251120_000000,20251123_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+8010,6,S6 - Activity Collection - Parallax (rerun),20251107_000000,20251117_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+4012,4,Trailer - Sinestro Re-Run,20240101_000000,20240104_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+4013,4,Trailer - White Lantern - Kyle,20251117_000000,20251120_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+4014,4,Trailer - General Zod,20251215_000000,20251218_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+4015,4,Trailer - Superman DCU Re-Run,20260112_000000,20260115_000000,1,203,4,ActivityTrailerTitle01,,5,,,,
+2005,2,New Hero - Killer Frost,20260101_000000,20260108_000000,1,530,5,ActivityNewHeroTitle05,ui_recharg_img_bg_13141,2,,,,
+1005,1,Bingo – Killer Frost,20260101_000000,20260108_000000,1,530,6,ActivityBingoTitle13141,ui_Bingo_img_bg_13141_01,2,,,,9806
+8011,6,S7 - Activity Collection - GL Power Battery (rerun),20260107_000000,20260117_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+1019,1,Bingo - Firestorm,20260108_000000,20260115_000000,1,530,6,ActivityBingoTitle13118,ui_Bingo_img_bg_13118_01,2,,,,9806
+2019,2,New Hero - Firestorm,20260108_000000,20260115_000000,1,530,5,ActivityNewHeroTitle19,ui_recharg_img_bg_13118,2,,,,
+8012,6,S7 - Activity Collection - Phantom Zone Projector,20260123_000000,20260202_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+9013,8,Battle Training Season 7-1,20251229_000000,20260101_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+9014,8,Battle Training Season 7-2,20260115_000000,20260118_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+2020,2,New Hero - Punchline,20260305_000000,20260312_000000,1,530,5,ActivityNewHeroTitle20,ui_recharg_img_bg_13217,2,,,,
+1020,1,Bingo – Punchline,20260305_000000,20260312_000000,1,530,6,ActivityBingoTitle13217,ui_Bingo_img_bg_13217_01,2,,,,9806
+2021,2,New Hero - Hugo Strange,20260226_000000,20260305_000000,1,530,5,ActivityNewHeroTitle21,ui_recharg_img_bg_13214,2,,,,
+1021,1,Bingo – Hugo Strange,20260226_000000,20260305_000000,1,530,6,ActivityBingoTitle13214,ui_Bingo_img_bg_13214_01,2,,,,9806
+4016,4,Trailer - The Joker,20260209_000000,20260212_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+8013,6,S8 - Activity Collection - Lex Armor,20260322_000000,20260401_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+4017,4,Trailer - Sinestro Re-Run,20260309_000000,20260312_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+9015,8,Battle Training Season 8-1,20260223_000000,20260226_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+9016,8,Battle Training Season 8-2,20260312_000000,20260315_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+8014,6,S9 - Activity Collection - Jerry the Winged Horse,20260509_000000,20260519_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+2022,2,New Hero - Yara Flor,20260416_000000,20260421_000000,1,530,5,ActivityNewHeroTitle22,ui_recharg_img_bg_13232,2,,,,
+1022,1,Bingo – Yara Flor,20260416_000000,20260421_000000,1,530,6,ActivityBingoTitle13232,ui_Bingo_img_bg_13232_01,2,,,,9806
+4018,4,Trailer - Nubia,20260406_000000,20260409_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+9017,8,Battle Training Season 9-1,20260420_000000,20260423_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+9018,8,Battle Training Season 9-2,20260507_000000,20260510_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+4019,4,Trailer - Black Adam,20260428_000000,20260501_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+2023,2,New Hero - Artemis,20990420_000000,20990424_000000,1,530,5,ActivityNewHeroTitle23,ui_recharg_img_bg_13233,2,,,,
+1023,1,Bingo – Artemis,20990420_000000,20990424_000000,1,530,6,ActivityBingoTitle13233,ui_Bingo_img_bg_13233_01,2,,,,9806
+4020,4,Trailer - Aquaman,20260507_000000,20260510_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+14011,14,Artifact - Bracelets of Submission,20260430_000000,20260507_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,
+12020,2,New Hero - Punchline Rerun,20260402_000000,20260409_000000,1,530,5,ActivityNewHeroTitle20,ui_recharg_img_bg_13217,2,,,,
+11020,1,Bingo – Punchline Rerun,20260402_000000,20260409_000000,1,530,6,ActivityBingoTitle13217,ui_Bingo_img_bg_13217_01,2,,,,9806
+12021,2,New Hero - Hugo Strange Rerun,20260326_000000,20260402_000000,1,530,5,ActivityNewHeroTitle21,ui_recharg_img_bg_13214,2,,,,
+11021,1,Bingo – Hugo Strange Rerun,20260326_000000,20260402_000000,1,530,6,ActivityBingoTitle13214,ui_Bingo_img_bg_13214_01,2,,,,9806
+4021,4,Trailer - Nubia,20260512_000000,20260515_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+4022,4,Trailer - Artemis,20260419_000000,20260422_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+4023,4,Trailer - Black Adam,20260524_000000,20260527_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+11015,1,Bingo - Judomaster Rerun,20260506_000000,20260509_000000,1,530,6,ActivityBingoTitle13234,ui_Bingo_img_bg_13234_01,2,,,,9806
+12015,2,New Hero - Judomaster Rerun,20260506_000000,20260509_000000,1,530,5,ActivityNewHeroTitle15,ui_recharg_img_bg_13234,2,,,,
+11016,1,Bingo - Vigilante Rerun,20260427_000000,20260430_000000,1,530,6,ActivityBingoTitle13226,ui_Bingo_img_bg_13226_01,2,,,,9806
+12016,2,New Hero - Vigilante Rerun,20260427_000000,20260430_000000,1,530,5,ActivityNewHeroTitle16,ui_recharg_img_bg_13226,2,,,,
+11011,1,Bingo - Dr. Phosphorus Rerun,20260529_000000,20260601_000000,1,530,6,ActivityBingoTitle13219,ui_Bingo_img_bg_13219_01,2,,,,9806
+12012,2,New Hero - Dr. Phosphorus Rerun,20260529_000000,20260601_000000,1,530,5,ActivityNewHeroTitle12,ui_recharg_img_bg_13219,2,,,,
+11012,1,Bingo - The Weasel Rerun,20260523_000000,20260526_000000,1,530,6,ActivityBingoTitle13220,ui_Bingo_img_bg_13220_01,2,,,,9806
+12011,2,New Hero - The Weasel Rerun,20260523_000000,20260526_000000,1,530,5,ActivityNewHeroTitle11,ui_recharg_img_bg_13220,2,,,,
+12022,2,New Hero - Yara Flor Rerun,20260517_000000,20260521_000000,1,530,5,ActivityNewHeroTitle22,ui_recharg_img_bg_13232,2,,,,
+11022,1,Bingo – Yara Flor Rerun,20260517_000000,20260521_000000,1,530,6,ActivityBingoTitle13232,ui_Bingo_img_bg_13232_01,2,,,,9806
+4024,4,Trailer - Artemis Rerun,20260517_000000,20260520_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+18007,6,S9 - Activity Collection - Krypto the Superdog rerun,20260611_000000,20260621_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+2024,2,New Hero - Ruthye,20260620_000000,20260625_000000,1,530,5,ActivityNewHeroTitle24,ui_recharg_img_bg_13268,2,,,,
+1024,1,Bingo – Ruthye,20260620_000000,20260625_000000,1,530,6,ActivityBingoTitle13268,ui_Bingo_img_bg_13268_01,2,,,,9806
+4025,4,Trailer - Lobo,20260608_000000,20260611_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+9020,8,Battle Training Season 10-1,20260622_000000,20260625_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+9021,8,Battle Training Season 10-2,20260709_000000,20260712_000000,1,715,3,ActivityResourceTitle01,ui_BattlePass_img_bigbg_01,4,,,,
+4026,4,BlackLightning Trailer,20260701_000000,20260704_000000,1,530,5,ActivityTrailerTitle01,,5,,,,
+4027,4,Trailer - Supergirl DCU,20260622_000000,20260625_000000,1,530,4,ActivityTrailerTitle01,,5,,,,
+4028,4,WhiteLantern Trailer,20260529_000000,20260601_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13194,2,,,,
+18012,6,S9 - Activity Collection - Phantom Zone Projector Rerun,20260601_000000,20260608_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+8015,6,S9 - Activity Collection - Spacehog,20260727_000000,20260806_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+4029,4,BlackLightning_Rerun Trailer,20260724_000000,20260727_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13269,2,,,,
+4030,4,SupergirlDCU Trailer,20260718_000000,20260721_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13266,2,,,,
+12024,2,New Hero - Ruthye Rerun,20260718_000000,20260721_000000,1,530,5,ActivityNewHeroTitle24,ui_recharg_img_bg_13268,2,,,,
+11024,1,Bingo – Ruthye Rerun,20260718_000000,20260721_000000,1,530,6,ActivityBingoTitle13268,ui_Bingo_img_bg_13268_01,2,,,,9806
+14012,14,Artifact - Cedric the Slug,20260716_000000,20260723_000000,1,1830,20,ActivityArtifactShow,ui_artifactsell_img_bg01,2,,,,
+4031,4,Lobo Rerun Trailer,20260710_000000,20260713_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13267,2,,,,
+8018,6,S9 - Activity Collection - Lex Armor Suit Rerun,20460727_000000,20460806_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+4032,4,Absolute Wonder Woman Trailer,20260804_000000,20260807_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13237,2,,,,
+4033,4,Absolute Superman Trailer,20260811_000000,20260814_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13239,2,,,,
+8017,6,Anniversary Event,20260707_000000,20260714_000000,1,530,8,AnniversaryEventTitle,ui_ActivityCollection_img_bigbg,3,8017,,1,2300
+4034,4,Absolute Batman Trailer,20260818_000000,20260821_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13238,2,,,,
+4035,4,Booster Gold Trailer,20260825_000000,20260828_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13228,2,,,,
+4036,4,Black Lightning Trailer,20260922_000000,20260925_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13269,2,,,,
+4037,4,Black Adam Trailer,20260908_000000,20260911_000000,1,530,5,ActivityTrailerTitle01,ui_trailer_img_bg_13134,2,,,,
+8021,6,S11 - Activity Collection - Reanimated Pegasus,20260904_000000,20260911_000000,1,530,9,ActivityCollectionTitle01,ui_ActivityCollection_img_bigbg,3,8001,,,2300
+8019,6,Standalone 1 s11 Event,20260904_000000,20260911_000000,1,530,8,StandAloneEventTitle,ui_ActivityCollection_img_bigbg,1,8019,,1,2300

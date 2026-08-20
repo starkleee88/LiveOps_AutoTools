@@ -1,0 +1,113 @@
+﻿ID,O,LimiterType,LimiterParameter,Filtration,FilterParameter,Desc,DescShort,MinimumRank
+"Limiter ID 
+(abbcc, 
+a=type, 
+bbbb=param, 
+cc=number)",Limiter,"Limiter type
+1 Trait (strength, agility, intelect)
+2 Role (DPS, Tank, Support)
+3 Alignment (Hero, Villain)
+4 Camp (Gotham, Birds of prey etc.)
+5 RelationTag (AllyTag ID for tag types 1 or 2)","Limiter parameter.
+Values by type:
+1: 1 strength, 2 agility, 3 intelligence
+2: 1 tank, 2 DPS, 3 support
+3: 1 hero, 0 villain
+4: AllyTag type 3 ID
+5: AllyTag type 1 or 2 ID","Filtration criteria.
+Comparisson with parameter
+1 - Less than
+2 - equal
+3 - Greater than",Filter parameter to compare against,Description localization key,Short form description localization key,Minimum rank
+index,O,int,int,int,int,string,string,int
+30001,2+ Villains,3,0,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+30101,2+ Heroes,3,1,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+30002,3+ Villains,3,0,3,2,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+30102,3+ Heroes,3,1,3,2,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+30003,4+ Villains,3,0,3,3,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+30103,4+ Heroes,3,1,3,3,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+10301,3+ Intellect,1,3,3,2,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+10201,3+ Agility,1,2,3,2,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+10101,3+ Strength,1,1,3,2,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+40101,2+ Metropolis,4,1,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+40201,2+ Gotham,4,2,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+40301,2+ Central City,4,3,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+40501,3+ Bat Family,4,5,3,2,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+40401,3+ Justice League,4,4,3,2,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+40801,3+ Legion of Doom,4,8,3,2,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+20201,Max 1 DPS,2,2,1,2,GVE_Limit_Less,GVE_Limit_Less_Short,0
+20101,Max 1 Tank,2,1,1,2,GVE_Limit_Less,GVE_Limit_Less_Short,0
+20301,Min 2 Support,2,3,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5100103,Min 2 aoe (min rank 0),5,1001,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5101103,Min 2 burn (min rank 0),5,1011,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5100703,Min 2 shield (min rank 0),5,1007,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5100403,Min 2 single-target (min rank 0),5,1004,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5100104,Min 2 aoe (min rank 5),5,1001,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5101104,Min 2 burn (min rank 5),5,1011,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5100304,Min 2 back row (min rank 0),5,1003,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5100704,Min 2 shield (min rank 5),5,1007,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5100404,Min 2 single-target (min rank 5),5,1004,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5101804,Min 2 debuff (min rank 0),5,1018,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5202104,Min 2 revive (min rank 0),5,2021,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5101004,Min 2 block (min rank 0),5,1010,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5101504,Min 2 sacrifice (min rank 0),5,1015,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+5100105,Min 3 aoe (min rank 6),5,1001,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+5101105,Min 3 burn (min rank 6),5,1011,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+5100305,Min 3 back row (min rank 5),5,1003,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5100705,Min 3 shield (min rank 6),5,1007,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+5100405,Min 3 single-target (min rank 6),5,1004,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+5101805,Min 3 debuff (min rank 5),5,1018,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5202105,Min 1 revive (min rank 5),5,2021,3,0,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5101005,Min 2 block (min rank 5),5,1010,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5101505,Min 2 sacrifice (min rank 5),5,1015,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5100106,Min 3 aoe (min rank 7),5,1001,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,7
+5101106,Min 3 burn (min rank 7),5,1011,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,7
+5100306,Min 3 back row (min rank 7),5,1003,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,7
+5100706,Min 3 shield (min rank 7),5,1007,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,7
+5100406,Min 3 single-target (min rank 7),5,1004,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,7
+5101806,Min 3 debuff (min rank 7),5,1018,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,7
+5202106,Min 1 revive (min rank 6),5,2021,3,0,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+5101006,Min 2 block (min rank 6),5,1010,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+5101506,Min 2 sacrifice (min rank 6),5,1015,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+20100,No Tanks (min rank 0),2,1,2,0,GVE_Limit_Equal,GVE_Limit_Equal_Short,0
+5103205,Min 1 dampen (min rank 5),5,1032,3,0,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+5103206,Min 1 dampen (min rank 6),5,1032,3,0,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+5101008,Min 2 block (min rank 8),5,1010,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+5101508,Min 2 sacrifice (min rank 8),5,1015,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+5103208,Min 2 dampen (min rank 8),5,1032,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+5101010,Min 2 block (min rank 10),5,1010,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+5101510,Min 2 sacrifice (min rank 10),5,1015,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+5103210,Min 2 dampen (min rank 10),5,1032,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+5100108,Min 3 aoe (min rank 8),5,1001,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+5101108,Min 3 burn (min rank 8),5,1011,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+5100308,Min 3 back row (min rank 8),5,1003,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+5100708,Min 3 shield (min rank 8),5,1007,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+5100408,Min 3 single-target (min rank 8),5,1004,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+5101808,Min 3 debuff (min rank 10),5,1018,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+5100110,Min 3 aoe (min rank 10),5,1001,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+5101110,Min 3 burn (min rank 10),5,1011,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+5100310,Min 3 back row (min rank 10),5,1003,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+5100710,Min 3 shield (min rank 10),5,1007,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+5100410,Min 3 single-target (min rank 10),5,1004,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+5101810,Min 3 debuff (min rank 10),5,1018,3,2,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+2026101,Min 3 Supergirl DCU (min rank 0),4,110,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+2026102,Min 3 Gotham Insanity (min rank 0),4,108,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+2026103,Min 3 Amazonians (min rank 0),4,109,3,1,GVE_Limit_Greater,GVE_Limit_Greater_Short,0
+2026201,Min 3 Supergirl DCU (min rank 5),4,110,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+2026202,Min 3 Gotham Insanity (min rank 5),4,108,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+2026203,Min 3 Amazonians (min rank 5),4,109,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,5
+2026301,Min 3 Supergirl DCU (min rank 6),4,110,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+2026302,Min 3 Gotham Insanity (min rank 6),4,108,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+2026303,Min 3 Amazonians (min rank 6),4,109,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,6
+2026401,Min 3 Supergirl DCU (min rank 7),4,110,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,7
+2026402,Min 3 Gotham Insanity (min rank 7),4,108,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,7
+2026403,Min 3 Amazonians (min rank 7),4,109,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,7
+2026501,Min 3 Supergirl DCU (min rank 8),4,110,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+2026502,Min 3 Gotham Insanity (min rank 8),4,108,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+2026503,Min 3 Amazonians (min rank 8),4,109,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,8
+2026601,Min 3 Supergirl DCU (min rank 9),4,110,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,9
+2026602,Min 3 Gotham Insanity (min rank 9),4,108,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,9
+2026603,Min 3 Amazonians (min rank 9),4,109,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,9
+2026701,Min 3 Supergirl DCU (min rank 10),4,110,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+2026702,Min 3 Gotham Insanity (min rank 10),4,108,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10
+2026703,Min 3 Amazonians (min rank 10),4,109,3,1,GVE_Limit_Greater_With_Rank,GVE_Limit_Greater_Short,10

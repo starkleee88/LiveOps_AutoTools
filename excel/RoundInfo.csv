@@ -1,0 +1,30 @@
+﻿Id,O,RoundType,ShowItemID,RewardID,
+"Reward ID
+Guangxi:
+Primary key, incrementing sequentially, no actual significance","Note
+Guangxi:
+Rotation weeks, restart from the first week after the last week is completed","Rotation Type
+Guangxi:
+Different rotation types correspond to
+different rotation cycles
+1: Cycle of 7 days
+2: Others, can be supplemented","Display ID - Client Display
+Guangxi:
+Outer packaging ID of the rotation item
+For example: Mysterious Illustration Shard","Reward ID
+Guangxi:
+Inside the package, rewards that players can obtain.",
+index,,int,int,int,
+1,"Illustration Shard Rotation, Week 1",1,11401001,1940101,
+2,"Illustration Shard Rotation, Week 2",1,11401002,1940102,
+3,"Illustration Shard Rotation, Week 3",1,11401003,1940103,
+4,"Illustration Shard Rotation, Week 4",1,11401004,1940104,
+5,"Illustration Shard Rotation, Week 5",1,11401005,1940105,
+6,"Illustration Shard Rotation, Week 6",1,11401006,1940106,
+7,"Illustration Shard Rotation, Week 7",1,11401007,1940107,
+8,"Illustration Shard Rotation, Week 8",1,11401008,1940108,
+9,"Illustration Shard Rotation, Week 9",1,11401009,1940109,
+10,"Illustration Shard Rotation, Week 10",1,11401010,1940110,
+,,,,,
+,,,,,
+,,,,, 

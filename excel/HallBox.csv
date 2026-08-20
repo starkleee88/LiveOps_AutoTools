@@ -1,0 +1,8 @@
+﻿Id,BoxScale,TimeMin,BoxUI
+ID,Treasure Chest Size,Minimum Time To Trigger Treasure Chest,Treasure Chest UI
+index,int,int,array-string
+1,1,0,ui_comm_img_main_res_empty_01
+2,2,600,ui_comm_img_main_res_empty_01
+3,3,2700,ui_comm_img_main_res_small_01
+4,4,14400,ui_comm_img_main_res_mid_01|ui_comm_img_main_res_mid_02
+5,5,28800,ui_comm_img_main_res_big_01|ui_comm_img_main_res_big_02

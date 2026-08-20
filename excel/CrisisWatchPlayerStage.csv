@@ -1,0 +1,9 @@
+﻿Id,Stage,Name,O,RecommendPower,PowerParam,CompareParam1,CompareParam2,Icon
+ID,Stage Clear Requirement,Name,Note,Recommended Combat Power,Combat Power Calculation Coefficient,Comparison Parameter 1,Comparison Parameter 2,Segmented Map Icon
+index,int,string,,int,int,int,int,string
+1,1230,CrisisWatchPlayerStage01,Trainee Area,235000,9000,13000,8000,ui_crisiswatch_icon_level01
+2,1530,CrisisWatchPlayerStage02,Newcomer Area,385000,9000,13000,8000,ui_crisiswatch_icon_level02
+3,1830,CrisisWatchPlayerStage03,Assistant Area,620000,9000,13000,8000,ui_crisiswatch_icon_level03
+4,2130,CrisisWatchPlayerStage04,Veteran Area,1150000,9000,13000,8000,ui_crisiswatch_icon_level04
+5,2430,CrisisWatchPlayerStage05,Elite Area,1680000,9000,13000,8000,ui_crisiswatch_icon_level05
+6,2930,CrisisWatchPlayerStage06,Aces Area,0,9000,13000,8000,ui_crisiswatch_icon_level06

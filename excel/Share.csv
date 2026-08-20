@@ -1,0 +1,24 @@
+﻿ShareId,Content,Quantity,Period,LocalKey,O,O,Prefab
+Share ID,Rewards not currently supported on client | Reward Item ID 1,Reward Quantity 1,"Reward cycle type | Reward Cycle Type
+小冷:
+1 First weekly share | Receive a reward for the first share each week
+2 First ever share | Receive a reward for the first share",Multilingual Key,Share Reward Text,Function Module Note,"Prefab Path
+Used for special style share pages"
+int,int,int,int,string,O,O,string
+1,0,50,1,Share_Out_Tips1,Receive for the first share each week,Card Draw,
+2,0,100,2,Share_Out_Tips2,Receive for the first share,Story Instance,
+3,0,100,2,Share_Out_Tips2,Receive for the first share,Exploration Instance,
+4,0,100,2,Share_Out_Tips2,Receive for the first share,Tower Climb,
+5,0,100,2,Share_Out_Tips2,Receive for the first share,Event - Limited Time Sign-In,
+6,0,100,2,Share_Out_Tips2,Receive for the first share,Ally Preview,
+7,0,100,2,Share_Out_Tips2,Receive for the first share,Batman Mini-Game,
+8,0,100,2,Share_Out_Tips2,Receive for the first share,Green Arrow Mini-Game,
+9,0,100,2,Share_Out_Tips2,Receive for the first share,Deathstroke Mini-Game,
+10,0,50,2,Share_Out_Tips2,Receive for the first share,Batman Event,RiddleSharePanel
+11,0,50,2,Share_Out_Tips2,Receive for the first share,Batman Event,RiddleShareSuccessPanel
+12,0,100,2,Share_Out_Tips2,Receive for the first share,Sinestro Mini-Game,
+13,0,100,2,Share_Out_Tips2,Receive for the first share,Main Story,
+14,0,100,2,Share_Out_Tips2,Receive for the first share,Martian Manhunter Mini-Game,
+15,0,0,0,,,Lobby Skin Share,
+16,0,0,2,Share_Out_Tips2,Receive for the first share,Share hero,
+17,0,0,2,Share_Out_Tips2,Receive for the first share,Leaderboard,

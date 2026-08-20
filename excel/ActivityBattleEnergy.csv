@@ -1,0 +1,4 @@
+﻿ActivityID,,EnergyBattleID,EnemyGroupID,EnergyCostOnBattleStart,EnergyCostOnWin,EnergyCostOnLose,EnergyRefillMax,TimeBetweenRefillHours,ActivityStartingEnergyFill,EnergyRefillAmount,EnergyItem
+deprecated,name,Battle Energy ID,deprecated,Amount of energy removed on battle start,Amount of energy removed on battle win,Amount of energy removed on battle lose,Maximum amount to refill up to,Hours between energy refill ,Starting energy amount,The amount to refilled when refill time,The item id representing energy
+int,,int,[int],int,int,int,int,int,int,int,int
+15001,NECE - Judomaster,101,201010,1,0,0,3,6,3,1,1111005
