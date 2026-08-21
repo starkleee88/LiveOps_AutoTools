@@ -841,7 +841,10 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
             else:
                 local_key_des = "FlashSale_Popup_Title"
         else:
-            local_key_des = f"StoreDesc_{normalize_for_func_key(banner_suffix or event_name)}_{normalize_for_func_key(cat_name)}"
+            if is_holiday:
+                local_key_des = f"StoreDesc_{normalize_for_func_key(banner_suffix or event_name)}_{normalize_for_func_key(cat_name)}"
+            else:
+                local_key_des = f"StoreDesc_{normalize_for_func_key(event_name)}"
             text_keys = sid_to_text_keys.get(sid)
             if text_keys:
                 local_key_des = text_keys["desc_key"]
@@ -878,11 +881,14 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
                 else:
                     local_key = text_keys["pack_key"]
             else:
-                fallback_base = f"{normalize_for_func_key(banner_suffix or event_name)}_{normalize_for_func_key(cat_name)}_Pack"
-                if is_step_up_group:
-                    local_key = f"{fallback_base}_{pack_index}"
+                if is_holiday:
+                    fallback_base = f"{normalize_for_func_key(banner_suffix or event_name)}_{normalize_for_func_key(cat_name)}_Pack"
+                    if is_step_up_group:
+                        local_key = f"{fallback_base}_{pack_index}"
+                    else:
+                        local_key = fallback_base
                 else:
-                    local_key = fallback_base
+                    local_key = local_key_des
             step_flag = "1" if is_step_up_group else ""
             
             next_is_free = False
