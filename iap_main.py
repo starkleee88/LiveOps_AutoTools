@@ -600,24 +600,23 @@ def collect_text_config(is_holiday=False):
         return None
 
     substores = []
-    main_store_text = ""
-    if var_generate_text and var_generate_text.get():
-        for widget in substore_text_widgets:
-            sub_type = widget["type_var"].get().strip() or "Daily"
-            pack_name = widget["pack_var"].get().strip()
-            sub_name = widget["sub_var"].get().strip()
-            sub_desc = widget["desc_var"].get().strip()
-            if any([pack_name, sub_name, sub_desc]):
-                substores.append({
-                    "type": sub_type,
-                    "pack_name": pack_name,
-                    "substore_name": sub_name,
-                    "substore_desc": sub_desc,
-                })
-        main_store_text = entry_main_store_text.get().strip() if entry_main_store_text else ""
+    # Always collect substores configuration to ensure key generation logic is unified
+    for widget in substore_text_widgets:
+        sub_type = widget["type_var"].get().strip() or "Daily"
+        pack_name = widget["pack_var"].get().strip()
+        sub_name = widget["sub_var"].get().strip()
+        sub_desc = widget["desc_var"].get().strip()
+        if any([pack_name, sub_name, sub_desc]):
+            substores.append({
+                "type": sub_type,
+                "pack_name": pack_name,
+                "substore_name": sub_name,
+                "substore_desc": sub_desc,
+            })
+    main_store_text = entry_main_store_text.get().strip() if entry_main_store_text else ""
 
     return {
-        "enabled": True,
+        "enabled": bool(var_generate_text and var_generate_text.get()),
         "event_name": entry_event_name.get().strip(),
         "banner_suffix": entry_banner_suffix.get().strip(),
         "popup_title": entry_popup_title.get().strip() if entry_popup_title else "",
@@ -650,7 +649,7 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
     character_class = var_character_class.get().strip() if is_legendary_character_pack else ""
 
     text_config = collect_text_config(is_holiday=is_holiday)
-    if text_config:
+    if text_config and text_config.get("enabled"):
         export_text_assets(
             target_dir,
             event_name=event_name,
