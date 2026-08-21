@@ -6,7 +6,7 @@ import unittest
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
-from iap_main import export_text_assets, get_legendary_daily_shop_icon
+from iap_main import export_text_assets, get_legendary_daily_shop_icon, get_holiday_pack_icon_name
 
 
 class ExportTextAssetsTests(unittest.TestCase):
@@ -103,6 +103,26 @@ class ExportTextAssetsTests(unittest.TestCase):
             self.assertTrue(any(row[0] == 'Func_Testsale_Daily_2' and row[3] == 'Sub C' for row in rows))
             self.assertTrue(any(row[0] == 'Testsale_Daily_Pack_2' and row[3] == 'Pack C' for row in rows))
             self.assertTrue(any(row[0] == 'StoreDesc_Testsale_Daily_2' and row[3] == 'Desc C' for row in rows))
+
+    def test_holiday_pack_icon_naming_rules(self):
+        # Memorial Day example
+        icon1 = get_holiday_pack_icon_name('memorialday2026deal', 'Memorial Day', 'Memorial Day Sale Specials', 'Wonder Woman Memorial Day', 1958001)
+        self.assertEqual(icon1, 'ui_store_memorialday2026_special_WonderWoman')
+
+        icon2 = get_holiday_pack_icon_name('memorialday2026deal', 'Memorial Day', 'Memorial Day Sale Specials', 'Wonder Woman Fragment Memorial Day', 1958002)
+        self.assertEqual(icon2, 'ui_store_memorialday2026_special_WonderWoman_Fragment')
+
+        # Easter example
+        icon3 = get_holiday_pack_icon_name('easter2026deal_02', 'Easter', 'Easter Sales Step-Up', 'ET + LET Easter', 9545002)
+        self.assertEqual(icon3, 'ui_store_easter2026_daily_ET_LET')
+
+        # Pride Day example
+        icon4 = get_holiday_pack_icon_name('prideday2026deal', 'Pride', 'Pride Day StepUp Gold', 'Pride Gold I', 9561001)
+        self.assertEqual(icon4, 'ui_store_prideday2026_daily_Gold_I')
+
+        # Valentine example (with valentine abbreviation)
+        icon5 = get_holiday_pack_icon_name('valentine2026deal_1', 'Valentine', 'Special Offers Valentine - Poison Team Characters', 'Special Offers Valentine - Poison Team Characters', 9535001)
+        self.assertEqual(icon5, 'ui_store_valentine2026_special_PoisonTeam_Characters')
 
 
 if __name__ == '__main__':

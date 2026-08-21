@@ -202,6 +202,39 @@ def get_legendary_daily_shop_icon(category, pack_index, character_id, character_
     return ""
 
 
+def get_holiday_pack_icon_name(banner_suffix, event_name, cat_name, pack_name, pack_id):
+    # 1. Clean event name (remove "deal" and trailing suffixes like _01, _02, etc.)
+    event_clean = re.sub(r'deal(_\d+)?$', '', banner_suffix or event_name, flags=re.IGNORECASE)
+    event_clean = re.sub(r'[^A-Za-z0-9]+', '', event_clean)
+
+    # 2. Map category type
+    cat_lower = cat_name.lower()
+    if "step" in cat_lower or "daily" in cat_lower:
+        cat_type = "daily"
+    else:
+        cat_type = "special"
+
+    # 3. Clean pack name
+    name = pack_name.replace(event_name, "")
+    name = re.sub(r'^.*?\-\s*', '', name)
+    name = name.strip()
+    # Ensure "Fragment", "Fragments", "Free", "Character/s", and Roman numerals (I, II, etc.) are separated by an underscore
+    name = re.sub(r'(?<!^)(?<!_)\b(free|fragments?|characters?|i|ii|iii|iv|v|vi|vii|viii|ix|x)\b', r'_\1', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*[\+\-]\s*', '_', name)
+
+    parts = []
+    for part in name.split('_'):
+        words_in_part = [w.strip() for w in part.split() if w.strip()]
+        if words_in_part:
+            parts.append("".join(words_in_part))
+    pack_name_clean = "_".join(parts)
+
+    if not pack_name_clean:
+        pack_name_clean = str(pack_id)
+
+    return f"ui_store_{event_clean}_{cat_type}_{pack_name_clean}"
+
+
 def get_substore_open_level(packs, default="530"):
     """Return the lowest valid OpenLvl used by packs in a substore."""
     open_levels = []
@@ -788,9 +821,16 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
     rules_rows, pack_rows, reward_rows = [], [], []
     for sid, packs in grouped.items():
         start, end = convert_date(packs[0]['Start']), convert_date(packs[-1]['End'])
-        banner = f"ui_recharge_banner_{banner_suffix}"
-        t_pic, t_back = f"ui_recharg_img_timetxtbg01_{banner_suffix}", f"ui_recharg_img_timetxtbg02_{banner_suffix}"
-        b_pic = f"ui_recharge_packback_{banner_suffix}"
+        if is_holiday:
+            banner = f"ui_recharge_banner_{banner_suffix}"
+            t_pic = f"ui_recharg_img_timetxtbg01_{banner_suffix}_01"
+            t_back = f"ui_recharg_img_timetxtbg02_{banner_suffix}_01"
+            backpack_suffix = re.sub(r'(_\d+)?$', '', banner_suffix)
+            b_pic = f"ui_recharge_packback_{backpack_suffix}"
+        else:
+            banner = f"ui_recharge_banner_{banner_suffix}"
+            t_pic, t_back = f"ui_recharg_img_timetxtbg01_{banner_suffix}", f"ui_recharg_img_timetxtbg02_{banner_suffix}"
+            b_pic = f"ui_recharge_packback_{banner_suffix}"
         cat_name = category_map[sid]
         display_name = f"{event_name} {cat_name}".strip() if event_name else cat_name
         cat_only = cat_name.replace(event_name, "").strip() or cat_name
@@ -826,7 +866,9 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
 
             order_str = str(p['Order']).replace(".0", "")
             local_key_2 = f"ui_store_{normalize_for_ui_key(banner_suffix)}_{normalize_for_ui_key(p['PackID'])}"
-            if is_legendary_character_pack:
+            if is_holiday:
+                local_key_2 = get_holiday_pack_icon_name(banner_suffix, event_name, cat_name, p['PackName'], p['PackID'])
+            elif is_legendary_character_pack:
                 daily_shop_icon = get_legendary_daily_shop_icon(cat_name, pack_index, character_id, character_class)
                 if daily_shop_icon:
                     local_key_2 = daily_shop_icon
