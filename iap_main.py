@@ -232,9 +232,10 @@ def is_step_up_type(value):
 def build_substore_text_keys(event_name, banner_suffix, sub_type, index=1):
     event_id = normalize_for_func_key(banner_suffix or event_name)
     sub_id = normalize_for_func_key(sub_type)
-    pack_key_base = f"{event_id}_{sub_id}_Pack"
-    func_key_base = f"Func_{event_id}_{sub_id}"
-    desc_key = f"StoreDesc_{event_id}_{sub_id}"
+    suffix = f"_{index}" if index > 1 else ""
+    pack_key_base = f"{event_id}_{sub_id}_Pack{suffix}"
+    func_key_base = f"Func_{event_id}_{sub_id}{suffix}"
+    desc_key = f"StoreDesc_{event_id}_{sub_id}{suffix}"
     return {
         "sub_key": func_key_base,
         "pack_key_base": pack_key_base,
@@ -304,6 +305,7 @@ def export_text_assets(target_dir, event_name="", banner_suffix="", popup_title=
         shop_rows.append([main_key, "IAP Main Store", event_name or "IAP", main_store_text])
 
     substore_entries = substores or []
+    type_counts = {}
     for idx, sub in enumerate(substore_entries, start=1):
         sub_type = (sub.get("type") or "Daily").strip() or "Daily"
         pack_name = (sub.get("pack_name") or "").strip()
@@ -312,7 +314,9 @@ def export_text_assets(target_dir, event_name="", banner_suffix="", popup_title=
         if not any([pack_name, sub_name, sub_desc]):
             continue
 
-        text_keys = build_substore_text_keys(event_name, banner_suffix, sub_type, idx)
+        type_counts[sub_type] = type_counts.get(sub_type, 0) + 1
+        type_idx = type_counts[sub_type]
+        text_keys = build_substore_text_keys(event_name, banner_suffix, sub_type, type_idx)
         pack_count = 1
         if is_step_up_type(sub_type):
             if substore_pack_counts and idx - 1 < len(substore_pack_counts):
@@ -731,11 +735,14 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
     # Group UI substores by type to allow reusing configurations of the same type (e.g. Daily)
     substore_by_type = {"Daily": [], "Step-up": [], "Special": []}
     if text_config and text_config["substores"]:
+        type_counts = {}
         for idx, sub in enumerate(text_config["substores"], start=1):
             sub_type = (sub.get("type") or "Daily").strip()
             if sub_type not in substore_by_type:
                 sub_type = "Daily"
-            keys = build_substore_text_keys(event_name, banner_suffix, sub_type, idx)
+            type_counts[sub_type] = type_counts.get(sub_type, 0) + 1
+            type_idx = type_counts[sub_type]
+            keys = build_substore_text_keys(event_name, banner_suffix, sub_type, type_idx)
             substore_by_type[sub_type].append(keys)
 
     # Pre-map each CSV SubStore ID to its corresponding UI text keys based on type
@@ -794,7 +801,7 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
             else:
                 local_key_des = "FlashSale_Popup_Title"
         else:
-            local_key_des = f"StoreDesc_{normalize_for_func_key(event_name)}"
+            local_key_des = f"StoreDesc_{normalize_for_func_key(banner_suffix or event_name)}_{normalize_for_func_key(cat_name)}"
             text_keys = sid_to_text_keys.get(sid)
             if text_keys:
                 local_key_des = text_keys["desc_key"]
@@ -818,17 +825,22 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
                 price_type = "1"
 
             order_str = str(p['Order']).replace(".0", "")
-            local_key = local_key_des
             local_key_2 = f"ui_store_{normalize_for_ui_key(banner_suffix)}_{normalize_for_ui_key(p['PackID'])}"
             if is_legendary_character_pack:
                 daily_shop_icon = get_legendary_daily_shop_icon(cat_name, pack_index, character_id, character_class)
                 if daily_shop_icon:
                     local_key_2 = daily_shop_icon
             if text_keys:
-                if is_step_up_group:
+                if is_step_up_type(text_keys["type"]):
                     local_key = f"{text_keys['pack_key_base']}_{pack_index}"
                 else:
                     local_key = text_keys["pack_key"]
+            else:
+                fallback_base = f"{normalize_for_func_key(banner_suffix or event_name)}_{normalize_for_func_key(cat_name)}_Pack"
+                if is_step_up_group:
+                    local_key = f"{fallback_base}_{pack_index}"
+                else:
+                    local_key = fallback_base
             step_flag = "1" if is_step_up_group else ""
             
             next_is_free = False

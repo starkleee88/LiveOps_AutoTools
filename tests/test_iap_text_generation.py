@@ -70,6 +70,40 @@ class ExportTextAssetsTests(unittest.TestCase):
             self.assertTrue(any(row[0] == 'Popup_Testsale_Subtitle' for row in rows))
             self.assertTrue(any(row[0] == 'Popup_Testsale_Desc' for row in rows))
 
+    def test_type_specific_indexing_for_multiple_substores_of_same_type(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            export_text_assets(
+                tmpdir,
+                event_name='Test Sale',
+                banner_suffix='testsale',
+                substores=[
+                    {'type': 'Daily', 'pack_name': 'Pack A', 'substore_name': 'Sub A', 'substore_desc': 'Desc A'},
+                    {'type': 'Special', 'pack_name': 'Pack B', 'substore_name': 'Sub B', 'substore_desc': 'Desc B'},
+                    {'type': 'Daily', 'pack_name': 'Pack C', 'substore_name': 'Sub C', 'substore_desc': 'Desc C'},
+                ],
+            )
+
+            shop_path = os.path.join(tmpdir, 'Language', 'SourceShopUI.csv')
+            self.assertTrue(os.path.exists(shop_path))
+
+            with open(shop_path, 'r', encoding='utf-8-sig', newline='') as f:
+                rows = list(csv.reader(f))
+
+            # First Daily: index 1 -> no suffix
+            self.assertTrue(any(row[0] == 'Func_Testsale_Daily' and row[3] == 'Sub A' for row in rows))
+            self.assertTrue(any(row[0] == 'Testsale_Daily_Pack' and row[3] == 'Pack A' for row in rows))
+            self.assertTrue(any(row[0] == 'StoreDesc_Testsale_Daily' and row[3] == 'Desc A' for row in rows))
+
+            # First Special: index 1 -> no suffix
+            self.assertTrue(any(row[0] == 'Func_Testsale_Special' and row[3] == 'Sub B' for row in rows))
+            self.assertTrue(any(row[0] == 'Testsale_Special_Pack' and row[3] == 'Pack B' for row in rows))
+            self.assertTrue(any(row[0] == 'StoreDesc_Testsale_Special' and row[3] == 'Desc B' for row in rows))
+
+            # Second Daily: index 2 -> _2 suffix
+            self.assertTrue(any(row[0] == 'Func_Testsale_Daily_2' and row[3] == 'Sub C' for row in rows))
+            self.assertTrue(any(row[0] == 'Testsale_Daily_Pack_2' and row[3] == 'Pack C' for row in rows))
+            self.assertTrue(any(row[0] == 'StoreDesc_Testsale_Daily_2' and row[3] == 'Desc C' for row in rows))
+
 
 if __name__ == '__main__':
     unittest.main()
