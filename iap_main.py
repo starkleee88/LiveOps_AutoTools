@@ -776,11 +776,18 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
             type_counts[sub_type] = type_counts.get(sub_type, 0) + 1
             type_idx = type_counts[sub_type]
             keys = build_substore_text_keys(event_name, banner_suffix, sub_type, type_idx)
+            keys["substore_name"] = sub.get("substore_name", "").strip()
+            keys["type"] = sub_type
+            keys["ui_index"] = idx
+            keys["assigned"] = False
             substore_by_type[sub_type].append(keys)
 
-    # Pre-map each CSV SubStore ID to its corresponding UI text keys based on type
+    # Pre-map each CSV SubStore ID to its corresponding UI text keys based on type/name matching
+    def normalize_name_match(s):
+        if not s: return ""
+        return re.sub(r'\s+', ' ', str(s).strip().lower())
+
     sid_to_text_keys = {}
-    type_counters = {"Daily": 0, "Step-up": 0, "Special": 0}
     for sid in sub_ids:
         cat_name = category_map[sid]
         ui_type = "Step-up" if is_step_up_type(cat_name) else ("Special" if "special" in cat_name.lower() else "Daily")
@@ -788,13 +795,34 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
         text_keys = None
         if text_config and text_config["substores"]:
             configs = substore_by_type.get(ui_type, [])
-            if configs:
-                idx = type_counters[ui_type]
-                if idx < len(configs):
-                    text_keys = configs[idx]
-                else:
-                    text_keys = configs[-1] # Reuse the last config if we run out
-                type_counters[ui_type] += 1
+            candidate_configs = [cfg for cfg in configs if not cfg["assigned"]]
+            if candidate_configs:
+                norm_cat = normalize_name_match(cat_name)
+                best_match = None
+                
+                # 1. Try exact match by substore_name
+                for cfg in candidate_configs:
+                    if normalize_name_match(cfg["substore_name"]) == norm_cat:
+                        best_match = cfg
+                        break
+                
+                # 2. Try partial matching
+                if not best_match:
+                    for cfg in candidate_configs:
+                        norm_sub = normalize_name_match(cfg["substore_name"])
+                        if norm_sub and norm_cat and (norm_sub in norm_cat or norm_cat in norm_sub):
+                            best_match = cfg
+                            break
+                
+                # 3. Fallback to order
+                if not best_match:
+                    best_match = candidate_configs[0]
+                
+                best_match["assigned"] = True
+                text_keys = best_match
+            else:
+                if configs:
+                    text_keys = configs[-1]
         sid_to_text_keys[sid] = text_keys
 
     # 2. PAYSTORE SUB
