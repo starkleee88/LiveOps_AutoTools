@@ -40,11 +40,56 @@ def chon_thu_muc(entry):
         entry.delete(0, tk.END)
         entry.insert(0, path)
 
-def chon_file(entry):
+def chon_file(entry, callback=None):
     path = filedialog.askopenfilename(filetypes=[("CSV files", "*.csv"), ("All files", "*.*")])
     if path:
         entry.delete(0, tk.END)
         entry.insert(0, path)
+        if callback:
+            callback()
+
+
+def validate_csv_headers(csv_path):
+    if not csv_path or not os.path.exists(csv_path):
+        return False, "File không tồn tại."
+    try:
+        rows = read_csv(csv_path)
+        header_idx = -1
+        for i, r in enumerate(rows):
+            if "Pack Name" in r and "Pack ID" in r:
+                header_idx = i
+                break
+        if header_idx == -1:
+            return False, "Không tìm thấy dòng Header chuẩn (cần 'Pack Name' & 'Pack ID')."
+        header = [str(col).strip() for col in rows[header_idx]]
+        required_cols = ["Pack ID", "Pack Name", "Price", "Category", "Start", "End"]
+        missing = []
+        for col in required_cols:
+            if col not in header:
+                missing.append(col)
+        item_found = any("Item 1" in col for col in header)
+        if not item_found:
+            missing.append("Item 1 ID")
+        if missing:
+            return False, f"Thiếu cột bắt buộc: {', '.join(missing)}"
+        return True, "Cấu trúc file CSV hợp lệ!"
+    except Exception as e:
+        return False, f"Không thể đọc file: {str(e)}"
+
+
+def validate_bp_csv_headers(csv_path):
+    if not csv_path or not os.path.exists(csv_path):
+        return False, "File không tồn tại."
+    try:
+        rows = read_csv(csv_path)
+        if not rows:
+            return False, "File CSV trống."
+        header = [str(col).strip() for col in rows[0]]
+        if "RewardID" not in header:
+            return False, "Thiếu cột 'RewardID' trong Header."
+        return True, "Cấu trúc file Reward CSV hợp lệ!"
+    except Exception as e:
+        return False, f"Không thể đọc file: {str(e)}"
 
 # ==========================================
 # HÀM XỬ LÝ FILE (CHỐNG READ-ONLY, SAI FORMAT & XUỐNG DÒNG)
@@ -1139,7 +1184,23 @@ def main():
     frame_iap = tk.Frame(scroll_frame)
     f_csv = tk.Frame(frame_iap); f_csv.pack(fill='x', pady=5, padx=10)
     entry_csv = tk.Entry(f_csv); entry_csv.pack(side='left', expand=True, fill='x')
-    tk.Button(f_csv, text="Google Sheet CSV", command=lambda: chon_file(entry_csv)).pack(side='right')
+    tk.Button(f_csv, text="Google Sheet CSV", command=lambda: chon_file(entry_csv, check_csv_file)).pack(side='right')
+
+    lbl_csv_status = tk.Label(frame_iap, text="", anchor='w', font=("Arial", 9, "italic"))
+    lbl_csv_status.pack(fill='x', padx=26, pady=(0, 4))
+
+    def check_csv_file(e=None):
+        csv_path = entry_csv.get().strip()
+        if not csv_path:
+            lbl_csv_status.config(text="Chưa chọn file CSV", fg="gray")
+            return
+        valid, msg = validate_csv_headers(csv_path)
+        if valid:
+            lbl_csv_status.config(text="✔ Cấu trúc file CSV hợp lệ!", fg="green")
+        else:
+            lbl_csv_status.config(text=f"❌ {msg}", fg="red")
+
+    entry_csv.bind("<KeyRelease>", check_csv_file)
 
     entry_csv_filter = tao_o(frame_iap, "Từ khóa lọc:")
     entry_event_name = tao_o(frame_iap, "Event/Sale Name:")
@@ -1280,7 +1341,23 @@ def main():
     f_bp_csv = tk.Frame(frame_bp); f_bp_csv.pack(fill='x', pady=5, padx=10)
     tk.Label(f_bp_csv, text="Reward CSV File:", width=18, anchor='w', font=("Arial", 9, "bold")).pack(side='left')
     entry_bp_reward_csv = tk.Entry(f_bp_csv); entry_bp_reward_csv.pack(side='left', expand=True, fill='x', padx=5)
-    tk.Button(f_bp_csv, text="Select File", command=lambda: chon_file(entry_bp_reward_csv), bg="#D4E6F1").pack(side='right')
+    tk.Button(f_bp_csv, text="Select File", command=lambda: chon_file(entry_bp_reward_csv, check_bp_csv_file), bg="#D4E6F1").pack(side='right')
+
+    lbl_bp_csv_status = tk.Label(frame_bp, text="", anchor='w', font=("Arial", 9, "italic"))
+    lbl_bp_csv_status.pack(fill='x', padx=26, pady=(0, 4))
+
+    def check_bp_csv_file(e=None):
+        csv_path = entry_bp_reward_csv.get().strip()
+        if not csv_path:
+            lbl_bp_csv_status.config(text="Chưa chọn file CSV", fg="gray")
+            return
+        valid, msg = validate_bp_csv_headers(csv_path)
+        if valid:
+            lbl_bp_csv_status.config(text="✔ Cấu trúc file Reward CSV hợp lệ!", fg="green")
+        else:
+            lbl_bp_csv_status.config(text=f"❌ {msg}", fg="red")
+
+    entry_bp_reward_csv.bind("<KeyRelease>", check_bp_csv_file)
 
     entry_bp_id = tao_o(frame_bp, "BP ID (e.g. 9904):")
     entry_bp_hero = tao_o(frame_bp, "Hero Name (e.g. Doctor Fate):")
@@ -1368,6 +1445,8 @@ def main():
         update_popup_frame_visibility()
         update_ui()
 
+    check_csv_file()
+    check_bp_csv_file()
     window.mainloop()
 
 if __name__ == "__main__":
