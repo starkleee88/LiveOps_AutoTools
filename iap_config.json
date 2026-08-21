@@ -4,11 +4,11 @@
     "Mode": "Mode 2: Holiday Sales",
     "SaleType": "Legendary Event",
     "FilterKeyword": "Labor",
-    "EventName": "Labor Day",
+    "EventName": "Labor Day Test",
     "BannerSuffix": "13221",
     "CharacterClass": "C",
-    "PopUpID": "19763",
-    "JumpID": "19763",
+    "PopUpID": "19769",
+    "JumpID": "19769",
     "BP_ID": "9978",
     "BP_Hero": "The Riddler",
     "BP_Ally": "13221",
@@ -36,7 +36,7 @@
             "substore_desc": "Path of Recruitment \\nFollow to the end and claim your FREE Rewards"
         },
         {
-            "type": "Special",
+            "type": "Step-up",
             "pack_name": "Badge Upgrade Path 1/10",
             "substore_name": "Badge Upgrade Path",
             "substore_desc": "Badge Upgrade Path \\nFollow to the end and claim your FREE Rewards"

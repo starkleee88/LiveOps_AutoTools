@@ -765,13 +765,13 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
                         
         write_csv(main_path, main_rows)
 
-    # Group UI substores by type to allow reusing configurations of the same type (e.g. Daily)
-    substore_by_type = {"Daily": [], "Step-up": [], "Special": []}
+    # Build UI substores keys list, tracking type, index and name
+    ui_substore_keys = []
     if text_config and text_config["substores"]:
         type_counts = {}
         for idx, sub in enumerate(text_config["substores"], start=1):
             sub_type = (sub.get("type") or "Daily").strip()
-            if sub_type not in substore_by_type:
+            if sub_type not in ["Daily", "Step-up", "Special"]:
                 sub_type = "Daily"
             type_counts[sub_type] = type_counts.get(sub_type, 0) + 1
             type_idx = type_counts[sub_type]
@@ -780,9 +780,9 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
             keys["type"] = sub_type
             keys["ui_index"] = idx
             keys["assigned"] = False
-            substore_by_type[sub_type].append(keys)
+            ui_substore_keys.append(keys)
 
-    # Pre-map each CSV SubStore ID to its corresponding UI text keys based on type/name matching
+    # Pre-map each CSV SubStore ID to its corresponding UI text keys based on name matching, falling back to absolute order
     def normalize_name_match(s):
         if not s: return ""
         return re.sub(r'\s+', ' ', str(s).strip().lower())
@@ -790,12 +790,10 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
     sid_to_text_keys = {}
     for sid in sub_ids:
         cat_name = category_map[sid]
-        ui_type = "Step-up" if is_step_up_type(cat_name) else ("Special" if "special" in cat_name.lower() else "Daily")
         
         text_keys = None
-        if text_config and text_config["substores"]:
-            configs = substore_by_type.get(ui_type, [])
-            candidate_configs = [cfg for cfg in configs if not cfg["assigned"]]
+        if ui_substore_keys:
+            candidate_configs = [cfg for cfg in ui_substore_keys if not cfg["assigned"]]
             if candidate_configs:
                 norm_cat = normalize_name_match(cat_name)
                 best_match = None
@@ -814,15 +812,14 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
                             best_match = cfg
                             break
                 
-                # 3. Fallback to order
+                # 3. Fallback to the first available unassigned config in absolute order
                 if not best_match:
                     best_match = candidate_configs[0]
                 
                 best_match["assigned"] = True
                 text_keys = best_match
             else:
-                if configs:
-                    text_keys = configs[-1]
+                text_keys = ui_substore_keys[-1]
         sid_to_text_keys[sid] = text_keys
 
     # 2. PAYSTORE SUB
