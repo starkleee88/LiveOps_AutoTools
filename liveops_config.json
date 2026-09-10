@@ -1,5 +1,5 @@
 {
-    "ActivityMainID": "145",
+    "ActivityMainID": "140",
     "HeroName": "The Riddler",
     "StartTime": "20261023_000000",
     "EndTime": "20261030_000000",
@@ -24,11 +24,12 @@
     "TrailerActID": "4042",
     "BossSkillShow1": "",
     "BossSkillShow2": "",
-    "SpeakMaxKey": 1177,
+    "SpeakMaxKey": 1185,
     "ReuseEvent": false,
     "ReuseText": false,
     "ReuseBoss": false,
     "ReuseLocal": false,
+    "TaskActivityID": "14016",
     "TargetDir": "C:/Users/gear/Perforce/x.son.lengoc_Config_Dev/excel",
     "RewardFile": "C:/Users/gear/Perforce/x.son.lengoc_Config_Dev/excel/Rewards/Reward_TheRiddler.csv"
 }

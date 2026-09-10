@@ -3,55 +3,37 @@
     "SourceCSV": "C:/Users/gear/Downloads/DCWC Pack Creator - Event Packs (New).csv",
     "Mode": "Mode 2: Holiday Sales",
     "SaleType": "Legendary Event",
-    "FilterKeyword": "Labor",
-    "EventName": "Labor Day Test",
+    "FilterKeyword": "Extra Deal",
+    "EventName": "Extra Deal - Step up (Sep 30)",
     "BannerSuffix": "13221",
     "CharacterClass": "C",
-    "PopUpID": "19769",
-    "JumpID": "19769",
+    "PopUpID": "19806",
+    "JumpID": "19806",
     "BP_ID": "9978",
     "BP_Hero": "The Riddler",
     "BP_Ally": "13221",
     "BP_Start": "20261023_000000",
     "BP_End": "20261222_000000",
     "BP_RewardCSV": "C:/Users/gear/Perforce/x.son.lengoc_Config_Dev/excel/Rewards/Reward_TheRiddler.csv",
-    "GenerateText": true,
-    "MainStoreText": "Labor Day Specials",
+    "GenerateText": false,
+    "MainStoreText": "Batman Day Special Offers\t",
     "PopupTitleText": "Labor Day Power-Up",
     "PopupSubtitleText": "This Labor Day, your hardest grind pays off.",
     "PopupDescText": "Unlock exclusive Labor Day rewards before they clock out.",
-    "IsExtraSale": false,
-    "ExtraSaleType": "Extra Deal",
+    "IsExtraSale": true,
+    "ExtraSaleType": "Extra Step-up",
     "Substores": [
         {
             "type": "Special",
-            "pack_name": "Labor Day Deals",
-            "substore_name": "Labor Day Deals",
-            "substore_desc": "Labor Day Deals"
+            "pack_name": "Batman Day Deals\t",
+            "substore_name": "Batman Day Deals\t",
+            "substore_desc": "Batman Day Deals\t"
         },
         {
             "type": "Step-up",
-            "pack_name": "Path of Recruitment 1/9",
+            "pack_name": "Path of Recruitment 1/7",
             "substore_name": "Path of Recruitment",
-            "substore_desc": "Path of Recruitment \\nFollow to the end and claim your FREE Rewards"
-        },
-        {
-            "type": "Step-up",
-            "pack_name": "Badge Upgrade Path 1/10",
-            "substore_name": "Badge Upgrade Path",
-            "substore_desc": "Badge Upgrade Path \\nFollow to the end and claim your FREE Rewards"
-        },
-        {
-            "type": "Step-up",
-            "pack_name": "Badge Upgrade Path 1/10",
-            "substore_name": "Badge Upgrade Path",
-            "substore_desc": "Badge Upgrade Path \\nFollow to the end and claim your FREE Rewards"
-        },
-        {
-            "type": "Step-up",
-            "pack_name": "Reinforcements Upgrade Path 1/5",
-            "substore_name": "Reinforcements Upgrade Path",
-            "substore_desc": "Reinforcements Upgrade Path\\nFollow to the end and claim your FREE Rewards"
+            "substore_desc": "Path of Recruitment\\nFollow to the end and claim your FREE Rewards"
         }
     ]
 }

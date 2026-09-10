@@ -407,6 +407,30 @@ def tinh_thoi_gian_thap(start_time_str):
     except:
         return start_time_str, start_time_str, start_time_str
 
+def tim_task_activity_id(thu_muc_goc, activity_main_id):
+    """Return the mission FuncSub ID without colliding with Activity.csv or FuncSub IDs."""
+    base_id = int(activity_main_id) * 100
+    activity_file = os.path.join(thu_muc_goc, "Activity.csv")
+    existing_ids = set()
+    if os.path.exists(activity_file):
+        with open(activity_file, "r", encoding="utf-8-sig", newline="") as f:
+            for row in csv.reader(f):
+                if row and row[0].strip():
+                    existing_ids.add(row[0].strip())
+
+    default_id = f"{base_id + 3}"
+    if default_id not in existing_ids:
+        return default_id, False
+
+    for suffix in range(4, 100):
+        if suffix in (5, 6):
+            continue
+        candidate = f"{base_id + suffix}"
+        if candidate not in existing_ids:
+            return candidate, True
+
+    raise ValueError(f"Không tìm được TaskActivity ID trống cho Activity {activity_main_id}")
+
 # ==========================================
 # PHẦN 3: CÁC HÀM ĐỊNH DẠNG DATA (25 MODULES)
 # ==========================================
@@ -428,7 +452,7 @@ def tao_data_cho_file_sub(data):
         6: ("Tower", f"ActivityAllyTowerMapWindow_{hero_id}")
     }
     for t in [1, 2, 3, 5, 6]:
-        act_id = int(data['ActivityMainID']) * 100 + t
+        act_id = data.get('TaskActivityID') if t == 3 else int(data['ActivityMainID']) * 100 + t
         text_act_id = text_base * 100 + t
         note = f"{data['HeroName']} - {config_type[t][0]}"
         if t in [5, 6]:
@@ -627,14 +651,14 @@ def tao_data_cho_file_ally_gacha_branch(data):
 def tao_data_cho_file_task_activity(data):
     danh_sach = []
     base_id = int(data['TaskBaseID'])
-    act_id = f"{data['ActivityMainID']}03"
+    act_id = data.get('TaskActivityID', f"{data['ActivityMainID']}03")
     sign_days = len(data['RewardData'].get('Sign', {}))
     if sign_days == 0: sign_days = 5 
     suffixes = [
         "D - Complete 1 Daily Login", f"D - Challenge {data['HeroName']} once", "D - Recruit 1 Time in Featured Recruitment",
         "D - Win 1 Time in the Arena", "D - Challenge any Evil Falls enemy 1 time", "D - Recruit 5 times in Featured Recruitment",
         "D - Upgrade Equipment 1 time", "D - Level up a Character 5 times", f"S - Log in for {sign_days} Days in total",
-        "S - Spend a total of 200 Event Currency 1", "S - Spend a total of 100 Event Currency 2", "S - Clear Elseworld 5 times",
+        "S - Spend a total of 200 Event Currency 1", "S - Spend a total of 100 Event Currency 2", "S - Clear Elseworld 7 times",
         "S - Collect Squad Dispatch rewards 21 times", "S - Hire League Mercenaries to Clear Any Stage 2 Times",
         f"S - Clear the 3 areas in {data['HeroName']} Tower Mode", "S - Obtain 10 victories in the Elite Arena",
         f"S - Obtain {data['HeroName']}", "S - Recruit 20 times in Featured Recruitment", f"S - Rank up {data['HeroName']} to Rank 6",
@@ -667,7 +691,7 @@ def tao_data_cho_file_task_info(data):
         ('0', 6, sign_days, 2, 1, "", "", f"S - Log in for {sign_days} Days in total"),
         ('0', 103, 200, 1, 2, tok1, 3002, "S - Spend a total of 200 Event Currency 1"),
         ('0', 103, 100, 2, 3, tok2, 3002, "S - Spend a total of 100 Event Currency 2"),
-        ('0', 32, 5, 2, 4, "", 105, "S - Clear Elseworld 5 times"),
+        ('0', 32, 7, 2, 4, "", 105, "S - Clear Elseworld 7 times"),
         ('0', 105, 21, 2, 5, "", 991801, "S - Collect Squad Dispatch rewards 21 times"),
         ('0', 68, 2, 2, 6, "", 603, "S - Hire League Mercenaries to Clear Any Stage 2 Times"),
         ('0', 110, 3, 2, 7, tower_act, 3003, f"S - Clear the 3 areas in {data['HeroName']} Tower Mode"),
@@ -1133,6 +1157,9 @@ def chay_tool_xu_ly():
             messagebox.showwarning("Lưu ý", "Thư mục đích không tồn tại! Hãy kiểm tra lại đường dẫn.")
             return
 
+        task_activity_id, task_activity_id_changed = tim_task_activity_id(
+            thu_muc_goc, entry_main_id.get().strip()
+        )
         ally_id_str = entry_ally.get()
         reuse_event = bool(entry_reuse_event_var.get())
         reuse_text = bool(entry_reuse_text_var.get())
@@ -1275,7 +1302,8 @@ def chay_tool_xu_ly():
             "ReuseEvent": reuse_event,
             "ReuseText": reuse_text,
             "ReuseBoss": reuse_boss,
-            "ReuseLocal": reuse_local
+            "ReuseLocal": reuse_local,
+            "TaskActivityID": task_activity_id
         }
 
         if reuse_text:
@@ -1380,7 +1408,13 @@ def chay_tool_xu_ly():
         config_to_save["RewardFile"] = entry_reward_file.get()
         save_config(config_to_save)
 
-        messagebox.showinfo("BINGO!", f"DATA GENERATED ({thu_muc_goc})!!")
+        completion_message = f"DATA GENERATED ({thu_muc_goc})!!"
+        if task_activity_id_changed:
+            completion_message += (
+                f"\n\nLOG: TaskActivity ID {entry_main_id.get().strip()}03 bị trùng trong Activity.csv."
+                f"\nĐã đổi thành {task_activity_id} cho FuncSub và TaskActivity."
+            )
+        messagebox.showinfo("BINGO!", completion_message)
     except Exception as e:
         messagebox.showerror("Lỗi", f"Chi tiết: {e}")
 
