@@ -1,0 +1,130 @@
+{
+    "target_dir": "H:/gear/Perforce/x.son.lengoc_Config_Dev/excel",
+    "reward_file": "H:/gear/Perforce/x.son.lengoc_Config_Dev/excel/Reward_Standalone_s13.csv",
+    "season": "13",
+    "activity_id": "8030",
+    "event_name": "",
+    "start_time": "20261225_000000",
+    "end_time": "20270101_000000",
+    "token_trade_id": "1111021",
+    "token_encrypted_id": "1120055",
+    "gacha_type_id": "8030",
+    "gacha_leg_reward_id": "12000113",
+    "gacha_epic_reward_id": "12000212",
+    "gacha_elite_reward_id": "11000115",
+    "gacha_rare_reward_id": "11000116",
+    "task_rewards": [
+        "21200111",
+        "21200112",
+        "21200113",
+        "21200114",
+        "21200115",
+        "21200117",
+        "21200118",
+        "21200119",
+        "21200120",
+        "21200121",
+        "21200122",
+        "21200123"
+    ],
+    "shop_id": "6001",
+    "substore_id": "6001",
+    "rule_desc_key": "8030",
+    "create_ruledesc": true,
+    "rule_desc_text": "",
+    "banner_id": "517",
+    "popup_id": "519",
+    "jump_activity_id": "18030",
+    "jump_gacha_id": "80301",
+    "jump_iap_id": "16001",
+    "jumpsource_id": "600",
+    "shop_characters": [
+        {
+            "name": "Madam Xanadu",
+            "item_id": "1113241",
+            "num": "10",
+            "limit": "3",
+            "price": "900",
+            "featured": true
+        },
+        {
+            "name": "Vandal Savage",
+            "item_id": "1113240",
+            "num": "10",
+            "limit": "3",
+            "price": "360",
+            "featured": true
+        },
+        {
+            "name": "Harley Quinn CJ",
+            "item_id": "1113235",
+            "num": "10",
+            "limit": "1",
+            "price": "850",
+            "featured": false
+        },
+        {
+            "name": "Batman Beyond",
+            "item_id": "1113230",
+            "num": "10",
+            "limit": "1",
+            "price": "850",
+            "featured": false
+        },
+        {
+            "name": "The Riddler",
+            "item_id": "1113221",
+            "num": "10",
+            "limit": "1",
+            "price": "850",
+            "featured": false
+        },
+        {
+            "name": "Absolute Batman",
+            "item_id": "1113238",
+            "num": "10",
+            "limit": "1",
+            "price": "850",
+            "featured": false
+        },
+        {
+            "name": "Absolute Wonder Woman",
+            "item_id": "1113237",
+            "num": "10",
+            "limit": "1",
+            "price": "850",
+            "featured": false
+        },
+        {
+            "name": "Absolute Superman",
+            "item_id": "1113239",
+            "num": "10",
+            "limit": "1",
+            "price": "850",
+            "featured": false
+        },
+        {
+            "name": "Booster Gold",
+            "item_id": "1113228",
+            "num": "10",
+            "limit": "1",
+            "price": "850",
+            "featured": false
+        },
+        {
+            "name": "Batwoman",
+            "item_id": "1118121",
+            "num": "10",
+            "limit": "1",
+            "price": "850",
+            "featured": false
+        }
+    ],
+    "gen_activity": true,
+    "gen_collection_reward": true,
+    "gen_tasks": true,
+    "gen_gacha_banner": true,
+    "gen_items_jumps": true,
+    "gen_shop": true,
+    "gen_language": true
+}

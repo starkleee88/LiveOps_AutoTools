@@ -7,6 +7,7 @@ import re
 import os
 import json
 import xml.etree.ElementTree as ET
+from collections import Counter
 
 CONFIG_FILE = "p4_config.json"
 
@@ -215,6 +216,14 @@ def main():
 
     # Tự động trích xuất các con số changelist (5 chữ số trở lên)
     raw_changelists = re.findall(r'\d{5,}', cl_input)
+    duplicate_changelists = {
+        cl: count for cl, count in Counter(raw_changelists).items() if count > 1
+    }
+    if duplicate_changelists:
+        print("\n[CẢNH BÁO] Phát hiện changelist bị trùng:")
+        for cl, count in duplicate_changelists.items():
+            print(f"   - CL {cl}: xuất hiện {count} lần")
+
     # Loại bỏ trùng lặp và sắp xếp giảm dần (hoặc giữ nguyên)
     changelists = list(set(raw_changelists))
 

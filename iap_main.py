@@ -4,6 +4,7 @@ import re
 import sys
 import json
 import stat
+from decimal import Decimal, InvalidOperation
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 
@@ -435,6 +436,14 @@ def process_iap_csv(csv_path):
     current_category = ""
 
     for r in data_rows:
+        # An entirely empty CSV row is an explicit boundary between sections.
+        # Clear the inherited event/category so following headers cannot be
+        # accidentally treated as subsections of the previously selected event.
+        if not any(str(cell).strip() for cell in r):
+            current_event = None
+            current_category = ""
+            continue
+
         pack_id_raw = get_val(r, "Pack ID", header)
 
         # category/section row
@@ -446,11 +455,9 @@ def process_iap_csv(csv_path):
                 clean_cat = re.sub(r'^[-=\s]+|[-=\s]+$', '', cat_text).strip()
                 if clean_cat:
                     if selected_event:
-                        if selected_event in clean_cat.lower():
+                        clean_cat_lower = clean_cat.lower()
+                        if selected_event in clean_cat_lower:
                             current_event = clean_cat
-                            current_category = ""
-                        elif any(token in clean_cat.lower() for token in ["season", "event", "sale", "holiday", "rerun"]):
-                            current_event = None
                             current_category = ""
                         elif event_root and clean_cat.lower().startswith(event_root):
                             # Sibling section sharing same root prefix (e.g. "Extra deals - Step up (July 21)")
@@ -594,6 +601,83 @@ def process_iap_csv(csv_path):
 
     return parsed
 
+def price_to_cents(value):
+    text = str(value or "").strip().replace("$", "").replace(",", "")
+    if text.lower() in {"", "free"}:
+        return 0
+    try:
+        return int(Decimal(text) * 100)
+    except (InvalidOperation, ValueError):
+        return None
+
+
+def validate_and_replace_pack_skus(packs, target_dir):
+    if packs and all(price_to_cents(pack.get("Price")) == 0 for pack in packs):
+        return []
+
+    sku_path = os.path.join(target_dir, "RechargeSKU.csv")
+    sku_rows = read_csv(sku_path)
+    if not sku_rows:
+        raise Exception(f"Không tìm thấy hoặc không đọc được file {sku_path}!")
+
+    available_skus = []
+    for row in sku_rows[1:]:
+        if len(row) < 2:
+            continue
+        sku_id = str(row[0]).strip()
+        sku_price = price_to_cents(row[1])
+        if sku_id and sku_price is not None:
+            available_skus.append((sku_id, sku_price))
+
+    valid_sku_ids = {sku_id for sku_id, _ in available_skus}
+    replacements = []
+    for pack in packs:
+        pack_price = price_to_cents(pack.get("Price"))
+        if pack_price == 0:
+            continue
+
+        requested_sku = str(pack.get("SkuID") or "").strip()
+        if requested_sku in valid_sku_ids:
+            continue
+
+        if pack_price is None:
+            raise Exception(f"Không xác định được giá của pack '{pack['PackName']}' để thay SKU '{requested_sku}'.")
+
+        candidates = [sku_id for sku_id, sku_price in available_skus if sku_price == pack_price]
+        if not candidates:
+            raise Exception(
+                f"SKU '{requested_sku or '(trống)'}' của pack '{pack['PackName']}' không tồn tại trong RechargeSKU.csv "
+                f"và không có SKU nào cùng giá {pack.get('Price', '')}."
+            )
+
+        requested_suffix = re.search(r"(\d+)$", requested_sku)
+        if requested_suffix:
+            suffix = requested_suffix.group(1)
+            requested_family = re.sub(r"\d+$", "", requested_sku).lower()
+            fallback_family = {"motherbox": "progress", "progress": "motherbox"}.get(requested_family)
+            preferred_family = [
+                sku_id for sku_id in candidates
+                if fallback_family and sku_id.lower() == f"{fallback_family}{suffix}"
+            ]
+            matching_suffix = [sku_id for sku_id in candidates if sku_id.endswith(suffix)]
+            if preferred_family:
+                candidates = preferred_family
+            elif matching_suffix:
+                candidates = matching_suffix
+
+        replacement_sku = candidates[0]
+        pack["SkuID"] = replacement_sku
+        replacements.append({
+            "PackID": pack.get("PackID", ""),
+            "PackName": pack.get("PackName", ""),
+            "Price": pack.get("Price", ""),
+            "OldSkuID": requested_sku,
+            "NewSkuID": replacement_sku,
+        })
+
+    return replacements
+
+
 def collect_text_config(is_holiday=False):
     # Text generation is intentionally limited to Mode 2 (Holiday Sales).
     if not is_holiday:
@@ -631,6 +715,7 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
     parsed = process_iap_csv(entry_csv.get())
     if not parsed:
         raise Exception("Không tìm thấy dữ liệu! Kiểm tra lại file CSV, 'Từ khóa lọc' và 'Event/Sale Name'.")
+    sku_adjustments = validate_and_replace_pack_skus(parsed, target_dir)
     event_name = entry_event_name.get()
     
     if is_holiday:
@@ -899,7 +984,13 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
                 daily_shop_icon = get_legendary_daily_shop_icon(cat_name, pack_index, character_id, character_class)
                 if daily_shop_icon:
                     local_key_2 = daily_shop_icon
-            if text_keys:
+            if is_extra_sale and extra_sale_type == "Extra Step-up":
+                local_key = (
+                    "ExtradealsStepup_StepUp_Pack_Free"
+                    if price_str in ["0", "0.00", "free", ""]
+                    else "ExtradealsStepup_StepUp_Pack"
+                )
+            elif text_keys:
                 if is_step_up_type(text_keys["type"]):
                     local_key = f"{text_keys['pack_key_base']}_{pack_index}"
                 else:
@@ -914,6 +1005,7 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
                 else:
                     local_key = local_key_des
             step_flag = "1" if is_step_up_group else ""
+            price_is_free = price_str in ["0", "0.00", "free", ""]
             
             next_is_free = False
             if is_step_up_group and pack_index < len(packs):
@@ -923,8 +1015,12 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
                     next_is_free = True
 
             label_val = p['LabelID']
-            if next_is_free:
-                label_val = "StoreDiscount_Label_Free"
+            if is_step_up_group:
+                label_val = ""
+                if price_is_free:
+                    label_val = "StoreDiscount_Label_Hot"
+                elif next_is_free:
+                    label_val = "StoreDiscount_Label_Free"
 
             pack_rows.append([
                 p['PackID'], sid, p['PackName'], p_start, p_end, "", p['Limit'], 
@@ -964,6 +1060,7 @@ def process_pack(target_dir, is_holiday, is_extra_sale=False, extra_sale_type="E
                 jump, "25", f"Holiday Sale - {event_name}", "4", sub_ids[0], "", "", "", "1",
                 "Func Corresponding to PayStoreSub table", "Func_fufeishangcheng", "COMMON_Ended", "1"
             ]])
+    return sku_adjustments
 
 # ==========================================
 # LOGIC BATTLE PASS (BP)
@@ -1081,6 +1178,7 @@ def process_bp(target_dir):
 
 def run_tool():
     try:
+        sku_adjustments = []
         tg = entry_target_dir.get()
         if not os.path.exists(tg): raise Exception("Thư mục Perforce không tồn tại!")
         m = combo_mode.get()
@@ -1110,11 +1208,18 @@ def run_tool():
                 popup_desc = entry_popup_desc.get().strip() if entry_popup_desc else ""
                 if not popup_id or not popup_title or not popup_subtitle or not popup_desc:
                     raise Exception("Mode 2 Holiday Sales yêu cầu PopUp ID và tất cả các trường popup text (Title, Subtitle, Desc).")
-            process_pack(tg, is_holiday=(m == "Mode 2: Holiday Sales"), is_extra_sale=is_extra, extra_sale_type=extra_type)
+            sku_adjustments = process_pack(tg, is_holiday=(m == "Mode 2: Holiday Sales"), is_extra_sale=is_extra, extra_sale_type=extra_type)
         cfg = {"TargetDir": tg, "SourceCSV": entry_csv.get(), "Mode": m, "SaleType": combo_sale_type.get(), "FilterKeyword": entry_csv_filter.get(), "EventName": entry_event_name.get(), "BannerSuffix": entry_banner_suffix.get(), "CharacterClass": var_character_class.get(), "PopUpID": entry_popup.get(), "JumpID": entry_jump.get(), "BP_ID": entry_bp_id.get(), "BP_Hero": entry_bp_hero.get(), "BP_Ally": entry_bp_ally.get(), "BP_Start": entry_bp_start.get(), "BP_End": entry_bp_end.get(), "BP_RewardCSV": entry_bp_reward_csv.get(), "GenerateText": bool(var_generate_text.get()) if var_generate_text else False, "MainStoreText": entry_main_store_text.get() if entry_main_store_text else "", "PopupTitleText": entry_popup_title.get() if entry_popup_title else "", "PopupSubtitleText": entry_popup_subtitle.get() if entry_popup_subtitle else "", "PopupDescText": entry_popup_desc.get() if entry_popup_desc else "", "IsExtraSale": is_extra, "ExtraSaleType": extra_type}
         cfg["Substores"] = [{"type": w["type_var"].get(), "pack_name": w["pack_var"].get(), "substore_name": w["sub_var"].get(), "substore_desc": w["desc_var"].get()} for w in substore_text_widgets]
         save_config(cfg)
-        messagebox.showinfo("BINGO!", f"Đã gen data cho {m}!")
+        completion_message = f"Đã gen data cho {m}!"
+        if sku_adjustments:
+            replacement_lines = [
+                f"- {item['PackName']} ({item['PackID']}): {item['OldSkuID'] or '(trống)'} -> {item['NewSkuID']} ({item['Price']})"
+                for item in sku_adjustments
+            ]
+            completion_message += "\n\nSKU không tồn tại đã được thay bằng SKU cùng giá:\n" + "\n".join(replacement_lines)
+        messagebox.showinfo("BINGO!", completion_message)
     except Exception as e: messagebox.showerror("Lỗi", str(e))
 
 # ==========================================

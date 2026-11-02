@@ -1,39 +1,45 @@
 {
-    "TargetDir": "C:/Users/gear/Perforce/x.son.lengoc_Config_Dev/excel",
-    "SourceCSV": "C:/Users/gear/Downloads/DCWC Pack Creator - Event Packs (New).csv",
+    "TargetDir": "H:/gear/Perforce/x.son.lengoc_Config_Dev/excel",
+    "SourceCSV": "C:/Users/gear/Downloads/DCWC Pack Creator - Event Packs (New) (3).csv",
     "Mode": "Mode 2: Holiday Sales",
     "SaleType": "Legendary Event",
     "FilterKeyword": "Extra Deal",
-    "EventName": "Extra Deal - Step up (Sep 30)",
-    "BannerSuffix": "13221",
-    "CharacterClass": "C",
-    "PopUpID": "19806",
-    "JumpID": "19806",
-    "BP_ID": "9978",
-    "BP_Hero": "The Riddler",
-    "BP_Ally": "13221",
-    "BP_Start": "20261023_000000",
-    "BP_End": "20261222_000000",
-    "BP_RewardCSV": "C:/Users/gear/Perforce/x.son.lengoc_Config_Dev/excel/Rewards/Reward_TheRiddler.csv",
+    "EventName": "Extra Deal - Step up Oct 31 (Additional)",
+    "BannerSuffix": "13242",
+    "CharacterClass": "A",
+    "PopUpID": "16053",
+    "JumpID": "16053",
+    "BP_ID": "9980",
+    "BP_Hero": "Etrigan the Demon",
+    "BP_Ally": "13242",
+    "BP_Start": "20261211_000000",
+    "BP_End": "20270209_000000",
+    "BP_RewardCSV": "C:/Users/gear/Perforce/x.son.lengoc_Config_Dev/excel/Rewards/Reward_EtriganDemon.csv",
     "GenerateText": false,
-    "MainStoreText": "Batman Day Special Offers\t",
-    "PopupTitleText": "Labor Day Power-Up",
-    "PopupSubtitleText": "This Labor Day, your hardest grind pays off.",
-    "PopupDescText": "Unlock exclusive Labor Day rewards before they clock out.",
+    "MainStoreText": "Diwali Holiday",
+    "PopupTitleText": "Festival of Lights!",
+    "PopupSubtitleText": "Let the light conquer the dark! Empower your roster with radiant heroes and festive resource bundles.",
+    "PopupDescText": "Light up your journey! Claim brilliant celebration deals before the glow fades!",
     "IsExtraSale": true,
     "ExtraSaleType": "Extra Step-up",
     "Substores": [
         {
-            "type": "Special",
-            "pack_name": "Batman Day Deals\t",
-            "substore_name": "Batman Day Deals\t",
-            "substore_desc": "Batman Day Deals\t"
+            "type": "Step-up",
+            "pack_name": "Path of Light! 1/8",
+            "substore_name": "Path of Light!",
+            "substore_desc": "Path of Light!\\nFollow to the end and claim your FREE rewards"
         },
         {
             "type": "Step-up",
-            "pack_name": "Path of Recruitment 1/7",
-            "substore_name": "Path of Recruitment",
-            "substore_desc": "Path of Recruitment\\nFollow to the end and claim your FREE Rewards"
+            "pack_name": "Path of Light! 1/6",
+            "substore_name": "Path of Light!",
+            "substore_desc": "Path of Light!\\nFollow to the end and claim your FREE rewards"
+        },
+        {
+            "type": "Special",
+            "pack_name": "Radiant Deal",
+            "substore_name": "Radiant Deals!",
+            "substore_desc": "Radiant Deals!"
         }
     ]
 }

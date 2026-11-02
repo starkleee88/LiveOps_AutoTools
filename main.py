@@ -730,25 +730,19 @@ def tao_data_cho_file_shop_item(data):
     leg = data['PrevLegId']       
     epic = data['LatestEpicId']   
     epic1 = data['PrevEpic1']     
-    epic2 = data['PrevEpic2']     
     
     # Xây dựng danh sách free_items động
-    epic1_lim = '4' if not epic2.strip() else '2'
     raw_free_items = [
         ('10', '1120016', '1', '300', 'StoreDiscount_Label_Hot', 'Super Encrypted Token'),
         ('1', ally_frag_id, '10', '2200', 'StoreDiscount_Label_Hot', f"Legendary Fragment - {data['HeroName']}"),
         ('1', leg, '10', '2000', 'StoreDiscount_Label_Hot', 'Last Legend'),
-        ('2', epic, '20', '2200', 'StoreDiscount_Label_Hot', 'Latest Epic'),
-        (epic1_lim, epic1, '10', '1000', '', 'Previous Season Epic 1')
+        ('1', epic, '20', '2200', 'StoreDiscount_Label_Hot', 'Latest Epic'),
+        ('3', epic1, '10', '1000', '', 'Previous Season Epic 1')
     ]
-    
-    # Chỉ thêm item Epic 2 nếu biến epic2 không bị để trống
-    if epic2.strip():
-        raw_free_items.append(('2', epic2, '10', '1000', '', 'Previous Season Epic 2'))
         
     raw_free_items.extend([
-        ('5', '1120015', '1', '150', '', 'Encrypted Token'),
-        ('3', '1120015', '5', '750', '', 'Encrypted Token'),
+        ('3', '1120015', '1', '150', '', 'Encrypted Token'),
+        ('1', '1120015', '5', '750', '', 'Encrypted Token'),
         ('2', '1121001', '10', '400', '', 'Inertron Fragment'),
         ('2', '1121002', '10', '800', '', 'Inertronite'),
         ('1', '1121003', '10', '1300', '', 'Inertron Alloy - Uni'),
@@ -763,13 +757,13 @@ def tao_data_cho_file_shop_item(data):
     
     raw_paid_items = [
         ('5', '1120016', '3', '60', 'StoreDiscount_Label_Hot', 'Super Encrypted Token'),
-        ('5', '1120015', '8', '60', 'StoreDiscount_Label_Hot', 'Encrypted Token'),
-        ('5', ally_frag_id, '5', '100', 'StoreDiscount_Label_Hot', f"Legendary Fragment - {data['HeroName']}"),
+        ('2', '1120015', '8', '60', 'StoreDiscount_Label_Hot', 'Encrypted Token'),
+        ('4', ally_frag_id, '5', '100', 'StoreDiscount_Label_Hot', f"Legendary Fragment - {data['HeroName']}"),
         ('3', ally_frag_id, '10', '200', 'StoreDiscount_Label_Hot', f"Legendary Fragment - {data['HeroName']}"),
-        ('5', leg, '5', '100', 'StoreDiscount_Label_Hot', 'Last Legend'),
+        ('4', leg, '5', '100', 'StoreDiscount_Label_Hot', 'Last Legend'),
         ('3', leg, '10', '200', 'StoreDiscount_Label_Hot', 'Last Legend'),
-        ('5', epic, '7', '50', '', 'Latest Epic'),
-        ('3', epic, '18', '125', '', 'Latest Epic'),
+        ('2', epic, '10', '75', '', 'Latest Epic'),
+        ('1', epic, '20', '150', '', 'Latest Epic'),
         ('5', '1120031', '2', '50', '', 'Universal Fragment'),
         ('5', '1123901', '50', '60', '', 'Basic Energy Cell'),
         ('5', '1123902', '50', '75', '', 'Rare Energy Cell'),
@@ -793,7 +787,7 @@ def tao_data_cho_file_shop_item(data):
     for items, shop_id, cost_id in [(free_items, data['FreeShopID'], tok1), (paid_items, data['PaidShopID'], tok2)]:
         for pos, lim, item, num, price, label, name in items:
             item_id_str = f"{shop_id}{int(pos):02d}01"
-            final_name = "" if name in [str(leg), str(epic), str(epic1), str(epic2)] else f"{name} x {num}"
+            final_name = "" if name in [str(leg), str(epic), str(epic1)] else f"{name} x {num}"
             
             open_level = ""
             if item.startswith("1121"):
@@ -1291,7 +1285,7 @@ def chay_tool_xu_ly():
         input_data = {
             "ActivityMainID": entry_main_id.get(), "HeroName": entry_hero_name.get(), "StartTime": entry_start.get(), "EndTime": entry_end.get(), "GachaJumpId": entry_gacha.get(), "GiftJumpId": entry_gift.get(), "StoreLinkParam": entry_store.get(), "AllyId": entry_ally.get(), 
             "BossID": final_boss_id,
-            "RuleBaseID": entry_rule.get(), "Tokens": entry_tokens.get(), "BannerID": entry_banner.get(), "PopUpID": entry_popup.get(), "GachaTypeID": entry_gacha_type.get(), "PayStoreSubID": entry_paystore_sub.get(), "TaskBaseID": entry_task_id.get(), "FreeShopID": entry_free_shop.get(), "PaidShopID": entry_paid_shop.get(), "PrevLegId": entry_prev_leg.get(), "LatestEpicId": entry_latest_epic.get(), "PrevEpic1": entry_epic_1.get(), "PrevEpic2": entry_epic_2.get(), "TrailerActID": entry_trailer_id.get(), "RewardData": reward_data,
+            "RuleBaseID": entry_rule.get(), "Tokens": entry_tokens.get(), "BannerID": entry_banner.get(), "PopUpID": entry_popup.get(), "GachaTypeID": entry_gacha_type.get(), "PayStoreSubID": entry_paystore_sub.get(), "TaskBaseID": entry_task_id.get(), "FreeShopID": entry_free_shop.get(), "PaidShopID": entry_paid_shop.get(), "PrevLegId": entry_prev_leg.get(), "LatestEpicId": entry_latest_epic.get(), "PrevEpic1": entry_epic_1.get(), "TrailerActID": entry_trailer_id.get(), "RewardData": reward_data,
             "SkillMonsterRows": skill_monster_rows,
             "BossSkillStr": boss_skill_str,
             "BossWarningStr": boss_warning_str,
@@ -1510,7 +1504,6 @@ tk.Label(right_col, text="--- TƯỚNG PHỤ TRONG SHOP ---", font=("Arial", 9, 
 entry_prev_leg = tao_o_nhap(right_col, "Last Legend:", "1113134")
 entry_latest_epic = tao_o_nhap(right_col, "Latest Epic:", "1113232") 
 entry_epic_1 = tao_o_nhap(right_col, "Prev Season Epic 1:", "1113214")
-entry_epic_2 = tao_o_nhap(right_col, "Prev Season Epic 2:", "1113217")
 
 btn_run = tk.Button(window, text="🔥 GENERATE DATA", bg="#d9534f", fg="white", font=("Arial", 12, "bold"), command=chay_tool_xu_ly)
 btn_run.pack(pady=10, fill='x', padx=50)
@@ -1545,7 +1538,6 @@ if saved_config:
     restore_val(entry_prev_leg, "PrevLegId")
     restore_val(entry_latest_epic, "LatestEpicId")
     restore_val(entry_epic_1, "PrevEpic1")
-    restore_val(entry_epic_2, "PrevEpic2")
     
     restore_val(entry_target_dir, "TargetDir")
     restore_val(entry_reward_file, "RewardFile")
